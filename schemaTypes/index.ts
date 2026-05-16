@@ -1,4 +1,6 @@
 // ─── Reusable objects ─────────────────────────────────────────────────
+import {blogAuthor} from './objects/blogAuthor'
+import {blogBody} from './objects/blogBody'
 import {ctaAction} from './objects/ctaAction'
 import {imageWithLocalizedAlt} from './objects/imageWithLocalizedAlt'
 import {localizedString} from './objects/localizedString'
@@ -9,12 +11,15 @@ import {outcomeResultItem} from './objects/outcomeResultItem'
 import {richTextSimple} from './objects/richTextSimple'
 import {seoFields} from './objects/seoFields'
 
-// ─── Embedded blocks (used inside document.sections[]) ────────────────
+// ─── Embedded blocks (used inside document.sections[] or blogBody) ────
 import {auditBlock} from './blocks/auditBlock'
 import {beforeAfterBlock} from './blocks/beforeAfterBlock'
+import {blogImage} from './blocks/blogImage'
+import {blogTable} from './blocks/blogTable'
 import {caseBlock} from './blocks/caseBlock'
 import {comparisonBlock} from './blocks/comparisonBlock'
 import {ctaBlock} from './blocks/ctaBlock'
+import {ctaCallout} from './blocks/ctaCallout'
 import {faqBlock} from './blocks/faqBlock'
 import {imageTextBlock} from './blocks/imageTextBlock'
 import {mediaGalleryBlock} from './blocks/mediaGalleryBlock'
@@ -26,6 +31,7 @@ import {richTextBlock} from './blocks/richTextBlock'
 import {servicesBlock} from './blocks/servicesBlock'
 import {statsBlock} from './blocks/statsBlock'
 import {testimonialBlock} from './blocks/testimonialBlock'
+import {tldrBox} from './blocks/tldrBox'
 
 // ─── Top-level documents ──────────────────────────────────────────────
 import {blogPost} from './documents/blogPost'
@@ -43,8 +49,16 @@ export const schemaTypes = [
   richTextSimple,
   mediaGalleryImageItem,
   outcomeResultItem,
+  blogAuthor,
+  // Blog body PT type — must register AFTER blog blocks since it references them
+  // (order doesn't strictly matter at runtime, but keeps the dep graph readable).
+  tldrBox,
+  ctaCallout,
+  blogTable,
+  blogImage,
+  blogBody,
 
-  // Embedded blocks
+  // Embedded blocks (industry/case sections)
   imageTextBlock,
   statsBlock,
   faqBlock,
