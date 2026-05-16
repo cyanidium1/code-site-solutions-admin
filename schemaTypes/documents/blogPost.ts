@@ -30,7 +30,7 @@ export const blogPost = defineType({
     }),
     defineField({
       name: 'slug',
-      title: 'Slug',
+      title: 'Slug (UK)',
       type: 'slug',
       group: 'basic',
       options: {
@@ -38,6 +38,24 @@ export const blogPost = defineType({
         maxLength: 96,
       },
       validation: (rule) => rule.required(),
+    }),
+    defineField({
+      name: 'titleEn',
+      title: 'Title (EN)',
+      type: 'string',
+      group: 'basic',
+      description: 'Sprint 2BC: EN translation. Leave empty to hide from /en/blog.',
+    }),
+    defineField({
+      name: 'slugEn',
+      title: 'Slug (EN)',
+      type: 'slug',
+      group: 'basic',
+      options: {
+        source: 'titleEn',
+        maxLength: 96,
+      },
+      description: 'Separate from the UK slug — different URLs per locale.',
     }),
     defineField({
       name: 'status',
@@ -106,14 +124,27 @@ export const blogPost = defineType({
     /* ─── Content ──────────────────────────────────────────────────────── */
     defineField({
       name: 'eyebrow',
-      title: 'Eyebrow (під hero)',
+      title: 'Eyebrow (UK, під hero)',
       type: 'string',
       group: 'content',
       description: 'Напр. "Бюджет · 9 хвилин читання"',
     }),
     defineField({
+      name: 'eyebrowEn',
+      title: 'Eyebrow (EN)',
+      type: 'string',
+      group: 'content',
+    }),
+    defineField({
       name: 'lede',
-      title: 'Lede (1-2 речення)',
+      title: 'Lede (UK, 1-2 речення)',
+      type: 'text',
+      group: 'content',
+      rows: 3,
+    }),
+    defineField({
+      name: 'ledeEn',
+      title: 'Lede (EN, 1-2 sentences)',
       type: 'text',
       group: 'content',
       rows: 3,
@@ -134,20 +165,31 @@ export const blogPost = defineType({
         }),
         defineField({
           name: 'alt',
-          title: 'Alt-текст',
+          title: 'Alt-текст (UK)',
+          type: 'string',
+        }),
+        defineField({
+          name: 'altEn',
+          title: 'Alt text (EN)',
           type: 'string',
         }),
       ],
     }),
     defineField({
       name: 'body',
-      title: 'Текст статті',
+      title: 'Текст статті (UK)',
+      type: 'blogBody',
+      group: 'content',
+    }),
+    defineField({
+      name: 'bodyEn',
+      title: 'Body (EN)',
       type: 'blogBody',
       group: 'content',
     }),
     defineField({
       name: 'faq',
-      title: 'FAQ',
+      title: 'FAQ (UK)',
       type: 'array',
       group: 'content',
       of: [
@@ -178,11 +220,42 @@ export const blogPost = defineType({
         }),
       ],
     }),
+    defineField({
+      name: 'faqEn',
+      title: 'FAQ (EN)',
+      type: 'array',
+      group: 'content',
+      of: [
+        defineArrayMember({
+          type: 'object',
+          name: 'blogFaqItemEn',
+          fields: [
+            defineField({
+              name: 'question',
+              title: 'Question',
+              type: 'string',
+            }),
+            defineField({
+              name: 'answer',
+              title: 'Answer',
+              type: 'text',
+              rows: 4,
+            }),
+          ],
+          preview: {
+            select: {question: 'question'},
+            prepare({question}) {
+              return {title: question || 'Question'}
+            },
+          },
+        }),
+      ],
+    }),
 
     /* ─── SEO ──────────────────────────────────────────────────────────── */
     defineField({
       name: 'metaTitle',
-      title: 'Meta title (SEO)',
+      title: 'Meta title (UK)',
       type: 'string',
       group: 'seo',
       validation: (rule) =>
@@ -195,8 +268,14 @@ export const blogPost = defineType({
         }),
     }),
     defineField({
+      name: 'metaTitleEn',
+      title: 'Meta title (EN)',
+      type: 'string',
+      group: 'seo',
+    }),
+    defineField({
       name: 'metaDescription',
-      title: 'Meta description (SEO)',
+      title: 'Meta description (UK)',
       type: 'text',
       group: 'seo',
       rows: 3,
@@ -208,6 +287,13 @@ export const blogPost = defineType({
           }
           return true
         }),
+    }),
+    defineField({
+      name: 'metaDescriptionEn',
+      title: 'Meta description (EN)',
+      type: 'text',
+      group: 'seo',
+      rows: 3,
     }),
     defineField({
       name: 'ogImage',
