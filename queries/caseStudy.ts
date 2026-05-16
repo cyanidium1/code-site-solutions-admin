@@ -1,0 +1,62 @@
+import {
+  BLOG_POST_REF,
+  IMAGE_WITH_ALT,
+  LOCALIZED_STRING,
+  LOCALIZED_TEXT,
+  METRIC,
+  SEO_FIELDS,
+} from './fragments'
+
+/** Lightweight projection used by /portfolio listings + sitemap. */
+export const CASE_STUDIES_QUERY = /* groq */ `
+*[_type == "caseStudy" && status == "published" && defined(slug.current)]{
+  _id,
+  "slug": slug.current,
+  title ${LOCALIZED_STRING},
+  client,
+  region ${LOCALIZED_STRING},
+  year,
+  "industrySlug": industry->slug.current,
+  "coverImage": coverImage ${IMAGE_WITH_ALT},
+  status,
+  featured,
+  metricsLine ${LOCALIZED_STRING},
+  hero{
+    metrics[] ${METRIC}
+  }
+} | order(featured desc, year desc, _createdAt desc)
+`
+
+/** Full case-study payload. Parameter: $slug. */
+export const CASE_STUDY_BY_SLUG_QUERY = /* groq */ `
+*[_type == "caseStudy" && status == "published" && slug.current == $slug][0]{
+  _id,
+  "slug": slug.current,
+  title ${LOCALIZED_STRING},
+  client,
+  "industry": industry->{ _id, "slug": slug.current, title ${LOCALIZED_STRING} },
+  region ${LOCALIZED_STRING},
+  year,
+  date,
+  duration ${LOCALIZED_STRING},
+  budget,
+  stack,
+  metricsLine ${LOCALIZED_STRING},
+  youtubeId,
+  "coverImage": coverImage ${IMAGE_WITH_ALT},
+  seo ${SEO_FIELDS},
+  hero{
+    eyebrow ${LOCALIZED_STRING},
+    heading ${LOCALIZED_TEXT},
+    subheading ${LOCALIZED_TEXT},
+    metrics[] ${METRIC}
+  },
+  sections[]{
+    _type,
+    _key,
+    ...
+  },
+  "relatedPosts": relatedPosts[]->${BLOG_POST_REF},
+  featured
+}
+`
