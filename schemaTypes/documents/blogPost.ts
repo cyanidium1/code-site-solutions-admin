@@ -121,10 +121,17 @@ export const blogPost = defineType({
     defineField({
       name: 'coverImage',
       title: 'Обкладинка',
-      type: 'image',
+      type: 'object',
       group: 'content',
-      options: {hotspot: true},
+      description:
+        'Шлях під /public у frontend-репо (напр. /blog/cover-*.webp) + alt. ' +
+        'Зберігаємо як рядок, а не Sanity-asset, бо ці обкладинки кладуться в репо.',
       fields: [
+        defineField({
+          name: 'src',
+          title: 'Шлях (напр. /blog/cover-skilky-koshtuye.webp)',
+          type: 'string',
+        }),
         defineField({
           name: 'alt',
           title: 'Alt-текст',

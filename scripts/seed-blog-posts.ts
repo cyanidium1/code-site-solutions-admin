@@ -1164,6 +1164,25 @@ function makeFaq(items: FaqEntry[]) {
   }))
 }
 
+type Cover = {src: string; alt: string}
+
+const COVER_SKILKY: Cover = {
+  src: '/blog/cover-skilky-koshtuye.webp',
+  alt:
+    'Графік цін: Landing $1,000 / Industry Pro $3,500 / Pro Plus $7,500 / Custom $14,000+',
+}
+
+const COVER_TILDA: Cover = {
+  src: '/blog/cover-tilda-7200.webp',
+  alt:
+    'Графік кумулятивних витрат: Tilda дорожчає до $7,200 за 36 місяців проти разової покупки custom-коду $3,500',
+}
+
+const COVER_DOHOVIR: Cover = {
+  src: '/blog/cover-dohovir-7-punktiv.webp',
+  alt: 'Чек-ліст із 7 пунктів договору з веб-студією',
+}
+
 const documents = [
   {
     _id: 'blogPost.skilky-koshtuye-sayt-2026',
@@ -1177,6 +1196,7 @@ const documents = [
     updatedAt: NOW,
     readingTimeMinutes: 9,
     author: AUTHOR,
+    coverImage: COVER_SKILKY,
     eyebrow: 'Бюджет · 9 хвилин читання',
     lede: 'За 3 роки ми зробили 47 сайтів у 4 країнах. Тут — реальні цифри з кошторисів, з якими стикається власник малого і середнього бізнесу в 2026 році. Без «під запит». Без «це залежить». Конкретні діапазони, з розбивкою на статті витрат.',
     metaTitle:
@@ -1202,6 +1222,7 @@ const documents = [
     updatedAt: NOW,
     readingTimeMinutes: 8,
     author: AUTHOR,
+    coverImage: COVER_TILDA,
     eyebrow: 'Платформи · 8 хвилин читання',
     lede: 'Конструктор виглядає дешевше, поки ви не додасте 36 місяців підписки і ціну переїзду. З 12 наших клієнтів, які мігрували з Tilda на Next.js, **жоден** не повернувся назад. Ось чому.',
     metaTitle:
@@ -1227,6 +1248,7 @@ const documents = [
     updatedAt: NOW,
     readingTimeMinutes: 10,
     author: AUTHOR,
+    coverImage: COVER_DOHOVIR,
     eyebrow: 'Юридичне · 10 хвилин читання',
     lede: 'За 3 роки ми бачили 30+ договорів від інших студій, які приносили клієнти на ревью. У більшості з них одна або кілька пасток, які власник бізнесу не помічає до моменту проблеми. Ось 7 пунктів, які варто перевірити **до** того, як ви перерахуєте першу частину.',
     metaTitle:
