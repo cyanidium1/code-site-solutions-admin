@@ -1151,6 +1151,329 @@ const article3Faq = [
   },
 ]
 
+/* ─── Article 1 EN body (Sprint 2BC) ────────────────────────────────────── */
+
+function article1BodyEn(): BodyBlock[] {
+  const kg = new KeyGen('a1en')
+  return [
+    tldr(kg, 'Quick numbers:', [
+      '**Landing page:** $1,000–$2,500 (1-2 weeks)',
+      '**Industry business site:** $3,500–$7,500 (4-10 weeks)',
+      '**E-commerce:** $5,000–$10,000 (6-10 weeks)',
+      '**Custom product (SaaS, B2B portal):** $14,000+ (8-16 weeks)',
+      '**WordPress + plugins, real cost over 3 years:** $4,200–$6,800',
+      '**Page builder over 3 years:** $720–$7,200 in subscriptions',
+    ]),
+
+    h2(kg, '4 factors that actually shape the price'),
+    p(
+      kg,
+      'A business owner Googles "how much does a website cost." They get 200 studios and 200 prices that differ by 30×. The reason is simple — none of those vendors were taught to break a quote into line items. Everyone gives one number and asks you to send a spec.',
+    ),
+    p(kg, 'The actual cost comes from four things:'),
+    numbered(
+      kg,
+      strong('How many pages'),
+      ' and how custom each one is. 5 simple pages ≠ 5 custom ones with calculators.',
+    ),
+    numbered(
+      kg,
+      strong('How many integrations.'),
+      ' Helsi, AmoCRM, Stripe, e-signature, Telegram bridge — each is 4-12 hours of work plus testing.',
+    ),
+    numbered(
+      kg,
+      strong('Who writes the content.'),
+      " If the client does — we save $1,500-$2,500 on a copywriter. If we do — that's an added line.",
+    ),
+    numbered(
+      kg,
+      strong('How many languages.'),
+      ' Each language doubles the SEO structure + CMS config + adds 15-25% to scope.',
+    ),
+    p(
+      kg,
+      'Design matters less than people think. Design complexity shifts the price by 0-40%, not by multiples. Most of the tier is engineering and integrations.',
+    ),
+
+    h2(kg, 'What "on request" hides in a quote'),
+    p(
+      kg,
+      'Of our 47 clients, ',
+      strong('40'),
+      ' came to us after another studio refused to give a number. The standard script: "send a detailed spec and we\'ll quote it." In practice, that means one of two things:',
+    ),
+    bullet(kg, "The studio doesn't know their real cost and is afraid of being wrong"),
+    bullet(
+      kg,
+      'The studio knows the bill is large and wants to lock you into a discovery call first',
+    ),
+    p(
+      kg,
+      'Either way, you lose. Time spent on briefs and discovery without a number means 2-3 weeks of effective standstill.',
+    ),
+    p(
+      kg,
+      'If you want a price range for your project in 60 seconds, no email or signup — we have a ',
+      link('calculator', '/en/calculator'),
+      ". It doesn't replace a brief, but it gives an honest range.",
+    ),
+
+    h2(kg, 'Industry Pro ($3,500) — line by line'),
+    p(
+      kg,
+      'This is our most-picked tier. Covers clinics, law firms, accounting offices, renovation companies — anyone who needs an industry-specific site with 2-3 integrations and compliance requirements.',
+    ),
+    table(
+      kg,
+      ['Line item', 'Cost', 'Days'],
+      [
+        ['Copywriting (10 pages + 2 SEO articles)', '$400', '3'],
+        ['Design (Figma, 2 revision rounds)', '$700', '4-5'],
+        ['Frontend (Next.js, responsive, animations)', '$1,200', '6-8'],
+        ['Backend / API / integrations', '$600', '4'],
+        ['Sanity CMS + onboarding', '$250', '2'],
+        ['QA (60-point checklist)', '$150', '1'],
+        ['Launch + domain + analytics', '$100', '0.5'],
+        ['Year of support (reserved)', '$100', '—'],
+        ['**Total**', '**$3,500**', '20-24'],
+      ],
+    ),
+    p(
+      kg,
+      "What's missing from this list — but often appears at competitors — are separate lines for \"content strategy,\" \"UX research,\" \"team comms.\" With us, that's bundled into design and copywriting, not invoiced separately.",
+    ),
+
+    cta(kg, {
+      eyebrow: 'Calculator',
+      heading: "Here's exactly what yours costs.",
+      sub: 'Run the calculator and get a price range for your project in 60 seconds. No sales call. No email list.',
+      ctaLabel: 'Calculate price',
+      ctaHref: '/en/calculator',
+    }),
+
+    h2(kg, 'What WordPress really costs over 3 years'),
+    p(
+      kg,
+      'Of our 47 clients, 14 came from a WordPress site that needed a rebuild. In 12 of those 14, total WordPress spend over the previous 2-3 years exceeded the price of a new custom site:',
+    ),
+    bullet(
+      kg,
+      strong('18 paid plugins'),
+      ' (our average sample) — $300-$800/year',
+    ),
+    bullet(
+      kg,
+      strong('Developer support'),
+      ' (fixes after plugin updates) — $400-$800/year',
+    ),
+    bullet(kg, strong('Hosting + SSL'), ' — $120-$300/year'),
+    bullet(kg, strong('Theme + license'), ' — $60-$200/year'),
+    bullet(kg, strong('Backup + security plugins'), ' — $100-$200/year'),
+    p(
+      kg,
+      'Total over 3 years: ',
+      strong('$2,940-$6,300'),
+      " — not counting the owner's hours spent on \"figuring out why the Yoast plugin broke the services page after the last update.\"",
+    ),
+    p(
+      kg,
+      'Custom site on Next.js — ',
+      strong('one payment'),
+      ' ($3,500) and ',
+      strong('$0/mo'),
+      ' after launch. We break this down in detail on ',
+      link('vs WordPress', '/en/vs-wordpress'),
+      '.',
+    ),
+
+    h2(kg, 'How integrations get counted (the formula)'),
+    p(
+      kg,
+      'This is the most common quote-surprise source. Our formula is simple:',
+    ),
+    bullet(
+      kg,
+      strong('Basic REST integration'),
+      ' (form → Telegram, form → email): $150',
+    ),
+    bullet(
+      kg,
+      strong('CRM integration'),
+      ' (Bitrix24, AmoCRM, HubSpot, Pipedrive, KeyCRM): $500',
+    ),
+    bullet(
+      kg,
+      strong('Industry-specific system'),
+      ' (Helsi, Clio, MEDoc — UA), or EU equivalents: $500-$1,200 depending on API',
+    ),
+    bullet(
+      kg,
+      strong('Payment gateway'),
+      ' (Stripe, LiqPay, WayForPay): $900',
+    ),
+    bullet(
+      kg,
+      strong('Booking system'),
+      ' (Calendly, YClients, Booksy): $600',
+    ),
+    bullet(
+      kg,
+      strong('ERP system'),
+      ' (Odoo, SAP B1, 1C/BAS): $1,200-$2,500',
+    ),
+    p(
+      kg,
+      'All of this is in the ',
+      link('calculator', '/en/calculator'),
+      ' as separate checkboxes.',
+    ),
+
+    h2(kg, 'Real example: Efedra Clinic, Odesa'),
+    p(kg, 'Base tier Industry Pro $3,500. What went into the project:'),
+    bullet(
+      kg,
+      '12 pages (home, dental services, aesthetic services, doctors, prices, contact, FAQ, blog, promotions, cases, about, booking)',
+    ),
+    bullet(kg, 'Integration with Helsi (online booking) — $500'),
+    bullet(kg, 'UA/RU bilingual — +15% on base price (~$525)'),
+    bullet(
+      kg,
+      '2 service lines (dental + aesthetics) under one brand — without doubling the design cost',
+    ),
+    bullet(
+      kg,
+      'Compliance with the Ukrainian Ministry of Health (legal-correct pricing and licensing)',
+    ),
+    p(
+      kg,
+      'Final price: ',
+      strong('$4,525'),
+      ', timeline 4 weeks. Result after 6 months — 3.2× more inquiries, 4× more organic traffic from Google.',
+    ),
+
+    h2(kg, 'When the price goes over $14,000'),
+    p(kg, "If you're planning a project with:"),
+    bullet(kg, 'User accounts with roles (more than 2)'),
+    bullet(kg, 'Complex payment flow (subscriptions, upsells, referrals)'),
+    bullet(kg, 'SaaS logic (multi-tenancy, billing)'),
+    bullet(kg, '4+ languages'),
+    bullet(kg, '24/7 SLA support'),
+    p(
+      kg,
+      "— that's Custom tier from $14,000. Not because \"the studio is profiteering,\" but because that's 8-16 weeks of work for 5-7 people with QA, DevOps, and an architect. That kind of project has different economics.",
+    ),
+
+    cta(kg, {
+      eyebrow: 'Calculator',
+      heading: 'Want a number for your project?',
+      sub: '60-second calculator: project type, page count, languages, integrations — get a price range with a breakdown. No email. No sales call.',
+      ctaLabel: 'Try the calculator',
+      ctaHref: '/en/calculator',
+    }),
+
+    h2(kg, 'How to verify your quote is honest'),
+    p(kg, '5 questions to ask any studio before signing:'),
+    numbered(
+      kg,
+      strong('Is the price fixed in the contract?'),
+      ' If "approximate" or "depending on" — it\'s not a quote, it\'s marketing.',
+    ),
+    numbered(
+      kg,
+      strong('Is one year of support in the price?'),
+      ' At 80% of studios — no. With us — yes.',
+    ),
+    numbered(
+      kg,
+      strong('Is the work broken down by line item?'),
+      ' If you only see "development $X" — half the work can vanish along the way.',
+    ),
+    numbered(
+      kg,
+      strong('Is there a rebate clause for missed deadlines?'),
+      ' Without a rebate, a deadline is a guideline, not a commitment.',
+    ),
+    numbered(
+      kg,
+      strong('Who writes the content?'),
+      " That's a separate $200-$2,000. Has to be agreed upfront.",
+    ),
+    p(
+      kg,
+      'We cover these in detail in ',
+      link(
+        'Web studio contract: 7 things to check before paying',
+        '/en/blog/web-studio-contract-7-items',
+      ),
+      '.',
+    ),
+
+    h2(kg, 'Why we quote a fixed price, not "on request"'),
+    p(kg, 'Two reasons:'),
+    numbered(
+      kg,
+      strong('Respect for your time.'),
+      " A business owner shouldn't spend 3 hours on a consult to find out they can't afford a tier.",
+    ),
+    numbered(
+      kg,
+      strong('Discipline for us.'),
+      " If we can't put a number on the brief within 30 minutes, we don't fully understand the project yet — and that's a risk.",
+    ),
+    p(
+      kg,
+      'In 47 projects over 3 years, ',
+      strong("we haven't missed the price range"),
+      " on a single one. Not because we're geniuses — because we've seen 47 similar projects and know what really goes into what.",
+    ),
+    p(
+      kg,
+      'If your project looks like something in our ',
+      link('portfolio', '/en/portfolio'),
+      "'ll give you a price range on the 30-min call. If it's non-standard — we'll still give you one, but with a wider band.",
+    ),
+
+    cta(kg, {
+      eyebrow: 'Discuss',
+      heading: 'Want to discuss your project?',
+      sub: "Free 30-min consult. We'll quote you on the call and honestly say whether we're a fit.",
+      ctaLabel: 'Book a call',
+      ctaHref: '/en/contacts',
+      ctaSecondaryLabel: 'Or write on Telegram',
+      ctaSecondaryHref: 'https://t.me/fedirdev',
+    }),
+  ]
+}
+
+const article1FaqEn = [
+  {
+    question: 'How much does a website cost for a small business?',
+    answer:
+      'In 2026, the real range is $1,000 for a landing page up to $14,000+ for a custom product. Most SMBs land in the Industry Pro tier at $3,500 (full site with CMS, integrations, and compliance).',
+  },
+  {
+    question: 'Why does one studio quote $500 and another $5,000 for "the same" site?',
+    answer:
+      '"The same" usually isn\'t. The difference hides in page count, integrations, team competence, warranties, and whether one year of support is in the price. If the quote looks suspiciously low — half the work usually isn\'t included.',
+  },
+  {
+    question: 'How much does a landing page cost in 2026?',
+    answer:
+      "$1,000–$2,500 in our range. Cheaper means template on a builder (with all the trade-offs). More expensive isn't a landing page — it's a multi-page site.",
+  },
+  {
+    question: 'How much does e-commerce cost?',
+    answer:
+      '$5,000–$10,000 for a catalog up to 200 SKU with payments and shipping. If you need multi-vendor, complex discount logic, or a B2B portal — that\'s Custom tier from $14,000.',
+  },
+  {
+    question: 'Is hosting included in the price?',
+    answer:
+      'We set it up on your Vercel or Cloudflare account. Year one is effectively free (free tier covers most small sites). After that, $20-$50/mo depending on traffic.',
+  },
+]
+
 /* ─── Documents ─────────────────────────────────────────────────────────── */
 
 type FaqEntry = {question: string; answer: string}
@@ -1164,6 +1487,15 @@ function makeFaq(items: FaqEntry[]) {
   }))
 }
 
+function makeFaqEn(items: FaqEntry[]) {
+  return items.map((item, i) => ({
+    _key: `faq-en-${i + 1}`,
+    _type: 'blogFaqItemEn',
+    question: item.question,
+    answer: item.answer,
+  }))
+}
+
 type Cover = {src: string; alt: string}
 
 const COVER_SKILKY: Cover = {
@@ -1171,6 +1503,9 @@ const COVER_SKILKY: Cover = {
   alt:
     'Графік цін: Landing $1,000 / Industry Pro $3,500 / Pro Plus $7,500 / Custom $14,000+',
 }
+
+const COVER_SKILKY_ALT_EN =
+  'Pricing chart: Landing $1,000 / Industry Pro $3,500 / Pro Plus $7,500 / Custom $14,000+'
 
 const COVER_TILDA: Cover = {
   src: '/blog/cover-tilda-7200.webp',
@@ -1189,6 +1524,9 @@ const documents = [
     _type: 'blogPost',
     title: 'Скільки коштує сайт у 2026: розбір 47 реальних кошторисів',
     slug: {_type: 'slug', current: 'skilky-koshtuye-sayt-2026'},
+    titleEn:
+      'How much does a website cost in 2026: a breakdown of 47 real quotes',
+    slugEn: {_type: 'slug', current: 'website-cost-2026-breakdown'},
     status: 'published',
     category: 'Бюджет',
     tags: ['ціни', 'бюджет', 'розробка', 'вартість'],
@@ -1196,15 +1534,28 @@ const documents = [
     updatedAt: NOW,
     readingTimeMinutes: 9,
     author: AUTHOR,
-    coverImage: COVER_SKILKY,
+    coverImage: {
+      src: COVER_SKILKY.src,
+      alt: COVER_SKILKY.alt,
+      altEn: COVER_SKILKY_ALT_EN,
+    },
     eyebrow: 'Бюджет · 9 хвилин читання',
+    eyebrowEn: 'Budget · 9 min read',
     lede: 'За 3 роки ми зробили 47 сайтів у 4 країнах. Тут — реальні цифри з кошторисів, з якими стикається власник малого і середнього бізнесу в 2026 році. Без «під запит». Без «це залежить». Конкретні діапазони, з розбивкою на статті витрат.',
+    ledeEn:
+      "Over 3 years we've shipped 47 websites across 4 regions. Here are the actual numbers from those quotes — what a small or mid-size business owner pays in 2026. No \"on request.\" No \"it depends.\" Real ranges, broken down by line item.",
     metaTitle:
       'Скільки коштує сайт у 2026 — розбір 47 кошторисів | Code-Site.Art',
+    metaTitleEn:
+      'Website cost in 2026 — breakdown of 47 quotes | Code-Site.Art',
     metaDescription:
       'Реальні цифри з 47 проєктів за 3 роки. Скільки коштує лендинг, корпоративний сайт, інтернет-магазин у 2026. З розбивкою по статтях витрат.',
+    metaDescriptionEn:
+      'Real numbers from 47 projects across 3 years. What a landing page, business site, e-commerce, and custom build cost in 2026. With a line-by-line breakdown.',
     body: article1Body(),
+    bodyEn: article1BodyEn(),
     faq: makeFaq(article1Faq),
+    faqEn: makeFaqEn(article1FaqEn),
     relatedPostSlugs: [
       'tilda-7200-za-3-roky',
       'dohovir-z-veb-studieyu-7-punktiv',
