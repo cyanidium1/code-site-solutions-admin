@@ -20,13 +20,23 @@ export const BLOG_POST_BY_SLUG_QUERY = /* groq */ `
 *[_type == "blogPost" && status == "published" && slug.current == $slug][0]{
   _id,
   "slug": slug.current,
-  title ${LOCALIZED_STRING},
+  "slugEn": slugEn.current,
+  title,
+  titleEn,
   publishedAt,
-  excerpt ${LOCALIZED_TEXT},
-  "coverImage": coverImage ${IMAGE_WITH_ALT},
+  lede,
+  ledeEn,
+  coverImage{ src, alt, altEn },
   body,
-  seo ${SEO_FIELDS},
+  bodyEn,
+  faq[]{ _key, question, answer },
+  faqEn[]{ _key, question, answer },
+  metaTitle,
+  metaTitleEn,
+  metaDescription,
+  metaDescriptionEn,
   "relatedCases": relatedCases[]->${CASE_STUDY_REF},
-  "relatedIndustries": relatedIndustries[]->${INDUSTRY_PAGE_REF}
+  "relatedIndustries": relatedIndustries[]->${INDUSTRY_PAGE_REF},
+  relatedPostSlugs
 }
 `

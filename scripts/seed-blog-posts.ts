@@ -1446,6 +1446,605 @@ function article1BodyEn(): BodyBlock[] {
   ]
 }
 
+/* ─── Article 2 — EN ────────────────────────────────────────────────────── */
+
+function article2BodyEn(): BodyBlock[] {
+  const kg = new KeyGen('a2en')
+  return [
+    tldr(kg, 'Quick numbers:', [
+      'Tilda Business: $20/mo. Over 3 years: **$720**.',
+      'Tilda Personal + add-ons (forms, domain, SEO): **$50/mo** × 36 = **$1,800**.',
+      'Tilda Business Pro + integrations + plugins: **$200/mo** × 36 = **$7,200**.',
+      'Custom site on Next.js: **$3,500** once. Hosting: $0-50/mo.',
+      "**After 3 years:** you've paid the same for the builder — and you own nothing. The code stays with Tilda.",
+      '**Export:** Tilda gives you static HTML without form backends. That\'s not "your site."',
+    ]),
+
+    h2(kg, 'How we got to $7,200'),
+    p(
+      kg,
+      "This isn't theoretical from Tilda's marketing page. It's what our clients actually paid before they came to us. We pulled ",
+      strong('12 invoices'),
+      ' from companies running 50-300 leads/month who used Tilda for 2-3 years.',
+    ),
+    p(
+      kg,
+      'The real business stack on Tilda — not "Personal at $10/mo," but ',
+      strong('Tilda Business + Tilda Pro + add-ons:'),
+    ),
+    bullet(kg, 'Tilda Business: $20/mo (your domain, no block limits)'),
+    bullet(
+      kg,
+      'Pro blocks (forms with validation, multi-step): included in Pro at $30/mo',
+    ),
+    bullet(
+      kg,
+      'Zapier integrations (Tilda is narrow natively): Zapier from $30/mo',
+    ),
+    bullet(kg, 'Analytics + GTM setup: ~$0 (manual)'),
+    bullet(kg, 'Paid templates/blocks from Tilda Market: $50-$200 one-time'),
+    bullet(kg, 'SSL + CDN speed: included'),
+    bullet(
+      kg,
+      strong('Technical consultant'),
+      ' (because something always breaks): $50-$100/mo',
+    ),
+    p(kg, strong('Average across 12 quotes: $180-$220/mo.'), " Let's say $200/mo."),
+    p(
+      kg,
+      'Over 36 months that\'s ',
+      strong('$7,200'),
+      '. For that money you could have bought a custom site ',
+      strong('twice'),
+      ', with budget left over for a year of support.',
+    ),
+
+    h2(kg, 'What $7,200 actually buys you'),
+    p(kg, 'A template site with limited customization that:'),
+    bullet(kg, 'Loads in 2-4 seconds on mobile (custom — 0.6-1.5)'),
+    bullet(
+      kg,
+      "Depends on Tilda's platform — if it goes down, your site disappears",
+    ),
+    bullet(
+      kg,
+      'Has limited SEO (full schema.org control, server-side rendering, programmatic SEO — unavailable)',
+    ),
+    bullet(kg, 'Has no "your code" — export gives static HTML without server logic'),
+    bullet(kg, "Can't change URL structure without losing SEO"),
+    p(kg, "This isn't a critique of Tilda as a tool. Tilda is ", strong('great'), ' for:'),
+    bullet(kg, 'Personal pages'),
+    bullet(kg, 'Promo pages for one campaign'),
+    bullet(kg, 'Hypothesis testing on a 1-3 month horizon'),
+    bullet(kg, 'MVPs before serious investment'),
+    p(kg, 'Tilda is ', strong('bad'), ' for:'),
+    bullet(kg, 'Businesses planning to operate beyond 2 years'),
+    bullet(kg, 'Sites with complex integrations (CRM, ERP, healthcare systems)'),
+    bullet(kg, 'Projects where SEO is the primary channel'),
+    bullet(kg, 'Multilingual sites with serious SEO'),
+
+    h2(kg, 'What happened to our clients who migrated'),
+    p(kg, 'Of 12 clients who moved from Tilda to custom:'),
+    bullet(
+      kg,
+      strong('9 of 12'),
+      ' — main reason: "can\'t go beyond the template," "need an integration Tilda doesn\'t allow"',
+    ),
+    bullet(
+      kg,
+      strong('2 of 12'),
+      ' — slow mobile speed killed conversion (Google Search Console showed CTR drop after the Core Web Vitals update)',
+    ),
+    bullet(
+      kg,
+      strong('1 of 12'),
+      " — Tilda broke custom JS after an update, and the owner decided they'd had enough",
+    ),
+    p(
+      kg,
+      'Average migration timeline: ',
+      strong('4-6 weeks'),
+      ' with SEO transfer (no traffic loss). Our standard migration runs $500-$2,000 depending on the number of 301 redirects.',
+    ),
+    p(
+      kg,
+      'We break this down on ',
+      link('vs Constructors', '/en/vs-constructors'),
+      '.',
+    ),
+
+    h2(kg, 'Can you export your Tilda site?'),
+    p(
+      kg,
+      'Technically — yes. Tilda Business gives you static HTML export. But it\'s ',
+      strong('not a solution'),
+      ", it's a trap:",
+    ),
+    bullet(kg, 'Export is HTML/CSS/JS only — no form backend'),
+    bullet(kg, 'Forms stop submitting until you wire up your own backend'),
+    bullet(kg, 'Dynamic elements (booking, cart, accounts) — not exported'),
+    bullet(kg, 'If you used Tilda Zero Block — the JS can break post-export'),
+    p(
+      kg,
+      'Of our 12 migrants, ',
+      strong('none'),
+      ' could effectively use the export. They all rebuilt on the new stack.',
+    ),
+
+    h2(kg, "What if I'm on Tilda Personal at $10/mo?"),
+    p(
+      kg,
+      'Different math. $10/mo × 36 = $360 over 3 years. Less than our cheapest Landing tier ($1,000).',
+    ),
+    p(kg, 'Question: is Personal enough for a business?'),
+    p(
+      kg,
+      'Personal is 1 site without your domain (URL looks like ',
+      { em: 'yourbiz.tilda.ws' },
+      "), 500-block limit, no multilingual. A serious business doesn't live there. As soon as you want a custom domain — that's Business $20/mo. As soon as you want real SEO + integrations — Pro $30/mo.",
+    ),
+    p(
+      kg,
+      'The cost for a business setup on Tilda ',
+      strong('always'),
+      ' lands at $40-$80/mo after add-ons, even without the agency tier.',
+    ),
+
+    h2(kg, 'What about Wix? Webflow?'),
+    p(kg, 'Same math with small differences:'),
+    table(
+      kg,
+      ['Platform', 'Business plan', 'Over 36 mo', 'Code export'],
+      [
+        ['Tilda Business + Pro', '$50/mo', '$1,800', 'HTML without backend'],
+        ['Wix Business', '$32/mo', '$1,152', 'No export'],
+        ['Webflow Business', '$39/mo', '$1,404', 'HTML+CSS, no CMS'],
+        ['Squarespace Business', '$33/mo', '$1,188', 'No export'],
+      ],
+    ),
+    p(
+      kg,
+      'All of them — rent, not ownership. Each one costs more over 2-3 years than a one-time custom site purchase in our Industry Pro tier.',
+    ),
+
+    cta(kg, {
+      eyebrow: 'Calculator',
+      heading: 'Want to check what migrating off a builder actually costs?',
+      sub: '60-second calculator + our standard migration with 301 redirects.',
+      ctaLabel: 'Calculate migration',
+      ctaHref: '/en/calculator',
+    }),
+
+    h2(kg, 'When a builder is still the right call'),
+    p(kg, 'Honestly:'),
+    numbered(
+      kg,
+      strong('Demand validation for a new product.'),
+      " If you don't know if the idea will work — Tilda in a week is cheaper than a custom site in a month.",
+    ),
+    numbered(
+      kg,
+      strong('Promo page for one campaign.'),
+      ' If the site lives 3 months and gets thrown away — no point coding.',
+    ),
+    numbered(
+      kg,
+      strong('Personal page or portfolio.'),
+      " If you're a photographer or designer — Tilda is enough.",
+    ),
+    p(kg, 'In every other case, ', strong('the math kills the builder'), '.'),
+
+    h2(kg, 'The hidden cost no one counts'),
+    p(kg, "Beyond money, there's your time:"),
+    bullet(kg, "Fix a form that won't submit — 1-3 hours"),
+    bullet(kg, 'Figure out why SEO tanked after an update — 4-6 hours'),
+    bullet(kg, 'Maintain plugins/blocks after updates — 2-4 hours per quarter'),
+    bullet(kg, 'Find a contractor "who knows Tilda" — 1-2 weeks of searching'),
+    p(
+      kg,
+      "That's ",
+      strong('30-50 hours/year'),
+      " of an owner's time, which averages $50-$150/hour. Add another $1,500-$7,500/year to your Tilda tab.",
+    ),
+    p(
+      kg,
+      "A custom site doesn't demand those hours. We run weekly security checks and updates — included in the warranty year. See ",
+      link('Pricing', '/en/pricing'),
+      '.',
+    ),
+
+    cta(kg, {
+      eyebrow: 'Migration',
+      heading: 'Thinking about moving off Tilda / Wix / Webflow?',
+      sub: "We'll honestly tell you if you need to. If your business is still fine on a builder — we'll say so. If it's time — we'll quote the migration without SEO loss.",
+      ctaLabel: 'Discuss migration',
+      ctaHref: '/en/contacts',
+      ctaSecondaryLabel: 'Or write on Telegram',
+      ctaSecondaryHref: 'https://t.me/fedirdev',
+    }),
+  ]
+}
+
+const article2FaqEn: FaqEntry[] = [
+  {
+    question: 'How much does Tilda actually cost a business?',
+    answer:
+      'Real quote with add-ons and integrations — $50-$200/mo. Over 3 years, $1,800-$7,200 — not counting owner hours spent on maintenance.',
+  },
+  {
+    question: 'Can you export your site from Tilda?',
+    answer:
+      'There is an HTML export, but no form backend, no dynamics. In practice, using the export as "your site" is impossible — you end up rebuilding on a new platform anyway.',
+  },
+  {
+    question: 'Is Tilda really worse for SEO?',
+    answer:
+      'Technically Tilda gives basic SEO (meta, sitemap, schema), but no server-side rendering, no programmatic landing pages, no custom schema.org for complex data types. For serious SEO, those are blockers.',
+  },
+  {
+    question: 'How long does migration from Tilda to Next.js take?',
+    answer:
+      '4-6 weeks for a typical business site. 301 redirects preserve SEO history. Search Console handoff we do alongside the client so positions in Google stay.',
+  },
+  {
+    question: "How do you know Tilda's worse — maybe you're just biased?",
+    answer:
+      "12 of our clients went that route. If any go back to Tilda — we'll write a separate article. None have.",
+  },
+]
+
+/* ─── Article 3 — EN ────────────────────────────────────────────────────── */
+
+function article3BodyEn(): BodyBlock[] {
+  const kg = new KeyGen('a3en')
+  return [
+    tldr(kg, 'Verify your contract includes:', [
+      'Fixed price in the agreed currency',
+      'Fixed deadline with a rebate clause for delays (minimum 10-30%)',
+      'Code and design IP transfer — from the first commit, not "after completion"',
+      "Concrete scope (what's in, what's out) — itemized, not generic",
+      'Number of revision rounds (typically 2 on design)',
+      'Who writes the content — and at whose cost',
+      "Post-launch support — and whether it's included",
+    ]),
+
+    h2(kg, 'Why this matters'),
+    p(
+      kg,
+      "A web project contract isn't a ",
+      strong('letter of intent'),
+      ". It's the legal document you'll point to if something goes wrong. And \"something\" goes wrong in ",
+      strong('40%'),
+      ' of projects by our count — late, off-spec, off-quality. When it does, the business owner needs in writing: what was promised, by when, and what happens if it isn\'t delivered.',
+    ),
+    p(
+      kg,
+      "Of 30 competitor contracts we've reviewed over 3 years, ",
+      strong('24 of 30'),
+      ' had at least one of three critical gaps: vague IP transfer, no rebate clause, or "scope under request" (scope to be determined later).',
+    ),
+    p(kg, "Here's how to avoid that."),
+
+    h2(kg, 'Item 1: Fixed price in the agreed currency'),
+    p(kg, '❌ ', strong('Bad:'), ' "Approximate cost $3,500-$5,000"'),
+    p(
+      kg,
+      '✅ ',
+      strong('Good:'),
+      ' "Total fee is 3,500 USD, fixed, with no additional charges except those listed in Appendix 1"',
+    ),
+    p(
+      kg,
+      'If the contract says "approximate," "around," "depending on" — that\'s not a price. It\'s marketing. You have no legal basis to say "wait, we agreed on $3,500" when the studio invoices $4,800.',
+    ),
+    p(
+      kg,
+      'Pin down ',
+      strong('the currency'),
+      '. If the contract is in UAH and the site costs $3,500 — write in the exchange rate as of the signing date or until payment. Otherwise a 2-month FX shift becomes an unpleasant surprise for both sides.',
+    ),
+
+    h2(kg, 'Item 2: Fixed deadline with a rebate clause'),
+    p(kg, '❌ ', strong('Bad:'), ' "Approximate timeline — 6 weeks"'),
+    p(
+      kg,
+      '✅ ',
+      strong('Good:'),
+      ' "Delivery in 6 weeks from contract signing. If the deadline is missed through the studio\'s fault, the studio pays a 30% rebate from the total project value."',
+    ),
+    p(
+      kg,
+      "The rebate clause isn't decoration. It's ",
+      strong('the only'),
+      ' mechanism that holds the studio to its deadline. Without it, the deadline is a guideline, not a commitment.',
+    ),
+    p(
+      kg,
+      'Market standard for a rebate is ',
+      strong('10-30%'),
+      ". Ours is 30% because we really don't want to pay it. Over 3 years we've paid it ",
+      strong('twice'),
+      ' — both times we wired 30% to the client without being asked.',
+    ),
+    p(
+      kg,
+      '⚠️ ',
+      strong('Fine print:'),
+      ' make sure the rebate applies only to delays caused by the ',
+      strong("studio's"),
+      ' fault. If you as the client sit on content for 3 weeks and miss a deadline — that\'s your delay, not theirs.',
+    ),
+
+    h2(kg, 'Item 3: Code and design IP transfer — from the first commit'),
+    p(
+      kg,
+      '❌ ',
+      strong('Bad:'),
+      ' "All rights to the created code transfer to the Client after full payment"',
+    ),
+    p(
+      kg,
+      '✅ ',
+      strong('Good:'),
+      ' "The studio commits to your GitHub repository from the first commit. All intellectual property rights belong to the Client from the moment of creation."',
+    ),
+    p(
+      kg,
+      'This is the most common trap in contracts from smaller studios and freelancers. "After full payment" looks innocent but creates a legal situation where:',
+    ),
+    bullet(
+      kg,
+      "If you withhold the final payment (say, due to a quality dispute), the code isn't legally yours",
+    ),
+    bullet(kg, "You can't hire another contractor to finish the project"),
+    bullet(
+      kg,
+      'The studio can reuse your code for another client (this actually happens)',
+    ),
+    p(
+      kg,
+      'The right wording: ',
+      strong('code in your GitHub from the first commit'),
+      '. We do this with every client — push to your repo from day one. Everything we write is yours.',
+    ),
+
+    h2(kg, 'Item 4: Concrete scope — itemized'),
+    p(
+      kg,
+      '❌ ',
+      strong('Bad:'),
+      ' "Web development, including design, frontend, and engineering"',
+    ),
+    p(kg, '✅ ', strong('Good:'), ' "Website development in the following scope:'),
+    bullet(kg, '8 pages (listed in Appendix 2)'),
+    bullet(kg, 'Responsive build for 3 screen sizes'),
+    bullet(kg, 'Integration with 2 systems: Helsi and AmoCRM'),
+    bullet(kg, '1 lead form with email notification'),
+    bullet(kg, 'Lighthouse Performance ≥ 90, SEO ≥ 95'),
+    bullet(kg, 'Sanity CMS for self-editing"'),
+    p(
+      kg,
+      "If scope isn't written down — it gets discovered \"along the way.\" In practice that means:",
+    ),
+    bullet(kg, 'Every clarification of yours is "an additional request"'),
+    bullet(
+      kg,
+      'Every "additional request" is a separate fee or a contract amendment',
+    ),
+    bullet(kg, "2 months in, you're paying double for not the site you wanted"),
+    p(
+      kg,
+      'A good contract has ',
+      strong('Appendix 1: Scope'),
+      ' on 1-2 pages with concrete page lists, integrations, features, and quality metrics. Anything not in it is a separate fee, also priced upfront.',
+    ),
+
+    h2(kg, 'Item 5: Revision rounds'),
+    p(
+      kg,
+      '❌ ',
+      strong('Bad:'),
+      ' "The studio makes revisions until the Client approves the result"',
+    ),
+    p(
+      kg,
+      '✅ ',
+      strong('Good:'),
+      ' "The studio provides 2 full revision rounds on design and 2 on frontend after staging URL handover. Each additional round is billed at $40/hour."',
+    ),
+    p(kg, 'Without a revision limit you face risk from both sides:'),
+    bullet(
+      kg,
+      "The studio tries to wrap up faster, ignoring small concerns → you're unhappy with quality",
+    ),
+    bullet(
+      kg,
+      'Or revisions go "forever" and the deadline blows because the project gets sent back 5 times',
+    ),
+    p(
+      kg,
+      '2 rounds is standard. Round 1: you give all your feedback in one list, the studio fixes it. Round 2: you give last small notes. More than that — separate billing.',
+    ),
+    p(
+      kg,
+      'We use exactly this model — details on ',
+      link('Process', '/en/process'),
+      '.',
+    ),
+
+    h2(kg, 'Item 6: Who writes the content — and at whose cost'),
+    p(kg, '❌ ', strong('Bad:'), ' "Client provides content"'),
+    p(
+      kg,
+      '✅ ',
+      strong('Good:'),
+      ' "Client provides text content for all pages before the development phase. If content is not provided, the studio may offer copywriting at the standard rate of $200/page. The rate is documented in Appendix 3."',
+    ),
+    p(
+      kg,
+      'This is the most common source of conflicts and project stalls. The owner orders a site, not understanding that ',
+      strong('the text on it has to be written'),
+      '. The studio assumes the client will deliver. The client assumes the studio will write.',
+    ),
+    p(
+      kg,
+      "3 weeks in: the project stalls. Studio waits for content. Client didn't know they had to write it, or doesn't have the bandwidth.",
+    ),
+    p(
+      kg,
+      'Right: ',
+      strong('write it into the contract'),
+      ' — who\'s writing, at whose cost. If you want the studio to write — that\'s a separate line in the quote.',
+    ),
+    p(
+      kg,
+      'Our base Industry Pro package includes copywriting for the homepage and 5 standard pages (about, services, contact, etc.). If you need more — $200/page.',
+    ),
+
+    h2(kg, 'Item 7: Post-launch support'),
+    p(
+      kg,
+      '❌ ',
+      strong('Bad:'),
+      ' "Warranty obligations of the studio remain in force for 30 days"',
+    ),
+    p(
+      kg,
+      '✅ ',
+      strong('Good:'),
+      ' "The studio provides 1 year of warranty support starting from the launch date. Warranty includes: bug fixes, dependency updates, advisory. Response time: 4 business hours during studio business hours. Warranty does NOT include: new feature development, design changes, content rework."',
+    ),
+    p(
+      kg,
+      '30-day warranty is an ',
+      strong('anti-standard'),
+      '. Real post-launch issues often surface 2-3 months in: when clients actively use the site and find rare bugs, or when dependencies update and something breaks.',
+    ),
+    p(
+      kg,
+      'A good warranty is ',
+      strong('1 year'),
+      '. Not "free forever," but coverage for typical post-launch problems.',
+    ),
+    p(
+      kg,
+      '⚠️ Specify ',
+      strong("what's in"),
+      ' the warranty. Bug fixes — yes. New features — no (otherwise a year of warranty equals a free new project). We list this explicitly in our contract.',
+    ),
+
+    h2(kg, "Bonus: Who's on the studio side"),
+    p(
+      kg,
+      "Doesn't directly appear in the contract, but you can ask for ",
+      strong('Appendix 4: Project team'),
+      '. It should list:',
+    ),
+    bullet(
+      kg,
+      'Tech lead and designer names, with their LinkedIn / GitHub profiles',
+    ),
+    bullet(kg, 'Email and Telegram for direct contact'),
+    p(
+      kg,
+      'This lowers the risk of "the manager went silent for 2 weeks because they quit." If you see names and profiles — you know who you\'re dealing with.',
+    ),
+
+    cta(kg, {
+      eyebrow: 'Consult',
+      heading: 'Not sure what a fair contract looks like?',
+      sub: "We have a template we sign with clients. Happy to walk through it on a 30-min consult. I'll explain every clause.",
+      ctaLabel: 'Book a call',
+      ctaHref: '/en/contacts',
+    }),
+
+    h2(kg, 'Red flags: when to walk'),
+    p(kg, '5 phrases in a contract that should make you nervous:'),
+    numbered(
+      kg,
+      strong('"The studio commits to best efforts..."'),
+      ' — that\'s intention, not obligation. Permission to underperform.',
+    ),
+    numbered(
+      kg,
+      strong('"Timelines are approximate..."'),
+      ' — without a rebate, there are no timelines.',
+    ),
+    numbered(
+      kg,
+      strong('"Handover happens orally..."'),
+      ' — accept in writing, with a signed handover protocol.',
+    ),
+    numbered(
+      kg,
+      strong('"100% upfront..."'),
+      ' — standard is 50/50. More than that — either you have 5+ years of trust with the studio, or you\'re risking everything.',
+    ),
+    numbered(
+      kg,
+      strong('"Early termination requires the Client to pay 100%..."'),
+      ' — that makes you a hostage. Standard is staged payment for work already completed.',
+    ),
+    p(
+      kg,
+      "We've seen all of these in freelancer contracts. Details in ",
+      link('vs Freelancers', '/en/vs-freelancers'),
+      '.',
+    ),
+
+    h2(kg, 'Who reviews the contract on your side'),
+    p(
+      kg,
+      'Ideal — a lawyer. Realistic — self-review with this checklist + Google + 30 minutes of focus.',
+    ),
+    p(
+      kg,
+      'If the project costs more than ',
+      strong('$5,000'),
+      ' — it\'s worth paying a lawyer $50-$100 for a review. The cheapest insurance policy in IT.',
+    ),
+
+    cta(kg, {
+      eyebrow: 'Consult',
+      heading: 'Want to see what an honest contract looks like?',
+      sub: "We'll show you our template. I'll explain every clause. No obligation.",
+      ctaLabel: 'Book a 30-min consult',
+      ctaHref: '/en/contacts',
+      ctaSecondaryLabel: 'Or write on Telegram',
+      ctaSecondaryHref: 'https://t.me/fedirdev',
+    }),
+  ]
+}
+
+const article3FaqEn: FaqEntry[] = [
+  {
+    question: 'Does the contract really need a rebate clause?',
+    answer:
+      'Legally — no. Ethically — yes. Without one, the deadline is a recommendation, not a commitment. Market standard is 10-30% of the project value.',
+  },
+  {
+    question:
+      'What if the studio refuses to add their team to the contract appendix?',
+    answer:
+      "Red flag. If a studio can't name who'll lead your project — either they have team issues, or they don't intend to keep specific people on yours.",
+  },
+  {
+    question: "Can I sign a contract via Diia.Sign (Ukraine's e-signature)?",
+    answer:
+      'Yes. Diia.Sign has the same legal force as a handwritten signature in Ukraine. We sign via Diia.Sign as our default. For EU clients, we sign via DocuSign or equivalent.',
+  },
+  {
+    question: 'How much does a contract review by a lawyer cost?',
+    answer:
+      "$50-$150 from a generalist. If the project costs more than $5,000 — it's the cheapest insurance you can buy.",
+  },
+  {
+    question: 'What if the studio refuses to add a rebate clause?',
+    answer:
+      "Pick a different studio. It's a baseline norm in 2026. The lack of one is either unprofessionalism or lack of confidence in their own work.",
+  },
+]
+
 const article1FaqEn = [
   {
     question: 'How much does a website cost for a small business?',
@@ -1566,6 +2165,9 @@ const documents = [
     _type: 'blogPost',
     title: 'Tilda за $200/міс — це $7,200 за 3 роки. Розрахунок із 12 проєктів',
     slug: {_type: 'slug', current: 'tilda-7200-za-3-roky'},
+    titleEn:
+      'Tilda at $200/mo is $7,200 over 3 years. The math from 12 migrations.',
+    slugEn: {_type: 'slug', current: 'tilda-7200-over-3-years'},
     status: 'published',
     category: 'Платформи',
     tags: ['tilda', 'wix', 'webflow', 'конструктор', 'TCO'],
@@ -1575,13 +2177,22 @@ const documents = [
     author: AUTHOR,
     coverImage: COVER_TILDA,
     eyebrow: 'Платформи · 8 хвилин читання',
+    eyebrowEn: 'Platforms · 8 min read',
     lede: 'Конструктор виглядає дешевше, поки ви не додасте 36 місяців підписки і ціну переїзду. З 12 наших клієнтів, які мігрували з Tilda на Next.js, **жоден** не повернувся назад. Ось чому.',
+    ledeEn:
+      "A page builder looks cheaper until you add 36 months of subscription and the price of switching. Of our 12 clients who migrated from Tilda to Next.js, not one went back. Here's why.",
     metaTitle:
       'Tilda vs кодовий сайт за 3 роки — реальний розрахунок | Code-Site.Art',
+    metaTitleEn:
+      'Tilda vs custom site — real cost over 3 years | Code-Site.Art',
     metaDescription:
       'Чому конструктор «дешевший» виглядає дешевшим тільки в перший місяць. Розбір реальних витрат із 12 проєктів, які переходили з Tilda на custom-код.',
+    metaDescriptionEn:
+      'Why a page builder looks cheaper only in month one. Real costs from 12 projects that moved off Tilda to custom code.',
     body: article2Body(),
+    bodyEn: article2BodyEn(),
     faq: makeFaq(article2Faq),
+    faqEn: makeFaqEn(article2FaqEn),
     relatedPostSlugs: [
       'skilky-koshtuye-sayt-2026',
       'dohovir-z-veb-studieyu-7-punktiv',
@@ -1592,6 +2203,8 @@ const documents = [
     _type: 'blogPost',
     title: 'Договір з веб-студією: 7 пунктів, які перевіряють перед оплатою',
     slug: {_type: 'slug', current: 'dohovir-z-veb-studieyu-7-punktiv'},
+    titleEn: 'Web studio contract: 7 things to check before paying',
+    slugEn: {_type: 'slug', current: 'web-studio-contract-7-items'},
     status: 'published',
     category: 'Юридичне',
     tags: ['договір', 'неустойка', 'права власності', 'замовлення сайту'],
@@ -1601,13 +2214,22 @@ const documents = [
     author: AUTHOR,
     coverImage: COVER_DOHOVIR,
     eyebrow: 'Юридичне · 10 хвилин читання',
+    eyebrowEn: 'Legal · 10 min read',
     lede: 'За 3 роки ми бачили 30+ договорів від інших студій, які приносили клієнти на ревью. У більшості з них одна або кілька пасток, які власник бізнесу не помічає до моменту проблеми. Ось 7 пунктів, які варто перевірити **до** того, як ви перерахуєте першу частину.',
+    ledeEn:
+      "Over 3 years we've reviewed 30+ contracts from other studios that clients brought in for a second opinion. Most had at least one trap the business owner didn't see until the problem hit. Here are 7 items to verify before you wire the deposit.",
     metaTitle:
       'Договір на створення сайту — 7 пунктів перед підписанням | Code-Site.Art',
+    metaTitleEn:
+      'Web studio contract — 7-item checklist before signing | Code-Site.Art',
     metaDescription:
       'Що має бути в договорі з веб-студією у 2026. Неустойка за зрив, передача коду, права власності, scope. Готовий чек-ліст із 7 пунктів.',
+    metaDescriptionEn:
+      'What needs to be in a web studio contract in 2026. Rebate clauses, code ownership, scope, and 7 items to verify before paying the deposit.',
     body: article3Body(),
+    bodyEn: article3BodyEn(),
     faq: makeFaq(article3Faq),
+    faqEn: makeFaqEn(article3FaqEn),
     relatedPostSlugs: [
       'skilky-koshtuye-sayt-2026',
       'tilda-7200-za-3-roky',

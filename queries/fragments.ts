@@ -44,13 +44,20 @@ export const CTA_ACTION = /* groq */ `{
   type
 }`
 
+// blogPost reference projection — used by relatedPosts on industryPage
+// and caseStudy. Sprint 2A made title / lede / coverImage plain
+// (non-localized) strings + {src, alt}. Sprint 2BC added the titleEn /
+// ledeEn / coverImage.altEn shadows.
 export const BLOG_POST_REF = /* groq */ `{
   _id,
   "slug": slug.current,
-  title ${LOCALIZED_STRING},
+  "slugEn": slugEn.current,
+  title,
+  titleEn,
   publishedAt,
-  excerpt ${LOCALIZED_TEXT},
-  "coverImage": coverImage ${IMAGE_WITH_ALT},
+  lede,
+  ledeEn,
+  coverImage{ src, alt, altEn },
   status
 }`
 
