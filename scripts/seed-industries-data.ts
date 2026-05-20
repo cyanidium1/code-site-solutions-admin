@@ -2102,29 +2102,59 @@ const finance: Industry = {
       },
       {
         feature: 'FEATURE · 02 / 03',
-        heading: L('Особистий кабінет клієнта', 'Client portal'),
+        heading: L(
+          'Крутий адаптив під всі екрани і фірмові анімації',
+          'Premium responsive design across every screen, with animations',
+        ),
         bullets: [
-          L('Клієнт завантажує первинку (інвойси, чеки) через інтерфейс', 'Client uploads source docs (invoices, receipts) via the UI'),
-          L('Бачить статус: «отримано», «у роботі», «готово»', 'Sees status: "received", "in progress", "done"'),
-          L('Документи в одному місці, не в email-переписці', 'All documents in one place, not buried in email'),
-          L('Інтеграція з MEDoc / 1С/BAS / Xero', 'MEDoc / 1C/BAS / Xero integration'),
-        ],
-        mockType: 'admin',
-      },
-      {
-        feature: 'FEATURE · 03 / 03',
-        heading: L('Окремі лендинги під рекламні кампанії', 'Dedicated landings per ad campaign'),
-        bullets: [
-          L('3-5 лендингів під різні аудиторії і офери', '3-5 landings per audience and offer'),
-          L('UTM-параметри передаються в CRM', 'UTM params passed to CRM'),
-          L('A/B-тестування заголовків через Vercel Edge', 'A/B testing of headlines via Vercel Edge'),
-          L('Маркетолог змінює UTM і копі без розробника', 'Marketer changes UTMs and copy without a developer'),
+          L(
+            'Layout сам перебудовується від 4K-монітора до телефона — без зайвих горизонтальних скролів',
+            'Layout adapts from a 4K monitor down to a phone — no awkward horizontal scrolls',
+          ),
+          L(
+            'Скрол-анімації, hover-стани, плавні переходи між секціями',
+            'Scroll-triggered animations, hover states, smooth section transitions',
+          ),
+          L(
+            'Mobile-first: 67% фінансової аудиторії заходить з телефону — дизайн оптимізовано саме під неї',
+            'Mobile-first: 67% of finance audience opens from a phone — designed for that first',
+          ),
+          L(
+            'Performance 95+ на mobile — анімації не вбивають швидкість',
+            '95+ mobile Performance — animations don’t kill speed',
+          ),
         ],
         mockType: 'pages',
         mockTags: [
-          L('UTM-сегментація', 'UTM segmentation'),
-          L('A/B-тест', 'A/B test'),
+          L('4K → Mobile', '4K → Mobile'),
+          L('Animations', 'Animations'),
         ],
+      },
+      {
+        feature: 'FEATURE · 03 / 03',
+        heading: L(
+          'Маркетингова структура: заявка в Telegram за секунди',
+          'Marketing-driven structure: leads in Telegram within seconds',
+        ),
+        bullets: [
+          L(
+            'Кожна форма обернена у воронку: лід падає у ваш Telegram або Slack миттєво',
+            'Every form pipes into a funnel: leads land in your Telegram or Slack instantly',
+          ),
+          L(
+            'Менеджер бачить заявку в мобільному месенджері — швидше і зручніше за email',
+            'Managers see leads in mobile messenger — faster and more convenient than email',
+          ),
+          L(
+            'Мультимовність: один сайт обслуговує українських клієнтів і експатів / EU-ринок',
+            'Multi-language: one site serves Ukrainian clients and expats / EU markets',
+          ),
+          L(
+            'Лендинги і CTA структуровано під етапи воронки: cold → warm → hot',
+            'Landings and CTAs structured by funnel stage: cold → warm → hot',
+          ),
+        ],
+        mockType: 'booking',
       },
     ],
   },

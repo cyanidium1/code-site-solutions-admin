@@ -231,6 +231,7 @@ function buildServicesBlock(
   kg: KeyGen,
   s: Industry['services'],
   t: Industry['testimonial'],
+  preserved: {featureImages?: unknown[]; authorAvatar?: unknown} = {},
 ) {
   return {
     _key: kg.next('sec'),
@@ -241,14 +242,19 @@ function buildServicesBlock(
       authorName: t.authorName,
       authorInitials: t.authorInitials,
       authorRole: t.authorRole,
+      ...(preserved.authorAvatar ? {authorAvatar: preserved.authorAvatar} : {}),
     },
     heading: s.heading,
     sub: s.sub,
-    features: s.features.map((f) => ({
-      _key: kg.next('sf'),
-      title: f.title,
-      items: f.bullets,
-    })),
+    features: s.features.map((f, i) => {
+      const preservedImage = preserved.featureImages?.[i]
+      return {
+        _key: kg.next('sf'),
+        title: f.title,
+        items: f.bullets,
+        ...(preservedImage ? {image: preservedImage} : {}),
+      }
+    }),
     integrationsHeading: s.integrationsHeading,
     integrationsSub: s.integrationsSub,
     integrations: s.integrations.map((name) =>
@@ -403,6 +409,8 @@ function buildDoc(
     deviceMockup?: unknown
     beforeImage?: unknown
     afterImage?: unknown
+    featureImages?: unknown[]
+    authorAvatar?: unknown
   } = {},
 ) {
   const kg = new KeyGen(ind.slug.slice(0, 3))
@@ -422,7 +430,10 @@ function buildDoc(
         afterImage: preserved.afterImage,
       }),
       buildOutcomeBlock(kg, ind.outcome),
-      buildServicesBlock(kg, ind.services, ind.testimonial),
+      buildServicesBlock(kg, ind.services, ind.testimonial, {
+        featureImages: preserved.featureImages,
+        authorAvatar: preserved.authorAvatar,
+      }),
       buildComparisonBlock(kg, ind.comparison),
       buildFaqBlock(kg, ind.faq),
       buildAuditBlock(kg, ind.audit),
@@ -440,15 +451,24 @@ async function preservedAssets(client: SanityClient, slug: string) {
   const doc = (await client.getDocument(`industryPage.${slug}`)) as
     | {
         hero?: {deviceMockup?: unknown}
-        sections?: Array<{_type?: string; before?: {image?: unknown}; after?: {image?: unknown}}>
+        sections?: Array<{
+          _type?: string
+          before?: {image?: unknown}
+          after?: {image?: unknown}
+          features?: Array<{image?: unknown}>
+          testimonial?: {authorAvatar?: unknown}
+        }>
       }
     | undefined
   if (!doc) return {}
   const caseSec = doc.sections?.find((s) => s._type === 'caseBlock')
+  const servicesSec = doc.sections?.find((s) => s._type === 'servicesBlock')
   return {
     deviceMockup: doc.hero?.deviceMockup,
     beforeImage: caseSec?.before?.image,
     afterImage: caseSec?.after?.image,
+    featureImages: servicesSec?.features?.map((f) => f.image),
+    authorAvatar: servicesSec?.testimonial?.authorAvatar,
   }
 }
 
@@ -468,7 +488,10 @@ async function main() {
     const doc = buildDoc(ind, preserved)
     const result = await client.createOrReplace(doc)
     const reusedAssets = Object.entries(preserved)
-      .filter(([, v]) => v)
+      .filter(([, v]) => {
+        if (Array.isArray(v)) return v.some(Boolean)
+        return Boolean(v)
+      })
       .map(([k]) => k)
       .join(', ')
     console.log(
