@@ -284,6 +284,30 @@ function buildComparisonBlock(kg: KeyGen, c: Industry['comparison']) {
       'Detailed page builder comparison →',
     ),
     tableCtaGhost: L('Порівняння з WordPress →', 'WordPress comparison →'),
+    contact: {
+      heading: L('Обговорити проєкт', 'Discuss your project'),
+      sub: L(
+        'Розкажіть коротко про ваш проєкт — відповімо в Telegram протягом 1–2 годин у робочий час.',
+        'Tell us briefly about your project — we’ll reply on Telegram within 1–2 hours during business hours.',
+      ),
+      namePlaceholder: L('Як до вас звертатися', 'Your name'),
+      channelPlaceholder: L(
+        'Telegram, телефон або email',
+        'Telegram, phone, or email',
+      ),
+      briefPlaceholder: L(
+        'Який сайт потрібен, які цілі',
+        'What kind of site you need, what your goals are',
+      ),
+      submitLabel: L(
+        'Надіслати — відповімо за 1–2 години',
+        'Send — we’ll reply within 1–2 hours',
+      ),
+      foot: L(
+        'Або одразу пишіть у Telegram — @fedirdev',
+        'Or message us on Telegram — @fedirdev',
+      ),
+    },
     pricingHeading: c.pricingHeading,
     tiers: [
       {
