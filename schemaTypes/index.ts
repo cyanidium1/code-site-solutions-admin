@@ -37,6 +37,7 @@ import {tldrBox} from './blocks/tldrBox'
 import {blogPost} from './documents/blogPost'
 import {caseStudy} from './documents/caseStudy'
 import {industryPage} from './documents/industryPage'
+import {testimonial} from './documents/testimonial'
 
 export const schemaTypes = [
   // Reusable objects (registered first — referenced by blocks/documents)
@@ -80,4 +81,5 @@ export const schemaTypes = [
   blogPost,
   industryPage,
   caseStudy,
+  testimonial,
 ]
