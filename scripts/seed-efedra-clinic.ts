@@ -13,9 +13,7 @@
  * Run:
  *   npm run seed:efedra-clinic
  *
- * NOTE: Efedra is UA-only (no EN translation). Hardcoded inconsistency
- * "WordPress (hero) vs Tilda 2021 (Challenge body)" preserved as-is —
- * marketer to fix in Studio after migration.
+ * NOTE: Efedra is UA-only (no EN translation).
  */
 
 import { existsSync, readFileSync } from "node:fs";
@@ -216,7 +214,11 @@ async function main() {
       "Efedra Clinic — стоматологія і *студія краси* в Одесі",
     ),
     subheading: uk(
-      "Двонапрямкова клініка в Одесі: стоматологія + естетична медицина. Перенесли з застарілого WordPress на Next.js + Sanity з мобільним онлайн-записом і локальним SEO.",
+      "Двонапрямкова клініка в Одесі: стоматологія + естетична медицина. Перенесли з застарілої Tilda на Next.js + Sanity з мобільним онлайн-записом і локальним SEO.",
+    ),
+    heroImage: imageWithAlt(
+      afterId,
+      "Efedra Clinic — новий сайт на Next.js та Sanity",
     ),
     metrics: [],
   };
@@ -281,7 +283,7 @@ async function main() {
       uk("Чітке розділення напрямків (стоматологія + краса)"),
       uk("Зручні та зрозумілі прайси послуг"),
       uk("CMS для простого редагування, у тому числі з телефону"),
-      uk("Відсутність абонплати — повний контроль над платформою"),
+      uk("Відсутність абонплати — повний контроль над сайтом"),
       uk("Коректна мультимовність з SEO-індексацією"),
       uk("Інтеграція з Telegram для обробки лідів"),
       uk("SEO ведеться 3 місяці → вже є заявки з органічного трафіку"),
@@ -333,12 +335,13 @@ async function main() {
     ],
   };
 
-  /* sections[4] — / 04 OUTCOME (centered) — YouTube video lives at
-     doc.youtubeId, frontend embeds it inside this block. */
+  /* sections[4] — / 04 OUTCOME (centered, horizontal: phone left + laptop
+     right floating around the centred copy). */
   const OUTCOME_SECTION = {
     _type: "imageTextBlock" as const,
     _key: k("sec"),
     variant: "centered",
+    centeredLayout: "horizontal",
     eyebrow: uk("/ 04 OUTCOME"),
     heading: uk("Результат через 3 місяці після *запуску*"),
     body: richParas([
@@ -352,6 +355,14 @@ async function main() {
       uk("Cost per acquisition: −62%"),
       uk("Bounce rate: 68% → 41%"),
     ],
+    image: imageWithAlt(
+      mobileId,
+      "Efedra Clinic — мобільна версія сайту після запуску",
+    ),
+    image2: imageWithAlt(
+      afterId,
+      "Efedra Clinic — десктоп версія головної сторінки після запуску",
+    ),
   };
 
   /* sections[5] — testimonial */
