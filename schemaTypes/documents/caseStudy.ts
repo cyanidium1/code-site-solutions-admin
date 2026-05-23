@@ -113,9 +113,9 @@ export const caseStudy = defineType({
     }),
     defineField({
       name: 'youtubeId',
-      title: 'YouTube video ID (наразі не використовується)',
+      title: 'YouTube video ID (опційно)',
       description:
-        'Поле залишено для зворотної сумісності. Видео-walkthrough більше не рендериться під OUTCOME — для цього використовуйте обидва зображення в imageTextBlock з centeredLayout="horizontal".',
+        'ID відео-walkthrough — рендериться окремою секцією над OUTCOME-блоком (поверх центрованого горизонтального layout-у з двома зображеннями). Залишити порожнім якщо немає.',
       type: 'string',
       group: 'meta',
     }),
