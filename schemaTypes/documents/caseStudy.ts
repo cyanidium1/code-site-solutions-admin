@@ -114,7 +114,8 @@ export const caseStudy = defineType({
     defineField({
       name: 'youtubeId',
       title: 'YouTube video ID (опційно)',
-      description: 'ID відео-walkthrough — рендериться під OUTCOME-секцією. Залишити порожнім якщо немає.',
+      description:
+        'ID відео-walkthrough — рендериться окремою секцією над OUTCOME-блоком (поверх центрованого горизонтального layout-у з двома зображеннями). Залишити порожнім якщо немає.',
       type: 'string',
       group: 'meta',
     }),
@@ -131,6 +132,13 @@ export const caseStudy = defineType({
         defineField({name: 'eyebrow', title: 'Eyebrow', type: 'localizedString'}),
         defineField({name: 'heading', title: 'Заголовок', type: 'localizedText'}),
         defineField({name: 'subheading', title: 'Підзаголовок', type: 'localizedText'}),
+        defineField({
+          name: 'heroImage',
+          title: 'Зображення hero (справа від тексту, над stats-bar)',
+          description:
+            'Окреме зображення для героя. Не плутати з coverImage — той рендериться лише на /portfolio і в related-картках.',
+          type: 'imageWithLocalizedAlt',
+        }),
         defineField({
           name: 'metrics',
           title: 'Показники',

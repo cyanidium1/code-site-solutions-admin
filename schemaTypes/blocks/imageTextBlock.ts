@@ -47,6 +47,28 @@ export const imageTextBlock = defineType({
       of: [defineArrayMember({type: 'localizedString'})],
     }),
     defineField({name: 'image', title: 'Зображення', type: 'imageWithLocalizedAlt'}),
+    defineField({
+      name: 'image2',
+      title: 'Друге зображення (centered + horizontal)',
+      description:
+        'Використовується лише коли варіант = "Centered" і Centered layout = "Horizontal". Рендериться справа від тексту, перше зображення (`image`) — зліва.',
+      type: 'imageWithLocalizedAlt',
+      hidden: ({parent}) => parent?.variant !== 'centered',
+    }),
+    defineField({
+      name: 'centeredLayout',
+      title: 'Centered layout',
+      type: 'string',
+      options: {
+        list: [
+          {title: 'Vertical (зображення зверху над текстом)', value: 'vertical'},
+          {title: 'Horizontal (текст по центру, два зображення з боків)', value: 'horizontal'},
+        ],
+        layout: 'radio',
+      },
+      initialValue: 'vertical',
+      hidden: ({parent}) => parent?.variant !== 'centered',
+    }),
     defineField({name: 'cta', title: 'CTA (опційно)', type: 'ctaAction'}),
   ],
   preview: {
