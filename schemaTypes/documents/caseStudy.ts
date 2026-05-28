@@ -133,6 +133,13 @@ export const caseStudy = defineType({
         defineField({name: 'heading', title: 'Заголовок', type: 'localizedText'}),
         defineField({name: 'subheading', title: 'Підзаголовок', type: 'localizedText'}),
         defineField({
+          name: 'link',
+          title: 'Кнопка — посилання на сайт кейсу',
+          description:
+            'Опційна кнопка в hero, що веде на живий сайт клієнта. Відкривається в новій вкладці (rel: noopener noreferrer nofollow). Залишити порожнім — кнопка не показується.',
+          type: 'ctaAction',
+        }),
+        defineField({
           name: 'heroImage',
           title: 'Зображення hero (справа від тексту, над stats-bar)',
           description:
