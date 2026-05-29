@@ -37,6 +37,7 @@ import {tldrBox} from './blocks/tldrBox'
 import {blogPost} from './documents/blogPost'
 import {caseStudy} from './documents/caseStudy'
 import {industryPage} from './documents/industryPage'
+import {pricingPlan} from './documents/pricingPlan'
 import {testimonial} from './documents/testimonial'
 
 export const schemaTypes = [
@@ -80,6 +81,7 @@ export const schemaTypes = [
   // Top-level documents
   blogPost,
   industryPage,
+  pricingPlan,
   caseStudy,
   testimonial,
 ]
