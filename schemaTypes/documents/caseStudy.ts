@@ -83,6 +83,16 @@ export const caseStudy = defineType({
       group: 'meta',
     }),
     defineField({
+      name: 'country',
+      title: 'Країна (для фільтра /portfolio)',
+      description:
+        'Посилання на запис у Options → Countries. Slug цього запису потрапляє у фільтр URL (?country=…). ' +
+        'Поле "region" лишається free-text для відображення (місто + країна).',
+      type: 'reference',
+      to: [{type: 'countryOption'}],
+      group: 'meta',
+    }),
+    defineField({
       name: 'year',
       title: 'Рік',
       type: 'number',
@@ -97,6 +107,15 @@ export const caseStudy = defineType({
       group: 'meta',
     }),
     defineField({name: 'budget', title: 'Бюджет (display)', type: 'string', group: 'meta'}),
+    defineField({
+      name: 'budgetBucket',
+      title: 'Бюджет — bucket (для фільтра /portfolio)',
+      description:
+        'Посилання на запис у Options → Price buckets. Slug цього запису потрапляє у фільтр URL (?budget=…).',
+      type: 'reference',
+      to: [{type: 'budgetBucketOption'}],
+      group: 'meta',
+    }),
     defineField({
       name: 'stack',
       title: 'Стек',
