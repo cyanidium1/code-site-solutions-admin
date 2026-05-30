@@ -12,10 +12,11 @@
  * Required env (loaded from .env.local automatically):
  *   - NEXT_PUBLIC_SANITY_PROJECT_ID
  *   - NEXT_PUBLIC_SANITY_DATASET (defaults to "production")
- *   - SANITY_API_TOKEN          (write-access token)
+ *   - SANITY_API_TOKEN          (write-access token, only needed for --apply)
  *
  * Run:
- *   npm run translate:medicine-en
+ *   npx tsx scripts/translate-medicine-en.ts            # dry-run (default)
+ *   npx tsx scripts/translate-medicine-en.ts --apply    # commit to Sanity
  */
 
 import { existsSync, readFileSync } from "node:fs";
@@ -78,6 +79,10 @@ const STRINGS: Record<string, string> = {
   "пацієнтів\nна місяць": "patients\nper month",
   "Ви отримуєте сайт клініки що починає приймати онлайн-записи з першого дня. Без вашої участі більше ніж *5 годин*: ми пишемо тексти, ставимо інтеграції з Helsi/Medesk, налаштовуємо локальне SEO. Запуск за 4–6 тижнів.":
     "You get a clinic website that starts taking online appointments from day one. Your time investment: *5 hours total*. We write the copy, wire up Helsi/Medesk integrations, and set up local SEO. Live in 4–6 weeks.",
+  // Drift: UK lede was edited after script was written; new version
+  // adds the warranty sentence. EN mirrors the structure.
+  "Кастомні сайти для стоматологій, багатопрофільних клінік і діагностичних центрів. Запуск за *4–6 тижнів*, гарантія 1 рік.":
+    "Custom websites for dental practices, multi-specialty clinics, and diagnostic centers. Live in *4–6 weeks*, 1-year warranty.",
   "Онлайн-запис | за 2 кліки": "Online booking | in 2 clicks",
   "Локальне SEO | під район": "Local SEO | by neighborhood",
   "Інтеграція CRM | Bitrix · AmoCRM": "CRM integration | Bitrix · AmoCRM",
@@ -577,9 +582,11 @@ type Json = unknown;
 function isLocalizedShape(node: Json): node is Record<string, unknown> {
   if (!node || typeof node !== "object" || Array.isArray(node)) return false;
   const obj = node as Record<string, unknown>;
-  const keys = Object.keys(obj);
-  if (keys.length === 0) return false;
-  return keys.every((kk) => kk === "uk" || kk === "ru" || kk === "en");
+  // Lenient: any object that has at least one of uk/ru/en counts. The
+  // strict "all keys must be uk/ru/en" check missed array-item shapes
+  // like `{ _key, uk }` (e.g. hero.features[], hero.tickerItems[]),
+  // leaving their .en undefined after patch.
+  return "uk" in obj || "ru" in obj || "en" in obj;
 }
 
 function walk(
@@ -634,6 +641,7 @@ type SectionLite = {
 };
 
 async function main() {
+  const apply = process.argv.includes("--apply");
   const projectId = process.env.NEXT_PUBLIC_SANITY_PROJECT_ID;
   const dataset = process.env.NEXT_PUBLIC_SANITY_DATASET ?? "production";
   const apiVersion =
@@ -644,8 +652,8 @@ async function main() {
     console.error("✗ Missing NEXT_PUBLIC_SANITY_PROJECT_ID");
     process.exit(1);
   }
-  if (!token) {
-    console.error("✗ Missing SANITY_API_TOKEN");
+  if (apply && !token) {
+    console.error("✗ --apply requires SANITY_API_TOKEN");
     process.exit(1);
   }
 
@@ -701,13 +709,18 @@ async function main() {
     }
   }
 
-  // Apply --------------------------------------------------------------------
+  // Report --------------------------------------------------------------------
   console.log(
-    `→ Applying patch with ${Object.keys(set).length} set ops (${unmatched.length} unmatched UK strings)…`,
+    `→ ${apply ? "Applying" : "Would apply"} patch with ${Object.keys(set).length} set ops (${unmatched.length} unmatched UK strings)…`,
   );
   if (unmatched.length) {
     console.log("  Unmatched (will fall back to UK at runtime):");
     for (const u of unmatched) console.log(`    · ${u}`);
+  }
+
+  if (!apply) {
+    console.log(`→ Dry-run only. Pass --apply to commit.`);
+    return;
   }
 
   const result = await client.patch(DOC_ID).set(set).commit();
