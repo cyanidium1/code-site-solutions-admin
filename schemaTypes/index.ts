@@ -35,7 +35,9 @@ import {tldrBox} from './blocks/tldrBox'
 
 // ─── Top-level documents ──────────────────────────────────────────────
 import {blogPost} from './documents/blogPost'
+import {budgetBucketOption} from './documents/budgetBucketOption'
 import {caseStudy} from './documents/caseStudy'
+import {countryOption} from './documents/countryOption'
 import {industryPage} from './documents/industryPage'
 import {pricingPlan} from './documents/pricingPlan'
 import {testimonial} from './documents/testimonial'
@@ -84,4 +86,6 @@ export const schemaTypes = [
   pricingPlan,
   caseStudy,
   testimonial,
+  countryOption,
+  budgetBucketOption,
 ]
