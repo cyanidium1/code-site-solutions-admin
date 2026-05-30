@@ -1,0 +1,85 @@
+{
+  "_meta": {
+    "docId": "71bf3d68-ea3f-48ff-a79a-4cb01841580c",
+    "_type": "caseStudy",
+    "slug": "glimmer",
+    "voice": "Direct American English. Indie-publisher voice: clean, aesthetic-aware, focused on craft + commerce."
+  },
+  "strings": {
+    "/ CASE STUDY": "/ CASE STUDY",
+    "/ CHALLENGE": "/ CHALLENGE",
+    "/ OUTCOME": "/ OUTCOME",
+    "/ SOLUTION": "/ SOLUTION",
+    "6 тижнів": "6 weeks",
+    "Glimmer": "Glimmer",
+    "Glimmer — e-commerce сайт для українського видавництва естетичних кни": "Glimmer — e-commerce site for a Ukrainian publisher of aesthetic boo",
+    "Glimmer — e-commerce сайт для українського видавництва естетичних книг": "Glimmer — e-commerce site for a Ukrainian publisher of aesthetic books",
+    "Glimmer — нове українське видавництво, яке видає естетичну художню літературу: романи, фентезі, трилери, детективи. Ми розробили повноцінний e-commerce сайт із продаючою маркетинговою структурою — каталогом, карточками товарів, передзамовленнями, акційними блоками і швидким шляхом до покупки. Після запуску сайт швидко почав приносити продажі: клієнт окупив інвестицію в сайт приблизно за 1 тиждень.": "Glimmer is a new Ukrainian publisher that puts out aesthetic fiction: literary novels, fantasy, thrillers, mysteries. We built a full e-commerce site with a conversion-driven marketing structure — catalog, product cards, pre-orders, deal blocks, and a short path to checkout. After launch the site started moving books fast: the client recouped the site investment in roughly 1 week.",
+    "~1 тиждень до окупності після запуску · 3 комерційні блоки на головній: топ-продажі, акції, новинки · 4+ категорії каталогу: романи, фентезі, трилери, детективи · 0 зайвих кроків від банера до покупки": "~1 week to payback after launch · 3 commercial blocks on the homepage: bestsellers, deals, new releases · 4+ catalog categories: literary, fantasy, thrillers, mysteries · 0 extra steps from banner to purchase",
+    "Бренду потрібен був сайт, який одразу передає естетику видавництва і продає": "The brand needed a site that conveys the publisher's aesthetic and sells from day one",
+    "Важливо було не просто показати книги, а побудувати структуру, яка веде до покупки": "Beyond showing the books, we needed a structure that leads to the sale",
+    "Винесли Telegram і Instagram як додаткові канали комунікації з аудиторією бренду": "Pulled Telegram and Instagram out as secondary channels for talking to the brand's audience",
+    "Власник магазину": "Store owner",
+    "Головна задача — створити e-commerce інструмент, який одразу починає приносити продажі після запуску": "The core task — build an e-commerce tool that starts moving books the moment it launches",
+    "Додали механіку передзамовлень — сайт підтримує запуск нових книг ще до надходження в продаж": "Added pre-order mechanics — the site supports new-book launches before stock arrives",
+    "Зробили візуальну подачу, яка відповідає естетиці бренду: чисті карточки, акцент на обкладинки книг": "Built a visual presentation that fits the brand's aesthetic: clean cards, covers front and center",
+    "Користувач має швидко перейти від банера або добірки до конкретної книги та оформлення замовлення": "The user should jump from a banner or curated list straight to a specific book and checkout",
+    "Оформили карточки товарів із ціною, знижкою і статусом: «Купити» або «Передзамовлення»": "Built product cards with price, discount, and status: \"Buy\" or \"Pre-order\"",
+    "Переглянути сайт": "Visit site",
+    "Побудували головну сторінку як продаючу структуру: банери з CTA, топ-продажі, акційні товари, новинки": "Built the homepage as a sales structure: banners with CTAs, bestsellers, deals, new releases",
+    "Потрібні були окремі блоки для просування пріоритетних позицій: топ-продажі, новинки, акції": "We needed dedicated blocks to push priority titles: bestsellers, new releases, deals",
+    "Підключили Sanity CMS — команда видавництва самостійно керує каталогом, банерами і добірками": "Wired up Sanity CMS — the publishing team runs the catalog, banners, and curated lists themselves",
+    "Реалізували акційні позначки та блоки знижок для просування пріоритетних товарів": "Built deal badges and discount blocks for promoting priority titles",
+    "Реалізували ротацію банерів на першому екрані для просування нових і пріоритетних книг": "Built homepage banner rotation to promote new and priority books",
+    "Результат — *окупність за ~1 тиждень після запуску*": "Result — *payback in ~1 week after launch*",
+    "Розробили e-commerce сайт для українського видавництва з нуля": "Built an e-commerce site for a Ukrainian publisher from scratch",
+    "Сайт вийшов справді дуже класним!\n@FreelancerOnMondays @di_merk, ви молодці!\nУпевнений, що він стане сильною роботою у вашому портфоліо і приведе багато нових клієнтів.": "The site turned out genuinely great!\n@FreelancerOnMondays @di_merk, well done.\nI'm sure it'll be a strong piece in your portfolio and bring you a lot of new clients.",
+    "Сайт мав підтримувати передзамовлення, акційні товари та регулярне оновлення асортименту": "The site had to support pre-orders, deals, and frequent catalog updates",
+    "Створили каталог із категоріями: романи, фентезі, трилери, детективи": "Built the catalog with categories: literary, fantasy, thrillers, mysteries",
+    "Що *було*": "What *was*",
+    "Що ми *зробили*": "What we *did*",
+    "до окупності після запуску": "to payback after launch",
+    "зайвих кроків від банера до покупки": "extra steps from banner to purchase",
+    "категорії каталогу: романи, фентезі, трилери, детективи": "catalog categories: literary, fantasy, thrillers, mysteries",
+    "комерційні блоки на головній: топ-продажі, акції, новинки": "commercial blocks on the homepage: bestsellers, deals, new releases"
+  },
+  "overrides": {
+    "hero.heroImage.alt": {
+      "uk": "Сайт Glimmer на ноутбуці і телефоні",
+      "en": "Glimmer website shown on laptop and phone"
+    },
+    "sections[_key==\"sec6\"].image.alt": {
+      "uk": "Glimmer до запуску нового сайту",
+      "en": "Glimmer before the new site launched"
+    },
+    "sections[_key==\"sec9\"].image.alt": {
+      "uk": "Нова головна сторінка сайту Glimmer з банерами, бестселерами і каталогом",
+      "en": "Glimmer's new homepage with banners, bestsellers, and catalog"
+    },
+    "sections[_key==\"sech\"].image.alt": {
+      "uk": "Мобільна версія сайту Glimmer",
+      "en": "Glimmer website on mobile"
+    },
+    "sections[_key==\"sech\"].image2.alt": {
+      "uk": "Десктопна версія сайту Glimmer",
+      "en": "Glimmer website on desktop"
+    }
+  },
+  "portableText": {
+    "sections[_key==\"sec6\"].bodyEn": [
+      [
+        "Glimmer is a publisher with a new book line and a social-media audience that needed a real place to buy. Without a full e-commerce site, audience interest wasn't converting into orders — the catalog, structure, and pre-order mechanics were all missing."
+      ]
+    ],
+    "sections[_key==\"sec9\"].bodyEn": [
+      [
+        "We built an e-commerce site on Next.js + Sanity CMS with a conversion-driven marketing structure. Every block on the homepage solves a commercial job — not just showing books, but pushing specific titles and walking the user toward checkout.\n"
+      ]
+    ],
+    "sections[_key==\"sech\"].bodyEn": [
+      [
+        "After launch the site immediately started working as a sales channel. The right marketing structure on the homepage — banners, curated lists, deals, new releases — converted the audience's existing interest into real orders. The client recouped the site investment in roughly 1 week after launch — that's the headline result of this case."
+      ]
+    ]
+  }
+}

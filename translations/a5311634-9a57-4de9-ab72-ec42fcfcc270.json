@@ -1,0 +1,84 @@
+{
+  "_meta": {
+    "docId": "a5311634-9a57-4de9-ab72-ec42fcfcc270",
+    "_type": "caseStudy",
+    "slug": "kondor-device",
+    "voice": "Direct American English. Gaming-peripherals brand voice: enthusiast, product-spec-aware, no hype. Keep model names (Orion, Starlight, Moonlight, Legion) as-is."
+  },
+  "strings": {
+    "/ CASE STUDY": "/ CASE STUDY",
+    "/ CHALLENGE": "/ CHALLENGE",
+    "/ OUTCOME": "/ OUTCOME",
+    "/ SOLUTION": "/ SOLUTION",
+    "6 тижнів": "6 weeks",
+    "Kondor Device": "Kondor Device",
+    "Kondor Device — e-commerce сайт для українського бренду ігрових девайсів": "Kondor Device — e-commerce site for a Ukrainian gaming-peripherals brand",
+    "Kondor Device — український бренд механічних клавіатур, мишей, ігрових поверхонь і кейкапів. Ми розробили повноцінний e-commerce сайт із каталогом, карточками товарів, кошиком і оформленням замовлення — з фокусом на короткий шлях від першого знайомства з брендом до покупки. ": "Kondor Device is a Ukrainian brand of mechanical keyboards, mice, gaming surfaces, and keycaps. We built a full e-commerce site with catalog, product cards, cart, and checkout — focused on a short path from first contact with the brand to purchase. ",
+    "Kondor Device — український бренд механічних клавіатур, мишей, ігрових поверхонь і кейкапів. Ми розробили повноцінний e-commerce сайт із каталогом, карточками товарів, кошиком і оформленням замовлення — з фокусом на короткий шлях від першого знайомства з брендом до покупки. Після запуску сайт став одним із ключових інструментів продажів і допоміг суттєво підняти продажі. Співпраця з брендом вийшла за межі сайту: паралельно розробляємо продуктові упаковки для мишок, клавіатур та інших девайсів — і продовжуємо це на постійній основі.": "Kondor Device is a Ukrainian brand of mechanical keyboards, mice, gaming surfaces, and keycaps. We built a full e-commerce site with catalog, product cards, cart, and checkout — focused on a short path from first contact with the brand to purchase. Post-launch, the site became one of the brand's main sales channels and lifted revenue meaningfully. The relationship grew past the site itself: we're now designing product packaging for the mice, keyboards, and other devices in parallel, on an ongoing basis.",
+    "Бренду потрібен був сайт, який не просто презентує товари, а продає їх": "The brand needed a site that doesn't just present products — it sells them",
+    "Для покупки важливо одразу бачити ціну, знижку, характеристики і комплектацію прямо на карточці": "To buy, the price, discount, specs, and what's-in-the-box have to be on the card itself",
+    "Додали блок переваг на головній: гарантія, відправка в день замовлення, оплата після огляду": "Added a benefits block on the homepage: warranty, same-day shipping, pay-on-delivery",
+    "Додали кнопку «Оформити замовлення» прямо на карточці - без зайвих переходів": "Added an \"Order now\" button right on the product card — no extra hops",
+    "Засновник магазину": "Store founder",
+    "Користувач має швидко орієнтуватись у категоріях: клавіатури Orion, Starlight, Moonlight, Legion, миші, поверхні, кейкапи": "Users should orient fast across categories: Orion, Starlight, Moonlight, and Legion keyboards, mice, gaming surfaces, keycaps",
+    "Оформили карточки товарів із галереєю фото, ціною, знижкою, акордеоном характеристик і комплектації": "Built product cards with a photo gallery, price, discount, and an accordion for specs and box contents",
+    "Переглянути сайт": "Visit site",
+    "Передбачили різні способи оплати, включно з онлайн-оплатою": "Supported multiple payment options, including online checkout",
+    "Побудували головну сторінку як продажну воронку: від першого екрану до каталогу і кнопки замовлення": "Built the homepage as a sales funnel: from the first screen to the catalog to the order button",
+    "Підключили Sanity CMS - команда бренду самостійно керує каталогом і оновлює товари": "Wired up Sanity CMS — the brand's team runs the catalog and updates products themselves",
+    "Реалізували кошик і повний процес оформлення покупки на сайті": "Built the cart and the full on-site checkout flow",
+    "Результат після *запуску сайту*": "Result after the *site launched*",
+    "Роботою дуже задоволений, все швидко та на найвищому рівні як завжди\nСайт працює дуже швидко, адмінкою користуватися максимально зручно\nІндексуємося за нашими цільовими запитами в топі гугла": "Very happy with the work — fast and top-tier as always.\nThe site is fast and the admin is a joy to use.\nWe're ranking at the top of Google for our target queries.",
+    "Розробили e-commerce сайт для gaming-бренду з нуля": "Built an e-commerce site for a gaming brand from scratch",
+    "Розробка сайту стала початком комплексної роботи з брендом: паралельно розробляємо продуктові упаковки для мишок, клавіатур та інших девайсів і продовжуємо цю співпрацю на постійній основі": "The site build was the start of a broader relationship with the brand: we're designing product packaging for the mice, keyboards, and other devices in parallel, and the work continues on an ongoing basis",
+    "Сайт мав підсилити довіру до бренду через структуру, візуал і зрозумілу логіку покупки": "The site had to reinforce brand trust through structure, visuals, and a clear purchase flow",
+    "Створили каталог із 8 категоріями товарів і позначками «Новинка», «Топ продажів», «Акція»": "Built the catalog across 8 product categories with \"New,\" \"Bestseller,\" and \"Deal\" badges",
+    "Шлях від інтересу до замовлення мав бути коротким — без зайвих кроків і переходів": "The path from interest to order had to be short — no extra steps or hops",
+    "Що *було*": "What *was*",
+    "Що ми *зробили*": "What we *did*",
+    "категорій у каталозі": "categories in the catalog",
+    "кліки до замовлення": "clicks to order",
+    "напрями роботи: сайт + упаковка": "work streams: site + packaging",
+    "після запуску сайту": "after the site launched",
+    "↑ продажі після запуску сайту · 8 категорій у каталозі · 2 кліки до замовлення · 2 напрями роботи: сайт + упаковка": "↑ sales after the site launched · 8 catalog categories · 2 clicks to order · 2 work streams: site + packaging"
+  },
+  "overrides": {
+    "hero.heroImage.alt": {
+      "uk": "Сайт Kondor Device на ноутбуці і телефоні",
+      "en": "Kondor Device website shown on laptop and phone"
+    },
+    "sections[_key==\"sec6\"].image.alt": {
+      "uk": "Kondor Device до запуску нового сайту",
+      "en": "Kondor Device before the new site launched"
+    },
+    "sections[_key==\"sec9\"].image.alt": {
+      "uk": "Нова головна сторінка сайту Kondor Device з каталогом і кнопкою замовлення",
+      "en": "Kondor Device's new homepage with catalog and order button"
+    },
+    "sections[_key==\"sech\"].image.alt": {
+      "uk": "Мобільна версія сайту Kondor Device",
+      "en": "Kondor Device website on mobile"
+    },
+    "sections[_key==\"sech\"].image2.alt": {
+      "uk": "Десктопна версія сайту Kondor Device",
+      "en": "Kondor Device website on desktop"
+    }
+  },
+  "portableText": {
+    "sections[_key==\"sec6\"].bodyEn": [
+      [
+        "Kondor Device is a product brand with its own device lineup and an audience that compares models, reads specs, and looks for specific solutions. Without a real e-commerce site, the brand couldn't convert that interest into sales."
+      ]
+    ],
+    "sections[_key==\"sec9\"].bodyEn": [
+      [
+        "We built an e-commerce site on Next.js + Sanity CMS with a full storefront structure. Every block does one job: help the user find a product, compare options, and place an order."
+      ]
+    ],
+    "sections[_key==\"sech\"].bodyEn": [
+      [
+        "After launch the site became a real sales channel for Kondor Device. The brand got more than a storefront — an e-commerce tool that walks the user from first contact with the product to a placed order. With a clear catalog structure, detailed product cards, and a short path to purchase, sales rose noticeably — the site directly moved the brand's commercial numbers. The relationship grew past the site: the brand continues working with us on packaging for new products, which is a signal of trust in our approach and design quality overall."
+      ]
+    ]
+  }
+}

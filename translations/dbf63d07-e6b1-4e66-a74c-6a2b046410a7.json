@@ -1,0 +1,85 @@
+{
+  "_meta": {
+    "docId": "dbf63d07-e6b1-4e66-a74c-6a2b046410a7",
+    "_type": "caseStudy",
+    "slug": "le-muse-nature",
+    "voice": "Direct American English. Premium dermatocosmetic brand voice: clinical, evidence-aware, no superlatives. Preserve brand name with apostrophe (Le'Muse Nature)."
+  },
+  "strings": {
+    "/ CASE STUDY": "/ CASE STUDY",
+    "/ CHALLENGE": "/ CHALLENGE",
+    "/ OUTCOME": "/ OUTCOME",
+    "/ SOLUTION": "/ SOLUTION",
+    "3 аудиторії: чоловіки, жінки, діти · 7 категорій каталогу · 8+ блоків довіри, інгредієнтів і бренду · 0 зайвих кроків до покупки або консультації": "3 audiences: men, women, children · 7 catalog categories · 8+ trust, ingredient, and brand blocks · 0 extra steps to purchase or consultation",
+    "6 тижнів": "6 weeks",
+    "Le'Muse Nature": "Le'Muse Nature",
+    "Le'Muse Nature — e-commerce сайт для українського бренду дерматокосметики": "Le'Muse Nature — e-commerce site for a Ukrainian dermatocosmetic brand",
+    "Le'Muse Nature — преміальний український інноваційний бренд дерматокосметики: сироватки, добавки, вітаміни, активатори для вій і брів, шампуні, кондиціонери та пілінги на основі фітопептидних формул і клінічних досліджень. Ми розробили e-commerce платформу, яка допомагає бренду не просто продавати товари, а пояснювати їхню цінність, будувати довіру через інгредієнти й науковий підхід і вести користувача до покупки або безкоштовної консультації зі спеціалістом.": "Le'Muse Nature is a premium Ukrainian dermatocosmetic brand: serums, supplements, vitamins, lash and brow activators, shampoos, conditioners, and peels built on phytopeptide formulas and clinical research. We built an e-commerce platform that helps the brand do more than sell — it explains the value of each product, earns trust through ingredients and a science-led approach, and guides the user toward either a purchase or a free consultation with a specialist.",
+    "Інтегрували консультацію зі спеціалістом через Telegram як безкоштовний шлях до персонального вибору продукту": "Wired up the specialist consultation through Telegram as a free path to a personalized product choice",
+    "Бренду потрібен був сайт, який поєднує e-commerce, експертність і преміальну візуальну подачу": "The brand needed a site that combines e-commerce, expertise, and premium visual presentation",
+    "Головна задача — не просто вітрина товарів, а інструмент продажів, довіри й експертного позиціонування бренду": "The core task — not just a product display, but a sales tool that builds trust and positions the brand as an expert",
+    "Для дерматокосметики критично важливі довіра, пояснення складу, механізм дії та можливість отримати консультацію": "For dermatocosmetics, trust is critical — along with explaining the ingredients, the mechanism of action, and the ability to get a consultation",
+    "Додали Instagram-блок для підтримки живої комунікації з аудиторією": "Added an Instagram block to support live communication with the audience",
+    "Додали блок про особливості бренду: синергія науки і природи, клінічна ефективність, безпечна формула, українське виробництво": "Added a brand-specifics block: science-and-nature synergy, clinical efficacy, safe formula, Ukrainian manufacturing",
+    "Додали розділ «Про бренд» із місією, складом та причинами, чому лікарі обирають Le'Muse Nature": "Added an \"About the brand\" section with the mission, formulation philosophy, and why physicians choose Le'Muse Nature",
+    "Засновниця бренду": "Brand founder",
+    "Зручна навігація, зрозумілі розділи та приємний дизайн. Користуватися сайтом справді комфортно.": "Easy navigation, clear sections, a pleasant design. The site is genuinely comfortable to use.",
+    "Каталог мав бути структурований за категоріями товарів і сценаріями вибору: для чоловіків, жінок і дітей": "The catalog had to be structured by product category and by selection scenario: for men, for women, and for children",
+    "Користувач має швидко зрозуміти, який продукт підходить саме йому — за категорією, аудиторією або ефектом": "The user should quickly figure out which product fits — by category, audience, or effect",
+    "Окремо винесли сценарії вибору для трьох аудиторій: чоловіки, жінки, діти": "Surfaced selection scenarios for three audiences separately: men, women, children",
+    "Оформили блок бестселерів із назвою, ціною, об'ємом і коротким описом дії продукту": "Built the bestsellers block with name, price, volume, and a short description of what each product does",
+    "Переглянути сайт": "Visit site",
+    "Передбачили сторінки доставки й оплати, повернення та публічного договору": "Set up dedicated pages for shipping and payment, returns, and the public offer agreement",
+    "Побудували головну сторінку як структуру довіри та продажів: категорії, бестселери, бренд, інгредієнти, консультація": "Built the homepage as a trust-plus-sales structure: categories, bestsellers, brand, ingredients, consultation",
+    "Продумали товарні картки з ціною, знижкою, об'ємом і ключовими властивостями": "Designed product cards with price, discount, volume, and key properties",
+    "Результат": "Result",
+    "Сайт мав підтримувати кілька сценаріїв користувача: купити, вивчити склад, дізнатися про бренд, отримати консультацію": "The site had to support several user paths: buy, study the ingredients, learn about the brand, or get a consultation",
+    "Створили каталог із 7 категоріями: добавки, активатори для вій і брів, сироватки, вітаміни, шампуні, кондиціонери, пілінги": "Built the catalog across 7 categories: supplements, lash and brow activators, serums, vitamins, shampoos, conditioners, peels",
+    "Створили окремий блок інгредієнтів із фото, назвою та поясненням дії кожного компонента — для підсилення експертності": "Built a dedicated ingredients block with photo, name, and an explanation of how each component works — reinforcing expertise",
+    "Що *було*": "What *was*",
+    "Що ми *зробили*": "What we *did*",
+    "аудиторії: чоловіки, жінки, діти": "audiences: men, women, children",
+    "блоків довіри, інгредієнтів і бренду": "trust, ingredient, and brand blocks",
+    "зайвих кроків до покупки або консультації": "extra steps to purchase or consultation",
+    "категорій каталогу": "catalog categories"
+  },
+  "overrides": {
+    "hero.heroImage.alt": {
+      "uk": "Сайт Le'Muse Nature на ноутбуці і телефоні",
+      "en": "Le'Muse Nature website shown on laptop and phone"
+    },
+    "sections[_key==\"sec6\"].image.alt": {
+      "uk": "Le'Muse Nature до запуску нового сайту",
+      "en": "Le'Muse Nature before the new site launched"
+    },
+    "sections[_key==\"sec9\"].image.alt": {
+      "uk": "Нова головна сторінка сайту Le'Muse Nature з категоріями, бестселерами і блоком інгредієнтів",
+      "en": "Le'Muse Nature's new homepage with categories, bestsellers, and the ingredients block"
+    },
+    "sections[_key==\"sech\"].image.alt": {
+      "uk": "Мобільна версія сайту Le'Muse Nature",
+      "en": "Le'Muse Nature website on mobile"
+    },
+    "sections[_key==\"sech\"].image2.alt": {
+      "uk": "Десктопна версія сайту Le'Muse Nature",
+      "en": "Le'Muse Nature website on desktop"
+    }
+  },
+  "portableText": {
+    "sections[_key==\"sec6\"].bodyEn": [
+      [
+        "Le'Muse Nature sells a considered product: users don't buy a serum or a supplement on impulse. They need to understand the formulation, the mechanism of action, who the product is for, and why this brand specifically. Without the right site structure, that value is lost and the sale doesn't happen."
+      ]
+    ],
+    "sections[_key==\"sec9\"].bodyEn": [
+      [
+        "We built an e-commerce site for a premium dermatocosmetic brand, focused on trust, a guided selection flow, and a clear path to purchase or consultation. Every block does one job — explains the product's value, removes a doubt, or drives an action."
+      ]
+    ],
+    "sections[_key==\"sech\"].bodyEn": [
+      [
+        "Le'Muse Nature got a full e-commerce platform where every site element works to sell through trust. A user can land, grasp what the brand stands for, find the right category, study the ingredients, browse bestsellers, then move on to a purchase or a free specialist consultation — all in one place, no extra steps. The structure supports not just today's sales but the brand's long-term positioning as expert and premium."
+      ]
+    ]
+  }
+}
