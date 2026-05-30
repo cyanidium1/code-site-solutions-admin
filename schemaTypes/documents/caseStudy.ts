@@ -86,22 +86,11 @@ export const caseStudy = defineType({
       name: 'country',
       title: 'Країна (для фільтра /portfolio)',
       description:
-        'Нормалізована країна — обирається зі списку. Використовується для фільтра на /portfolio. ' +
+        'Посилання на запис у Options → Countries. Slug цього запису потрапляє у фільтр URL (?country=…). ' +
         'Поле "region" лишається free-text для відображення (місто + країна).',
-      type: 'string',
+      type: 'reference',
+      to: [{type: 'countryOption'}],
       group: 'meta',
-      options: {
-        list: [
-          {title: 'Україна', value: 'UA'},
-          {title: 'Denmark', value: 'DK'},
-          {title: 'USA', value: 'US'},
-          {title: 'Poland', value: 'PL'},
-          {title: 'Germany', value: 'DE'},
-          {title: 'United Kingdom', value: 'UK'},
-          {title: 'Other / EU', value: 'EU'},
-        ],
-        layout: 'dropdown',
-      },
     }),
     defineField({
       name: 'year',
@@ -122,18 +111,10 @@ export const caseStudy = defineType({
       name: 'budgetBucket',
       title: 'Бюджет — bucket (для фільтра /portfolio)',
       description:
-        'Нормалізований бакет бюджету для фільтра. Має відповідати BUDGET_OPTS_BY_LOCALE у фронті.',
-      type: 'string',
+        'Посилання на запис у Options → Price buckets. Slug цього запису потрапляє у фільтр URL (?budget=…).',
+      type: 'reference',
+      to: [{type: 'budgetBucketOption'}],
       group: 'meta',
-      options: {
-        list: [
-          {title: 'До $3k', value: 'lt3k'},
-          {title: '$3–7k', value: '3-7k'},
-          {title: '$7–15k', value: '7-15k'},
-          {title: '$15k+', value: 'gt15k'},
-        ],
-        layout: 'dropdown',
-      },
     }),
     defineField({
       name: 'stack',
