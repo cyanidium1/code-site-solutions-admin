@@ -1,0 +1,102 @@
+{
+  "_meta": {
+    "docId": "24ac5799-3754-49a3-ac77-4904124d6be6",
+    "_type": "caseStudy",
+    "slug": "solide-renovation",
+    "voice": "Direct American English. High-end renovation contractor voice (Nice / French Riviera). Designer-led, premium positioning. Source site runs in RU + EN + FR — the case-study copy itself is the brand's external pitch."
+  },
+  "strings": {
+    "*Зручна адмін панель* для додавання контенту на сайт": "*Easy admin panel* for adding content to the site",
+    "/ CASE STUDY": "/ CASE STUDY",
+    "/ CHALLENGE": "/ CHALLENGE",
+    "/ CMS": "/ CMS",
+    "/ OUTCOME": "/ OUTCOME",
+    "/ SOLUTION": "/ SOLUTION",
+    "3 мови: RU, EN, FR · 1 калькулятор для оцінки ремонту · 13+ напрямів послуг · 1 SEO-структура під локальний пошук": "3 languages: RU, EN, FR · 1 renovation-estimate calculator · 13+ service lines · 1 SEO structure tuned for local search",
+    "6 тижнів": "6 weeks",
+    "SEO-структура під локальний пошук": "SEO structure tuned for local search",
+    "Solide Renovation": "Solide Renovation",
+    "Solide Renovation - сайт для компанії з дизайнерського ремонту під ключ": "Solide Renovation — site for a turnkey designer-led renovation firm",
+    "Solide Renovation — компанія, яка займається дизайнерським ремонтом під ключ у Ніцці та на Лазурному Березі: від косметичного оновлення до повної реконструкції вілл і квартир. Ми розробили продаючу digital-структуру для послуги з високим чеком — де користувач швидко бачить рівень робіт, розуміє спектр послуг, може попередньо оцінити ремонт через калькулятор і залишити заявку на консультацію. Сайт працює не як онлайн-візитка, а як інструмент залучення клієнтів через довіру, портфоліо та зрозумілу структуру.": "Solide Renovation is a turnkey designer-led renovation firm operating in Nice and across the French Riviera: from light cosmetic refreshes to full villa and apartment reconstructions. We built a conversion-driven digital structure for a high-ticket service — where the user quickly sees the level of work, understands the scope of services, can get a rough renovation estimate through a calculator, and submits a consultation request. The site isn't an online business card; it's a client-acquisition tool built on trust, portfolio, and a clear structure.",
+    "Бізнес працює з дорогою послугою, де рішення приймається не імпульсивно": "The business sells an expensive service that buyers don't decide on impulse",
+    "Важливо було знизити бар'єр перед зверненням: дати клієнту можливість попередньо оцінити свій запит": "We had to lower the barrier to inquiry: give the client a way to rough-size their job up front",
+    "Великий перелік послуг потрібно було чітко структурувати": "The long service list needed clear structuring",
+    "Головна задача — сайт, який продає через довіру, структуру, портфоліо і зручний шлях до заявки": "The core task — a site that sells through trust, structure, portfolio, and a frictionless path to inquiry",
+    "Додали форму заявки з відправкою звернень у Telegram — короткий шлях від зацікавленості до контакту": "Added an inquiry form that sends submissions to Telegram — a short path from interest to contact",
+    "Засновник компанії": "Company founder",
+    "Змінювати зображення та додавати нові фото": "Swap images and add new photos",
+    "Змінювати порядок елементів через drag & drop": "Reorder elements via drag-and-drop",
+    "Зробили візуальну подачу, яка відповідає ніші преміального ремонту": "Built a visual presentation that fits the premium-renovation segment",
+    "Керувати товарами, послугами, цінами, статтями, кейсами та відгуками": "Manage products, services, prices, articles, cases, and reviews",
+    "Керувати тільки потрібними розділами без ризику зламати дизайн сайту": "Edit only the sections you need without risking the site's design",
+    "Компанія працює з різними мовними аудиторіями у Франції — це потрібно було врахувати в структурі сайту": "The company serves several language audiences in France — the site structure had to reflect that",
+    "Користувачу важливо побачити реальні проєкти до першого звернення": "The user needs to see real projects before the first inquiry",
+    "Оформили портфоліо з реальними проєктами — вілли, квартири, ванні кімнати, реставрації — як головний блок довіри": "Built a portfolio of real projects — villas, apartments, bathrooms, restorations — as the main trust block",
+    "Переглянути сайт": "Visit site",
+    "Передбачили кілька CTA на різних рівнях сторінки": "Placed several CTAs at different page levels",
+    "Побудували головну сторінку як продаючу структуру: перший екран із позиціонуванням і CTA, послуги, портфоліо, переваги, підхід і повторний CTA": "Built the homepage as a sales structure: first screen with positioning and a CTA, services, portfolio, advantages, approach, and a second CTA",
+    "Працювати з адмінкою навіть з телефону": "Run the admin even from a phone",
+    "Продумали SEO-структуру під локальне просування: окремі сторінки послуг, портфоліо, блог, зрозуміла структура URL": "Designed the SEO structure around local promotion: dedicated service pages, portfolio, blog, clean URL structure",
+    "Реалізували калькулятор для попередньої оцінки ремонту — користувач може сформувати орієнтовний запит ще до консультації": "Built a calculator for a rough renovation estimate — the user can shape an initial request before the consultation",
+    "Реалізували мультимовність сайту: RU, EN та FR для роботи з різними аудиторіями клієнтів у Франції": "Built the multilingual site: RU, EN, and FR to serve the different client audiences in France",
+    "Редагувати SEO-поля для сторінок": "Edit SEO fields on every page",
+    "Редагувати тексти, заголовки та кнопки": "Edit copy, headings, and buttons",
+    "Результат": "Result",
+    "Сайт мав пояснювати підхід компанії: від ідеї до здачі об'єкту": "The site had to explain the company's approach: from concept to project handover",
+    "Структурували 13+ напрямів послуг: косметичний ремонт, капітальний ремонт, повне супроводження та інші": "Structured 13+ service lines: light cosmetic remodel, gut renovation, full project management, and more",
+    "Хочу сказати велике спасибі. Все працює, все налаштовано.": "Big thanks. Everything works, everything's set up.",
+    "Що *було*": "What *was*",
+    "Що ми *зробили*": "What we *did*",
+    "калькулятор для оцінки ремонту": "renovation-estimate calculator",
+    "мови: RU, EN, FR": "languages: RU, EN, FR",
+    "напрямів послуг": "service lines"
+  },
+  "overrides": {
+    "hero.heroImage.alt": {
+      "uk": "Сайт Solide Renovation на ноутбуці і телефоні",
+      "en": "Solide Renovation website shown on laptop and phone"
+    },
+    "sections[_key==\"sec6\"].image.alt": {
+      "uk": "Solide Renovation до запуску нового сайту",
+      "en": "Solide Renovation before the new site launched"
+    },
+    "sections[_key==\"sec9\"].image.alt": {
+      "uk": "Нова головна сторінка сайту Solide Renovation з послугами, портфоліо і калькулятором",
+      "en": "Solide Renovation's new homepage with services, portfolio, and the estimate calculator"
+    },
+    "sections[_key==\"sech\"].image.alt": {
+      "uk": "Мобільна версія сайту Solide Renovation",
+      "en": "Solide Renovation website on mobile"
+    },
+    "sections[_key==\"sech\"].image2.alt": {
+      "uk": "Десктопна версія сайту Solide Renovation",
+      "en": "Solide Renovation website on desktop"
+    },
+    "sections[_key==\"fd187ec9f59b\"].image.alt": {
+      "uk": "Адмін-панель Sanity CMS на сайті Solide Renovation",
+      "en": "Sanity CMS admin panel on the Solide Renovation site"
+    }
+  },
+  "portableText": {
+    "sections[_key==\"sec6\"].bodyEn": [
+      [
+        "For a high-ticket renovation firm, a plain business-card site doesn't work. The client doesn't decide on impulse — they look for proof of the work's quality, study the approach, and want to see real projects before the first call. Without the right structure, even a strong team stays invisible to the prospective client."
+      ]
+    ],
+    "sections[_key==\"sec9\"].bodyEn": [
+      [
+        "We built the site for a turnkey designer-led renovation firm, focused on trust, portfolio, and a clear path to inquiry. Every block does one job: show the level of work, explain the services, pull the user into interaction, and drive them to a consultation."
+      ]
+    ],
+    "sections[_key==\"fd187ec9f59b\"].bodyEn": [
+      [
+        "We set the client up with a Sanity-CMS admin panel they can run themselves without constantly reaching out to a developer. The interface works on a phone, so changes happen fast: update copy, swap an image, add a new page, or reorder blocks.\n\nIn the admin you can:"
+      ]
+    ],
+    "sections[_key==\"sech\"].bodyEn": [
+      [
+        "Solide Renovation got a full digital tool that matches the level of the firm and the niche. The site shows the scale and quality of the work through the portfolio up front, explains the services and the approach, pulls the user in through the calculator, and drives them to an inquiry through the form or a messenger. The multilingual setup covers the firm's different client audiences in France, and the SEO structure lays the groundwork for local search promotion."
+      ]
+    ]
+  }
+}

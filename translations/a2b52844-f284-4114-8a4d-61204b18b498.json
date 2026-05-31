@@ -1,0 +1,90 @@
+{
+  "_meta": {
+    "docId": "a2b52844-f284-4114-8a4d-61204b18b498",
+    "_type": "caseStudy",
+    "slug": "mono-pools",
+    "voice": "Direct American English. Manufacturer / construction voice: factual, results-focused, no superlatives. Composite-pool industry terminology (factory, turnkey, installation)."
+  },
+  "strings": {
+    "/ CASE STUDY": "/ CASE STUDY",
+    "/ CHALLENGE": "/ CHALLENGE",
+    "/ OUTCOME": "/ OUTCOME",
+    "/ SOLUTION": "/ SOLUTION",
+    "6 тижнів": "6 weeks",
+    "Google по цільових запитах": "Google on target queries",
+    "Mono Pools": "Mono Pools",
+    "Mono Pools - сайт для виробника композитних басейнів в Україні": "Mono Pools — site for a composite-pool manufacturer in Ukraine",
+    "Mono Pools - український виробник композитних басейнів із власним заводом у Дніпрі. Розробили сайт на Next.js з продаючою структурою, каталогом моделей і SEO-просуванням під комерційні запити по всій Україні.": "Mono Pools is a Ukrainian composite-pool manufacturer with its own factory in Dnipro. We built a Next.js site with a conversion-driven structure, a model catalog, and SEO targeting commercial queries across Ukraine.",
+    "SEO-структура допомогла вийти в Top-1 / Top-2 Google за цільовими запитами приблизно за 2 місяці після запуску": "The SEO structure took the site to Top-1 / Top-2 on Google for target queries within about 2 months of launch",
+    "Top-1 / Top-2 Google по цільових запитах · ~2 місяці від запуску до позицій у пошуку · 6 розділів: каталог, доставка, блог, проєкти, про компанію, CTA · 0 платних плагінів — custom code на Next.js": "Top-1 / Top-2 Google for target queries · ~2 months from launch to search-ranking results · 6 sections: catalog, shipping, blog, projects, about, CTA · 0 paid plugins — custom code on Next.js",
+    "Блог посилює органічне просування через інформаційні запити": "The blog reinforces organic growth through informational queries",
+    "Блін ну кайф же з вами працювати, чому одразу не зробив це": "Working with you is a blast — why didn't I do this sooner",
+    "Власник компанії": "Company owner",
+    "Дніпро, Україна": "Dnipro, Ukraine",
+    "Додали блог для збору інформаційного трафіку і прогріву клієнта до покупки": "Added a blog to capture informational traffic and warm the client toward a purchase",
+    "Додали блоки довіри: переваги компанії, покроковий процес роботи, реалізовані проєкти, відгуки клієнтів": "Added trust blocks: company advantages, step-by-step process, completed projects, client reviews",
+    "Дорогий продукт із довгим циклом прийняття рішення": "Expensive product with a long decision cycle",
+    "Завдання: не просто презентувати компанію, а створити інструмент для продажів і SEO-просування": "The task: not just present the company, but build a sales-and-SEO tool",
+    "Запити типу «композитний басейн», «басейн під ключ», «купити басейн ціна» мають комерційний намір — їх потрібно перехоплювати": "Queries like \"composite pool,\" \"turnkey pool,\" \"buy a pool price\" have commercial intent — they need to be captured",
+    "Зробили окремі сторінки під ключові розділи: каталог, доставка, про компанію, блог": "Built dedicated pages for the key sections: catalog, shipping, about, blog",
+    "Зробили перший екран із чітким офером, цифрами довіри і CTA": "Built the first screen with a clear offer, trust numbers, and a CTA",
+    "Каталог і посадкові сторінки збирають комерційний трафік по конкретних запитах": "The catalog and landing pages collect commercial traffic on specific queries",
+    "Оформили каталог 13+ моделей із розмірами, цінами і кнопками дії — щоб користувач міг вибрати без дзвінка": "Built the catalog of 13+ models with dimensions, prices, and action buttons — so the user can choose without picking up the phone",
+    "Переглянути сайт": "Visit site",
+    "Побудували структуру головної сторінки як повноцінну воронку продажів": "Built the homepage as a full sales funnel",
+    "Покупцю важливо одразу бачити ціну, гарантію, процес монтажу та приклади реалізованих проєктів": "Buyers need to see price, warranty, installation process, and completed-project examples up front",
+    "Продумали SEO-структуру: мета-теги, H1–H3, SEO-тексти під комерційні запити": "Designed the SEO structure: meta tags, H1–H3, SEO copy targeting commercial queries",
+    "Результат через *2 місяці після запуску*": "Result *2 months after launch*",
+    "Розробили сайт на Next.js — без плагінів, з чистою технічною основою для SEO": "Built the site on Next.js — no plugins, a clean technical base for SEO",
+    "Розставили CTA на всіх рівнях сторінки — заявка або перехід у каталог у будь-який момент": "Placed CTAs at every level of the page — inquire or jump to the catalog at any point",
+    "Сайт працює як інструмент продажів: структура, каталог і контент закривають питання покупця самостійно": "The site works as a sales tool: structure, catalog, and content answer the buyer's questions on their own",
+    "Сайт підтримує довіру через цифри, проєкти, відгуки і зрозумілий процес роботи": "The site reinforces trust through numbers, projects, reviews, and a clear process",
+    "Структура сторінки веде користувача від першого знайомства з продуктом до заявки": "The page structure leads the user from first contact with the product to inquiry",
+    "У ніші є стабільний попит із Google, але без SEO-структури сайт не збирає цей трафік": "The niche has steady Google demand, but without an SEO structure the site doesn't capture that traffic",
+    "Що *було*": "What *was*",
+    "Що ми *зробили*": "What we *did*",
+    "Як ми переробили сайт виробника композитних басейнів. Top-1 / Top-2 Google по цільових запитах · ~2 місяці від запуску до позицій у пошуку · 6 розділів: каталог, доставка, блог, проєкти, про компанію, CTA · 0 платних плагінів — custom code на Next.js": "How we rebuilt a composite-pool manufacturer's site. Top-1 / Top-2 Google for target queries · ~2 months from launch to search-ranking results · 6 sections: catalog, shipping, blog, projects, about, CTA · 0 paid plugins — custom code on Next.js",
+    "від запуску до позицій у пошуку": "from launch to search-ranking results",
+    "платних плагінів — custom code на Next.js": "paid plugins — custom code on Next.js",
+    "розділів: каталог, доставка, блог, проєкти, про компанію, CTA": "sections: catalog, shipping, blog, projects, about, CTA"
+  },
+  "overrides": {
+    "hero.heroImage.alt": {
+      "uk": "Сайт Mono Pools на ноутбуці і телефоні",
+      "en": "Mono Pools website shown on laptop and phone"
+    },
+    "sections[_key==\"sec6\"].image.alt": {
+      "uk": "Mono Pools до запуску нового сайту",
+      "en": "Mono Pools before the new site launched"
+    },
+    "sections[_key==\"sec9\"].image.alt": {
+      "uk": "Нова головна сторінка сайту Mono Pools із каталогом моделей і блоками довіри",
+      "en": "Mono Pools' new homepage with the model catalog and trust blocks"
+    },
+    "sections[_key==\"sech\"].image.alt": {
+      "uk": "Мобільна версія сайту Mono Pools",
+      "en": "Mono Pools website on mobile"
+    },
+    "sections[_key==\"sech\"].image2.alt": {
+      "uk": "Десктопна версія сайту Mono Pools",
+      "en": "Mono Pools website on desktop"
+    }
+  },
+  "portableText": {
+    "sections[_key==\"sec6\"].bodyEn": [
+      [
+        "A pool is an expensive purchase. The buyer takes their time — comparing options, looking up prices, reading about warranties, reviewing past projects. Without the right structure, a site can't sell in this niche."
+      ]
+    ],
+    "sections[_key==\"sec9\"].bodyEn": [
+      [
+        "We built the site from scratch on Next.js with a structure that walks the user from the first screen to an inquiry. Every block does one job — sales, trust, or SEO."
+      ]
+    ],
+    "sections[_key==\"sech\"].bodyEn": [
+      [
+        "The site became a full client-acquisition channel — not just a business card. The user gets answers to the key questions before the first call."
+      ]
+    ]
+  }
+}

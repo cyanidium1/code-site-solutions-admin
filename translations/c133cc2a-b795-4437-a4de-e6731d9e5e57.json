@@ -1,0 +1,84 @@
+{
+  "_meta": {
+    "docId": "c133cc2a-b795-4437-a4de-e6731d9e5e57",
+    "_type": "caseStudy",
+    "slug": "bravo",
+    "voice": "Direct American English. Food-delivery brand voice: warm, brand-forward, no jargon. Preserves all stock alt-text strings as-is (those are upstream content issues, not translation issues)."
+  },
+  "strings": {
+    "/ CASE STUDY": "/ CASE STUDY",
+    "/ CHALLENGE": "/ CHALLENGE",
+    "/ OUTCOME": "/ OUTCOME",
+    "/ SOLUTION": "/ SOLUTION",
+    "1 розробка айдентики · 2 напрями роботи: сайт + меню · 5 ключових розділів: меню, доставка, про бренд, блог, контакти · 3 комерційні акценти: акції, переваги, CTA": "1 identity build · 2 work streams: site + menu · 5 key sections: menu, delivery, about the brand, blog, contacts · 3 commercial accents: promotions, benefits, CTA",
+    "6 тижнів": "6 weeks",
+    "Bravo": "Bravo",
+    "Bravo — бренд доставки страв на мангалі у Броварах. Ми розробили сайт із продаючою маркетинговою структурою та дизайн меню як окремий візуальний матеріал — щоб сайт і меню працювали як єдина система: зрозуміла презентація страв, акційні позиції, умови доставки та швидкий шлях до замовлення. Для food-бізнесу це не просто сайт-візитка, а комплексна digital-упаковка бренду.": "Bravo is a grill-food delivery brand in Brovary. We built the website with a conversion-driven marketing structure and the menu design as a separate visual asset — so the site and the menu work as one system: clear dish presentation, featured deals, delivery terms, and a short path to ordering. For a food business this isn't a business-card site — it's full digital packaging for the brand.",
+    "Bravo — сайт і дизайн меню для бренду доставки їжі": "Bravo — website and menu design for a food-delivery brand",
+    "Бренду потрібна була зрозуміла digital-презентація для доставки їжі": "The brand needed a clear digital presentation for food delivery",
+    "Власниця ресторану": "Restaurant owner",
+    "Головна задача — створити єдину систему: сайт, меню, візуальна подача і шлях до замовлення": "The core task — build one system: website, menu, visual presentation, and a path to ordering",
+    "Для food-бізнесу важливо одразу показати страви, акції, умови доставки та переваги": "For a food business it's critical to show dishes, promotions, delivery terms, and benefits up front",
+    "Додали CTA «Зробити замовлення» і «Переглянути меню» на ключових рівнях сторінки": "Added \"Order now\" and \"View the menu\" CTAs at the key page levels",
+    "Додали сторінку «Про нас» для підсилення довіри до бренду": "Added an \"About us\" page to reinforce brand trust",
+    "Користувач має швидко перейти від першого екрану до меню": "The user should jump from the first screen straight to the menu",
+    "Окремо потрібно було розробити дизайн меню, який підтримує стиль бренду": "We also needed a separate menu design that holds the brand style",
+    "Оформили блок акційних товарів для просування пріоритетних позицій": "Built a deals block to promote the priority items",
+    "Переглянути сайт": "Visit site",
+    "Передбачили блог як SEO інструмент": "Set up the blog as an SEO tool",
+    "Побудували першу сторінку як продаючу структуру: сильний перший екран із CTA, акційні товари, блок переваг і перехід до меню": "Built the first page as a sales structure: a strong first screen with a CTA, deals, a benefits block, and a hop to the menu",
+    "Продумали сторінку умов доставки з ключовою інформацією для клієнта": "Designed the delivery-terms page with the key info a customer needs",
+    "Результат": "Result",
+    "Розробили блок переваг бренду: швидка доставка, нешкідливе приготування, безкоштовна доставка": "Built the brand-benefits block: fast delivery, clean cooking, free delivery",
+    "Розробили дизайн меню як окремий візуальний матеріал бренду": "Designed the menu as a separate brand visual asset",
+    "Розробили сайт для бренду доставки їжі": "Built a site for a food-delivery brand",
+    "Сайт мав працювати не як проста візитка, а як інструмент для переходу до замовлення": "The site had to work as an ordering tool, not a plain business card",
+    "Сайт супер! Дякуємо\nНапишіть мені, і я нагодую вас найсмачнішою шаурмою за наш рахунок!": "The site rocks! Thank you.\nMessage me — I'll feed you the best shawarma in town, on the house!",
+    "Створили окрему сторінку меню з усіма стравами": "Built a dedicated menu page with every dish",
+    "Що *було*": "What *was*",
+    "Що ми *зробили*": "What we *did*",
+    "ключових розділів: меню, доставка, про бренд, блог, контакти": "key sections: menu, delivery, about the brand, blog, contacts",
+    "комерційні акценти: акції, переваги, CTA": "commercial accents: promotions, benefits, CTA",
+    "напрями роботи: сайт + меню": "work streams: site + menu",
+    "розробка айдентики": "identity build"
+  },
+  "overrides": {
+    "hero.heroImage.alt": {
+      "uk": "Сайт Bravo на ноутбуці і телефоні",
+      "en": "Bravo website shown on laptop and phone"
+    },
+    "sections[_key==\"sec6\"].image.alt": {
+      "uk": "Bravo до запуску нового сайту",
+      "en": "Bravo before the new site launched"
+    },
+    "sections[_key==\"sec9\"].image.alt": {
+      "uk": "Нова головна сторінка сайту Bravo з акційними блоками і CTA",
+      "en": "Bravo's new homepage with deal blocks and CTAs"
+    },
+    "sections[_key==\"sech\"].image.alt": {
+      "uk": "Мобільна версія сайту Bravo",
+      "en": "Bravo website on mobile"
+    },
+    "sections[_key==\"sech\"].image2.alt": {
+      "uk": "Десктопна версія сайту Bravo",
+      "en": "Bravo website on desktop"
+    }
+  },
+  "portableText": {
+    "sections[_key==\"sec6\"].bodyEn": [
+      [
+        "For a food business, just showing dishes isn't enough. The user has to quickly grasp what's on offer, why it's convenient, how delivery works, and where to tap to place an order. The brand also needed more than a website — a menu design that holds the same visual language."
+      ]
+    ],
+    "sections[_key==\"sec9\"].bodyEn": [
+      [
+        "We built the site and the menu design for the food-delivery brand. The site is structured as a conversion path where every block points the user toward the menu or an order. The menu design carries the same visual language as the site."
+      ]
+    ],
+    "sections[_key==\"sech\"].bodyEn": [
+      [
+        "Bravo got more than a website — full digital packaging for a food business. The site shows the brand's offering, deals, and benefits up front, then walks the user to the menu and the order. The menu design holds the same visual language and makes the brand's communication feel coherent — online and offline."
+      ]
+    ]
+  }
+}

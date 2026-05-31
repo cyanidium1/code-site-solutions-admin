@@ -1,0 +1,81 @@
+{
+  "_meta": {
+    "docId": "be23bea1-7127-4e1c-bddc-27b29a8d7b44",
+    "_type": "caseStudy",
+    "slug": "right-cars",
+    "voice": "Direct American English. Used-car dealership voice: practical, inventory-focused, transactional. Johannesburg / South African automotive market — terminology aligned with local industry (vehicle finance, test drive, showroom)."
+  },
+  "strings": {
+    "/ CASE STUDY": "/ CASE STUDY",
+    "/ CHALLENGE": "/ CHALLENGE",
+    "/ OUTCOME": "/ OUTCOME",
+    "/ SOLUTION": "/ SOLUTION",
+    "1 аукціон як окремий функціональний розділ · 1000+ авто у великому каталозі · 20+ фільтрів для пошуку авто · 1 особистий кабінет для користувачів сайту": "1 auction as a dedicated functional section · 1,000+ vehicles in a large catalog · 20+ filters for vehicle search · 1 user account for site visitors",
+    "6 тижнів": "6 weeks",
+    "Right Cars": "Right Cars",
+    "Right Cars — автодилер у Йоганнесбурзі, що спеціалізується на продажу вживаних автомобілів із великим каталогом і кількома сценаріями взаємодії з клієнтом. Ми розробили кастомну digital-платформу, де сайт виконує роль повноцінного інструменту продажів: пошук авто, резервування, заявка на фінансування, аукціони, тест-драйв і сервіс — усе в одній системі. Проєкт вимагав глибокого UX-опрацювання і складної backend-логіки для роботи з великим каталогом позицій.": "Right Cars is a used-vehicle dealer in Johannesburg with a large inventory and several customer touchpoints. We built a custom digital platform where the site acts as a full sales tool: vehicle search, reservation, finance application, auctions, test drives, and service — all in one system. The project needed deep UX work and complex back-end logic to handle a large inventory.",
+    "Right Cars — кастомна платформа для автодилера в Південній Африці": "Right Cars — custom platform for a vehicle dealer in South Africa",
+    "Бізнес працює з великим каталогом автомобілів, який потрібно зручно структурувати і легко оновлювати": "The business runs a large vehicle inventory that needs to be cleanly structured and easy to update",
+    "Бізнесу потрібна була не просто презентація, а система, яка обробляє попит і веде користувача до конкретної дії": "The business didn't need a brochure — it needed a system that handles demand and drives the user to a specific action",
+    "Для дорогого продукту важливо дати максимум інформації до першого дзвінка": "For an expensive product, you need to put as much information as possible in the customer's hands before the first call",
+    "Додали окремі сторінки під кожен сервіс: тест-драйв, сервісне обслуговування, доставка, FAQ": "Added dedicated pages for each service: test drive, vehicle service, delivery, FAQ",
+    "Додали сценарій онлайн-резервування автомобіля": "Added an online vehicle-reservation flow",
+    "Зробили функціональний розділ аукціонів із власною логікою": "Built a functional auctions section with its own logic",
+    "Йоганнесбург, ПАР": "Johannesburg, South Africa",
+    "Користувачі мають швидко знаходити авто за маркою, ціною, роком, пробігом, типом палива та іншими параметрами": "Users should find vehicles fast by make, price, year, mileage, fuel type, and other parameters",
+    "Переглянути сайт": "Visit site",
+    "Побудували UX-структуру з фокусом на швидкий пошук, довіру та конверсію в заявку": "Built the UX structure around fast search, trust, and conversion to inquiry",
+    "Реалізували картки автомобілів із фото, ціною, характеристиками, станом авто та CTA": "Built vehicle cards with photos, price, specs, condition, and a CTA",
+    "Реалізували кастомну адмін-панель для керування каталогом авто і контентом сайту": "Built a custom admin panel for managing the vehicle inventory and site content",
+    "Реалізували окрему сторінку та форму заявки на фінансування (vehicle finance)": "Built a dedicated page and form for vehicle-finance applications",
+    "Результат": "Result",
+    "Розробили кастомний сайт для автомобільного дилера — не шаблон, а повноцінна система": "Built a custom site for a vehicle dealer — not a template, a full system",
+    "Сайт мав підтримувати різні сценарії: пошук авто, резервування, заявка на фінансування, тест-драйв, сервіс, аукціон": "The site had to support several flows: vehicle search, reservation, finance application, test drive, service, and auction",
+    "Створили showroom із каталогом авто, категоріями та розширеними фільтрами пошуку": "Built a showroom with the vehicle catalog, categories, and advanced search filters",
+    "Що *було*": "What *was*",
+    "Що ми *зробили*": "What we *did*",
+    "для користувачів сайту": "for site visitors",
+    "для пошуку авто": "for vehicle search",
+    "у великому каталозі": "in a large catalog",
+    "як окремий функціональний розділ": "as a dedicated functional section"
+  },
+  "overrides": {
+    "hero.heroImage.alt": {
+      "uk": "Сайт Right Cars на ноутбуці і телефоні",
+      "en": "Right Cars website shown on laptop and phone"
+    },
+    "sections[_key==\"sec6\"].image.alt": {
+      "uk": "Right Cars до запуску нового сайту",
+      "en": "Right Cars before the new site launched"
+    },
+    "sections[_key==\"sec9\"].image.alt": {
+      "uk": "Нова головна сторінка сайту Right Cars із showroom і фільтрами пошуку авто",
+      "en": "Right Cars' new homepage with the showroom and vehicle-search filters"
+    },
+    "sections[_key==\"sech\"].image.alt": {
+      "uk": "Мобільна версія сайту Right Cars",
+      "en": "Right Cars website on mobile"
+    },
+    "sections[_key==\"sech\"].image2.alt": {
+      "uk": "Десктопна версія сайту Right Cars",
+      "en": "Right Cars website on desktop"
+    }
+  },
+  "portableText": {
+    "sections[_key==\"sec6\"].bodyEn": [
+      [
+        "A vehicle dealer with a large inventory can't sell effectively through a plain business-card site. Buyers take their time — comparing specs, searching by parameters, checking prices and finance terms. Without the right system, that process either happens offline or gets lost entirely."
+      ]
+    ],
+    "sections[_key==\"sec9\"].bodyEn": [
+      [
+        "We built a custom platform for the dealer from scratch — with a catalog, filters, several inquiry flows, and an admin panel for self-serve management. Every section solves a separate piece of the business."
+      ]
+    ],
+    "sections[_key==\"sech\"].bodyEn": [
+      [
+        "Right Cars got more than a refreshed site — a full digital platform for working with online demand. A buyer can now find a vehicle through the filtered catalog, study every spec on the card, reserve a vehicle, apply for finance, or book a test drive — without a phone call and without a salesperson on the first step. The dealer's team got a custom admin panel for managing the inventory and the content themselves, no developer required. The platform covers every key customer touchpoint in one system and gives the business a tool that scales with the inventory."
+      ]
+    ]
+  }
+}

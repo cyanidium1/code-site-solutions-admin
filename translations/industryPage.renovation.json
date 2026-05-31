@@ -1,0 +1,416 @@
+{
+  "_meta": {
+    "docId": "industryPage.renovation",
+    "_type": "industryPage",
+    "voice": "Direct American English. 'You / your shop / your crew' voice. US number format ($3,500). En-dash for ranges (4–10 weeks). No hype. Construction terminology: renovation contractor, GC, remodel, gut renovation, fit-out, foreman, estimator, trades. Danish SEO phrases preserved as-is.",
+    "notes": "Sibling of industryPage.medicine. Mirrors its structural patterns: hero / 3-reasons / case study / solution-architecture / services / comparison / pricing / FAQ / audit-offer. Some strings overlap word-for-word with medicine (Telegram, Bitrix24, etc.) — translations match medicine's where applicable."
+  },
+  "strings": {
+    "$12 000": "$12,000",
+    "$3 500": "$3,500",
+    "$6 500": "$6,500",
+    "**Результат:** заявки 24+ на місяць, ×6 органічного трафіку.": "**Result:** 24+ inquiries per month, 6× organic traffic.",
+    "**Результат:** заявки 3–5 на місяць, з тих що дзвонять.": "**Result:** 3–5 inquiries per month, only the ones who call.",
+    "*3D-візуалізатор* Planoplan / SweetHome3D": "*3D visualizer* Planoplan / SweetHome3D",
+    "*5+ район-сторінок* для локалу": "*5+ neighborhood pages* for local search",
+    "*CRO-перевірка*: 12 точок втрати конверсії": "*CRO audit*: 12 conversion-loss points",
+    "*SEO-аудит*: топ-50 ключових запитів вашого регіону": "*SEO audit*: top 50 keyword queries in your region",
+    "*SLA 24/7* з 4-год response time": "*24/7 SLA* with 4-hour response time",
+    "*Schema.org* LocalBusiness": "*Schema.org* LocalBusiness",
+    "*Schema.org* LocalBusiness + Service": "*Schema.org* LocalBusiness + Service",
+    "*Особистий кабінет* клієнта": "*Client portal*",
+    "*Технічний аудит*: швидкість, mobile, schema.org": "*Technical audit*: speed, mobile, Schema.org",
+    "+380 (__) ___-__-__": "+1 (___) ___-____",
+    "/ 03 ПРИЧИНИ": "/ 03 REASONS",
+    "1 рік + неустойка 30%": "1 year + 30% penalty clause",
+    "2–4 сек": "2–4s",
+    "3 причини, чому клієнти\n*не записуються* через ваш сайт": "3 reasons clients\n*don't book* through your site",
+    "3D-візуалізатор": "3D visualizer",
+    "3D-моделі окремих обʼєктів": "3D models of individual jobs",
+    "3D-проєктування": "3D design",
+    "3–5 сек": "3–5s",
+    "4 тижні": "4 weeks",
+    "6 тижнів": "6 weeks",
+    "8–10 тижнів": "8–10 weeks",
+    "< 1 сек": "< 1s",
+    "API для ERP / облікових систем": "API for ERP / accounting systems",
+    "AUDIT · 47 SITES": "AUDIT · 47 SITES",
+    "AmoCRM": "AmoCRM",
+    "BENCHMARK · 2025": "BENCHMARK · 2025",
+    "Bitrix24": "Bitrix24",
+    "CONVERSION": "CONVERSION",
+    "CRM-інтеграція | Bitrix24 · AmoCRM": "CRM integration | Bitrix24 · AmoCRM",
+    "Calendly": "Calendly",
+    "DA + EN": "DA + EN",
+    "Email для звіту": "Email for the report",
+    "GOOGLE · 2025": "GOOGLE · 2025",
+    "Galleries 3D-візуалізацій": "3D visualization galleries",
+    "Google Business Profile": "Google Business Profile",
+    "Google Business Profile + Maps": "Google Business Profile + Maps",
+    "Google Maps": "Google Maps",
+    "KeyCRM": "KeyCRM",
+    "LCP головної сторінки": "Homepage LCP",
+    "LOCAL SEO": "LOCAL SEO",
+    "LiqPay": "LiqPay",
+    "Local SEO": "Local SEO",
+    "Login через email + *2FA*": "Email login + *2FA*",
+    "Multi-tenant для філій / *ЖК*": "Multi-tenant for branches / *residential developments*",
+    "NBYG · КОПЕНГАГЕН, ДАНІЯ": "NBYG · COPENHAGEN, DENMARK",
+    "Online-калькулятор з *4 типами* дахів і ціною/м²": "Online calculator with *4 roof types* and price per m²",
+    "PERFORMANCE": "PERFORMANCE",
+    "Photo-set 5–15 зображень": "Photo set of 5–15 images",
+    "Planoplan": "Planoplan",
+    "SEO · 6 МІС.": "SEO · 6 MO",
+    "SMS-нагадування за 24 і 1 годину": "SMS reminders 24 hours and 1 hour out",
+    "SOLUTION · ARCHITECTURE": "SOLUTION · ARCHITECTURE",
+    "Sanity CMS для самостійних правок": "Sanity CMS for self-serve edits",
+    "Sanity CMS для самостійних правок *без розробника*": "Sanity CMS for self-serve edits *without a developer*",
+    "Schema.org LocalBusiness + Google Business Profile": "Schema.org LocalBusiness + Google Business Profile",
+    "SweetHome3D": "SweetHome3D",
+    "TRANSPARENCY": "TRANSPARENCY",
+    "TRUST": "TRUST",
+    "Telegram": "Telegram",
+    "Telegram, телефон або email": "Telegram, phone, or email",
+    "VISIBILITY": "VISIBILITY",
+    "VR-тур": "VR tour",
+    "VR-тур (опційно для преміум)": "VR tour (optional, Enterprise tier)",
+    "VR-тур по обʼєктах": "VR tour of projects",
+    "WayForPay": "WayForPay",
+    "Wix": "Wix",
+    "https://...": "https://...",
+    "vendor lock": "vendor lock-in",
+    "Інтеграція з *Planoplan / SweetHome3D*": "Integration with *Planoplan / SweetHome3D*",
+    "Інтеграція з 2–3 CRM/системами": "Integration with 2–3 CRM / back-office systems",
+    "Інтеграція з CRM": "CRM integration",
+    "Інтеграція з CRM — заявка падає миттєво": "CRM integration — inquiries land instantly",
+    "Або одразу пишіть у Telegram — *@fedirdev*": "Or message us on Telegram — *@fedirdev*",
+    "Адмінка через старий CMS — будь-яка зміна = *розробник*": "Admin runs on an old CMS — every change needs a *developer*",
+    "Адреса, метраж, бюджет, термін": "Address, square footage, budget, timeline",
+    "Багатомовність": "Multilingual",
+    "Багатомовність UA + RU + EN": "Multilingual UA + RU + EN",
+    "Базовий лендинг\nремонтної компанії": "Starter landing page\nfor a renovation contractor",
+    "Без зобовʼязань. Не навʼязуємо послуги. Корисно, навіть якщо вирішите працювати з іншим підрядником.": "No strings attached. No upsell. Useful even if you end up working with someone else.",
+    "Безкоштовний аудит сайту вашої ремонтної компанії": "Free audit of your renovation-contractor website",
+    "Бронювання за *2 кліки*": "Booking in *2 clicks*",
+    "Будівельна компанія *NBYG* з Копенгагена звернулася з типовою проблемою: сайт-візитка на старій CMS, який не приносить заявок і не індексується по локальним запитам. Завдання — переробити структуру під послуги, додати калькулятор і вийти в топ Google по «*nyt tag København*».": "Copenhagen contractor *NBYG* came to us with the usual problem: a business-card site on a legacy CMS that wasn't bringing in inquiries and wasn't ranking for local queries. The brief: rebuild the structure around services, add a calculator, and get to the top of Google for \"*nyt tag København*.\"",
+    "Власність на код": "Code ownership",
+    "Воронка від кліку до підписаного договору": "Funnel from first click to signed contract",
+    "Все з базового +": "Everything in Starter, plus",
+    "Все з розширеного +": "Everything in Pro, plus",
+    "Галерея «до/після»": "Before / after gallery",
+    "Галерея «до/після» | реальні об'єкти": "Before / after gallery | real projects",
+    "Галерея «до/після» з 2-col порівнянням": "Before / after gallery with 2-column comparison",
+    "Галерея обʼєктів з фільтрами": "Project gallery with filters",
+    "Гарантія": "Warranty",
+    "Гарантія 1 рік": "1-year warranty",
+    "Гарантія 1 рік + *неустойка 30%*": "1-year warranty + *30% penalty clause*",
+    "Геолокація для *оптимізації маршруту*": "Geolocation for *route optimization*",
+    "ДІАГНОСТИКА": "DIAGNOSIS",
+    "Дах": "Roof",
+    "Детальне порівняння конструкторів": "Detailed builder comparison",
+    "Дизайнерський ремонт": "Designer-led remodel",
+    "До / Після": "Before / After",
+    "До / Після на прикладі\n*реального* клієнта": "Before / after from a\n*real* client",
+    "До 30 сторінок": "Up to 30 pages",
+    "До 8 сторінок з адаптивом": "Up to 8 pages, mobile-responsive",
+    "Додаткові: сантехніка, електрика, дизайн-проект": "Add-ons: plumbing, electrical, design",
+    "Документи: договір, кошторис, акти": "Documents: contract, estimate, sign-offs",
+    "Експорт у PDF для клієнта": "PDF export for the client",
+    "Електромонтаж": "Electrical work",
+    "Етап ремонту в *реальному часі*": "Job stage in *real time*",
+    "Жодного локального SEO під район": "No local SEO targeting neighborhoods",
+    "За **6 місяців** після запуску NBYG отримала *×6 органічного трафіку* і стабільний потік онлайн-заявок з форми калькулятора. Це типовий результат переробки сайту ремонтної компанії — перетворення з «*візитки без заявок*» на інструмент, що реально приводить клієнтів через органіку.": "**Six months** after launch, NBYG saw *6× organic traffic* and a steady stream of inquiries from the calculator form. That's a typical outcome of rebuilding a renovation-contractor site — going from a \"*business card that doesn't book anyone*\" to a tool that actually brings clients in through organic search.",
+    "Загальний сайт без окремих лендингів *під послуги*": "Catch-all site with no dedicated landing pages *per service*",
+    "Залиште посилання на ваш поточний сайт. Протягом *3 робочих днів* надішлемо звіт у PDF.": "Send us your current site URL. We'll deliver the report as a PDF within *3 business days*.",
+    "Замовити базовий": "Choose Starter",
+    "Замовити розширений": "Choose Pro",
+    "Замовлення тільки через дзвінок або email": "Inquiries only by phone or email",
+    "Замість цього": "Instead",
+    "Заміська нерухомість": "Rural / vacation homes",
+    "Заявка з калькулятора або форми попадає одразу у вашу *CRM*. Прораб отримує сповіщення в Telegram. Клієнт — SMS-підтвердження візиту замірника. Жодних втрачених лідів через листи у спамі.": "Inquiries from the calculator or contact form land in your *CRM* the moment they're submitted. The foreman gets a Telegram alert. The client gets an SMS confirming the estimator's visit. No leads lost to spam folders.",
+    "Зменшує дзвінки прорабу на *40%*": "Cuts calls to the foreman by *40%*",
+    "Календар *вільних слотів* майстра": "Calendar of the *available slots* for each crew",
+    "Калькулятор": "Calculator",
+    "Калькулятор вартості ремонту": "Renovation cost calculator",
+    "Калькулятор ціни": "Price calculator",
+    "Калькулятор ціни (*1 тип* послуги)": "Price calculator (*1 service type*)",
+    "Калькулятор ціни | за 60 секунд": "Price calculator | in 60 seconds",
+    "Калькулятор як *головний* інструмент продажів": "The calculator as the *primary* sales tool",
+    "Калькулятори вартості (*2–3 типи*)": "Cost calculators (*2–3 types*)",
+    "Капітальний ремонт": "Gut renovation",
+    "Кастомні сайти для ремонтних і будівельних компаній: калькулятор ціни, галерея *«до/після»*, локальне SEO. Запуск за 4–6 тижнів, гарантія 1 рік.": "Custom websites for renovation and construction contractors: price calculator, *before / after* gallery, local SEO. Live in 4–6 weeks, 1-year warranty.",
+    "Кастомні сайти для ремонтних і будівельних компаній: калькулятор ціни, галерея «до/після», локальне SEO. Запуск 4–6 тижнів, гарантія 1 рік.": "Custom websites for renovation and construction contractors: price calculator, before / after gallery, local SEO. Live in 4–6 weeks, 1-year warranty.",
+    "Клієнт за *60 секунд* отримує оцінку «від 1 200 грн/м²»": "In *60 seconds* the client gets an estimate like \"from $30/sq ft\"",
+    "Кодовий сайт": "Custom code",
+    "Кожна сторінка ловить *специфічний SEO-трафік*": "Each page captures *specific SEO traffic*",
+    "Комерційний ремонт": "Commercial fit-out",
+    "Косметичний ремонт": "Light cosmetic remodel",
+    "Лендинг під послугу «новий дах»": "Landing page for the \"new roof\" service",
+    "Локальне SEO": "Local SEO",
+    "Локальне SEO + Google Business Profile": "Local SEO + Google Business Profile",
+    "Локальне SEO + обʼєкти": "Local SEO + project pages",
+    "Локальне SEO | під район і місто": "Local SEO | by neighborhood and city",
+    "Локальне SEO: *топ-1* у Google по «nyt tag København»": "Local SEO: *top 1* on Google for \"nyt tag København\"",
+    "Лід-форма + інтеграція з 1 CRM": "Lead form + 1 CRM integration",
+    "Лід-форма для детального прайсу": "Lead form for the detailed price list",
+    "Лід-форма для детального прайсу на *email*": "Lead form to email the detailed price list",
+    "Надіслати — відповімо за 1–2 години": "Send — reply in 1–2 hours",
+    "Не було калькулятора *ціни даху*": "No *roof price* calculator",
+    "Не входить": "Not included",
+    "Не надсилаємо нічого, окрім звіту і одного листа з прикладами наших робіт. Без спаму.": "We send the report and one follow-up with examples of our work. No spam.",
+    "Не просто «*красивий сайт*». Інструменти, що реально впливають на потік заявок — структура під SEO, калькулятор ціни, особистий кабінет клієнта.": "Not just a \"*pretty site*.\" Tools that actually move the inquiry pipeline — SEO-ready structure, price calculator, client portal.",
+    "Не ранжувався в Google по «*nyt tag København*»": "Wasn't ranking on Google for \"*nyt tag København*\"",
+    "Немає прозорого *прайсу* і калькулятора": "No transparent *pricing* or calculator",
+    "Новий сайт NBYG": "NBYG — new site",
+    "Обговорити мій проєкт": "Discuss my project",
+    "Обговорити преміум": "Talk to us",
+    "Обговорити проєкт": "Discuss your project",
+    "Окрема сторінка кожного *обʼєкта*": "A dedicated page for every *project*",
+    "Окремий лендинг під *кожен тип* ремонту": "A separate landing page for *each renovation type*",
+    "Окремі лендинги під *кожну* послугу (новий дах, фасад, утеплення)": "Separate landing pages for *every* service (new roof, facade, insulation)",
+    "Окремі сторінки «*ремонт + район*»": "Dedicated \"*renovation + neighborhood*\" pages",
+    "Онлайн-замір": "Online estimate booking",
+    "Онлайн-замір (Calendly)": "Online estimate booking (Calendly)",
+    "Онлайн-форма безкоштовного огляду + Calendly": "Online form for the free site visit + Calendly",
+    "Орієнтовну вартість переробки або нового сайту": "Ballpark cost for a rebuild or a new site",
+    "Особистий кабінет *клієнта*": "*Client* portal",
+    "Особистий кабінет клієнта": "Client portal",
+    "Отримати безкоштовний аудит": "Get a free audit",
+    "Параметр": "Parameter",
+    "Перевірити мій сайт": "Audit my site",
+    "План покращень з пріоритетами": "Prioritized improvement plan",
+    "Повний набір функцій, налаштованих під специфіку ремонтної індустрії: від калькулятора ціни до особистого кабінету клієнта з фото-прогресом.": "The full feature set, tuned for renovation contractors: from the price calculator to a client portal with photo progress.",
+    "Подивитись кейси": "See case studies",
+    "Подивитися всі кейси": "See all case studies",
+    "Покрівельні роботи": "Roofing",
+    "Покрівля + фасад": "Roofing + facade",
+    "Поля: *тип ремонту, метраж, район*": "Fields: *renovation type, square footage, neighborhood*",
+    "Популярно": "Most popular",
+    "Порівняння з WordPress": "Compare against WordPress",
+    "Преміум /\nдизайнерська студія": "Enterprise /\ndesign studio",
+    "Підключаємо всі\n*профільні* системи": "We connect every\n*industry-specific* system",
+    "РЕАЛЬНИЙ КЕЙС": "REAL CASE",
+    "РЕЗУЛЬТАТ ЧЕРЕЗ 6 МІСЯЦІВ": "RESULTS AFTER 6 MONTHS",
+    "Результат: *вилка цін* з deliverables": "Result: *price range* with deliverables",
+    "Ремонт ванної кімнати": "Bathroom remodel",
+    "Ремонт офісів": "Office fit-out",
+    "Ремонтна компанія, до якої\n*записуються*": "A renovation contractor\nclients *book*",
+    "Реставрація": "Restoration",
+    "Розбивка по районах і містах для локального пошуку": "Broken out by neighborhood and city for local search",
+    "Розкажіть коротко про вашу компанію — відповімо в Telegram протягом 1–2 годин у робочий час.": "Tell us briefly about your company — we reply on Telegram within 1–2 hours during business hours.",
+    "Розширений сайт\nремонтної компанії": "Pro site\nfor a renovation contractor",
+    "САЙТИ ДЛЯ РЕМОНТНИХ І БУДІВЕЛЬНИХ КОМПАНІЙ / від $3 500": "RENOVATION & CONSTRUCTION WEBSITES / FROM $3,500",
+    "Сайт не виходить у Google по *«ремонт + район»*": "Your site doesn't rank on Google for *\"renovation + neighborhood\"*",
+    "Сайт-візитка без посадочних": "Business-card site with no landing pages",
+    "Сайти для ремонтних і будівельних компаній": "Renovation and construction websites",
+    "Сайти для ремонтних і будівельних компаній — Code-Site.Art": "Renovation & Construction Websites — Code-Site.Art",
+    "Сантехнічні роботи": "Plumbing",
+    "Складні платіжні воронки (*milestone*)": "Complex payment funnels (*milestone-based*)",
+    "Скорочує цикл продажу *вдвічі*": "Cuts the sales cycle *in half*",
+    "Скільки коштує сайт ремонтної компанії": "How much a renovation-contractor website costs",
+    "Скільки часу займає запуск сайту ремонтної компанії?": "How long does it take to launch a renovation-contractor website?",
+    "Соло-майстер або *1 спеціалізація*": "Solo contractor or *single specialty*",
+    "Старий сайт NBYG": "NBYG — old site",
+    "Створення фото/відео контенту": "Photo / video content creation",
+    "Структура під *реальні послуги*": "Structure mapped to *real services*",
+    "Структура під «ремонт + район» замість загальної": "\"Renovation + neighborhood\" structure instead of a catch-all",
+    "У клієнта було два сегменти: *приватники* (квартири, будинки) і *B2B* (забудовники, ОСББ, офіси). Робити два окремі сайти здешевило б проєкт, але роздробило б SEO і вдвічі підвищило б вартість підтримки.": "The client had two segments: *homeowners* (apartments, houses) and *B2B* (developers, HOAs, offices). Splitting them into two sites would've been cheaper upfront, but it would've fragmented SEO and doubled long-term support cost.",
+    "Утеплення": "Insulation",
+    "Фасад": "Facade",
+    "Фасадні роботи": "Facade work",
+    "Фото з обʼєкта (*щотижня*)": "Photos from the job site (*weekly*)",
+    "Фото з обʼєкта *щотижня*": "Photos from the job site *weekly*",
+    "Фільтрація за *типом і стилем*": "Filter by *type and style*",
+    "Хочете **такий самий результат**? Подивіться, як ми це робимо.": "Want **the same kind of result**? See how we do it.",
+    "Хто наповнюватиме сайт фото з обʼєктів?": "Who supplies the job-site photos?",
+    "Це 3 найпоширеніші. На ваш конкретний сайт — *5–7*. Безкоштовний аудит покаже свої.": "These are the 3 most common. Your specific site probably has *5–7*. The free audit will show yours.",
+    "Це дозволило": "Which let us",
+    "Часті питання": "Frequently asked questions",
+    "Чат з прорабом": "Chat with the foreman",
+    "Чи можете зробити багатомовну версію?": "Can you build a multilingual version?",
+    "Чи можна показувати реальні адреси обʼєктів у портфоліо?": "Can we show real job addresses in the portfolio?",
+    "Чи можна підключити Pinterest або Houzz?": "Can you wire up Pinterest or Houzz?",
+    "Чи можна підключити онлайн-оплату передоплати?": "Can you wire up online deposit payments?",
+    "Чим кодовий сайт\nкращий за шаблонну\nремонтну компанію на WordPress або Wix": "Why custom code\nbeats a template renovation site\non WordPress or Wix",
+    "Шаблон WP": "WP template",
+    "Шаблонні фото і відсутність *кейсів «до/після»*": "Stock photos and no *before / after cases*",
+    "Швидкість завантаження": "Page load speed",
+    "Що ви отримаєте\nна прикладі *реального* проєкту": "What you get,\nshown on a *real* project",
+    "Що входить": "Includes",
+    "Що ми робимо для\n*ремонтних* компаній": "What we build for\n*renovation* contractors",
+    "Що робити зі старим сайтом?": "What happens to my old site?",
+    "Як до вас звертатися": "Your name",
+    "Як захищені дані клієнтів?": "How is client data protected?",
+    "Як ми вирішили задачу\nз *двома аудиторіями*": "How we handled\n*two audiences*",
+    "Як рахуються інтеграції?": "How do integrations get scoped?",
+    "Як інтегрувати калькулятор з нашими реальними цінами?": "How do we wire the calculator to our actual prices?",
+    "Яка ремонтна компанія, який сайт потрібен, що зараз не працює": "Tell us about your contracting business, what site you need, and what's broken now",
+    "аналіз 47 будівельних сайтів · 2024–25": "audit of 47 construction sites · 2024–25",
+    "базова галерея": "basic gallery",
+    "базове": "basic",
+    "будь-яка": "any system",
+    "будівельних\nсайтів": "construction\nsites",
+    "більше\nзаявок": "more\ninquiries",
+    "більше заявок з сайту": "more inquiries from the site",
+    "ваш GitHub": "your GitHub",
+    "від брифу до релізу": "brief to launch",
+    "два пріоритетні напрямки": "two priority lines",
+    "з фото-прогресом": "with photo progress",
+    "з фільтрами": "with filters",
+    "закладено": "built-in",
+    "зростання потоку заявок після запуску нового сайту": "lift in inquiry volume after the new site launched",
+    "кастомний": "custom-built",
+    "клієнтів\nна місяць": "clients\nper month",
+    "клієнтів зливаються на «зателефонуйте дізнатися ціну»": "of clients drop off at \"call us for pricing\"",
+    "локалізація під SEO": "SEO localization",
+    "не втрачати трафік на *301-редиректах*": "skip the traffic loss from *301 redirects*",
+    "не дробити *SEO* між двома доменами": "avoid splitting *SEO* across two domains",
+    "немає": "none",
+    "обмежена": "limited",
+    "одна головна сторінка для компанії *в цілому*": "one homepage for the company *as a whole*",
+    "окремі лендинги під *кожну послугу* (дах, фасад, утеплення)": "separate landing pages for *every service* (roof, facade, insulation)",
+    "органічного трафіку Google": "more organic traffic from Google",
+    "плагін (баги)": "plugin (buggy)",
+    "плагін Yoast": "Yoast plugin",
+    "по «nyt tag København»": "for \"nyt tag København\"",
+    "позиція більшості будівельних сайтів у локальному пошуку": "where most construction sites rank in local search",
+    "прозорий розрахунок ціни *за 60 секунд*": "transparent pricing *in 60 seconds*",
+    "реальних обʼєктів у портфоліо більшості сайтів": "of the portfolios on most sites show real projects",
+    "реальні кейси з адресами і фото *об'єктів*": "real cases with addresses and *job-site* photos",
+    "розділ 02 / 06": "section 02 / 06",
+    "розділення *B2C / B2B* лід-форм за сегментом клієнта": "split *B2C / B2B* lead forms by client segment",
+    "середня\nоцінка": "average\nrating",
+    "статичні фото": "static photos",
+    "через Apps": "via Apps",
+    "через Zapier": "via Zapier",
+    "чітко розділити *воронки* для приватного клієнта і забудовника": "cleanly separate *funnels* for homeowner clients and developers",
+    "— за словами власника NBYG København": "— per the owner of NBYG København"
+  },
+  "portableText": {
+    "sections[_key==\"sec7\"].reasons[_key==\"r8\"].textEn": [
+      [
+        "Clients can't tell if the renovation fits their budget — so they go to a competitor that shows ",
+        {
+          "em": "price per sq ft"
+        },
+        ". 70% of leads drop off at \"call us for pricing.\""
+      ]
+    ],
+    "sections[_key==\"sec7\"].reasons[_key==\"rd\"].textEn": [
+      [
+        "A services page with stock-photo art. Not a single real project with an address. Clients think \"do you actually do renovations, or are you a ",
+        {
+          "em": "middleman"
+        },
+        "?\" Without real cases, there's no trust."
+      ]
+    ],
+    "sections[_key==\"sec7\"].reasons[_key==\"ri\"].textEn": [
+      [
+        "A catch-all \"all renovation types\" page with no breakdown by neighborhood or work type. Competitors with landing pages like \"",
+        {
+          "em": "apartment renovation Pechersk"
+        },
+        "\" pick up all the local traffic."
+      ]
+    ],
+    "sections[_key==\"sec1i\"].items[_key==\"faq1j\"].answerEn": [
+      [
+        "Starter — ",
+        {
+          "em": "4 weeks"
+        },
+        " from brief to launch. Pro — 6 weeks. Enterprise with a 3D visualizer — 8–10 weeks. Deadlines are written into the contract. If we miss them on our end, we pay a ",
+        {
+          "em": "30% penalty"
+        },
+        "."
+      ]
+    ],
+    "sections[_key==\"sec1i\"].items[_key==\"faq1q\"].answerEn": [
+      [
+        "We migrate without losing SEO history. Old URLs auto-redirect to the new ones via ",
+        {
+          "em": "301 redirects"
+        },
+        ". Google rankings hold. We audit every failure point before the domain cuts over. Portfolio: 47 migrations with ",
+        {
+          "em": "zero SEO drops"
+        },
+        "."
+      ]
+    ],
+    "sections[_key==\"sec1i\"].items[_key==\"faq1x\"].answerEn": [
+      [
+        "You give us a table of \"",
+        {
+          "em": "renovation type × work type × price per sq ft"
+        },
+        "\" for your region. We turn it into the calculator. You edit prices yourself through the admin — no developer — and the formula recomputes automatically."
+      ]
+    ],
+    "sections[_key==\"sec1i\"].items[_key==\"faq22\"].answerEn": [
+      [
+        "Only with the client's ",
+        {
+          "em": "written consent"
+        },
+        ". We provide a consent template. You can also anonymize — neighborhood instead of exact address, photos without identifying details. Plenty of clients let you mention the building or neighborhood."
+      ]
+    ],
+    "sections[_key==\"sec1i\"].items[_key==\"faq27\"].answerEn": [
+      [
+        "CRM (Bitrix24 / AmoCRM / KeyCRM): from ",
+        {
+          "em": "$300"
+        },
+        " each. Calendly or a custom estimate-booking calendar: $200. 3D visualizer (Planoplan): $500–1,000. Client portal: $1,500. ERP / accounting integration — separate quote after a technical audit."
+      ]
+    ],
+    "sections[_key==\"sec1i\"].items[_key==\"faq2c\"].answerEn": [
+      [
+        "Yes. WayForPay, LiqPay, Mono Pay (UA), Stripe (for international clients), USDT. A ",
+        {
+          "em": "30–50%"
+        },
+        " deposit is standard in construction. We can wire up milestone payments (30% on start + 35% after design + 35% at handover)."
+      ]
+    ],
+    "sections[_key==\"sec1i\"].items[_key==\"faq2h\"].answerEn": [
+      [
+        "At launch — we do (",
+        {
+          "em": "3–5 ready cases"
+        },
+        " from your archive). After that, your content manager or your foreman from a phone. The admin lets you upload photos in batches and auto-pair them into before/after sets. We train your team in an hour."
+      ]
+    ],
+    "sections[_key==\"sec1i\"].items[_key==\"faq2m\"].answerEn": [
+      [
+        "Yes. ",
+        {
+          "em": "Houzz portfolio sync"
+        },
+        " auto-pulls projects from your Houzz profile onto the site. Pinterest — via embed or API. Instagram — embed block with your last 9–12 posts."
+      ]
+    ],
+    "sections[_key==\"sec1i\"].items[_key==\"faq2r\"].answerEn": [
+      [
+        "Traffic encryption (",
+        {
+          "em": "TLS 1.3"
+        },
+        "), file encryption at rest in the cloud (AES-256), regular backups. GDPR-compliant. Client portal login with 2FA. Cookie consent with opt-in."
+      ]
+    ],
+    "sections[_key==\"sec1i\"].items[_key==\"faq2w\"].answerEn": [
+      [
+        "Pro tier — UA + RU. Enterprise — ",
+        {
+          "em": "UA + RU + EN"
+        },
+        ". For specific markets (FR for France or DA for Denmark) — additional language for $1,500. We have real client projects shipping in Ukraine, France, and Denmark."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "code-site-solutions-admin",
+  "private": true,
+  "version": "1.0.0",
+  "main": "package.json",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "sanity build",
+    "deploy": "sanity deploy",
+    "deploy-graphql": "sanity graphql deploy",
+    "dev": "sanity dev",
+    "start": "sanity start",
+    "seed:blog-posts": "tsx scripts/seed-blog-posts.ts",
+    "seed:industries": "tsx scripts/seed-industries.ts",
+    "seed:medicine": "tsx scripts/seed-medicine.ts",
+    "seed:renovation": "tsx scripts/seed-renovation.ts",
+    "seed:nbyg-kobenhavn": "tsx scripts/seed-nbyg-kobenhavn.ts",
+    "seed:efedra-clinic": "tsx scripts/seed-efedra-clinic.ts",
+    "seed:homepage-testimonials": "tsx scripts/seed-homepage-testimonials.ts",
+    "seed:pricing-plans": "tsx scripts/seed-pricing-plans.ts",
+    "patch:industry-heroes": "tsx scripts/patch-industry-heroes.ts",
+    "translate:medicine-en": "tsx scripts/translate-medicine-en.ts",
+    "upload:finance-images": "tsx scripts/upload-finance-images.ts",
+    "verify:nbyg": "tsx scripts/verify-nbyg.ts"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/client": "^7.22.0",
+    "@sanity/icons": "^3.7.4",
+    "@sanity/vision": "^5.28.0",
+    "groq-js": "^1.30.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "sanity": "^5.28.0",
+    "styled-components": "^6.1.18"
+  },
+  "devDependencies": {
+    "@sanity/eslint-config-studio": "^6.0.0",
+    "@types/react": "^19.2.14",
+    "eslint": "^9.28",
+    "prettier": "^3.5",
+    "tsx": "^4.21.0",
+    "typescript": "^5.8"
+  },
+  "prettier": {
+    "bracketSpacing": false,
+    "printWidth": 100,
+    "semi": false,
+    "singleQuote": true
+  }
+}
