@@ -75,19 +75,13 @@ export const blogPost = defineType({
     defineField({
       name: 'category',
       title: 'Категорія',
-      type: 'string',
-      group: 'basic',
-      description: 'Напр. Бюджет, Платформи, Юридичне',
-    }),
-    defineField({
-      name: 'industry',
-      title: 'Галузь (для фільтра /blog?category=…)',
-      type: 'reference',
-      to: [{type: 'industryPage'}],
-      group: 'basic',
       description:
-        'Посилання на industryPage. Slug цього запису потрапляє у URL фільтра ' +
-        '/blog?category=<slug>. Залишити порожнім, якщо стаття не привʼязана до галузі.',
+        'Посилання на категорію блогу (Налаштування фільтрів → Фільтри блогу → Категорії статей). ' +
+        'Slug категорії підставляється в URL фільтра: /blog?category=<slug>. ' +
+        'Залишити порожнім — стаття зʼявиться в загальній стрічці без пілюлі.',
+      type: 'reference',
+      to: [{type: 'blogCategoryOption'}],
+      group: 'basic',
     }),
     defineField({
       name: 'tags',
