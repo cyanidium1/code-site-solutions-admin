@@ -1,4 +1,4 @@
-import {PaletteIcon} from '@sanity/icons'
+import {ColorWheelIcon} from '@sanity/icons'
 import {defineArrayMember, defineField, defineType} from 'sanity'
 
 import {pickLocalizedFirst} from '../lib/localized'
@@ -8,7 +8,7 @@ export const calculatorDesignOptions = defineType({
   name: 'calculatorDesignOptions',
   title: 'Калькулятор — Дизайн',
   type: 'document',
-  icon: PaletteIcon,
+  icon: ColorWheelIcon,
   fields: [
     defineField({
       name: 'options',
