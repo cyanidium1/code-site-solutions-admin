@@ -80,6 +80,16 @@ export const blogPost = defineType({
       description: 'Напр. Бюджет, Платформи, Юридичне',
     }),
     defineField({
+      name: 'industry',
+      title: 'Галузь (для фільтра /blog?category=…)',
+      type: 'reference',
+      to: [{type: 'industryPage'}],
+      group: 'basic',
+      description:
+        'Посилання на industryPage. Slug цього запису потрапляє у URL фільтра ' +
+        '/blog?category=<slug>. Залишити порожнім, якщо стаття не привʼязана до галузі.',
+    }),
+    defineField({
       name: 'tags',
       title: 'Теги',
       type: 'array',
