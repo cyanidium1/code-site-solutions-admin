@@ -34,6 +34,7 @@ import {testimonialBlock} from './blocks/testimonialBlock'
 import {tldrBox} from './blocks/tldrBox'
 
 // ─── Top-level documents ──────────────────────────────────────────────
+import {blogCategoryOption} from './documents/blogCategoryOption'
 import {blogPost} from './documents/blogPost'
 import {budgetBucketOption} from './documents/budgetBucketOption'
 import {caseStudy} from './documents/caseStudy'
@@ -88,4 +89,5 @@ export const schemaTypes = [
   testimonial,
   countryOption,
   budgetBucketOption,
+  blogCategoryOption,
 ]
