@@ -19,6 +19,7 @@
     "seed:homepage-testimonials": "tsx scripts/seed-homepage-testimonials.ts",
     "seed:pricing-plans": "tsx scripts/seed-pricing-plans.ts",
     "seed:calculator": "tsx scripts/seed-calculator.ts",
+    "seed:calculator-v2": "tsx scripts/seed-calculator-v2.ts",
     "patch:industry-heroes": "tsx scripts/patch-industry-heroes.ts",
     "translate:medicine-en": "tsx scripts/translate-medicine-en.ts",
     "upload:finance-images": "tsx scripts/upload-finance-images.ts",
