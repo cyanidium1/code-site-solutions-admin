@@ -1,6 +1,7 @@
 import {TagIcon} from '@sanity/icons'
 import {defineField, defineType} from 'sanity'
 
+import {ColorPickerInput} from '../components/ColorPickerInput'
 import {pickLocalizedFirst} from '../lib/localized'
 import {requireLocalizedUk} from '../lib/validators'
 
@@ -40,9 +41,10 @@ export const blogCategoryOption = defineType({
       name: 'color',
       title: 'Колір (hex, напр. #0EA5E9)',
       description:
-        'Колір акценту для пілюлі-фільтра. Формат — рівно 6 hex-символів із решіткою: #RRGGBB. ' +
-        'Залиште порожнім, якщо хочете нейтральну сіру пілюлю.',
+        'Колір акценту для пілюлі-фільтра. Клікніть на квадратик зліва, щоб ' +
+        'відкрити палітру, або введіть hex вручну (формат: #RRGGBB).',
       type: 'string',
+      components: {input: ColorPickerInput},
       validation: (rule) =>
         rule.custom((value) => {
           if (!value) return true
