@@ -20,6 +20,7 @@
     "seed:pricing-plans": "tsx scripts/seed-pricing-plans.ts",
     "seed:calculator": "tsx scripts/seed-calculator.ts",
     "seed:calculator-v2": "tsx scripts/seed-calculator-v2.ts",
+    "cleanup:calculator-v1": "tsx scripts/cleanup-calculator-v1.ts",
     "patch:industry-heroes": "tsx scripts/patch-industry-heroes.ts",
     "translate:medicine-en": "tsx scripts/translate-medicine-en.ts",
     "upload:finance-images": "tsx scripts/upload-finance-images.ts",
