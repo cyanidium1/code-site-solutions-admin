@@ -1,4 +1,4 @@
-import {ControlsIcon} from '@sanity/icons'
+import {ListIcon} from '@sanity/icons'
 import {defineField, defineType} from 'sanity'
 
 import {pickLocalizedFirst} from '../lib/localized'
@@ -27,7 +27,7 @@ export const calculatorOption = defineType({
   name: 'calculatorOption',
   title: 'Калькулятор — опція',
   type: 'document',
-  icon: ControlsIcon,
+  icon: ListIcon,
   fields: [
     defineField({
       name: 'groupKey',
