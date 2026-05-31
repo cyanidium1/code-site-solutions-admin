@@ -58,7 +58,7 @@ export const BLOG_POST_REF = /* groq */ `{
   lede,
   ledeEn,
   coverImage{ src, alt, altEn },
-  "industry": industry->{ "slug": slug.current, title ${LOCALIZED_STRING} },
+  "category": category->{ "slug": slug.current, name ${LOCALIZED_STRING}, color },
   status
 }`
 
