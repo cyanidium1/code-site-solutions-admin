@@ -37,6 +37,10 @@ import {tldrBox} from './blocks/tldrBox'
 import {blogCategoryOption} from './documents/blogCategoryOption'
 import {blogPost} from './documents/blogPost'
 import {budgetBucketOption} from './documents/budgetBucketOption'
+import {calculatorOption} from './documents/calculatorOption'
+import {calculatorPreset} from './documents/calculatorPreset'
+import {calculatorProjectType} from './documents/calculatorProjectType'
+import {calculatorSettings} from './documents/calculatorSettings'
 import {caseStudy} from './documents/caseStudy'
 import {countryOption} from './documents/countryOption'
 import {industryPage} from './documents/industryPage'
@@ -90,4 +94,8 @@ export const schemaTypes = [
   countryOption,
   budgetBucketOption,
   blogCategoryOption,
+  calculatorProjectType,
+  calculatorOption,
+  calculatorPreset,
+  calculatorSettings,
 ]

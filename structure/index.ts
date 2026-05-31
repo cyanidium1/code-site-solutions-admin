@@ -16,6 +16,25 @@ export const structure: StructureResolver = (S) =>
       S.documentTypeListItem('caseStudy').title('Кейси (/portfolio)'),
       S.documentTypeListItem('testimonial').title('Відгуки'),
       S.documentTypeListItem('pricingPlan').title('Тарифи (/pricing)'),
+      S.listItem()
+        .title('Калькулятор')
+        .child(
+          S.list()
+            .title('Калькулятор')
+            .items([
+              S.documentTypeListItem('calculatorProjectType').title('Типи проєктів'),
+              S.documentTypeListItem('calculatorOption').title('Опції (всі групи)'),
+              S.documentTypeListItem('calculatorPreset').title('Пресети'),
+              S.listItem()
+                .title('Налаштування')
+                .id('calculatorSettings')
+                .child(
+                  S.document()
+                    .schemaType('calculatorSettings')
+                    .documentId('calculatorSettings'),
+                ),
+            ]),
+        ),
       S.divider(),
       S.listItem()
         .title('Налаштування фільтрів')
