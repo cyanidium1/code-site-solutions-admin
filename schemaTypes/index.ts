@@ -43,11 +43,8 @@ import {calculatorDesignOptions} from './documents/calculatorDesignOptions'
 import {calculatorFeatureOptions} from './documents/calculatorFeatureOptions'
 import {calculatorLanguageOptions} from './documents/calculatorLanguageOptions'
 import {calculatorMaintenanceOptions} from './documents/calculatorMaintenanceOptions'
-import {calculatorOption} from './documents/calculatorOption'
-import {calculatorPreset} from './documents/calculatorPreset'
 import {calculatorPresets} from './documents/calculatorPresets'
 import {calculatorProductComplexityOptions} from './documents/calculatorProductComplexityOptions'
-import {calculatorProjectType} from './documents/calculatorProjectType'
 import {calculatorProjectTypes} from './documents/calculatorProjectTypes'
 import {calculatorSeoGrowthOptions} from './documents/calculatorSeoGrowthOptions'
 import {calculatorSeoOptions} from './documents/calculatorSeoOptions'
@@ -106,9 +103,6 @@ export const schemaTypes = [
   countryOption,
   budgetBucketOption,
   blogCategoryOption,
-  calculatorProjectType,
-  calculatorOption,
-  calculatorPreset,
   calculatorSettings,
 
   // v2 calculator singletons (consolidate v1 docs)

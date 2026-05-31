@@ -18,7 +18,6 @@
     "seed:efedra-clinic": "tsx scripts/seed-efedra-clinic.ts",
     "seed:homepage-testimonials": "tsx scripts/seed-homepage-testimonials.ts",
     "seed:pricing-plans": "tsx scripts/seed-pricing-plans.ts",
-    "seed:calculator": "tsx scripts/seed-calculator.ts",
     "seed:calculator-v2": "tsx scripts/seed-calculator-v2.ts",
     "cleanup:calculator-v1": "tsx scripts/cleanup-calculator-v1.ts",
     "patch:industry-heroes": "tsx scripts/patch-industry-heroes.ts",
