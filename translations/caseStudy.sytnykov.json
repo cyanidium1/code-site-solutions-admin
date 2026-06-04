@@ -1,0 +1,110 @@
+{
+  "_meta": {
+    "docId": "caseStudy.sytnykov",
+    "_type": "caseStudy",
+    "slug": "sytnykov",
+    "voice": "Direct American English. Legal expert and educator voice: authoritative, precise, no hype. Former high-court judge positioning. Bilingual UA + EN site — case-study copy is Code-Site's external pitch."
+  },
+  "strings": {
+    "/ CASE STUDY": "/ CASE STUDY",
+    "/ CHALLENGE": "/ CHALLENGE",
+    "/ CMS": "/ CMS",
+    "/ OUTCOME": "/ OUTCOME",
+    "/ SOLUTION": "/ SOLUTION",
+    "2 мовні версії · 1 адмін-панель · 5+ розділів · 3 напрями: курси, послуги, публікації": "2 language versions · 1 easy admin panel · 5+ main sections · 3 tracks: courses, services, publications",
+    "2 мовні версії сайту": "2 language versions of the site",
+    "8 тижнів": "8 weeks",
+    "CTA для заявок на консультацію або навчання": "CTAs for consultation or course inquiries",
+    "SEO-пропрацювання сторінок під юридичні та освітні запити": "SEO tuning on pages for legal and education queries",
+    "Адаптивну версію для мобільних пристроїв": "A responsive build for mobile devices",
+    "Анімації для сучаснішої подачі": "Animations for a more modern presentation",
+    "В адмінці можна:": "In the admin you can:",
+    "Дати короткий шлях від інтересу до заявки на консультацію або навчання": "Give a short path from interest to a consultation or course inquiry",
+    "Додати адмінку для самостійного оновлення контенту без розробника": "Add an admin panel for self-serve content updates without a developer",
+    "За 6 місяців після запуску сайту я отримав більше клієнтів, ніж за попередні 2 роки. Окрема воронка під курси стала окремим бізнесом.": "Six months after launch I got more clients than in the previous two years combined. The separate course funnel became a business of its own.",
+    "Закласти SEO-структуру під юридичні та освітні запити": "Lay an SEO structure for legal and education queries",
+    "Змінювати зображення та додавати нові фото": "Swap images and add new photos",
+    "Змінювати порядок елементів через drag & drop": "Reorder elements via drag-and-drop",
+    "Зручну адмін-панель Sanity CMS": "A Sanity CMS admin panel that's easy to run",
+    "Керувати послугами, курсами, статтями, публікаціями та відгуками": "Manage services, courses, articles, publications, and reviews",
+    "Керувати тільки потрібними розділами без ризику зламати дизайн сайту": "Edit only the sections you need without risking the site's design",
+    "Київ, Україна": "Kyiv, Ukraine",
+    "Колишній суддя високої інстанції, адвокат і викладач": "Former high-court judge, attorney, and educator",
+    "Ми налаштували адмін-панель Sanity CMS, яку клієнт може вести самостійно без постійних звернень до розробника. Інтерфейс зручний з телефона — зміни робляться швидко: оновити текст, додати статтю, курс або змінити порядок блоків.": "We set the client up with a Sanity CMS admin panel they can run themselves without constantly reaching out to a developer. The interface works on a phone, so changes happen fast: update copy, add an article or course, or reorder blocks.",
+    "Ми побудували сайт навколо персонального бренду Олександра Ситникова: його досвіду, статусу, юридичної експертизи та навчальних програм. Кожен блок виконує свою задачу: показати експертність, пояснити послуги та курси, провести користувача до заявки.": "We built the site around Oleksandr Sytnykov's personal brand: his experience, status, legal expertise, and training programs. Every block does one job: show authority, explain services and courses, and drive the user to an inquiry.",
+    "Можливість додавати нові статті та курси": "Ability to add new articles and courses",
+    "Олександр Ситников": "Oleksandr Sytnykov",
+    "Олександр Ситников — колишній суддя високої інстанції, адвокат і викладач, який проводить навчальні програми для юристів та адвокатів. Ми розробили сайт персонального бренду, який підкреслює його професійний статус, презентує адвокатські курси та допомагає користувачам швидко перейти до заявки.": "Oleksandr Sytnykov is a former high-court judge, attorney, and educator who runs training programs for lawyers and advocates. We built a personal-brand site that underscores his professional standing, presents his advocacy courses, and helps users reach an inquiry fast.",
+    "Олександр Ситников — сайт для юридичного експерта та *адвокатських курсів*": "Oleksandr Sytnykov — site for a legal expert and *advocacy courses*",
+    "Олександр Ситников отримав сайт, який працює як платформа персонального бренду, юридичних послуг і адвокатських курсів.": "Oleksandr Sytnykov got a site that works as a personal-brand platform, legal-services hub, and advocacy-courses storefront.",
+    "Переглянути сайт": "Visit site",
+    "Персональний бренд колишнього судді: курси, послуги, публікації, 2 мови, Sanity CMS і SEO під юридичні та освітні запити.": "Personal brand for a former judge: courses, services, publications, 2 languages, Sanity CMS, and SEO for legal and education queries.",
+    "Працювати з адмінкою навіть з телефону": "Run the admin even from a phone",
+    "Презентувати адвокатські курси як експертний продукт, а не додаток до біографії": "Present advocacy courses as an expert product, not a footnote on a bio page",
+    "Реалізувати 2 мовні версії сайту з коректною SEO-архітектурою": "Ship 2 language versions with a sound SEO architecture",
+    "Редагувати SEO-поля для сторінок": "Edit SEO fields on every page",
+    "Редагувати тексти, заголовки та кнопки": "Edit copy, headings, and buttons",
+    "Результат": "Result",
+    "Сайт підкреслює його статус колишнього судді, показує експертність, презентує навчальні програми та веде користувача до заявки. Двомовна структура й SEO заклали основу для зростання органічного трафіку по юридичних і освітніх запитах.": "The site underscores his standing as a former judge, shows his expertise, presents the training programs, and drives users to an inquiry. The bilingual structure and SEO lay the groundwork for organic growth on legal and education queries.",
+    "Сторінки для досвіду, послуг, курсів, публікацій і контактів": "Pages for experience, services, courses, publications, and contact",
+    "Структуру сайту під юридичну нішу та персональний бренд": "Site structure tuned to the legal niche and personal brand",
+    "Структурувати послуги, публікації та навчальні матеріали в одній логіці": "Structure services, publications, and learning materials in one logic",
+    "У цьому проєкті потрібно було продати не просто юридичні послуги, а довіру до експерта з сильним професійним бекграундом. Клієнт і студент оцінюють досвід, статус і структуру матеріалів до першого звернення — без правильної архітектури навіть сильний фахівець залишається невидимим у пошуку.": "This project wasn't about selling legal services alone — it was about selling trust in an expert with a strong professional background. Clients and students weigh experience, status, and how content is organized before the first inquiry. Without the right architecture, even a strong practitioner stays invisible in search.",
+    "Що *було*": "What *was*",
+    "Що ми *зробили*": "What we *did*",
+    "*Зручна адмін-панель* для контенту на сайті": "*Easy admin panel* for site content",
+    "зручна адмін-панель": "easy admin panel",
+    "мовні версії сайту": "language versions of the site",
+    "напрями: курси, послуги, публікації": "tracks: courses, services, publications",
+    "основних розділів": "main sections",
+    "Олександр Ситников — сайт юридичного експерта та адвокатських курсів | Code-Site.Art": "Oleksandr Sytnykov — legal expert & advocacy courses site | Code-Site.Art"
+  },
+  "overrides": {
+    "hero.heroImage.alt": {
+      "uk": "Сайт Олександра Ситникова на ноутбуці і телефоні",
+      "en": "Oleksandr Sytnykov's website shown on laptop and phone"
+    },
+    "sections[_key==\"sec6\"].image.alt": {
+      "uk": "Олександр Ситников до запуску нового сайту",
+      "en": "Oleksandr Sytnykov before the new site launched"
+    },
+    "sections[_key==\"sec9\"].image.alt": {
+      "uk": "Нова головна сторінка сайту Олександра Ситникова з послугами, курсами та публікаціями",
+      "en": "Oleksandr Sytnykov's new homepage with services, courses, and publications"
+    },
+    "sections[_key==\"sech\"].image.alt": {
+      "uk": "Мобільна версія сайту Олександра Ситникова",
+      "en": "Oleksandr Sytnykov's website on mobile"
+    },
+    "sections[_key==\"sech\"].image2.alt": {
+      "uk": "Десктопна версія сайту Олександра Ситникова",
+      "en": "Oleksandr Sytnykov's website on desktop"
+    },
+    "sections[_key==\"fd187ec9f59b\"].image.alt": {
+      "uk": "Адмін-панель Sanity CMS на сайті Олександра Ситникова",
+      "en": "Sanity CMS admin panel on Oleksandr Sytnykov's site"
+    }
+  },
+  "portableText": {
+    "sections[_key==\"sec6\"].bodyEn": [
+      [
+        "This project wasn't about selling legal services alone — it was about selling trust in an expert with a strong professional background. Clients and students weigh experience, status, and how content is organized before the first inquiry. Without the right architecture, even a strong practitioner stays invisible in search."
+      ]
+    ],
+    "sections[_key==\"sec9\"].bodyEn": [
+      [
+        "We built the site around Oleksandr Sytnykov's personal brand: his experience, status, legal expertise, and training programs. Every block does one job: show authority, explain services and courses, and drive the user to an inquiry."
+      ]
+    ],
+    "sections[_key==\"fd187ec9f59b\"].bodyEn": [
+      [
+        "We set the client up with a Sanity CMS admin panel they can run themselves without constantly reaching out to a developer. The interface works on a phone, so changes happen fast: update copy, add an article or course, or reorder blocks.\n\nIn the admin you can:"
+      ]
+    ],
+    "sections[_key==\"sech\"].bodyEn": [
+      [
+        "Oleksandr Sytnykov got a site that works as a personal-brand platform, legal-services hub, and advocacy-courses storefront. The site underscores his standing as a former judge, shows his expertise, presents the training programs, and drives users to an inquiry. The bilingual structure and SEO lay the groundwork for organic growth on legal and education queries."
+      ]
+    ]
+  }
+}

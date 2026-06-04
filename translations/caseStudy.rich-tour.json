@@ -1,0 +1,107 @@
+{
+  "_meta": {
+    "docId": "caseStudy.rich-tour",
+    "_type": "caseStudy",
+    "slug": "rich-tour",
+    "voice": "Direct American English. Travel-agency voice: practical, operations-focused. Dual audience (travelers + agent partners). Keep SMART-tours and STEP as product names."
+  },
+  "strings": {
+    "/ CASE STUDY": "/ CASE STUDY",
+    "/ CHALLENGE": "/ CHALLENGE",
+    "/ CMS": "/ CMS",
+    "/ OUTCOME": "/ OUTCOME",
+    "/ SOLUTION": "/ SOLUTION",
+    "1 кабінет агентів · 1 CRM · 2 аудиторії · 3 напрями продажів": "1 agent portal · 1 CRM · 2 audiences · 3 sales tracks on the site",
+    "6 тижнів": "6 weeks",
+    "FAQ з відповідями на часті питання туристів": "FAQ with answers to common traveler questions",
+    "Rich Tour": "Rich Tour",
+    "Rich Tour — сайт туристичної агенції з *особистим кабінетом агентів*": "Rich Tour — travel-agency site with an *agent portal*",
+    "Rich Tour — туристична агенція, яка організовує автобусні, морські, екскурсійні, SMART-тури та корпоративні поїздки. Ми розробили сайт, який працює не просто як презентація турів, а як повноцінна digital-платформа для клієнтів, агентів і менеджерів. Сайт допомагає користувачам швидко знайти потрібний тур, залишити заявку, а партнерам — працювати через особистий кабінет.": "Rich Tour is a travel agency running bus, sea, excursion, SMART, and corporate trips. We built a site that isn't just a tour brochure — it's a full digital platform for clients, agents, and managers. Travelers find the right trip and submit an inquiry fast; partners work through a dedicated agent portal.",
+    "Rich Tour отримали не просто сайт, а повноцінну платформу для продажу турів і роботи з агентами. Користувач може швидко знайти тур, переглянути категорії, ознайомитися з умовами, прочитати FAQ і залишити заявку. Менеджери отримують звернення через CRM, а агенти мають окремий доступ до системи. У результаті сайт допомагає структурувати продажі, спрощує роботу команди та робить процес вибору туру зрозумілішим для клієнтів.": "Rich Tour got more than a website — a full platform for selling tours and working with agents. Users can find a trip fast, browse categories, read the terms, check the FAQ, and submit an inquiry. Managers receive leads through the CRM; agents have their own system access. The site structures sales, simplifies the team's work, and makes choosing a tour clearer for clients.",
+    "Адмін-панель і CRM для керування *заявками*": "Admin panel and CRM for managing *inquiries*",
+    "Адмінку для керування контентом і турами": "An admin panel for content and tour management",
+    "Адаптивну версію для мобільних пристроїв": "A responsive build for mobile devices",
+    "Давати агентам окремий доступ до потрібної інформації": "Give agents separate access to the information they need",
+    "Для проєкту реалізували адмін-панель, щоб команда Rich Tour могла самостійно оновлювати тури, категорії, тексти, відгуки, FAQ та інші розділи сайту. Підключення CRM допомагає не губити заявки та швидше передавати їх менеджерам. Це особливо важливо для туристичного бізнесу, де клієнт часто обирає тур швидко, порівнює кілька варіантів і очікує оперативної відповіді. Особистий кабінет агентів робить сайт зручним не тільки для клієнтів, а й для партнерів, які працюють з турами через систему.": "We built an admin panel so the Rich Tour team can update tours, categories, copy, reviews, FAQ, and other site sections themselves. CRM integration keeps inquiries from getting lost and routes them to managers faster. That matters in travel — clients often pick a trip quickly, compare options, and expect a fast reply. The agent portal makes the site useful for partners selling tours through the system, not just end clients.",
+    "Для туристичної агенції важливо не просто показати напрямки, а зробити зручну систему для продажу турів. Без каталогу, пошуку та окремого доступу для агентів навіть сильна пропозиція губиться — клієнт порівнює варіанти швидко і очікує оперативної відповіді.": "For a travel agency, showing destinations isn't enough — you need a system that actually sells tours. Without a catalog, search, and separate agent access, even a strong offer gets lost — clients compare fast and expect a quick response.",
+    "Додати особистий кабінет для агентів": "Add an agent portal",
+    "Зробити пошук турів зручним для клієнтів": "Make tour search easy for clients",
+    "Каталог турів з категоріями": "A tour catalog with categories",
+    "Ми розробили сайт для Rich Tour як туристичну платформу з каталогом, фільтрами, особистим кабінетом агентів і підключенням до CRM.": "We built the Rich Tour site as a travel platform with a catalog, filters, an agent portal, and CRM integration.",
+    "На головній сторінці користувач одразу може перейти до пошуку туру за країною та місяцем. Далі сайт веде його через категорії, напрямки, переваги, відгуки, FAQ і форму звернення. Окремо реалізували особистий кабінет для агентів — сайт працює не тільки для кінцевих клієнтів, а й для партнерів, які продають тури.": "On the homepage the user can jump straight into tour search by country and month. From there the site walks them through categories, destinations, benefits, reviews, FAQ, and an inquiry form. We also built a separate agent portal — the site serves end clients and partners who sell tours.",
+    "Оновлювати тури, категорії, тексти, відгуки та FAQ": "Update tours, categories, copy, reviews, and FAQ",
+    "Особистий кабінет для агентів": "An agent portal",
+    "Отримувати заявки в CRM без втрат для менеджерів": "Capture inquiries in the CRM so managers don't lose leads",
+    "Підключити CRM для обробки заявок": "Connect a CRM for inquiry handling",
+    "Підключення CRM для заявок": "CRM integration for inquiries",
+    "Пошук за країною та місяцем": "Search by country and month",
+    "Презентувати окремі напрями: SMART-тури, корпоративне обслуговування, STEP": "Present separate tracks: SMART tours, corporate travel, STEP",
+    "Результат": "Result",
+    "Спростити шлях користувача від вибору туру до заявки": "Shorten the path from picking a tour to submitting an inquiry",
+    "Сторінку SMART-турів": "A SMART-tours page",
+    "Сторінку корпоративного обслуговування": "A corporate-travel page",
+    "Структурувати велику кількість турів і напрямків": "Structure a large inventory of tours and destinations",
+    "Туристична платформа: каталог турів, пошук за країною та місяцем, кабінет агентів, CRM для заявок, SMART-тури та корпоративні напрями.": "Travel platform: tour catalog, search by country and month, agent portal, CRM for inquiries, SMART tours, and corporate travel.",
+    "Україна": "Ukraine",
+    "Форми звернення для клієнтів": "Inquiry forms for clients",
+    "Швидко реагувати на запити клієнтів": "Respond to client inquiries quickly",
+    "Що *було*": "What *was*",
+    "Що ми *зробили*": "What we *did*",
+    "інтеграція з CRM": "CRM integration",
+    "напрями продажів на сайті": "sales tracks on the site",
+    "особистий кабінет для агентів": "agent portal",
+    "типи аудиторії: клієнти та агенти": "audience types: clients and agents",
+    "Rich Tour — сайт туристичної агенції з кабінетом агентів і CRM | Code-Site.Art": "Rich Tour — travel-agency site with agent portal & CRM | Code-Site.Art"
+  },
+  "overrides": {
+    "hero.heroImage.alt": {
+      "uk": "Сайт Rich Tour на ноутбуці і телефоні",
+      "en": "Rich Tour website shown on laptop and phone"
+    },
+    "sections[_key==\"sec6\"].image.alt": {
+      "uk": "Rich Tour до запуску нового сайту",
+      "en": "Rich Tour before the new site launched"
+    },
+    "sections[_key==\"sec9\"].image.alt": {
+      "uk": "Нова головна сторінка сайту Rich Tour з пошуком турів за країною та місяцем",
+      "en": "Rich Tour's new homepage with tour search by country and month"
+    },
+    "sections[_key==\"sech\"].image.alt": {
+      "uk": "Мобільна версія сайту Rich Tour",
+      "en": "Rich Tour website on mobile"
+    },
+    "sections[_key==\"sech\"].image2.alt": {
+      "uk": "Десктопна версія сайту Rich Tour",
+      "en": "Rich Tour website on desktop"
+    },
+    "sections[_key==\"fd187ec9f59b\"].image.alt": {
+      "uk": "Адмін-панель і CRM на сайті Rich Tour",
+      "en": "Admin panel and CRM on the Rich Tour site"
+    }
+  },
+  "portableText": {
+    "sections[_key==\"sec6\"].bodyEn": [
+      [
+        "For a travel agency, showing destinations isn't enough — you need a system that actually sells tours. Without a catalog, search, and separate agent access, even a strong offer gets lost — clients compare fast and expect a quick response."
+      ]
+    ],
+    "sections[_key==\"sec9\"].bodyEn": [
+      [
+        "We built the Rich Tour site as a travel platform with a catalog, filters, an agent portal, and CRM integration."
+      ],
+      [
+        "On the homepage the user can jump straight into tour search by country and month. From there the site walks them through categories, destinations, benefits, reviews, FAQ, and an inquiry form. We also built a separate agent portal — the site serves end clients and partners who sell tours."
+      ]
+    ],
+    "sections[_key==\"fd187ec9f59b\"].bodyEn": [
+      [
+        "We built an admin panel so the Rich Tour team can update tours, categories, copy, reviews, FAQ, and other site sections themselves. CRM integration keeps inquiries from getting lost and routes them to managers faster. That matters in travel — clients often pick a trip quickly, compare options, and expect a fast reply. The agent portal makes the site useful for partners selling tours through the system, not just end clients."
+      ]
+    ],
+    "sections[_key==\"sech\"].bodyEn": [
+      [
+        "Rich Tour got more than a website — a full platform for selling tours and working with agents. Users can find a trip fast, browse categories, read the terms, check the FAQ, and submit an inquiry. Managers receive leads through the CRM; agents have their own system access. The site structures sales, simplifies the team's work, and makes choosing a tour clearer for clients."
+      ]
+    ]
+  }
+}

@@ -270,6 +270,59 @@ const SPECS: DocSpec[] = [
     },
   },
   {
+    file: "caseStudy.rich-tour.json",
+    portableText: {
+      'sections[_key=="sec6"].bodyEn': [
+        [
+          "For a travel agency, showing destinations isn't enough — you need a system that actually sells tours. Without a catalog, search, and separate agent access, even a strong offer gets lost — clients compare fast and expect a quick response.",
+        ],
+      ],
+      'sections[_key=="sec9"].bodyEn': [
+        [
+          "We built the Rich Tour site as a travel platform with a catalog, filters, an agent portal, and CRM integration.",
+        ],
+        [
+          "On the homepage the user can jump straight into tour search by country and month. From there the site walks them through categories, destinations, benefits, reviews, FAQ, and an inquiry form. We also built a separate agent portal — the site serves end clients and partners who sell tours.",
+        ],
+      ],
+      'sections[_key=="fd187ec9f59b"].bodyEn': [
+        [
+          "We built an admin panel so the Rich Tour team can update tours, categories, copy, reviews, FAQ, and other site sections themselves. CRM integration keeps inquiries from getting lost and routes them to managers faster. That matters in travel — clients often pick a trip quickly, compare options, and expect a fast reply. The agent portal makes the site useful for partners selling tours through the system, not just end clients.",
+        ],
+      ],
+      'sections[_key=="sech"].bodyEn': [
+        [
+          "Rich Tour got more than a website — a full platform for selling tours and working with agents. Users can find a trip fast, browse categories, read the terms, check the FAQ, and submit an inquiry. Managers receive leads through the CRM; agents have their own system access. The site structures sales, simplifies the team's work, and makes choosing a tour clearer for clients.",
+        ],
+      ],
+    },
+  },
+  {
+    file: "caseStudy.sytnykov.json",
+    portableText: {
+      'sections[_key=="sec6"].bodyEn': [
+        [
+          "This project wasn't about selling legal services alone — it was about selling trust in an expert with a strong professional background. Clients and students weigh experience, status, and how content is organized before the first inquiry. Without the right architecture, even a strong practitioner stays invisible in search.",
+        ],
+      ],
+      'sections[_key=="sec9"].bodyEn': [
+        [
+          "We built the site around Oleksandr Sytnykov's personal brand: his experience, status, legal expertise, and training programs. Every block does one job: show authority, explain services and courses, and drive the user to an inquiry.",
+        ],
+      ],
+      'sections[_key=="fd187ec9f59b"].bodyEn': [
+        [
+          "We set the client up with a Sanity CMS admin panel they can run themselves without constantly reaching out to a developer. The interface works on a phone, so changes happen fast: update copy, add an article or course, or reorder blocks.\n\nIn the admin you can:",
+        ],
+      ],
+      'sections[_key=="sech"].bodyEn': [
+        [
+          "Oleksandr Sytnykov got a site that works as a personal-brand platform, legal-services hub, and advocacy-courses storefront. The site underscores his standing as a former judge, shows his expertise, presents the training programs, and drives users to an inquiry. The bilingual structure and SEO lay the groundwork for organic growth on legal and education queries.",
+        ],
+      ],
+    },
+  },
+  {
     file: "24ac5799-3754-49a3-ac77-4904124d6be6.json", // solide-renovation
     portableText: {
       'sections[_key=="sec6"].bodyEn': [

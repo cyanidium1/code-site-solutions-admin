@@ -134,6 +134,38 @@ const CASES: CaseSpec[] = [
     },
   },
   {
+    file: "caseStudy.rich-tour.json",
+    brand: "Rich Tour",
+    staleStrings: STANDARD_STALE_OTHER,
+    overrides: {
+      ...standardOverrides("Rich Tour"),
+      'sections[_key=="sec9"].image.alt': {
+        uk: "Нова головна сторінка сайту Rich Tour з пошуком турів за країною та місяцем",
+        en: "Rich Tour's new homepage with tour search by country and month",
+      },
+      'sections[_key=="fd187ec9f59b"].image.alt': {
+        uk: "Адмін-панель і CRM на сайті Rich Tour",
+        en: "Admin panel and CRM on the Rich Tour site",
+      },
+    },
+  },
+  {
+    file: "caseStudy.sytnykov.json",
+    brand: "Oleksandr Sytnykov",
+    staleStrings: [...STANDARD_STALE_OTHER, "Sanity CMS"],
+    overrides: {
+      ...standardOverrides("Oleksandr Sytnykov"),
+      'sections[_key=="sec9"].image.alt': {
+        uk: "Нова головна сторінка сайту Олександра Ситникова з послугами, курсами та публікаціями",
+        en: "Oleksandr Sytnykov's new homepage with services, courses, and publications",
+      },
+      'sections[_key=="fd187ec9f59b"].image.alt': {
+        uk: "Адмін-панель Sanity CMS на сайті Олександра Ситникова",
+        en: "Sanity CMS admin panel on Oleksandr Sytnykov's site",
+      },
+    },
+  },
+  {
     file: "24ac5799-3754-49a3-ac77-4904124d6be6.json",
     brand: "Solide Renovation",
     staleStrings: [...STANDARD_STALE_OTHER, "Sanity CMS"],
