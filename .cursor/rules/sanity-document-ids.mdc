@@ -1,0 +1,16 @@
+---
+description: Dots in _id hide documents from public CDN; UUID preferred
+globs: scripts/**/*.ts,schemaTypes/**/*.ts,docs/**/*.md,translations/**/*.json
+alwaysApply: false
+---
+
+# Sanity document IDs in admin
+
+- Any `_id` with a **dot** (`caseStudy.foo`, `industryPage.medicine`, `countryOption.UA`, …) is **auth-only** on `production` — the Next.js site has no read token and will not see it.
+- `status: "published"` and `createOrReplace` do **not** override this.
+- Prefer **Studio UUID** for new docs; hyphen ids (`caseStudy-foo`) are OK in theory but production uses UUIDs after June 2026 migration.
+- Do not rename `_id` in Studio; reupload scripts in `scripts/reupload-dotted-*.ts` or manual new doc + delete.
+- Do not add seeds using `{type}.{slug}` — those scripts were removed.
+- `translations/*` `_meta.docId` must be the live Sanity `_id`.
+
+See `docs/sanity-document-ids.md` and `README.md`.

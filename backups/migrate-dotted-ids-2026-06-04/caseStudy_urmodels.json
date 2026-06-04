@@ -1,0 +1,418 @@
+{
+  "_createdAt": "2026-06-02T07:12:50Z",
+  "_id": "caseStudy.urmodels",
+  "_rev": "6tWqPRZWZzG4Lv3HK7INRA",
+  "_system": {
+    "base": {
+      "id": "caseStudy.urmodels",
+      "rev": "6XauXwCqdfjH3lSp8m1xba"
+    }
+  },
+  "_type": "caseStudy",
+  "_updatedAt": "2026-06-04T16:42:07Z",
+  "client": "URmodels",
+  "coverImage": {
+    "_type": "imageWithLocalizedAlt",
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-a1da9c4025cff72c11be4f54c526bafb8d2c4e77-2560x2000-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "duration": {
+    "en": "6 weeks",
+    "uk": "6 тижнів"
+  },
+  "featured": false,
+  "hero": {
+    "eyebrow": {
+      "en": "/ CASE STUDY",
+      "uk": "/ CASE STUDY"
+    },
+    "heading": {
+      "en": "URmodels - platform for *model scouting and talent presentation*",
+      "uk": "URmodels — платформа для модельного *скаутингу та презентації талантів*"
+    },
+    "link": {
+      "_type": "ctaAction",
+      "href": "https://www.urmodels.com/"
+    },
+    "metrics": [
+      {
+        "_key": "hm1",
+        "label": {
+          "en": "audiences: models and clients",
+          "uk": "аудиторії: моделі та клієнти"
+        },
+        "value": "2"
+      },
+      {
+        "_key": "hm2",
+        "label": {
+          "en": "online talent application",
+          "uk": "онлайн-заявка для талантів"
+        },
+        "value": "1"
+      },
+      {
+        "_key": "hm3",
+        "label": {
+          "en": "directions: You Are Model + Your Models",
+          "uk": "напрями: You Are Model + Your Models"
+        },
+        "value": "2"
+      },
+      {
+        "_key": "hm4",
+        "label": {
+          "en": "model-base growth structure",
+          "uk": "структура росту модельної бази"
+        },
+        "value": "1"
+      }
+    ],
+    "subheading": {
+      "en": "URmodels is a boutique model agency that develops new talent and presents models for the international fashion market.",
+      "uk": "URmodels — boutique model agency, яка розвиває нові таланти і презентує моделей для міжнародного fashion-ринку."
+    }
+  },
+  "metricsLine": {
+    "en": "2 audiences: models and clients · 1 online talent application · 2 directions · 1 growth structure",
+    "uk": "2 аудиторії: моделі та клієнти · 1 онлайн-заявка для талантів · 2 напрями: You Are Model + Your Models · 1 структура росту модельної бази"
+  },
+  "order": 21,
+  "region": {
+    "en": "Ukraine",
+    "uk": "Україна"
+  },
+  "sections": [
+    {
+      "_key": "sec6",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b9",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sa",
+              "_type": "span",
+              "marks": [],
+              "text": "Для модельної агенції недостатньо просто показати портфоліо. Потрібно одночасно залучати нові обличчя та презентувати моделей брендам і партнерам."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec6",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec6",
+              "_type": "span",
+              "marks": [],
+              "text": "For a model agency, a portfolio-only site is not enough. You need to attract new faces while presenting active models to brands and partners in parallel."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "cross",
+      "bulletList": [
+        {
+          "_key": "XrTxD1czjbsDVYzLTyrTCI",
+          "en": "Build a dedicated flow for new candidates",
+          "uk": "Побудувати сценарій для нових кандидатів"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTyrTG0",
+          "en": "Split navigation for two different audiences",
+          "uk": "Розділити навігацію для двох аудиторій"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTyrTJi",
+          "en": "Launch a practical first-stage scouting process",
+          "uk": "Запустити зручний процес первинного відбору"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTyrTNQ",
+          "en": "Present the agency model base to business clients",
+          "uk": "Показати модельну базу клієнтам агенції"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ CHALLENGE",
+        "uk": "/ CHALLENGE"
+      },
+      "heading": {
+        "en": "What the *client* came with",
+        "uk": "З чим прийшов *клієнт*"
+      },
+      "imageVariant": "imageRight",
+      "variant": "centered"
+    },
+    {
+      "_key": "sec9",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bb",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sc",
+              "_type": "span",
+              "marks": [],
+              "text": "Створили платформу, де сайт працює і як канал скаутингу, і як презентація моделей для брендів."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec9",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec9",
+              "_type": "span",
+              "marks": [],
+              "text": "We built a platform that works both as a talent-scouting channel and as a model presentation environment for brands."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "XrTxD1czjbsDVYzLTyrTR8",
+          "en": "Separate site directions: You Are Model and Your Models",
+          "uk": "Окремі напрями You Are Model та Your Models"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTyrTUq",
+          "en": "Online application flow for new talent",
+          "uk": "Онлайн-форма подачі заявки новими талантами"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTyrTYY",
+          "en": "Audience-aware navigation for models and clients",
+          "uk": "Навігація для моделей і клієнтів агенції"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTyrTcG",
+          "en": "CMS for updating agency data and activity content",
+          "uk": "CMS для оновлення інформації про діяльність"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ SOLUTION",
+        "uk": "/ SOLUTION"
+      },
+      "heading": {
+        "en": "What we *did*",
+        "uk": "Що ми *зробили*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-a1da9c4025cff72c11be4f54c526bafb8d2c4e77-2560x2000-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "fd187ec9f59b",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bd",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "se",
+              "_type": "span",
+              "marks": [],
+              "text": "Команда URmodels отримала можливість оновлювати дані платформи, контент сторінок і керувати інформацією для обох аудиторій."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-cms",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-cms",
+              "_type": "span",
+              "marks": [],
+              "text": "URmodels can independently update platform content, model data, and structural blocks for both audiences."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "XrTxD1czjbsDVYzLTyrTfy",
+          "en": "Update profile and section content",
+          "uk": "Оновлення контенту і профілів"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTyrTjg",
+          "en": "Manage application workflows",
+          "uk": "Керування формами та заявками"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTyrTnO",
+          "en": "Control key site structure and navigation",
+          "uk": "Редагування структури розділів"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ CMS",
+        "uk": "/ CMS"
+      },
+      "heading": {
+        "en": "Admin panel for managing *models and applications*",
+        "uk": "Адмін-панель для керування *моделями та заявками*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-9a51e68deca8955985f57542524aa61d948539ef-2940x1836-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageRight",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "c21a76bcf1fd",
+      "_type": "mediaGalleryBlock",
+      "enableLightbox": true,
+      "images": [
+        {
+          "_key": "95ba9d5f01f5",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-a1da9c4025cff72c11be4f54c526bafb8d2c4e77-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "1272b8d38b70",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-b22d4bf6f17513d565426e96b289e6002fce5439-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        }
+      ]
+    },
+    {
+      "_key": "sech",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bf",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sg",
+              "_type": "span",
+              "marks": [],
+              "text": "URmodels отримала платформу, що обʼєднує скаутинг нових талантів, презентацію модельної бази й комунікацію з партнерами в єдиній системі."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-out",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-out",
+              "_type": "span",
+              "marks": [],
+              "text": "URmodels received a unified platform that combines scouting, model-base presentation, and partner communication in one system."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ OUTCOME",
+        "uk": "/ OUTCOME"
+      },
+      "heading": {
+        "en": "Result",
+        "uk": "Результат"
+      },
+      "variant": "centered"
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Dual-flow platform for model scouting and client-facing talent presentation.",
+      "uk": "URmodels — boutique model agency, яка розвиває нові таланти і презентує моделей для міжнародного fashion-ринку."
+    },
+    "title": {
+      "en": "URmodels - case study | Code-Site.Art",
+      "uk": "URmodels — кейс | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "urmodels"
+  },
+  "stack": [
+    "Next.js",
+    "Sanity"
+  ],
+  "status": "published",
+  "title": {
+    "en": "URmodels",
+    "uk": "URmodels"
+  },
+  "year": 2026
+}

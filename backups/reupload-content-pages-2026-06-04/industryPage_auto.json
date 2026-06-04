@@ -1,0 +1,1701 @@
+{
+  "_createdAt": "2026-05-20T08:22:09Z",
+  "_id": "industryPage.auto",
+  "_rev": "NmlfHczPb8AvtTz8pIoVdx",
+  "_type": "industryPage",
+  "_updatedAt": "2026-06-04T14:15:19Z",
+  "hero": {
+    "ctaPrimary": {
+      "en": "Discuss my project",
+      "uk": "Обговорити мій проєкт"
+    },
+    "ctaSecondary": {
+      "en": "See auto case studies",
+      "uk": "Подивитися авто-кейси"
+    },
+    "deviceTags": [
+      {
+        "_key": "aut-dt-4",
+        "kind": "default",
+        "primary": {
+          "en": "Calculator",
+          "uk": "Калькулятор"
+        }
+      },
+      {
+        "_key": "aut-dt-5",
+        "kind": "default",
+        "primary": {
+          "en": "PDF invoice",
+          "uk": "PDF-інвойс"
+        }
+      },
+      {
+        "_key": "aut-dt-6",
+        "kind": "good",
+        "mini": "94",
+        "primary": {
+          "en": "Lighthouse",
+          "uk": "Lighthouse"
+        }
+      }
+    ],
+    "eyebrow": {
+      "en": "WEBSITES FOR THE AUTO INDUSTRY · from $5,000",
+      "uk": "САЙТИ ДЛЯ АВТО-ІНДУСТРІЇ · від $5 000"
+    },
+    "features": [
+      {
+        "en": "Calculator with PDF invoices | exact price in 60 sec",
+        "uk": "Калькулятор з PDF-інвойсами | точна ціна за 60 сек"
+      },
+      {
+        "en": "Multi-language | UA · RU · EN · PL",
+        "uk": "Мультимовність | UA · RU · EN · PL"
+      },
+      {
+        "en": "Integrations | auctions · logistics · CRM",
+        "uk": "Інтеграції | аукціони · логістика · CRM"
+      },
+      {
+        "en": "Car catalog | with filters and search",
+        "uk": "Каталог авто | з фільтрами і пошуком"
+      }
+    ],
+    "h1Num": "60",
+    "h1NumLabel": {
+      "en": "seconds\nto PDF invoice",
+      "uk": "секунд\nдо PDF-інвойса"
+    },
+    "heading": {
+      "en": "An auto site where the client *calculates the price*",
+      "uk": "Авто-сайт, на якому клієнт сам *рахує ціну*"
+    },
+    "lede": {
+      "en": "A calculator that quotes car delivery with every fee and generates a PDF invoice, so the client gets an exact number before the call. No more than 5 hours of your time: we write the copy and build the calculator logic. Live in 6-10 weeks, and clients arrive *already locked in*.",
+      "uk": "Калькулятор, який рахує доставку авто з усіма зборами і генерує PDF-інвойс — клієнт отримує точну цифру до дзвінка. Без вашої участі більше ніж 5 годин: ми пишемо тексти, ставимо логіку калькулятора. Запуск за 6–10 тижнів — і клієнти приходять уже з *підписаним інтересом*."
+    },
+    "stats": [
+      {
+        "_key": "aut-st-1",
+        "label": {
+          "en": "sites\nin business",
+          "uk": "сайтів\nу бізнесі"
+        },
+        "value": "47"
+      },
+      {
+        "_key": "aut-st-2",
+        "label": {
+          "en": "client\nrating",
+          "uk": "оцінка\nклієнтів"
+        },
+        "value": "4.9/5"
+      },
+      {
+        "_key": "aut-st-3",
+        "label": {
+          "en": "calculator\nconversion",
+          "uk": "конверсія\nкалькулятора"
+        },
+        "value": "×3"
+      }
+    ],
+    "tickerItems": [
+      {
+        "en": "US car delivery",
+        "uk": "Доставка авто з США"
+      },
+      {
+        "en": "EU car delivery",
+        "uk": "Доставка авто з ЄС"
+      },
+      {
+        "en": "Auto dealerships",
+        "uk": "Автодилери"
+      },
+      {
+        "en": "Car import",
+        "uk": "Імпорт авто"
+      },
+      {
+        "en": "Repair shops",
+        "uk": "СТО"
+      },
+      {
+        "en": "Body shops",
+        "uk": "Кузовний ремонт"
+      },
+      {
+        "en": "Tire service",
+        "uk": "Шиномонтаж"
+      },
+      {
+        "en": "Auto insurance",
+        "uk": "Авто-страхування"
+      },
+      {
+        "en": "Car rental",
+        "uk": "Прокат авто"
+      },
+      {
+        "en": "Car sharing",
+        "uk": "Car sharing"
+      },
+      {
+        "en": "Auto logistics",
+        "uk": "Авто-логістика"
+      },
+      {
+        "en": "Customs clearance",
+        "uk": "Розмитнення"
+      }
+    ]
+  },
+  "order": 6,
+  "sections": [
+    {
+      "_key": "aut-sec-7",
+      "_type": "reasonsBlock",
+      "eyebrow": {
+        "en": "DIAGNOSIS · 3 REASONS",
+        "uk": "ДІАГНОСТИКА · 3 ПРИЧИНИ"
+      },
+      "footCtaLabel": {
+        "en": "Audit my site",
+        "uk": "Перевірити мій сайт"
+      },
+      "footText": {
+        "en": "We fix *all three* in 6-10 weeks.",
+        "uk": "Виправляємо *всі три* за 6-10 тижнів."
+      },
+      "heading": {
+        "en": "3 reasons your auto site\n*doesn’t sell*",
+        "uk": "3 причини, чому ваш авто-сайт\n*не продає*"
+      },
+      "metaRows": [
+        {
+          "en": "audit of 35+ auto sites · 2024–25",
+          "uk": "аналіз 35+ авто-сайтів · 2024–25"
+        }
+      ],
+      "reasons": [
+        {
+          "_key": "aut-r-8",
+          "number": "01",
+          "stat": {
+            "label": {
+              "en": "of clients don’t call \"to clarify the price\"",
+              "uk": "клієнтів не дзвонять \"уточнити ціну\""
+            },
+            "value": "80%"
+          },
+          "tag": {
+            "en": "PRICE OPACITY",
+            "uk": "PRICE OPACITY"
+          },
+          "text": [
+            {
+              "_key": "aut-b-12",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-9",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "«Зателефонуйте, розрахуємо» — і "
+                },
+                {
+                  "_key": "aut-s-10",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "80% клієнтів не дзвонять"
+                },
+                {
+                  "_key": "aut-s-11",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ". Авто-доставка з США / ЄС має 12+ статей витрат (аукціон, логістика, страхування, розмитнення, акциз, ПДВ, винагорода брокера). Без калькулятора клієнт не може зрозуміти бюджет — іде до того, хто показує цифри."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "aut-b-16",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-13",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "\"Call us for a quote\" — and "
+                },
+                {
+                  "_key": "aut-s-14",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "80% of clients don’t call"
+                },
+                {
+                  "_key": "aut-s-15",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ". Car delivery from the US/EU has 12+ cost lines (auction fee, logistics, insurance, customs, excise, VAT, broker commission). Without a calculator, the client can’t gauge the budget — they go to whoever shows numbers."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "No calculator — the client goes to a competitor",
+            "uk": "Немає калькулятора — клієнт іде до конкурента"
+          }
+        },
+        {
+          "_key": "aut-r-17",
+          "number": "02",
+          "stat": {
+            "label": {
+              "en": "higher conversion on sites with filters + comparison",
+              "uk": "вища конверсія у сайтів з фільтрами + порівнянням"
+            },
+            "value": "×2.8"
+          },
+          "tag": {
+            "en": "CATALOG UX",
+            "uk": "CATALOG UX"
+          },
+          "text": [
+            {
+              "_key": "aut-b-21",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-18",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "300 авто в одній стрічці без фільтрів за маркою, моделлю, бюджетом, роком, паливом. Клієнт відкриває карточку, вертається, відкриває іншу, забуває яка краща. "
+                },
+                {
+                  "_key": "aut-s-19",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "Конкурент з фільтрами + порівнянням до 4 авто забирає всю аудиторію"
+                },
+                {
+                  "_key": "aut-s-20",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "aut-b-25",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-22",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "300 cars in one feed with no filters by make, model, budget, year, fuel. The client opens a card, goes back, opens another, forgets which was better. "
+                },
+                {
+                  "_key": "aut-s-23",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "A competitor with filters and 4-car comparison takes the whole audience"
+                },
+                {
+                  "_key": "aut-s-24",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "Car catalog without proper filters",
+            "uk": "Каталог авто без нормальних фільтрів"
+          }
+        },
+        {
+          "_key": "aut-r-26",
+          "number": "03",
+          "stat": {
+            "label": {
+              "en": "of clients drop off due to missing trust signals",
+              "uk": "клієнтів зливаються через відсутність trust-сигналів"
+            },
+            "value": "47%"
+          },
+          "tag": {
+            "en": "TRUST",
+            "uk": "TRUST"
+          },
+          "text": [
+            {
+              "_key": "aut-b-30",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-27",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Сторінка \"наші доставки\" з 3 фото 2019 року. Клієнт ризикує сумою $15-50k — і не бачить жодного підтвердження, що ви реально доставляєте, а не зникнете з передоплатою. "
+                },
+                {
+                  "_key": "aut-s-28",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "Без галереї \"ось ці 200 авто ми привезли\" клієнт обирає більшого гравця"
+                },
+                {
+                  "_key": "aut-s-29",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "aut-b-34",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-31",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "A \"deliveries\" page with 3 photos from 2019. The client risks $15-50k — and sees zero proof that you actually deliver and won’t disappear with the deposit. "
+                },
+                {
+                  "_key": "aut-s-32",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "Without a \"here are the 200 cars we brought\" gallery, the client picks the bigger player"
+                },
+                {
+                  "_key": "aut-s-33",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "No real cases of delivered cars",
+            "uk": "Жодних реальних кейсів доставлених авто"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "aut-sec-35",
+      "_type": "caseBlock",
+      "after": {
+        "foot": {
+          "en": "Result: 60-80 leads/month, calculator-to-call conversion 24%.",
+          "uk": "Результат: 60-80 заявок/місяць, конверсія калькулятор → дзвінок 24%."
+        },
+        "heading": {
+          "en": "✓ Multi-page site with calculator and PDF invoices",
+          "uk": "✓ Багатосторінковий сайт з калькулятором і PDF-інвойсами"
+        },
+        "items": [
+          {
+            "en": "Custom calculator with 12 cost lines (auction, logistics, insurance, customs, excise, VAT, commission)",
+            "uk": "Кастомний калькулятор з 12 статтями витрат (аукціон, логістика, страхування, розмитнення, акциз, ПДВ, винагорода)"
+          },
+          {
+            "en": "PDF invoice generated on the site in 60 seconds, no manager involvement",
+            "uk": "PDF-інвойс генерується на сайті за 60 секунд, без участі менеджера"
+          },
+          {
+            "en": "Car catalog with filters: make, model, year, budget, fuel, drivetrain",
+            "uk": "Каталог авто з фільтрами: марка, модель, рік, бюджет, паливо, привід"
+          },
+          {
+            "en": "Side-by-side comparison up to 4 cars",
+            "uk": "Порівняння до 4 авто side-by-side"
+          },
+          {
+            "en": "3 languages: UA / RU / EN with separate URL structure",
+            "uk": "3 мови: UA / RU / EN з власною URL-структурою"
+          },
+          {
+            "en": "Lighthouse Performance 94, mobile-first design",
+            "uk": "Lighthouse Performance 94, mobile-first дизайн"
+          },
+          {
+            "en": "\"Our deliveries\" gallery with photos of clients with their new cars (200+ cases)",
+            "uk": "Галерея \"наших доставок\" з фото клієнта на новому авто (200+ кейсів)"
+          },
+          {
+            "en": "SEO: landings for \"BMW from USA\", \"Tesla from USA\", \"buy car [budget]\"",
+            "uk": "SEO: лендинги під \"BMW з США\", \"Tesla з США\", \"купити авто [бюджет]\""
+          },
+          {
+            "en": "Leads flow into KeyCRM with full UTM tagging",
+            "uk": "Заявки одразу в KeyCRM з UTM-розміткою"
+          }
+        ],
+        "num": "RAUL AVTO · v2 · Next.js 2024",
+        "url": "raul-avto.com"
+      },
+      "before": {
+        "foot": {
+          "en": "Result: 5-8 leads/month, mostly from direct referrals.",
+          "uk": "Результат: 5-8 заявок/місяць, переважно з прямих рекомендацій."
+        },
+        "heading": {
+          "en": "× A catalog site without a calculator or proper UX",
+          "uk": "× Сайт-каталог без калькулятора і нормального UX"
+        },
+        "items": [
+          {
+            "en": "Catalog in a single feed, no filters by make / model / budget",
+            "uk": "Каталог авто в одній стрічці, без фільтрів за маркою/моделлю/бюджетом"
+          },
+          {
+            "en": "\"Calculate with the manager\" — zero pricing reference",
+            "uk": "\"Розрахуйте з менеджером\" — без жодного орієнтиру ціни"
+          },
+          {
+            "en": "Ukrainian only — losing clients from Russian and English queries",
+            "uk": "Сайт тільки на українській — втрачали клієнтів з російсько- і англомовних запитів"
+          },
+          {
+            "en": "Lighthouse Performance 42, mobile UX a disaster",
+            "uk": "Lighthouse Performance 42, mobile UX — катастрофа"
+          },
+          {
+            "en": "Zero SEO: one page for the whole site, no structure",
+            "uk": "SEO нуль: одна сторінка під весь сайт, без структурування"
+          },
+          {
+            "en": "Leads via email form with no CRM integration",
+            "uk": "Заявки через email-форму без CRM-інтеграції"
+          },
+          {
+            "en": "No proof of real deliveries — generic stock photos only",
+            "uk": "Жодних доказів реальних доставок — лише generic stock-фото"
+          }
+        ],
+        "num": "RAUL AVTO · v1 · WordPress 2022",
+        "url": "previous WP site"
+      },
+      "eyebrow": {
+        "en": "REAL CASE",
+        "uk": "РЕАЛЬНИЙ КЕЙС"
+      },
+      "eyebrowEm": {
+        "en": "RAUL AVTO",
+        "uk": "RAUL AVTO"
+      },
+      "heading": {
+        "en": "Before / After — a real client case",
+        "uk": "До / Після на прикладі реального клієнта"
+      },
+      "lede": {
+        "en": "Raul Avto — a US-to-Ukraine car delivery company. The task: a multi-page site with a working calculator (calculates all 12 cost lines and generates a PDF invoice for the client), a stylish converting design, in three languages (UA / RU / EN), with SEO targeting \"US car + model + budget\" queries.",
+        "uk": "Raul Avto — компанія з доставки авто з США в Україну. Завдання: багатосторінковий сайт з функціональним калькулятором (рахує усі 12 статей витрат і генерує PDF-інвойс клієнту), стильним дизайном що продає, на трьох мовах (UA / RU / EN), з SEO під ключові запити \"авто з США + модель + бюджет\"."
+      },
+      "meta": [
+        {
+          "_key": "aut-cm-36",
+          "strong": {
+            "en": "10 weeks",
+            "uk": "10 тижнів"
+          },
+          "text": {
+            "en": "brief to launch",
+            "uk": "від брифу до релізу"
+          }
+        },
+        {
+          "_key": "aut-cm-37",
+          "strong": {
+            "en": "3 languages",
+            "uk": "3 мови"
+          },
+          "text": {
+            "en": "UA · RU · EN",
+            "uk": "UA · RU · EN"
+          }
+        },
+        {
+          "_key": "aut-cm-38",
+          "strong": {
+            "en": "12 parameters",
+            "uk": "12 параметрів"
+          },
+          "text": {
+            "en": "in the delivery calculator",
+            "uk": "у калькуляторі доставки"
+          }
+        }
+      ],
+      "results": [
+        {
+          "_key": "aut-rs-39",
+          "label": {
+            "en": "leads per month",
+            "uk": "заявок на місяць"
+          },
+          "tag": {
+            "en": "LEADS",
+            "uk": "LEADS"
+          },
+          "value": "×10"
+        },
+        {
+          "_key": "aut-rs-40",
+          "label": {
+            "en": "calculator → call",
+            "uk": "калькулятор → дзвінок"
+          },
+          "tag": {
+            "en": "CALC CONVERSION",
+            "uk": "CALC CONVERSION"
+          },
+          "value": "24%"
+        },
+        {
+          "_key": "aut-rs-41",
+          "label": {
+            "en": "trilingual SEO",
+            "uk": "trilingual SEO"
+          },
+          "tag": {
+            "en": "LANGUAGES",
+            "uk": "LANGUAGES"
+          },
+          "value": "UA+RU+EN"
+        },
+        {
+          "_key": "aut-rs-42",
+          "label": {
+            "en": "Performance score (was 42)",
+            "uk": "Performance (було 42)"
+          },
+          "tag": {
+            "en": "LIGHTHOUSE",
+            "uk": "LIGHTHOUSE"
+          },
+          "value": "94"
+        }
+      ]
+    },
+    {
+      "_key": "aut-sec-43",
+      "_type": "outcomeBlock",
+      "benefitRows": [
+        {
+          "_key": "aut-br-44",
+          "feature": "FEATURE · 01 / 03",
+          "heading": {
+            "en": "Calculator with PDF invoices",
+            "uk": "Калькулятор з PDF-інвойсами"
+          },
+          "items": [
+            {
+              "en": "10-15 parameters (make, model, year, fuel, region)",
+              "uk": "10-15 параметрів (марка, модель, рік, тип палива, регіон)"
+            },
+            {
+              "en": "Calculation of all 12 cost lines",
+              "uk": "Розрахунок усіх 12 статей витрат"
+            },
+            {
+              "en": "PDF invoice to client’s email in 60 seconds",
+              "uk": "PDF-інвойс на email клієнта за 60 секунд"
+            },
+            {
+              "en": "Lead saved in CRM with the full breakdown",
+              "uk": "Лід зберігається в CRM з повним розрахунком"
+            }
+          ],
+          "mockTags": [
+            {
+              "en": "12 parameters",
+              "uk": "12 параметрів"
+            },
+            {
+              "en": "PDF invoice",
+              "uk": "PDF-інвойс"
+            }
+          ],
+          "mockType": "pages"
+        },
+        {
+          "_key": "aut-br-45",
+          "feature": "FEATURE · 02 / 03",
+          "heading": {
+            "en": "Catalog with filters + comparison",
+            "uk": "Каталог з фільтрами + порівнянням"
+          },
+          "items": [
+            {
+              "en": "Filters: make, model, budget, year, fuel, drivetrain, body type",
+              "uk": "Фільтри: марка, модель, бюджет, рік, паливо, привід, кузов"
+            },
+            {
+              "en": "Side-by-side comparison up to 4 cars",
+              "uk": "Порівняння до 4 авто side-by-side"
+            },
+            {
+              "en": "\"Favorites\" persist between sessions",
+              "uk": "Збереження \"обраного\" між сесіями"
+            },
+            {
+              "en": "Each car — its own SEO page",
+              "uk": "Кожне авто — окрема SEO-сторінка"
+            }
+          ],
+          "mockTags": [
+            {
+              "en": "Filters",
+              "uk": "Фільтри"
+            },
+            {
+              "en": "Compare",
+              "uk": "Compare"
+            }
+          ],
+          "mockType": "pages"
+        },
+        {
+          "_key": "aut-br-46",
+          "feature": "FEATURE · 03 / 03",
+          "heading": {
+            "en": "Multi-language SEO",
+            "uk": "Багатомовний SEO"
+          },
+          "items": [
+            {
+              "en": "UA + RU + EN, each on its own domain or path",
+              "uk": "UA + RU + EN, кожна з власним URL-доменом або підпапкою"
+            },
+            {
+              "en": "hreflang so Google understands the languages",
+              "uk": "hreflang для Google розуміння мов"
+            },
+            {
+              "en": "Region- and query-specific meta tags",
+              "uk": "Окремі мета-теги під регіон і запит"
+            },
+            {
+              "en": "Landings for \"BMW from USA\", \"Tesla EU\", \"buy car Kyiv\"",
+              "uk": "Лендинги під \"BMW з США\", \"Tesla EU\", \"купити авто Київ\""
+            }
+          ],
+          "mockTags": [
+            {
+              "en": "UA · RU · EN",
+              "uk": "UA · RU · EN"
+            },
+            {
+              "en": "hreflang",
+              "uk": "hreflang"
+            }
+          ],
+          "mockType": "pages"
+        }
+      ],
+      "benefitsHeading": {
+        "en": "How it shows up on the site",
+        "uk": "Як це працює на сайті"
+      },
+      "directions": {
+        "allowedItems": [
+          {
+            "en": "Car or service catalog with filters",
+            "uk": "Каталог авто або послуг з фільтрами"
+          },
+          {
+            "en": "Online booking for test drive or service",
+            "uk": "Онлайн-запис на тест-драйв або сервіс"
+          },
+          {
+            "en": "1C/BAS integration for stock sync",
+            "uk": "Інтеграція з 1С/BAS для синхронізації залишків"
+          },
+          {
+            "en": "Custom tier — from $14,000",
+            "uk": "Custom — від $14,000"
+          }
+        ],
+        "allowedLabel": {
+          "en": "Dealership / repair shop / services",
+          "uk": "Автодилер / СТО / послуги"
+        },
+        "lede": {
+          "en": "The approach differs for car importers with calculators and dealerships with physical showrooms. The pricing tiers below cover both scenarios.",
+          "uk": "Підхід відрізняється для імпорту авто з калькулятором і автодилера з фізичним салоном. Тарифи нижче — під обидва сценарії."
+        },
+        "replaceItems": [
+          {
+            "en": "USA / EU / Dubai / Japan",
+            "uk": "США / ЄС / Дубай / Японія"
+          },
+          {
+            "en": "Calculator with 10-15 cost lines",
+            "uk": "Калькулятор з 10-15 статтями витрат"
+          },
+          {
+            "en": "Auto PDF invoice",
+            "uk": "PDF-інвойс автоматично"
+          },
+          {
+            "en": "Pro Plus tier fits",
+            "uk": "Розширений пакет — Pro Plus"
+          }
+        ],
+        "replaceLabel": {
+          "en": "Car import services",
+          "uk": "Імпорт авто з-за кордону"
+        },
+        "title": {
+          "en": "We work with auto businesses of every format",
+          "uk": "Працюємо з авто-бізнесом будь-якого формату"
+        }
+      },
+      "recap": {
+        "text": {
+          "en": "Your auto site should calculate — not \"clarify with the manager\".",
+          "uk": "Ваш авто-сайт має рахувати, не \"уточнювати з менеджером\"."
+        }
+      }
+    },
+    {
+      "_key": "aut-sec-47",
+      "_type": "servicesBlock",
+      "features": [
+        {
+          "_key": "aut-sf-48",
+          "items": [
+            {
+              "en": "10-15 input parameters",
+              "uk": "10-15 параметрів вводу"
+            },
+            {
+              "en": "Calculation of 12+ cost lines",
+              "uk": "Розрахунок 12+ статей витрат"
+            },
+            {
+              "en": "PDF invoice to email",
+              "uk": "PDF-інвойс на email"
+            },
+            {
+              "en": "Lead in CRM with full breakdown",
+              "uk": "Лід в CRM з повним breakdown"
+            }
+          ],
+          "title": {
+            "en": "Delivery / service calculator",
+            "uk": "Калькулятор доставки / послуги"
+          }
+        },
+        {
+          "_key": "aut-sf-49",
+          "items": [
+            {
+              "en": "Filters + comparison up to 4 cars",
+              "uk": "Фільтри + порівняння до 4 авто"
+            },
+            {
+              "en": "Each car — its own SEO page",
+              "uk": "Кожне авто — SEO-сторінка"
+            },
+            {
+              "en": "Persistent favorites",
+              "uk": "Збереження обраного"
+            },
+            {
+              "en": "Schema.org Vehicle markup",
+              "uk": "Schema.org Vehicle розмітка"
+            }
+          ],
+          "title": {
+            "en": "Car catalog",
+            "uk": "Каталог авто"
+          }
+        },
+        {
+          "_key": "aut-sf-50",
+          "items": [
+            {
+              "en": "UA / RU / EN / PL — separate URL structure",
+              "uk": "UA / RU / EN / PL — окрема URL-структура"
+            },
+            {
+              "en": "hreflang + Schema.org",
+              "uk": "hreflang + Schema.org"
+            },
+            {
+              "en": "Pricing localized by currency",
+              "uk": "Локалізація цін у валютах"
+            },
+            {
+              "en": "Market-specific landings",
+              "uk": "Окремі лендинги під ринок"
+            }
+          ],
+          "title": {
+            "en": "Multi-language",
+            "uk": "Мультимовність"
+          }
+        },
+        {
+          "_key": "aut-sf-51",
+          "items": [
+            {
+              "en": "Copart, IAA, Manheim — lot import",
+              "uk": "Copart, IAA, Manheim — імпорт лотів"
+            },
+            {
+              "en": "Auto-translation of descriptions",
+              "uk": "Автоматичний переклад описів"
+            },
+            {
+              "en": "Lot pricing via the calculator",
+              "uk": "Розрахунок ціни лотів через калькулятор"
+            },
+            {
+              "en": "Bid tracking for the client",
+              "uk": "Bid-tracking для клієнта"
+            }
+          ],
+          "title": {
+            "en": "Auction integrations",
+            "uk": "Інтеграції з аукціонами"
+          }
+        },
+        {
+          "_key": "aut-sf-52",
+          "items": [
+            {
+              "en": "Calendly or custom form",
+              "uk": "Calendly або власна форма"
+            },
+            {
+              "en": "SMS reminders",
+              "uk": "SMS-нагадування"
+            },
+            {
+              "en": "CRM integration for the manager",
+              "uk": "Інтеграція з CRM менеджера"
+            },
+            {
+              "en": "Auto-routing by location",
+              "uk": "Auto-розподіл за салонами"
+            }
+          ],
+          "title": {
+            "en": "Online test drive / service booking",
+            "uk": "Онлайн-запис на тест-драйв / сервіс"
+          }
+        },
+        {
+          "_key": "aut-sf-53",
+          "items": [
+            {
+              "en": "200+ real delivery cases",
+              "uk": "200+ кейсів реальних доставок"
+            },
+            {
+              "en": "Photos of clients with their cars (consent-based)",
+              "uk": "Фото клієнта з авто (з його дозволу)"
+            },
+            {
+              "en": "Each case — its own SEO page \"BMW from USA 2024\"",
+              "uk": "Кожен кейс — SEO-сторінка \"BMW з США 2024\""
+            },
+            {
+              "en": "Google Maps integration for locations",
+              "uk": "Google Maps інтеграція для locations"
+            }
+          ],
+          "title": {
+            "en": "Delivery gallery + local SEO",
+            "uk": "Галерея доставок + Local SEO"
+          }
+        }
+      ],
+      "heading": {
+        "en": "What we build for auto businesses",
+        "uk": "Що ми будуємо для авто-бізнесу"
+      },
+      "integrations": [
+        {
+          "en": "Copart",
+          "uk": "Copart"
+        },
+        {
+          "en": "IAA",
+          "uk": "IAA"
+        },
+        {
+          "en": "Manheim",
+          "uk": "Manheim"
+        },
+        {
+          "en": "KeyCRM",
+          "uk": "KeyCRM"
+        },
+        {
+          "en": "AmoCRM",
+          "uk": "AmoCRM"
+        },
+        {
+          "en": "Bitrix24",
+          "uk": "Bitrix24"
+        },
+        {
+          "en": "Stripe",
+          "uk": "Stripe"
+        },
+        {
+          "en": "LiqPay",
+          "uk": "LiqPay"
+        },
+        {
+          "en": "WayForPay",
+          "uk": "WayForPay"
+        },
+        {
+          "en": "Nova Poshta",
+          "uk": "Nova Poshta"
+        },
+        {
+          "en": "Google Maps",
+          "uk": "Google Maps"
+        },
+        {
+          "en": "Telegram",
+          "uk": "Telegram"
+        }
+      ],
+      "integrationsHeading": {
+        "en": "We connect every auto-industry system",
+        "uk": "Підключаємо всі авто-системи"
+      },
+      "integrationsSub": {
+        "en": "Calculator leads land in CRM with the full breakdown. Copart auction lots — imported via API. Manager gets a Telegram alert. Client gets a PDF invoice by email and a tracking number after the order. Zero leads lost.",
+        "uk": "Заявка з калькулятора одразу в CRM з повним розрахунком. Лот з аукціону Copart — імпорт через API. Менеджер отримує сповіщення в Telegram. Клієнт — PDF-інвойс на email і трек-номер доставки після оформлення. Жодних втрачених лідів."
+      },
+      "sub": {
+        "en": "Not a \"brochure site with contacts.\" A tool that calculates, sells, and generates leads 24/7.",
+        "uk": "Не \"сайт-візитка з контактами\". Інструмент, який рахує, продає і генерує заявки 24/7."
+      },
+      "testimonial": {
+        "authorInitials": "RA",
+        "authorName": "Raul Avto Founder",
+        "authorRole": {
+          "en": "Founder, Raul Avto",
+          "uk": "Засновник Raul Avto"
+        },
+        "quote": {
+          "en": "We just wanted a nice site. We got a lead machine — clients arrive with a PDF invoice already, asking \"when can we sign the contract\".",
+          "uk": "Замовляли просто гарний сайт. Отримали машину для генерації заявок — клієнти приходять уже з PDF-інвойсом і питанням \"коли можемо підписати договір\"."
+        }
+      },
+      "testimonialEyebrow": {
+        "en": "CLIENT TESTIMONIAL",
+        "uk": "ВІДГУК КЛІЄНТА"
+      }
+    },
+    {
+      "_key": "aut-sec-54",
+      "_type": "comparisonBlock",
+      "contact": {
+        "briefPlaceholder": {
+          "en": "What kind of site you need, what your goals are",
+          "uk": "Який сайт потрібен, які цілі"
+        },
+        "channelPlaceholder": {
+          "en": "Telegram, phone, or email",
+          "uk": "Telegram, телефон або email"
+        },
+        "foot": {
+          "en": "Or message us on Telegram — @fedirdev",
+          "uk": "Або одразу пишіть у Telegram — @fedirdev"
+        },
+        "heading": {
+          "en": "Discuss your project",
+          "uk": "Обговорити проєкт"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "uk": "Як до вас звертатися"
+        },
+        "sub": {
+          "en": "Tell us briefly about your project — we’ll reply on Telegram within 1–2 hours during business hours.",
+          "uk": "Розкажіть коротко про ваш проєкт — відповімо в Telegram протягом 1–2 годин у робочий час."
+        },
+        "submitLabel": {
+          "en": "Send — we’ll reply within 1–2 hours",
+          "uk": "Надіслати — відповімо за 1–2 години"
+        }
+      },
+      "heading": {
+        "en": "Why a custom auto site beats a template",
+        "uk": "Чим кодовий авто-сайт кращий за шаблонний"
+      },
+      "pricingHeading": {
+        "en": "Pricing for an auto business website",
+        "uk": "Скільки коштує сайт авто-бізнесу"
+      },
+      "rows": [
+        {
+          "_key": "aut-cr-55",
+          "custom": {
+            "en": "custom",
+            "uk": "кастомний"
+          },
+          "param": {
+            "en": "Calculator with 12 lines",
+            "uk": "Калькулятор з 12 статтями"
+          },
+          "wix": {
+            "en": "via Apps",
+            "uk": "через Apps"
+          },
+          "wp": {
+            "en": "plugin (buggy)",
+            "uk": "плагін (баги)"
+          }
+        },
+        {
+          "_key": "aut-cr-56",
+          "custom": {
+            "en": "built-in",
+            "uk": "вбудовано"
+          },
+          "param": {
+            "en": "PDF invoices",
+            "uk": "PDF-інвойси"
+          },
+          "wix": {
+            "en": "no",
+            "uk": "немає"
+          },
+          "wp": {
+            "en": "plugin",
+            "uk": "плагін"
+          }
+        },
+        {
+          "_key": "aut-cr-57",
+          "custom": {
+            "en": "full",
+            "uk": "повний"
+          },
+          "param": {
+            "en": "Catalog with filters",
+            "uk": "Каталог з фільтрами"
+          },
+          "wix": {
+            "en": "basic",
+            "uk": "базовий"
+          },
+          "wp": {
+            "en": "plugin",
+            "uk": "плагін"
+          }
+        },
+        {
+          "_key": "aut-cr-58",
+          "custom": {
+            "en": "up to 4 cars",
+            "uk": "до 4 авто"
+          },
+          "param": {
+            "en": "Car comparison",
+            "uk": "Порівняння авто"
+          },
+          "wix": {
+            "en": "none",
+            "uk": "немає"
+          },
+          "wp": {
+            "en": "none",
+            "uk": "немає"
+          }
+        },
+        {
+          "_key": "aut-cr-59",
+          "custom": {
+            "en": "full structure",
+            "uk": "повна структура"
+          },
+          "param": {
+            "en": "Multi-language",
+            "uk": "Мультимовність"
+          },
+          "wix": {
+            "en": "basic",
+            "uk": "базова"
+          },
+          "wp": {
+            "en": "WPML plugin",
+            "uk": "WPML plugin"
+          }
+        },
+        {
+          "_key": "aut-cr-60",
+          "custom": {
+            "en": "Copart · IAA · Manheim",
+            "uk": "Copart · IAA · Manheim"
+          },
+          "param": {
+            "en": "Auction integration",
+            "uk": "Інтеграція з аукціонами"
+          },
+          "wix": {
+            "en": "none",
+            "uk": "немає"
+          },
+          "wp": {
+            "en": "none",
+            "uk": "немає"
+          }
+        },
+        {
+          "_key": "aut-cr-61",
+          "custom": {
+            "en": "< 1 sec",
+            "uk": "< 1 сек"
+          },
+          "param": {
+            "en": "Mobile speed",
+            "uk": "Швидкість на mobile"
+          },
+          "wix": {
+            "en": "2-4 sec",
+            "uk": "2-4 сек"
+          },
+          "wp": {
+            "en": "3-5 sec",
+            "uk": "3-5 сек"
+          }
+        },
+        {
+          "_key": "aut-cr-62",
+          "custom": {
+            "en": "your GitHub",
+            "uk": "ваш GitHub"
+          },
+          "param": {
+            "en": "Code ownership",
+            "uk": "Власність на код"
+          },
+          "wix": {
+            "en": "vendor lock",
+            "uk": "vendor lock"
+          },
+          "wp": {
+            "en": "WP plugins",
+            "uk": "плагіни WP"
+          }
+        }
+      ],
+      "tableCtaGhost": {
+        "en": "WordPress comparison →",
+        "uk": "Порівняння з WordPress →"
+      },
+      "tableCtaPrimary": {
+        "en": "Detailed page builder comparison →",
+        "uk": "Детальне порівняння конструкторів →"
+      },
+      "tiers": [
+        {
+          "_key": "aut-tier-63",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "en": "Details — on /en/pricing",
+            "uk": "Деталі — на /pricing"
+          },
+          "includes": [
+            {
+              "en": "Industry-ready structure",
+              "uk": "Готова структура під вашу галузь"
+            },
+            {
+              "en": "UA + EN bilingual",
+              "uk": "UA + EN білінгвал"
+            },
+            {
+              "en": "Base integrations (CRM + payments)",
+              "uk": "Базові інтеграції (CRM + платежі)"
+            },
+            {
+              "en": "Sanity CMS for self-serve edits",
+              "uk": "Sanity CMS для самостійних правок"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "uk": "Що входить"
+          },
+          "isPopular": false,
+          "price": {
+            "en": "$3,500",
+            "uk": "$3 500"
+          },
+          "title": {
+            "en": "Industry Pro",
+            "uk": "Industry Pro"
+          },
+          "weeks": {
+            "en": "4-6 weeks",
+            "uk": "4–6 тижнів"
+          }
+        },
+        {
+          "_key": "aut-tier-64",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "en": "Details — on /en/pricing",
+            "uk": "Деталі — на /pricing"
+          },
+          "includes": [
+            {
+              "en": "Everything in Industry Pro",
+              "uk": "Все з Industry Pro"
+            },
+            {
+              "en": "Deep integrations (3-5 systems)",
+              "uk": "Складні інтеграції (3–5 систем)"
+            },
+            {
+              "en": "Multi-language / multi-currency",
+              "uk": "Multi-language / multi-currency"
+            },
+            {
+              "en": "Dedicated landings per market / service",
+              "uk": "Окремі лендинги під ринок / послугу"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "uk": "Що входить"
+          },
+          "isPopular": true,
+          "popularLabel": {
+            "en": "Popular",
+            "uk": "Популярний"
+          },
+          "price": {
+            "en": "$7,500",
+            "uk": "$7 500"
+          },
+          "title": {
+            "en": "Pro Plus",
+            "uk": "Pro Plus"
+          },
+          "weeks": {
+            "en": "6-10 weeks",
+            "uk": "6–10 тижнів"
+          }
+        },
+        {
+          "_key": "aut-tier-65",
+          "ctaGhost": true,
+          "ctaLabel": {
+            "en": "Details — on /en/pricing",
+            "uk": "Деталі — на /pricing"
+          },
+          "includes": [
+            {
+              "en": "Everything in Pro Plus",
+              "uk": "Все з Pro Plus"
+            },
+            {
+              "en": "Custom business logic",
+              "uk": "Унікальна бізнес-логіка"
+            },
+            {
+              "en": "Custom platform / SaaS",
+              "uk": "Власна платформа / SaaS"
+            },
+            {
+              "en": "Programmatic landings (100+)",
+              "uk": "Програмні landing pages (100+)"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "uk": "Що входить"
+          },
+          "isPopular": false,
+          "price": {
+            "en": "from $14,000",
+            "uk": "від $14 000"
+          },
+          "title": {
+            "en": "Custom",
+            "uk": "Custom"
+          },
+          "weeks": {
+            "en": "10+ weeks",
+            "uk": "10+ тижнів"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "aut-sec-66",
+      "_type": "faqBlock",
+      "heading": {
+        "en": "FAQ",
+        "uk": "Часті питання"
+      },
+      "items": [
+        {
+          "_key": "aut-fq-67",
+          "answer": [
+            {
+              "_key": "aut-b-69",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-68",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Калькулятор сам по собі: $1,500-3,000 залежно від кількості параметрів. PDF-генерація — додатково $500. У стандартному пакеті Pro Plus калькулятор з 10 параметрами + PDF вже включено. Якщо потрібно 15+ параметрів і складна логіка (як у Raul Avto) — це Custom тир від $14,000."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "aut-b-71",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-70",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Calculator alone: $1,500-3,000 depending on parameter count. PDF generation — extra $500. The standard Pro Plus tier includes a 10-parameter calculator + PDF. For 15+ parameters and complex logic (like Raul Avto), it’s Custom tier from $14,000."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How much does the calculator with PDF invoices cost?",
+            "uk": "Скільки коштує калькулятор з PDF-інвойсами?"
+          }
+        },
+        {
+          "_key": "aut-fq-72",
+          "answer": [
+            {
+              "_key": "aut-b-74",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-73",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "У Copart і IAA є офіційні API для партнерських аккаунтів. Підключаємо парсинг лотів автоматично, перекладаємо описи, рахуємо ціни через калькулятор. Інтеграція з кожним аукціоном — $1,200-2,500. Manheim має закритий API — інтеграція через scraping (юридично сіра зона, обговорюємо окремо)."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "aut-b-76",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-75",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Copart and IAA have official APIs for partner accounts. We auto-import lots, translate descriptions, price them via the calculator. Each auction integration — $1,200-2,500. Manheim has a closed API — integration via scraping (legal gray area, discussed separately)."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How to integrate with Copart / IAA / Manheim auctions?",
+            "uk": "Як інтегруватися з аукціонами Copart / IAA / Manheim?"
+          }
+        },
+        {
+          "_key": "aut-fq-77",
+          "answer": [
+            {
+              "_key": "aut-b-79",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-78",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Залежить від ринку. Для імпорту в Україну — UA / RU обовʼязково (Одеса, Харків, Дніпро досі шукають російською). EN — корисно для русинів-емігрантів і EU-маркету. PL — окремо для роботи з польським маркетом. Кожна мова +15-25% до бюджету."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "aut-b-81",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-80",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Depends on the market. For import to Ukraine — UA / RU is mandatory (Odesa, Kharkiv, Dnipro still search in Russian). EN — useful for diaspora and EU market. PL — separately for the Polish market. Each language adds 15-25% to the budget."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How many languages does an auto business really need?",
+            "uk": "Скільки мов реально треба для авто-бізнесу?"
+          }
+        },
+        {
+          "_key": "aut-fq-82",
+          "answer": [
+            {
+              "_key": "aut-b-84",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-83",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Технічно так, але юридично складно. Передоплата $1,000-3,000 через Stripe / LiqPay як підтвердження інтересу — стандартно. Повна оплата авто ($15-50k) — переказом на банківський рахунок (за договором). Гра з повною онлайн-оплатою авто не варта свічок: банки блокують такі транзакції як підозрілі."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "aut-b-86",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-85",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Technically yes, but legally tricky. Deposits of $1,000-3,000 via Stripe / LiqPay as intent confirmation — standard. Full payment ($15-50k) — bank transfer (per contract). Pushing full online car payment isn’t worth it: banks flag such transactions as suspicious."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Can we sell cars through the site with online payments?",
+            "uk": "Чи можна продавати авто через сайт з оплатою онлайн?"
+          }
+        },
+        {
+          "_key": "aut-fq-87",
+          "answer": [
+            {
+              "_key": "aut-b-89",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-88",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Програмні landing pages: автоматично генеруємо сторінки під 200-500 запитів (марка × модель × регіон). Кожна сторінка з унікальними текстами, цінами, кейсами. Schema.org Vehicle. Через 3-6 місяців виходимо в топ-10 по long-tail запитам. Реклама стає дешевшою на 40-60% бо органіки достатньо."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "aut-b-91",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-90",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Programmatic landings: we auto-generate 200-500 pages (make × model × region). Each page with unique copy, prices, cases. Schema.org Vehicle. Within 3-6 months we rank top-10 for long-tail queries. Ads get 40-60% cheaper because organic carries the load."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How to rank for specific queries (BMW from USA, Tesla from EU)?",
+            "uk": "Як виходити в Google по конкретних запитах (BMW з США, Tesla з ЄС)?"
+          }
+        },
+        {
+          "_key": "aut-fq-92",
+          "answer": [
+            {
+              "_key": "aut-b-94",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-93",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Письмова згода клієнта на публікацію (стандартний пункт у договорі доставки). Шаблон ми надаємо. Кейс: фото клієнта з авто, марка/модель/рік, регіон доставки, термін, орієнтовна вартість. Кожен кейс — окрема SEO-сторінка. 200+ кейсів через 12 місяців — потужний trust-сигнал."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "aut-b-96",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "aut-s-95",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Written client consent for publication (standard clause in the delivery contract). We provide the template. The case: client photo with car, make / model / year, delivery region, timeline, ballpark cost. Each case — its own SEO page. 200+ cases after 12 months — a powerful trust signal."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How to publish real delivery cases with client photos?",
+            "uk": "Як показати реальні кейси доставок з фото клієнтів?"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "aut-sec-97",
+      "_type": "auditBlock",
+      "disclaim": {
+        "en": "No obligation. Useful even if you choose a different vendor.",
+        "uk": "Без зобовʼязань. Корисно, навіть якщо вирішите працювати з іншим підрядником."
+      },
+      "heading": {
+        "en": "Free audit of your auto site",
+        "uk": "Безкоштовний аудит вашого авто-сайту"
+      },
+      "inputs": {
+        "contactPlaceholder": {
+          "en": "Email or Telegram",
+          "uk": "Email або Telegram"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "uk": "Ваше імʼя"
+        },
+        "phonePlaceholder": {
+          "en": "Phone (optional)",
+          "uk": "Телефон (опціонально)"
+        },
+        "urlPlaceholder": {
+          "en": "Link to your site",
+          "uk": "Посилання на ваш сайт"
+        }
+      },
+      "list": [
+        {
+          "en": "Calculator analysis: are leads arriving \"locked in\"",
+          "uk": "Аналіз калькулятора: чи генерує лідів з підписаним інтересом"
+        },
+        {
+          "en": "SEO audit targeting auto queries in your region",
+          "uk": "SEO-аудит під авто-запити вашого регіону"
+        },
+        {
+          "en": "Mobile UX audit (60% of auto traffic is mobile)",
+          "uk": "Mobile UX-аудит (60% авто-трафіку — mobile)"
+        },
+        {
+          "en": "Catalog and filters: can the client find their car",
+          "uk": "Аналіз каталогу і фільтрів: чи знаходить клієнт своє авто"
+        },
+        {
+          "en": "Prioritized improvement plan + budget estimate",
+          "uk": "План покращень з пріоритетами + орієнтовний бюджет"
+        }
+      ],
+      "sub": {
+        "en": "Drop a link to your current site. Detailed PDF report within 3 business days.",
+        "uk": "Залиште посилання на ваш поточний сайт. Протягом 3 робочих днів — детальний звіт у PDF."
+      },
+      "submitLabel": {
+        "en": "Get my free audit",
+        "uk": "Отримати безкоштовний аудит"
+      }
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Custom sites for auto dealers, car importers, repair shops, and auto services. Calculators, PDF invoices, multi-language. Case: Raul Avto (US car delivery).",
+      "uk": "Кастомні сайти для автодилерів, імпорту авто, СТО і авто-послуг. Калькулятори, PDF-інвойси, мультимовність. Кейс: Raul Avto (доставка авто з США)."
+    },
+    "title": {
+      "en": "Websites for the auto industry — Code-Site.Art",
+      "uk": "Сайти для авто-індустрії — Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "auto"
+  },
+  "status": "published",
+  "title": {
+    "en": "Websites for the auto industry",
+    "uk": "Сайти для авто-індустрії"
+  }
+}

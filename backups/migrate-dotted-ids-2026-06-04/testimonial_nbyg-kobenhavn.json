@@ -1,0 +1,58 @@
+{
+  "_createdAt": "2026-05-21T06:00:19Z",
+  "_id": "testimonial.nbyg-kobenhavn",
+  "_rev": "6tWqPRZWZzG4Lv3HK7IMap",
+  "_system": {
+    "base": {
+      "id": "testimonial.nbyg-kobenhavn",
+      "rev": "wgmfEksz86pEwt4hGKhYGZ"
+    }
+  },
+  "_type": "testimonial",
+  "_updatedAt": "2026-06-04T16:41:12Z",
+  "authorInitials": "SH",
+  "authorName": "Søren Hansen",
+  "authorRole": {
+    "en": "Owner, NBYG København Aps",
+    "uk": "Власник, NBYG København Aps"
+  },
+  "caseLabel": {
+    "en": "See the full case study",
+    "uk": "Подивитись повний кейс"
+  },
+  "featured": true,
+  "mockupLeft": {
+    "_type": "imageWithLocalizedAlt",
+    "alt": {
+      "_type": "localizedString",
+      "en": "site on a phone",
+      "uk": "site on a phone"
+    },
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-3c73b4b8bb89f46827c0298ce16dac5d18ad9e50-648x804-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "mockupRight": {
+    "_type": "imageWithLocalizedAlt",
+    "alt": {
+      "_type": "localizedString",
+      "uk": "site on a labptop"
+    },
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-2907b050a9c441384c9d24ef272f12ee079a3cf3-1144x1054-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "order": 0,
+  "quote": {
+    "en": "Before launching the new site we had 3 inquiries a month. After launch — 24 in our first month live. The team writes content, runs the QA, and ships. We just got the keys.",
+    "uk": "Перед запуском нового сайту у нас було 3 заявки на місяць. Після запуску — 24 у перший місяць. Команда написала контент, провела QA, запустила. Нам залишилось лише отримати ключі."
+  }
+}

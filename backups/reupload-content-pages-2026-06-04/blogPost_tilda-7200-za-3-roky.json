@@ -1,0 +1,2824 @@
+{
+  "_createdAt": "2026-05-16T04:30:27Z",
+  "_id": "blogPost.tilda-7200-za-3-roky",
+  "_rev": "UAjCtlAuHSg7wG7TzHt7BM",
+  "_system": {
+    "base": {
+      "id": "blogPost.tilda-7200-za-3-roky",
+      "rev": "YgqY8amknTW9Mc7WwaUrKn"
+    }
+  },
+  "_type": "blogPost",
+  "_updatedAt": "2026-05-31T08:35:32Z",
+  "author": {
+    "bio": "Засновник Code-Site.Art. Веду техлід-роботу і пишу про реальні цифри з 47 проєктів.",
+    "name": "Fedir Alpatov",
+    "photoUrl": "/team/fedir.jpg",
+    "role": "Founder & Tech Lead"
+  },
+  "body": [
+    {
+      "_key": "a2-tldr-1",
+      "_type": "tldrBox",
+      "items": [
+        "Tilda Business: $20/міс. За 3 роки: **$720**.",
+        "Tilda Personal + надбудови (форми, домен, SEO): **$50/міс** × 36 = **$1,800**.",
+        "Tilda Agency Pro + інтеграції + плагіни: **$200/міс** × 36 = **$7,200**.",
+        "Custom-сайт на Next.js: **$3,500** один раз. Хостинг: $0-50/міс.",
+        "**Через 3 роки**: ви заплатили за конструктор стільки ж, але нічого не маєте — код залишається у Tilda.",
+        "**Експорт**: Tilda дає статичний HTML без бекенду форм. Це не «свій сайт»."
+      ],
+      "title": "За 60 секунд:"
+    },
+    {
+      "_key": "a2-b-3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-2",
+          "_type": "span",
+          "marks": [],
+          "text": "Як ми отримали цифру $7,200"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2-b-7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-4",
+          "_type": "span",
+          "marks": [],
+          "text": "Це не теоретичний розрахунок із сайту Tilda. Це сума, яку реально платили наші клієнти, які до нас прийшли з Tilda. Ми порахували "
+        },
+        {
+          "_key": "a2-s-5",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "12 кошторисів"
+        },
+        {
+          "_key": "a2-s-6",
+          "_type": "span",
+          "marks": [],
+          "text": " компаній, які мали по 50-300 заявок на місяць і використовували Tilda 2-3 роки."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-11",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-8",
+          "_type": "span",
+          "marks": [],
+          "text": "Стандартний набір для бізнесу на Tilda — не «Personal за $10/міс», а "
+        },
+        {
+          "_key": "a2-s-9",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Tilda Business + Tilda Pro + add-ons"
+        },
+        {
+          "_key": "a2-s-10",
+          "_type": "span",
+          "marks": [],
+          "text": ":"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-13",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-12",
+          "_type": "span",
+          "marks": [],
+          "text": "Tilda Business: $20/міс (за домен, без обмежень на блоки)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-15",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-14",
+          "_type": "span",
+          "marks": [],
+          "text": "Pro-блоки (форми з валідацією, мультистеп): включено в Pro, який $30/міс"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-17",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-16",
+          "_type": "span",
+          "marks": [],
+          "text": "Інтеграції через Zapier (бо Tilda нативно мало куди): Zapier від $30/міс"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-19",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-18",
+          "_type": "span",
+          "marks": [],
+          "text": "Аналітика + GTM налаштування: ~$0 (можна вручну)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-21",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-20",
+          "_type": "span",
+          "marks": [],
+          "text": "Платні шаблони/блоки з Tilda Market: $50-$200 одноразово"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-23",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-22",
+          "_type": "span",
+          "marks": [],
+          "text": "Сертифіковане SSL + швидкість через CDN: включено"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-26",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-24",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Технічний consultant"
+        },
+        {
+          "_key": "a2-s-25",
+          "_type": "span",
+          "marks": [],
+          "text": " (бо щось завжди ламається): $50-$100/міс"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-29",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-27",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Середнє по 12 кошторисах: $180-$220/міс."
+        },
+        {
+          "_key": "a2-s-28",
+          "_type": "span",
+          "marks": [],
+          "text": " Беремо середину — $200/міс."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-35",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-30",
+          "_type": "span",
+          "marks": [],
+          "text": "За 36 місяців це "
+        },
+        {
+          "_key": "a2-s-31",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "$7,200"
+        },
+        {
+          "_key": "a2-s-32",
+          "_type": "span",
+          "marks": [],
+          "text": ". За цю суму ви могли б замовити custom-сайт "
+        },
+        {
+          "_key": "a2-s-33",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "двічі"
+        },
+        {
+          "_key": "a2-s-34",
+          "_type": "span",
+          "marks": [],
+          "text": " і ще залишилось би на рік підтримки."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-37",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-36",
+          "_type": "span",
+          "marks": [],
+          "text": "Що ви насправді отримуєте за $7,200"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2-b-39",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-38",
+          "_type": "span",
+          "marks": [],
+          "text": "Шаблонний сайт із обмеженою кастомізацією, який:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-41",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-40",
+          "_type": "span",
+          "marks": [],
+          "text": "Вантажиться за 2-4 секунди на mobile (custom-сайт — 0.6-1.5)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-43",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-42",
+          "_type": "span",
+          "marks": [],
+          "text": "Залежить від платформи Tilda — якщо вона зупиниться, ваш сайт зникне"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-45",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-44",
+          "_type": "span",
+          "marks": [],
+          "text": "Має обмежений SEO (контроль над schema.org, server-side рендеринг, програмний SEO — недоступні)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-47",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-46",
+          "_type": "span",
+          "marks": [],
+          "text": "Не має «свого коду» — експорт дає статичний HTML без серверної логіки"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-49",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-48",
+          "_type": "span",
+          "marks": [],
+          "text": "Складно міняти структуру URL без втрати SEO"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-53",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-50",
+          "_type": "span",
+          "marks": [],
+          "text": "Це не критика Tilda як інструменту. Tilda "
+        },
+        {
+          "_key": "a2-s-51",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "відмінно підходить"
+        },
+        {
+          "_key": "a2-s-52",
+          "_type": "span",
+          "marks": [],
+          "text": " для:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-55",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-54",
+          "_type": "span",
+          "marks": [],
+          "text": "Особистих сторінок"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-57",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-56",
+          "_type": "span",
+          "marks": [],
+          "text": "Промо-сторінок під рекламні кампанії"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-59",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-58",
+          "_type": "span",
+          "marks": [],
+          "text": "Тестування гіпотез на 1-3 місяці"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-61",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-60",
+          "_type": "span",
+          "marks": [],
+          "text": "MVP перед серйозним інвестуванням"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-65",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-62",
+          "_type": "span",
+          "marks": [],
+          "text": "Tilda "
+        },
+        {
+          "_key": "a2-s-63",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "погано підходить"
+        },
+        {
+          "_key": "a2-s-64",
+          "_type": "span",
+          "marks": [],
+          "text": " для:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-67",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-66",
+          "_type": "span",
+          "marks": [],
+          "text": "Бізнесу, який планує жити більше 2 років"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-69",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-68",
+          "_type": "span",
+          "marks": [],
+          "text": "Сайтів із складними інтеграціями (CRM, ERP, медичні системи)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-71",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-70",
+          "_type": "span",
+          "marks": [],
+          "text": "Проєктів, де важливий SEO як основний канал"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-73",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-72",
+          "_type": "span",
+          "marks": [],
+          "text": "Багатомовних сайтів із серйозним SEO"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-75",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-74",
+          "_type": "span",
+          "marks": [],
+          "text": "Що сталось із нашими клієнтами, які мігрували"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2-b-77",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-76",
+          "_type": "span",
+          "marks": [],
+          "text": "З 12 клієнтів, які переходили з Tilda на custom:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-80",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-78",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "9 із 12"
+        },
+        {
+          "_key": "a2-s-79",
+          "_type": "span",
+          "marks": [],
+          "text": " — основна причина переїзду: «не можемо вийти за межі шаблону», «потрібна інтеграція, яку Tilda не дає»"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-83",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-81",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "2 із 12"
+        },
+        {
+          "_key": "a2-s-82",
+          "_type": "span",
+          "marks": [],
+          "text": " — повільна швидкість на mobile вбила конверсію (Google Search Console показав падіння CTR після оновлення Core Web Vitals)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-86",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-84",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "1 із 12"
+        },
+        {
+          "_key": "a2-s-85",
+          "_type": "span",
+          "marks": [],
+          "text": " — Tilda зламала кастомний JS після оновлення, і власник вирішив, що з цього досить"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-92",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-87",
+          "_type": "span",
+          "marks": [],
+          "text": "Середній строк переїзду: "
+        },
+        {
+          "_key": "a2-s-88",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "4-6 тижнів"
+        },
+        {
+          "_key": "a2-s-89",
+          "_type": "span",
+          "marks": [],
+          "text": " з міграцією SEO без втрати трафіку. Наш стандарт переїзду коштує "
+        },
+        {
+          "_key": "a2-s-90",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "$500-$2,000"
+        },
+        {
+          "_key": "a2-s-91",
+          "_type": "span",
+          "marks": [],
+          "text": " залежно від обсягу 301-редиректів."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-97",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-93",
+          "_type": "span",
+          "marks": [],
+          "text": "Деталі ми розписали на окремій сторінці "
+        },
+        {
+          "_key": "a2-s-95",
+          "_type": "span",
+          "marks": [
+            "a2-m-94"
+          ],
+          "text": "vs Constructors"
+        },
+        {
+          "_key": "a2-s-96",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a2-m-94",
+          "_type": "link",
+          "href": "/vs-constructors",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-99",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-98",
+          "_type": "span",
+          "marks": [],
+          "text": "Чи можна експортувати сайт із Tilda?"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2-b-103",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-100",
+          "_type": "span",
+          "marks": [],
+          "text": "Технічно — так. Tilda Business дає експорт статичного HTML. Але це "
+        },
+        {
+          "_key": "a2-s-101",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "не рішення"
+        },
+        {
+          "_key": "a2-s-102",
+          "_type": "span",
+          "marks": [],
+          "text": ", а пастка:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-105",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-104",
+          "_type": "span",
+          "marks": [],
+          "text": "Експорт містить тільки HTML/CSS/JS — без бекенду форм"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-107",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-106",
+          "_type": "span",
+          "marks": [],
+          "text": "Форми перестануть надсилатись, поки ви не налаштуєте власний бекенд"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-109",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-108",
+          "_type": "span",
+          "marks": [],
+          "text": "Динамічні елементи (форми бронювання, корзина, кабінети) — не експортуються"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-111",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-110",
+          "_type": "span",
+          "marks": [],
+          "text": "Якщо ви робили правки через Tilda Zero Block — JS може поламатись після експорту"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-115",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-112",
+          "_type": "span",
+          "marks": [],
+          "text": "З 12 наших мігрантів "
+        },
+        {
+          "_key": "a2-s-113",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "жоден"
+        },
+        {
+          "_key": "a2-s-114",
+          "_type": "span",
+          "marks": [],
+          "text": " не зміг ефективно використати експорт. Усі робили сайт із нуля на новому стеку."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-117",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-116",
+          "_type": "span",
+          "marks": [],
+          "text": "А якщо я використовую тільки Tilda Personal за $10/міс?"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2-b-119",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-118",
+          "_type": "span",
+          "marks": [],
+          "text": "Тоді ваш кейс інший. $10/міс × 36 = $360 за 3 роки. Це менше, ніж навіть наш найдешевший Landing тир ($1,000)."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-121",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-120",
+          "_type": "span",
+          "marks": [],
+          "text": "Питання: чи дає Personal тариф достатньо для бізнесу?"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-123",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-122",
+          "_type": "span",
+          "marks": [],
+          "text": "Personal — це 1 сайт без свого домена (адреса виглядає як `yourbiz.tilda.ws`), із обмеженням 500 блоків і без багатомовності. Серйозний бізнес тут не живе. Як тільки ви хочете свій домен — це Business $20/міс. Як тільки треба нормальний SEO + інтеграції — це Pro $30/міс."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-127",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-124",
+          "_type": "span",
+          "marks": [],
+          "text": "Ціна на бізнес-варіант Tilda "
+        },
+        {
+          "_key": "a2-s-125",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "завжди"
+        },
+        {
+          "_key": "a2-s-126",
+          "_type": "span",
+          "marks": [],
+          "text": " виходить $40-$80/міс після всіх add-ons, навіть без агенційного тарифу."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-129",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-128",
+          "_type": "span",
+          "marks": [],
+          "text": "А Wix? А Webflow?"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2-b-131",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-130",
+          "_type": "span",
+          "marks": [],
+          "text": "Та сама математика з невеликими відмінностями:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-tbl-132",
+      "_type": "blogTable",
+      "headers": [
+        "Платформа",
+        "Тариф для бізнесу",
+        "За 36 міс",
+        "Експорт коду"
+      ],
+      "rows": [
+        {
+          "_key": "a2-row-133",
+          "_type": "blogTableRow",
+          "cells": [
+            "Tilda Business + Pro",
+            "$50/міс",
+            "$1,800",
+            "HTML без бекенду"
+          ]
+        },
+        {
+          "_key": "a2-row-134",
+          "_type": "blogTableRow",
+          "cells": [
+            "Wix Business",
+            "$32/міс",
+            "$1,152",
+            "Не дає експорту"
+          ]
+        },
+        {
+          "_key": "a2-row-135",
+          "_type": "blogTableRow",
+          "cells": [
+            "Webflow Business",
+            "$39/міс",
+            "$1,404",
+            "HTML+CSS, без CMS"
+          ]
+        },
+        {
+          "_key": "a2-row-136",
+          "_type": "blogTableRow",
+          "cells": [
+            "Squarespace Business",
+            "$33/міс",
+            "$1,188",
+            "Не дає експорту"
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "a2-b-138",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-137",
+          "_type": "span",
+          "marks": [],
+          "text": "Усі вони — оренда, не власність. Кожен з них через 2-3 роки коштує більше, ніж разова покупка кастомного сайту в нашому Industry Pro тирі."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-cta-139",
+      "_type": "ctaCallout",
+      "ctaHref": "/calculator",
+      "ctaLabel": "Розрахувати міграцію",
+      "eyebrow": "Калькулятор",
+      "heading": "Хочете перевірити, скільки реально коштує переїхати з конструктора?",
+      "sub": "Калькулятор за 60 секунд + наш стандарт міграції з 301-редиректами без втрати SEO."
+    },
+    {
+      "_key": "a2-b-141",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-140",
+          "_type": "span",
+          "marks": [],
+          "text": "Коли конструктор — все ще правильний вибір"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2-b-143",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-142",
+          "_type": "span",
+          "marks": [],
+          "text": "Чесно:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-146",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-144",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Перевірка попиту на новий продукт."
+        },
+        {
+          "_key": "a2-s-145",
+          "_type": "span",
+          "marks": [],
+          "text": " Якщо ви не знаєте, чи зайде ваша ідея — Tilda за тиждень дешевше, ніж кодовий сайт за місяць."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-149",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-147",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Промо-сторінка під одну кампанію."
+        },
+        {
+          "_key": "a2-s-148",
+          "_type": "span",
+          "marks": [],
+          "text": " Якщо сайт живе 3 місяці і викидається — кодити немає сенсу."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-152",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-150",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Особиста сторінка / портфоліо."
+        },
+        {
+          "_key": "a2-s-151",
+          "_type": "span",
+          "marks": [],
+          "text": " Якщо ви фотограф або дизайнер — Tilda дає достатньо."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-156",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-153",
+          "_type": "span",
+          "marks": [],
+          "text": "У всіх інших випадках "
+        },
+        {
+          "_key": "a2-s-154",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "математика рве конструктор"
+        },
+        {
+          "_key": "a2-s-155",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-158",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-157",
+          "_type": "span",
+          "marks": [],
+          "text": "Прихована вартість, яку ніхто не рахує"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2-b-160",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-159",
+          "_type": "span",
+          "marks": [],
+          "text": "Окрім грошей, є година вашого часу:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-162",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-161",
+          "_type": "span",
+          "marks": [],
+          "text": "Виправити форму, яка не надсилається — 1-3 години"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-164",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-163",
+          "_type": "span",
+          "marks": [],
+          "text": "Розібратись, чому SEO впав після оновлення — 4-6 годин"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-166",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-165",
+          "_type": "span",
+          "marks": [],
+          "text": "Підтримувати плагіни/блоки після апдейтів — 2-4 години на квартал"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-168",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-167",
+          "_type": "span",
+          "marks": [],
+          "text": "Знайти підрядника, який «знає Tilda» — 1-2 тижні пошуків"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-172",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-169",
+          "_type": "span",
+          "marks": [],
+          "text": "Це "
+        },
+        {
+          "_key": "a2-s-170",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "30-50 годин на рік"
+        },
+        {
+          "_key": "a2-s-171",
+          "_type": "span",
+          "marks": [],
+          "text": " часу власника бізнесу, який в середньому коштує себе ж $50-$150/година. Додайте ще $1,500-$7,500 на рік до вашого Tilda-tab’у."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-b-177",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2-s-173",
+          "_type": "span",
+          "marks": [],
+          "text": "Кодовий сайт цих годин не вимагає. Ми робимо щотижневі сек'юриті-чеки і оновлення — це включено в рік гарантії. Деталі — на сторінці "
+        },
+        {
+          "_key": "a2-s-175",
+          "_type": "span",
+          "marks": [
+            "a2-m-174"
+          ],
+          "text": "Pricing"
+        },
+        {
+          "_key": "a2-s-176",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a2-m-174",
+          "_type": "link",
+          "href": "/pricing",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a2-cta-178",
+      "_type": "ctaCallout",
+      "ctaHref": "/contacts",
+      "ctaLabel": "Обговорити міграцію",
+      "ctaSecondaryHref": "https://t.me/fedirdev",
+      "ctaSecondaryLabel": "Або написати в Telegram",
+      "eyebrow": "Обговорити",
+      "heading": "Подумуєте про переїзд із Tilda / Wix / Webflow?",
+      "sub": "Розповімо чесно, чи вам це потрібно. Якщо вашому бізнесу ще ОК на конструкторі — скажемо. Якщо пора — порахуємо міграцію без втрати SEO."
+    }
+  ],
+  "bodyEn": [
+    {
+      "_key": "a2en-tldr-1",
+      "_type": "tldrBox",
+      "items": [
+        "Tilda Business: $20/mo. Over 3 years: **$720**.",
+        "Tilda Personal + add-ons (forms, domain, SEO): **$50/mo** × 36 = **$1,800**.",
+        "Tilda Business Pro + integrations + plugins: **$200/mo** × 36 = **$7,200**.",
+        "Custom site on Next.js: **$3,500** once. Hosting: $0-50/mo.",
+        "**After 3 years:** you've paid the same for the builder — and you own nothing. The code stays with Tilda.",
+        "**Export:** Tilda gives you static HTML without form backends. That's not \"your site.\""
+      ],
+      "title": "Quick numbers:"
+    },
+    {
+      "_key": "a2en-b-3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-2",
+          "_type": "span",
+          "marks": [],
+          "text": "How we got to $7,200"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2en-b-7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-4",
+          "_type": "span",
+          "marks": [],
+          "text": "This isn't theoretical from Tilda's marketing page. It's what our clients actually paid before they came to us. We pulled "
+        },
+        {
+          "_key": "a2en-s-5",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "12 invoices"
+        },
+        {
+          "_key": "a2en-s-6",
+          "_type": "span",
+          "marks": [],
+          "text": " from companies running 50-300 leads/month who used Tilda for 2-3 years."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-10",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-8",
+          "_type": "span",
+          "marks": [],
+          "text": "The real business stack on Tilda — not \"Personal at $10/mo,\" but "
+        },
+        {
+          "_key": "a2en-s-9",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Tilda Business + Tilda Pro + add-ons:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-12",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-11",
+          "_type": "span",
+          "marks": [],
+          "text": "Tilda Business: $20/mo (your domain, no block limits)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-14",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-13",
+          "_type": "span",
+          "marks": [],
+          "text": "Pro blocks (forms with validation, multi-step): included in Pro at $30/mo"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-16",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-15",
+          "_type": "span",
+          "marks": [],
+          "text": "Zapier integrations (Tilda is narrow natively): Zapier from $30/mo"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-18",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-17",
+          "_type": "span",
+          "marks": [],
+          "text": "Analytics + GTM setup: ~$0 (manual)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-20",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-19",
+          "_type": "span",
+          "marks": [],
+          "text": "Paid templates/blocks from Tilda Market: $50-$200 one-time"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-22",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-21",
+          "_type": "span",
+          "marks": [],
+          "text": "SSL + CDN speed: included"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-25",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-23",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Technical consultant"
+        },
+        {
+          "_key": "a2en-s-24",
+          "_type": "span",
+          "marks": [],
+          "text": " (because something always breaks): $50-$100/mo"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-28",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-26",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Average across 12 quotes: $180-$220/mo."
+        },
+        {
+          "_key": "a2en-s-27",
+          "_type": "span",
+          "marks": [],
+          "text": " Let's say $200/mo."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-34",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-29",
+          "_type": "span",
+          "marks": [],
+          "text": "Over 36 months that's "
+        },
+        {
+          "_key": "a2en-s-30",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "$7,200"
+        },
+        {
+          "_key": "a2en-s-31",
+          "_type": "span",
+          "marks": [],
+          "text": ". For that money you could have bought a custom site "
+        },
+        {
+          "_key": "a2en-s-32",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "twice"
+        },
+        {
+          "_key": "a2en-s-33",
+          "_type": "span",
+          "marks": [],
+          "text": ", with budget left over for a year of support."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-36",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-35",
+          "_type": "span",
+          "marks": [],
+          "text": "What $7,200 actually buys you"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2en-b-38",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-37",
+          "_type": "span",
+          "marks": [],
+          "text": "A template site with limited customization that:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-40",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-39",
+          "_type": "span",
+          "marks": [],
+          "text": "Loads in 2-4 seconds on mobile (custom — 0.6-1.5)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-42",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-41",
+          "_type": "span",
+          "marks": [],
+          "text": "Depends on Tilda's platform — if it goes down, your site disappears"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-44",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-43",
+          "_type": "span",
+          "marks": [],
+          "text": "Has limited SEO (full schema.org control, server-side rendering, programmatic SEO — unavailable)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-46",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-45",
+          "_type": "span",
+          "marks": [],
+          "text": "Has no \"your code\" — export gives static HTML without server logic"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-48",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-47",
+          "_type": "span",
+          "marks": [],
+          "text": "Can't change URL structure without losing SEO"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-52",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-49",
+          "_type": "span",
+          "marks": [],
+          "text": "This isn't a critique of Tilda as a tool. Tilda is "
+        },
+        {
+          "_key": "a2en-s-50",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "great"
+        },
+        {
+          "_key": "a2en-s-51",
+          "_type": "span",
+          "marks": [],
+          "text": " for:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-54",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-53",
+          "_type": "span",
+          "marks": [],
+          "text": "Personal pages"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-56",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-55",
+          "_type": "span",
+          "marks": [],
+          "text": "Promo pages for one campaign"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-58",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-57",
+          "_type": "span",
+          "marks": [],
+          "text": "Hypothesis testing on a 1-3 month horizon"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-60",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-59",
+          "_type": "span",
+          "marks": [],
+          "text": "MVPs before serious investment"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-64",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-61",
+          "_type": "span",
+          "marks": [],
+          "text": "Tilda is "
+        },
+        {
+          "_key": "a2en-s-62",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "bad"
+        },
+        {
+          "_key": "a2en-s-63",
+          "_type": "span",
+          "marks": [],
+          "text": " for:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-66",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-65",
+          "_type": "span",
+          "marks": [],
+          "text": "Businesses planning to operate beyond 2 years"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-68",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-67",
+          "_type": "span",
+          "marks": [],
+          "text": "Sites with complex integrations (CRM, ERP, healthcare systems)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-70",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-69",
+          "_type": "span",
+          "marks": [],
+          "text": "Projects where SEO is the primary channel"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-72",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-71",
+          "_type": "span",
+          "marks": [],
+          "text": "Multilingual sites with serious SEO"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-74",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-73",
+          "_type": "span",
+          "marks": [],
+          "text": "What happened to our clients who migrated"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2en-b-76",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-75",
+          "_type": "span",
+          "marks": [],
+          "text": "Of 12 clients who moved from Tilda to custom:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-79",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-77",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "9 of 12"
+        },
+        {
+          "_key": "a2en-s-78",
+          "_type": "span",
+          "marks": [],
+          "text": " — main reason: \"can't go beyond the template,\" \"need an integration Tilda doesn't allow\""
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-82",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-80",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "2 of 12"
+        },
+        {
+          "_key": "a2en-s-81",
+          "_type": "span",
+          "marks": [],
+          "text": " — slow mobile speed killed conversion (Google Search Console showed CTR drop after the Core Web Vitals update)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-85",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-83",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "1 of 12"
+        },
+        {
+          "_key": "a2en-s-84",
+          "_type": "span",
+          "marks": [],
+          "text": " — Tilda broke custom JS after an update, and the owner decided they'd had enough"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-89",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-86",
+          "_type": "span",
+          "marks": [],
+          "text": "Average migration timeline: "
+        },
+        {
+          "_key": "a2en-s-87",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "4-6 weeks"
+        },
+        {
+          "_key": "a2en-s-88",
+          "_type": "span",
+          "marks": [],
+          "text": " with SEO transfer (no traffic loss). Our standard migration runs $500-$2,000 depending on the number of 301 redirects."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-94",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-90",
+          "_type": "span",
+          "marks": [],
+          "text": "We break this down on "
+        },
+        {
+          "_key": "a2en-s-92",
+          "_type": "span",
+          "marks": [
+            "a2en-m-91"
+          ],
+          "text": "vs Constructors"
+        },
+        {
+          "_key": "a2en-s-93",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a2en-m-91",
+          "_type": "link",
+          "href": "/en/vs-constructors",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-96",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-95",
+          "_type": "span",
+          "marks": [],
+          "text": "Can you export your Tilda site?"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2en-b-100",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-97",
+          "_type": "span",
+          "marks": [],
+          "text": "Technically — yes. Tilda Business gives you static HTML export. But it's "
+        },
+        {
+          "_key": "a2en-s-98",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "not a solution"
+        },
+        {
+          "_key": "a2en-s-99",
+          "_type": "span",
+          "marks": [],
+          "text": ", it's a trap:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-102",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-101",
+          "_type": "span",
+          "marks": [],
+          "text": "Export is HTML/CSS/JS only — no form backend"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-104",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-103",
+          "_type": "span",
+          "marks": [],
+          "text": "Forms stop submitting until you wire up your own backend"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-106",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-105",
+          "_type": "span",
+          "marks": [],
+          "text": "Dynamic elements (booking, cart, accounts) — not exported"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-108",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-107",
+          "_type": "span",
+          "marks": [],
+          "text": "If you used Tilda Zero Block — the JS can break post-export"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-112",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-109",
+          "_type": "span",
+          "marks": [],
+          "text": "Of our 12 migrants, "
+        },
+        {
+          "_key": "a2en-s-110",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "none"
+        },
+        {
+          "_key": "a2en-s-111",
+          "_type": "span",
+          "marks": [],
+          "text": " could effectively use the export. They all rebuilt on the new stack."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-114",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-113",
+          "_type": "span",
+          "marks": [],
+          "text": "What if I'm on Tilda Personal at $10/mo?"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2en-b-116",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-115",
+          "_type": "span",
+          "marks": [],
+          "text": "Different math. $10/mo × 36 = $360 over 3 years. Less than our cheapest Landing tier ($1,000)."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-118",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-117",
+          "_type": "span",
+          "marks": [],
+          "text": "Question: is Personal enough for a business?"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-122",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-119",
+          "_type": "span",
+          "marks": [],
+          "text": "Personal is 1 site without your domain (URL looks like "
+        },
+        {
+          "_key": "a2en-s-120",
+          "_type": "span",
+          "marks": [
+            "em"
+          ],
+          "text": "yourbiz.tilda.ws"
+        },
+        {
+          "_key": "a2en-s-121",
+          "_type": "span",
+          "marks": [],
+          "text": "), 500-block limit, no multilingual. A serious business doesn't live there. As soon as you want a custom domain — that's Business $20/mo. As soon as you want real SEO + integrations — Pro $30/mo."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-126",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-123",
+          "_type": "span",
+          "marks": [],
+          "text": "The cost for a business setup on Tilda "
+        },
+        {
+          "_key": "a2en-s-124",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "always"
+        },
+        {
+          "_key": "a2en-s-125",
+          "_type": "span",
+          "marks": [],
+          "text": " lands at $40-$80/mo after add-ons, even without the agency tier."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-128",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-127",
+          "_type": "span",
+          "marks": [],
+          "text": "What about Wix? Webflow?"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2en-b-130",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-129",
+          "_type": "span",
+          "marks": [],
+          "text": "Same math with small differences:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-tbl-131",
+      "_type": "blogTable",
+      "headers": [
+        "Platform",
+        "Business plan",
+        "Over 36 mo",
+        "Code export"
+      ],
+      "rows": [
+        {
+          "_key": "a2en-row-132",
+          "_type": "blogTableRow",
+          "cells": [
+            "Tilda Business + Pro",
+            "$50/mo",
+            "$1,800",
+            "HTML without backend"
+          ]
+        },
+        {
+          "_key": "a2en-row-133",
+          "_type": "blogTableRow",
+          "cells": [
+            "Wix Business",
+            "$32/mo",
+            "$1,152",
+            "No export"
+          ]
+        },
+        {
+          "_key": "a2en-row-134",
+          "_type": "blogTableRow",
+          "cells": [
+            "Webflow Business",
+            "$39/mo",
+            "$1,404",
+            "HTML+CSS, no CMS"
+          ]
+        },
+        {
+          "_key": "a2en-row-135",
+          "_type": "blogTableRow",
+          "cells": [
+            "Squarespace Business",
+            "$33/mo",
+            "$1,188",
+            "No export"
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "a2en-b-137",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-136",
+          "_type": "span",
+          "marks": [],
+          "text": "All of them — rent, not ownership. Each one costs more over 2-3 years than a one-time custom site purchase in our Industry Pro tier."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-cta-138",
+      "_type": "ctaCallout",
+      "ctaHref": "/en/calculator",
+      "ctaLabel": "Calculate migration",
+      "eyebrow": "Calculator",
+      "heading": "Want to check what migrating off a builder actually costs?",
+      "sub": "60-second calculator + our standard migration with 301 redirects."
+    },
+    {
+      "_key": "a2en-b-140",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-139",
+          "_type": "span",
+          "marks": [],
+          "text": "When a builder is still the right call"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2en-b-142",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-141",
+          "_type": "span",
+          "marks": [],
+          "text": "Honestly:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-145",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-143",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Demand validation for a new product."
+        },
+        {
+          "_key": "a2en-s-144",
+          "_type": "span",
+          "marks": [],
+          "text": " If you don't know if the idea will work — Tilda in a week is cheaper than a custom site in a month."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-148",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-146",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Promo page for one campaign."
+        },
+        {
+          "_key": "a2en-s-147",
+          "_type": "span",
+          "marks": [],
+          "text": " If the site lives 3 months and gets thrown away — no point coding."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-151",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-149",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Personal page or portfolio."
+        },
+        {
+          "_key": "a2en-s-150",
+          "_type": "span",
+          "marks": [],
+          "text": " If you're a photographer or designer — Tilda is enough."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-155",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-152",
+          "_type": "span",
+          "marks": [],
+          "text": "In every other case, "
+        },
+        {
+          "_key": "a2en-s-153",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "the math kills the builder"
+        },
+        {
+          "_key": "a2en-s-154",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-157",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-156",
+          "_type": "span",
+          "marks": [],
+          "text": "The hidden cost no one counts"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a2en-b-159",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-158",
+          "_type": "span",
+          "marks": [],
+          "text": "Beyond money, there's your time:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-161",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-160",
+          "_type": "span",
+          "marks": [],
+          "text": "Fix a form that won't submit — 1-3 hours"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-163",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-162",
+          "_type": "span",
+          "marks": [],
+          "text": "Figure out why SEO tanked after an update — 4-6 hours"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-165",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-164",
+          "_type": "span",
+          "marks": [],
+          "text": "Maintain plugins/blocks after updates — 2-4 hours per quarter"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-167",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-166",
+          "_type": "span",
+          "marks": [],
+          "text": "Find a contractor \"who knows Tilda\" — 1-2 weeks of searching"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-171",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-168",
+          "_type": "span",
+          "marks": [],
+          "text": "That's "
+        },
+        {
+          "_key": "a2en-s-169",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "30-50 hours/year"
+        },
+        {
+          "_key": "a2en-s-170",
+          "_type": "span",
+          "marks": [],
+          "text": " of an owner's time, which averages $50-$150/hour. Add another $1,500-$7,500/year to your Tilda tab."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-b-176",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a2en-s-172",
+          "_type": "span",
+          "marks": [],
+          "text": "A custom site doesn't demand those hours. We run weekly security checks and updates — included in the warranty year. See "
+        },
+        {
+          "_key": "a2en-s-174",
+          "_type": "span",
+          "marks": [
+            "a2en-m-173"
+          ],
+          "text": "Pricing"
+        },
+        {
+          "_key": "a2en-s-175",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a2en-m-173",
+          "_type": "link",
+          "href": "/en/pricing",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a2en-cta-177",
+      "_type": "ctaCallout",
+      "ctaHref": "/en/contacts",
+      "ctaLabel": "Discuss migration",
+      "ctaSecondaryHref": "https://t.me/fedirdev",
+      "ctaSecondaryLabel": "Or write on Telegram",
+      "eyebrow": "Migration",
+      "heading": "Thinking about moving off Tilda / Wix / Webflow?",
+      "sub": "We'll honestly tell you if you need to. If your business is still fine on a builder — we'll say so. If it's time — we'll quote the migration without SEO loss."
+    }
+  ],
+  "category": {
+    "_ref": "65de7a1a-bfde-4e47-ab70-7e0ecf161f0a",
+    "_type": "reference"
+  },
+  "coverImage": {
+    "alt": "Графік кумулятивних витрат: Tilda дорожчає до $7,200 за 36 місяців проти разової покупки custom-коду $3,500",
+    "src": "/blog/cover-tilda-7200.webp"
+  },
+  "eyebrow": "Платформи · 8 хвилин читання",
+  "eyebrowEn": "Platforms · 8 min read",
+  "faq": [
+    {
+      "_key": "faq-1",
+      "_type": "blogFaqItem",
+      "answer": "Реальний кошторис із add-ons і інтеграціями — $50-$200/міс. За 3 роки це $1,800-$7,200, не враховуючи годин власника на підтримку.",
+      "question": "Скільки коштує Tilda для бізнесу?"
+    },
+    {
+      "_key": "faq-2",
+      "_type": "blogFaqItem",
+      "answer": "Експорт HTML є, але без бекенду форм і динаміки. На практиці використовувати експорт як «свій сайт» неможливо — все одно треба робити з нуля на новій платформі.",
+      "question": "Чи можна експортувати сайт із Tilda?"
+    },
+    {
+      "_key": "faq-3",
+      "_type": "blogFaqItem",
+      "answer": "Технічно Tilda дає базовий SEO (meta, sitemap, schema), але не дає server-side рендерингу, програмних landing-page, кастомної schema.org для складних типів даних. Для серйозного SEO це обмеження.",
+      "question": "Чи правда, що Tilda гірше для SEO?"
+    },
+    {
+      "_key": "faq-4",
+      "_type": "blogFaqItem",
+      "answer": "4-6 тижнів для типового бізнес-сайту. 301-редиректи зберігають SEO-історію. Search Console handoff робимо разом із клієнтом, щоб не втратити позиції в Google.",
+      "question": "Скільки часу займає міграція з Tilda на Next.js?"
+    },
+    {
+      "_key": "faq-5",
+      "_type": "blogFaqItem",
+      "answer": "12 наших клієнтів пройшли цей шлях. Якщо хтось із них повернеться на Tilda — ми напишемо про це окрему статтю. Поки ніхто не повернувся.",
+      "question": "Як ви знаєте, що Tilda гірше за custom — може ви просто упереджені?"
+    }
+  ],
+  "faqEn": [
+    {
+      "_key": "faq-en-1",
+      "_type": "blogFaqItemEn",
+      "answer": "Real quote with add-ons and integrations — $50-$200/mo. Over 3 years, $1,800-$7,200 — not counting owner hours spent on maintenance.",
+      "question": "How much does Tilda actually cost a business?"
+    },
+    {
+      "_key": "faq-en-2",
+      "_type": "blogFaqItemEn",
+      "answer": "There is an HTML export, but no form backend, no dynamics. In practice, using the export as \"your site\" is impossible — you end up rebuilding on a new platform anyway.",
+      "question": "Can you export your site from Tilda?"
+    },
+    {
+      "_key": "faq-en-3",
+      "_type": "blogFaqItemEn",
+      "answer": "Technically Tilda gives basic SEO (meta, sitemap, schema), but no server-side rendering, no programmatic landing pages, no custom schema.org for complex data types. For serious SEO, those are blockers.",
+      "question": "Is Tilda really worse for SEO?"
+    },
+    {
+      "_key": "faq-en-4",
+      "_type": "blogFaqItemEn",
+      "answer": "4-6 weeks for a typical business site. 301 redirects preserve SEO history. Search Console handoff we do alongside the client so positions in Google stay.",
+      "question": "How long does migration from Tilda to Next.js take?"
+    },
+    {
+      "_key": "faq-en-5",
+      "_type": "blogFaqItemEn",
+      "answer": "12 of our clients went that route. If any go back to Tilda — we'll write a separate article. None have.",
+      "question": "How do you know Tilda's worse — maybe you're just biased?"
+    }
+  ],
+  "lede": "Конструктор виглядає дешевше, поки ви не додасте 36 місяців підписки і ціну переїзду. З 12 наших клієнтів, які мігрували з Tilda на Next.js, **жоден** не повернувся назад. Ось чому.",
+  "ledeEn": "A page builder looks cheaper until you add 36 months of subscription and the price of switching. Of our 12 clients who migrated from Tilda to Next.js, not one went back. Here's why.",
+  "metaDescription": "Чому конструктор «дешевший» виглядає дешевшим тільки в перший місяць. Розбір реальних витрат із 12 проєктів, які переходили з Tilda на custom-код.",
+  "metaDescriptionEn": "Why a page builder looks cheaper only in month one. Real costs from 12 projects that moved off Tilda to custom code.",
+  "metaTitle": "Tilda vs кодовий сайт за 3 роки — реальний розрахунок | Code-Site.Art",
+  "metaTitleEn": "Tilda vs custom site — real cost over 3 years | Code-Site.Art",
+  "publishedAt": "2026-05-19T11:11:30.189Z",
+  "readingTimeMinutes": 8,
+  "relatedPostSlugs": [
+    "skilky-koshtuye-sayt-2026",
+    "dohovir-z-veb-studieyu-7-punktiv"
+  ],
+  "slug": {
+    "_type": "slug",
+    "current": "tilda-7200-za-3-roky"
+  },
+  "slugEn": {
+    "_type": "slug",
+    "current": "tilda-7200-over-3-years"
+  },
+  "status": "published",
+  "tags": [
+    "tilda",
+    "wix",
+    "webflow",
+    "конструктор",
+    "TCO"
+  ],
+  "title": "Tilda за $200/міс — це $7,200 за 3 роки. Розрахунок із 12 проєктів",
+  "titleEn": "Tilda at $200/mo is $7,200 over 3 years. The math from 12 migrations.",
+  "updatedAt": "2026-05-19T11:11:30.189Z"
+}

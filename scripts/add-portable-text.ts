@@ -147,7 +147,7 @@ const SPECS: DocSpec[] = [
     },
   },
   {
-    file: "caseStudy.efedra-clinic.json",
+    file: "caseStudy-efedra-clinic.json",
     portableText: {
       'sections[_key=="sec6"].bodyEn': [
         [

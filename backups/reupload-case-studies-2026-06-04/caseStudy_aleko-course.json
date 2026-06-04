@@ -1,0 +1,418 @@
+{
+  "_createdAt": "2026-06-02T07:12:57Z",
+  "_id": "caseStudy.aleko-course",
+  "_rev": "DHIwRDN3sEoI638qoYN27d",
+  "_system": {
+    "base": {
+      "id": "caseStudy.aleko-course",
+      "rev": "zdDSdhTDV24lASLsPdp1OT"
+    }
+  },
+  "_type": "caseStudy",
+  "_updatedAt": "2026-06-04T16:41:49Z",
+  "client": "Aleko Course",
+  "coverImage": {
+    "_type": "imageWithLocalizedAlt",
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-21e6cf59c19c55abff62e758194e1ffbb5bcc068-2560x2000-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "duration": {
+    "en": "6 weeks",
+    "uk": "6 тижнів"
+  },
+  "featured": false,
+  "hero": {
+    "eyebrow": {
+      "en": "/ CASE STUDY",
+      "uk": "/ CASE STUDY"
+    },
+    "heading": {
+      "en": "Aleko Course - website for selling an online course on *viral content creation*",
+      "uk": "Aleko Course — сайт для продажу онлайн-курсу зі *створення вірусного контенту*"
+    },
+    "link": {
+      "_type": "ctaAction",
+      "href": "https://www.alekocourse.com/"
+    },
+    "metrics": [
+      {
+        "_key": "hm1",
+        "label": {
+          "en": "learning modules",
+          "uk": "навчальних модулів"
+        },
+        "value": "12"
+      },
+      {
+        "_key": "hm2",
+        "label": {
+          "en": "lessons in extended tier",
+          "uk": "відеоуроків у розширеному тарифі"
+        },
+        "value": "48"
+      },
+      {
+        "_key": "hm3",
+        "label": {
+          "en": "pricing tiers",
+          "uk": "тарифні пакети"
+        },
+        "value": "3"
+      },
+      {
+        "_key": "hm4",
+        "label": {
+          "en": "online-product sales structure",
+          "uk": "продаюча структура онлайн-продукту"
+        },
+        "value": "1"
+      }
+    ],
+    "subheading": {
+      "en": "A sales-focused landing page that presents the course through creator brand, program structure, outcomes, reviews, and pricing tiers.",
+      "uk": "Продаючий landing page, який презентує курс через бренд автора, програму навчання, відгуки та тарифи."
+    }
+  },
+  "metricsLine": {
+    "en": "12 learning modules · 48 lessons in extended tier · 3 pricing tiers · 1 conversion-focused structure",
+    "uk": "12 навчальних модулів · 48 відеоуроків у розширеному тарифі · 3 тарифні пакети · 1 продаюча структура онлайн-продукту"
+  },
+  "order": 28,
+  "region": {
+    "en": "Ukraine",
+    "uk": "Україна"
+  },
+  "sections": [
+    {
+      "_key": "sec6",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1t",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s1u",
+              "_type": "span",
+              "marks": [],
+              "text": "Для освітнього продукту потрібно показати не лише програму, а й цінність, довіру до автора і чітку причину купити зараз."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec6",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec6",
+              "_type": "span",
+              "marks": [],
+              "text": "For an online course, showing a syllabus is not enough. The user needs clear value, creator credibility, social proof, and a direct reason to buy now."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "cross",
+      "bulletList": [
+        {
+          "_key": "zdDSdhTDV24lASLsPdoTtx",
+          "en": "Sell through creator trust and results",
+          "uk": "Продати курс через бренд автора і результати"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdoTxK",
+          "en": "Present training structure without overload",
+          "uk": "Структуровано показати програму без перевантаження"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdoU0h",
+          "en": "Strengthen social proof with testimonials",
+          "uk": "Підсилити соціальний доказ через відгуки"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdoU44",
+          "en": "Implement multiple tiered package options",
+          "uk": "Реалізувати кілька тарифів з різним наповненням"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ CHALLENGE",
+        "uk": "/ CHALLENGE"
+      },
+      "heading": {
+        "en": "What the *client* came with",
+        "uk": "З чим прийшов *клієнт*"
+      },
+      "imageVariant": "imageRight",
+      "variant": "centered"
+    },
+    {
+      "_key": "sec9",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1v",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s1w",
+              "_type": "span",
+              "marks": [],
+              "text": "Розробили landing page, який веде користувача від знайомства з автором до вибору тарифу і покупки."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec9",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec9",
+              "_type": "span",
+              "marks": [],
+              "text": "We built a landing page that guides the user from creator introduction to program understanding, tier comparison, and purchase."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "zdDSdhTDV24lASLsPdoU7R",
+          "en": "Hero focused on core promise and strong CTA",
+          "uk": "Перший екран з головною цінністю і CTA"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdoUAo",
+          "en": "Program architecture with 12 modules",
+          "uk": "Структура курсу з 12 модулями"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdoUEB",
+          "en": "Creator-results section and student reviews",
+          "uk": "Блок результатів автора і відгуки"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdoUHY",
+          "en": "Tiered pricing blocks with clear comparison",
+          "uk": "Тарифні пакети з чітким порівнянням"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ SOLUTION",
+        "uk": "/ SOLUTION"
+      },
+      "heading": {
+        "en": "What we *did*",
+        "uk": "Що ми *зробили*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-21e6cf59c19c55abff62e758194e1ffbb5bcc068-2560x2000-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "fd187ec9f59b",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1x",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s1y",
+              "_type": "span",
+              "marks": [],
+              "text": "Команда курсу може самостійно оновлювати модулі, умови тарифів і промо-блоки без зміни логіки продажної сторінки."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-cms",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-cms",
+              "_type": "span",
+              "marks": [],
+              "text": "The team can independently update modules, offer conditions, and campaign blocks while preserving landing-page conversion logic."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "zdDSdhTDV24lASLsPdoUKv",
+          "en": "Update learning program structure",
+          "uk": "Оновлення програми навчання"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdoUOI",
+          "en": "Manage tiers and commercial offers",
+          "uk": "Керування тарифами і оферами"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdoURf",
+          "en": "Edit testimonials and CTA blocks",
+          "uk": "Редагування відгуків і CTA"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ CMS",
+        "uk": "/ CMS"
+      },
+      "heading": {
+        "en": "Admin panel for updating *program and pricing tiers*",
+        "uk": "Адмін-панель для оновлення *програми і тарифів*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-9a51e68deca8955985f57542524aa61d948539ef-2940x1836-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "9a92929c8717",
+      "_type": "mediaGalleryBlock",
+      "enableLightbox": true,
+      "images": [
+        {
+          "_key": "37e2abf107c1",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-21e6cf59c19c55abff62e758194e1ffbb5bcc068-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "6025613a806e",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-c4686cc7667e79fd24d0e24fb04c8ceff2565e8b-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        }
+      ]
+    },
+    {
+      "_key": "sech",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1z",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s20",
+              "_type": "span",
+              "marks": [],
+              "text": "Aleko Course отримав повноцінний інструмент продажу освітнього продукту: сайт конвертує інтерес аудиторії у покупки та нових учасників курсу."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-out",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-out",
+              "_type": "span",
+              "marks": [],
+              "text": "Aleko Course received a full educational-sales tool: the site converts audience interest into purchases and new course enrollments."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ OUTCOME",
+        "uk": "/ OUTCOME"
+      },
+      "heading": {
+        "en": "Result",
+        "uk": "Результат"
+      },
+      "variant": "centered"
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Educational-product landing page designed for creator-led conversion.",
+      "uk": "Продаючий landing page, який презентує курс через бренд автора, програму навчання, відгуки та тарифи."
+    },
+    "title": {
+      "en": "Aleko Course - case study | Code-Site.Art",
+      "uk": "Aleko Course — кейс | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "aleko-course"
+  },
+  "stack": [
+    "Next.js",
+    "Sanity"
+  ],
+  "status": "published",
+  "title": {
+    "en": "Aleko Course",
+    "uk": "Aleko Course"
+  },
+  "year": 2026
+}

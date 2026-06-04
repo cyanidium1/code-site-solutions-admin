@@ -1,0 +1,16 @@
+{
+  "_createdAt": "2026-05-30T19:46:13Z",
+  "_id": "countryOption.DE",
+  "_rev": "tYwdV2ldLdzJB4kwq0r8wI",
+  "_type": "countryOption",
+  "_updatedAt": "2026-05-30T19:46:13Z",
+  "name": {
+    "en": "Germany",
+    "uk": "Німеччина"
+  },
+  "order": 50,
+  "slug": {
+    "_type": "slug",
+    "current": "DE"
+  }
+}

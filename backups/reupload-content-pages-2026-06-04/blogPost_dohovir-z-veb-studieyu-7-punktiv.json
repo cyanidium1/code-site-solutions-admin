@@ -1,0 +1,3441 @@
+{
+  "_createdAt": "2026-05-16T04:30:28Z",
+  "_id": "blogPost.dohovir-z-veb-studieyu-7-punktiv",
+  "_rev": "bM4Vn6Xhr0kQ8myfjCRZHI",
+  "_system": {
+    "base": {
+      "id": "blogPost.dohovir-z-veb-studieyu-7-punktiv",
+      "rev": "YgqY8amknTW9Mc7WwaUrkX"
+    }
+  },
+  "_type": "blogPost",
+  "_updatedAt": "2026-05-31T08:34:17Z",
+  "author": {
+    "bio": "Засновник Code-Site.Art. Веду техлід-роботу і пишу про реальні цифри з 47 проєктів.",
+    "name": "Fedir Alpatov",
+    "photoUrl": "/team/fedir.jpg",
+    "role": "Founder & Tech Lead"
+  },
+  "body": [
+    {
+      "_key": "a3-tldr-1",
+      "_type": "tldrBox",
+      "items": [
+        "Фіксована сума у валюті розрахунку",
+        "Фіксований дедлайн із неустойкою за зрив (мінімум 10-30%)",
+        "Передача прав на код і дизайн — з першого коміту, не «після завершення»",
+        "Конкретний scope (що входить, що ні) — списком, не загальними словами",
+        "Кількість раундів правок (зазвичай 2 на дизайн)",
+        "Хто пише контент — і за чий рахунок",
+        "Що з підтримкою після релізу — і чи входить вона в ціну"
+      ],
+      "title": "Перевірте, чи у вашому договорі є:"
+    },
+    {
+      "_key": "a3-b-3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-2",
+          "_type": "span",
+          "marks": [],
+          "text": "Чому це важливо"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3-b-9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-4",
+          "_type": "span",
+          "marks": [],
+          "text": "Договір на створення сайту — це "
+        },
+        {
+          "_key": "a3-s-5",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "не папір про намір"
+        },
+        {
+          "_key": "a3-s-6",
+          "_type": "span",
+          "marks": [],
+          "text": ". Це юридичний документ, на який ви будете посилатись, якщо щось піде не так. А «щось» іде не так в "
+        },
+        {
+          "_key": "a3-s-7",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "40%"
+        },
+        {
+          "_key": "a3-s-8",
+          "_type": "span",
+          "marks": [],
+          "text": " проєктів за нашою статистикою — невчасно, не в тому обсязі, не з тим результатом. У такі моменти власнику бізнесу важливо мати чорним по білому: що було обіцяно, в які терміни, і що буде, якщо обіцянка не виконана."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-13",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-10",
+          "_type": "span",
+          "marks": [],
+          "text": "З 30 договорів, які ми бачили від конкурентів за 3 роки, "
+        },
+        {
+          "_key": "a3-s-11",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "24 із 30"
+        },
+        {
+          "_key": "a3-s-12",
+          "_type": "span",
+          "marks": [],
+          "text": " мали мінімум один із трьох критичних пробілів: розмита передача прав на код, відсутність неустойки, або «scope under request» (тобто scope буде визначений потім)."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-15",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-14",
+          "_type": "span",
+          "marks": [],
+          "text": "Ось як цього уникнути."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-17",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-16",
+          "_type": "span",
+          "marks": [],
+          "text": "Пункт 1: Фіксована сума у валюті розрахунку"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3-b-21",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-18",
+          "_type": "span",
+          "marks": [],
+          "text": "❌ "
+        },
+        {
+          "_key": "a3-s-19",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Погано:"
+        },
+        {
+          "_key": "a3-s-20",
+          "_type": "span",
+          "marks": [],
+          "text": " «Орієнтовна вартість $3,500-$5,000»"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-25",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-22",
+          "_type": "span",
+          "marks": [],
+          "text": "✅ "
+        },
+        {
+          "_key": "a3-s-23",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Добре:"
+        },
+        {
+          "_key": "a3-s-24",
+          "_type": "span",
+          "marks": [],
+          "text": " «Загальна вартість 3,500 USD, фіксована, без додаткових платежів окрім тих, що зазначені у Додатку 1»"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-27",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-26",
+          "_type": "span",
+          "marks": [],
+          "text": "Якщо у договорі написано «орієнтовна», «приблизно», «залежно від» — це не сума. Це маркетинг. У вас немає юридичної підстави сказати «зачекайте, ми домовлялись на $3,500», коли студія виставить рахунок на $4,800."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-31",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-28",
+          "_type": "span",
+          "marks": [],
+          "text": "Уточніть "
+        },
+        {
+          "_key": "a3-s-29",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "валюту розрахунку"
+        },
+        {
+          "_key": "a3-s-30",
+          "_type": "span",
+          "marks": [],
+          "text": ". Якщо договір в UAH, а сайт коштує $3,500 — пропишіть курс на дату підписання або до дати оплати. Інакше курсова різниця за 2 місяці проєкту може стати неприємним сюрпризом для обох сторін."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-33",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-32",
+          "_type": "span",
+          "marks": [],
+          "text": "Пункт 2: Фіксований дедлайн із неустойкою за зрив"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3-b-37",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-34",
+          "_type": "span",
+          "marks": [],
+          "text": "❌ "
+        },
+        {
+          "_key": "a3-s-35",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Погано:"
+        },
+        {
+          "_key": "a3-s-36",
+          "_type": "span",
+          "marks": [],
+          "text": " «Орієнтовний термін — 6 тижнів»"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-41",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-38",
+          "_type": "span",
+          "marks": [],
+          "text": "✅ "
+        },
+        {
+          "_key": "a3-s-39",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Добре:"
+        },
+        {
+          "_key": "a3-s-40",
+          "_type": "span",
+          "marks": [],
+          "text": " «Термін реалізації — 6 тижнів з моменту підписання договору. У разі зриву терміну з вини Виконавця Виконавець виплачує Замовнику неустойку в розмірі 30% від загальної вартості проєкту»"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-45",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-42",
+          "_type": "span",
+          "marks": [],
+          "text": "Неустойка — це не пункт «для красоти». Це "
+        },
+        {
+          "_key": "a3-s-43",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "єдиний"
+        },
+        {
+          "_key": "a3-s-44",
+          "_type": "span",
+          "marks": [],
+          "text": " механізм, який спонукає студію тримати дедлайн. Без неустойки термін — це орієнтир, не зобов’язання."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-51",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-46",
+          "_type": "span",
+          "marks": [],
+          "text": "Звичайна неустойка на ринку — "
+        },
+        {
+          "_key": "a3-s-47",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "10-30%"
+        },
+        {
+          "_key": "a3-s-48",
+          "_type": "span",
+          "marks": [],
+          "text": ". У нас в договорі 30%, бо ми дуже не хочемо її платити. За 3 роки ми платили її "
+        },
+        {
+          "_key": "a3-s-49",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "двічі"
+        },
+        {
+          "_key": "a3-s-50",
+          "_type": "span",
+          "marks": [],
+          "text": " — і обидва рази повертали клієнту 30% від вартості без розмов і прохань про прощення."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-59",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-52",
+          "_type": "span",
+          "marks": [],
+          "text": "⚠️ "
+        },
+        {
+          "_key": "a3-s-53",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Дрібний шрифт:"
+        },
+        {
+          "_key": "a3-s-54",
+          "_type": "span",
+          "marks": [],
+          "text": " перевірте, що неустойка йде "
+        },
+        {
+          "_key": "a3-s-55",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "за"
+        },
+        {
+          "_key": "a3-s-56",
+          "_type": "span",
+          "marks": [],
+          "text": " зрив із "
+        },
+        {
+          "_key": "a3-s-57",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "вашої"
+        },
+        {
+          "_key": "a3-s-58",
+          "_type": "span",
+          "marks": [],
+          "text": " вини. Якщо ви як замовник тримаєте контент 3 тижні і пропускаєте дедлайн — це ваш простій, не наш."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-61",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-60",
+          "_type": "span",
+          "marks": [],
+          "text": "Пункт 3: Передача прав на код і дизайн — з першого коміту"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3-b-65",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-62",
+          "_type": "span",
+          "marks": [],
+          "text": "❌ "
+        },
+        {
+          "_key": "a3-s-63",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Погано:"
+        },
+        {
+          "_key": "a3-s-64",
+          "_type": "span",
+          "marks": [],
+          "text": " «Усі права на створений код передаються Замовнику після повної оплати»"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-69",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-66",
+          "_type": "span",
+          "marks": [],
+          "text": "✅ "
+        },
+        {
+          "_key": "a3-s-67",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Добре:"
+        },
+        {
+          "_key": "a3-s-68",
+          "_type": "span",
+          "marks": [],
+          "text": " «Виконавець розміщує код на GitHub-репозиторії Замовника з першого комміту. Усі майнові права інтелектуальної власності належать Замовнику з моменту їх створення»"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-71",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-70",
+          "_type": "span",
+          "marks": [],
+          "text": "Це найчастіша пастка в договорах від менших студій і фрилансерів. Текст «після повної оплати» виглядає невинно, але створює юридичну ситуацію, де:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-73",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-72",
+          "_type": "span",
+          "marks": [],
+          "text": "Якщо ви не доплатили (наприклад, не приймаєте проєкт через якісну претензію) — код вам не належить"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-75",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-74",
+          "_type": "span",
+          "marks": [],
+          "text": "Ви не можете найняти іншого підрядника, щоб закінчити проєкт"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-77",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-76",
+          "_type": "span",
+          "marks": [],
+          "text": "Студія може використати ваш код для іншого клієнта (це фактично відбувається)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-81",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-78",
+          "_type": "span",
+          "marks": [],
+          "text": "Правильна формулювання: "
+        },
+        {
+          "_key": "a3-s-79",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "код у вашому GitHub з першого коміту"
+        },
+        {
+          "_key": "a3-s-80",
+          "_type": "span",
+          "marks": [],
+          "text": ". Ми робимо це з усіма клієнтами — пуш у ваш репозиторій з моменту запуску. Усе, що ми пишемо, ваше."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-83",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-82",
+          "_type": "span",
+          "marks": [],
+          "text": "Пункт 4: Конкретний scope — списком, не загальними словами"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3-b-87",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-84",
+          "_type": "span",
+          "marks": [],
+          "text": "❌ "
+        },
+        {
+          "_key": "a3-s-85",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Погано:"
+        },
+        {
+          "_key": "a3-s-86",
+          "_type": "span",
+          "marks": [],
+          "text": " «Розробка сайту, включаючи дизайн, верстку та програмування»"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-91",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-88",
+          "_type": "span",
+          "marks": [],
+          "text": "✅ "
+        },
+        {
+          "_key": "a3-s-89",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Добре:"
+        },
+        {
+          "_key": "a3-s-90",
+          "_type": "span",
+          "marks": [],
+          "text": " «Розробка сайту в обсязі:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-93",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-92",
+          "_type": "span",
+          "marks": [],
+          "text": "8 сторінок (перелік у Додатку 2)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-95",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-94",
+          "_type": "span",
+          "marks": [],
+          "text": "Адаптивна верстка під 3 розміри екранів"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-97",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-96",
+          "_type": "span",
+          "marks": [],
+          "text": "Інтеграція з 2 системами: Helsi і AmoCRM"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-99",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-98",
+          "_type": "span",
+          "marks": [],
+          "text": "1 форма заявки з email-нотифікацією"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-101",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-100",
+          "_type": "span",
+          "marks": [],
+          "text": "Lighthouse Performance ≥ 90, SEO ≥ 95"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-103",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-102",
+          "_type": "span",
+          "marks": [],
+          "text": "Sanity CMS для самостійного редагування»"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-105",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-104",
+          "_type": "span",
+          "marks": [],
+          "text": "Якщо scope не розписаний — він буде з’ясовуватись «по дорозі». На практиці це означає, що:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-107",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-106",
+          "_type": "span",
+          "marks": [],
+          "text": "Кожне ваше уточнення — це «додатковий запит»"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-109",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-108",
+          "_type": "span",
+          "marks": [],
+          "text": "Кожен «додатковий запит» — це окрема ціна або додаток до договору"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-111",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-110",
+          "_type": "span",
+          "marks": [],
+          "text": "Через 2 місяці ви платите подвійну ціну і отримуєте не той сайт"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-115",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-112",
+          "_type": "span",
+          "marks": [],
+          "text": "Хороший договір має "
+        },
+        {
+          "_key": "a3-s-113",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Додаток 1: Scope"
+        },
+        {
+          "_key": "a3-s-114",
+          "_type": "span",
+          "marks": [],
+          "text": " на 1-2 сторінки з конкретним переліком сторінок, інтеграцій, функцій, метрик якості. Те, чого там немає — окрема ціна, прописана теж заздалегідь."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-117",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-116",
+          "_type": "span",
+          "marks": [],
+          "text": "Пункт 5: Кількість раундів правок"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3-b-121",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-118",
+          "_type": "span",
+          "marks": [],
+          "text": "❌ "
+        },
+        {
+          "_key": "a3-s-119",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Погано:"
+        },
+        {
+          "_key": "a3-s-120",
+          "_type": "span",
+          "marks": [],
+          "text": " «Виконавець вносить правки до затвердження результату Замовником»"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-125",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-122",
+          "_type": "span",
+          "marks": [],
+          "text": "✅ "
+        },
+        {
+          "_key": "a3-s-123",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Добре:"
+        },
+        {
+          "_key": "a3-s-124",
+          "_type": "span",
+          "marks": [],
+          "text": " «Виконавець надає 2 повних раунди правок на дизайн і 2 раунди на frontend після передачі staging-URL. Кожен додатковий раунд правок оплачується окремо за тарифом $40/година»"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-127",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-126",
+          "_type": "span",
+          "marks": [],
+          "text": "Без обмеження раундів правок ви ризикуєте з обох сторін:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-129",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-128",
+          "_type": "span",
+          "marks": [],
+          "text": "Студія намагається завершити швидше, ігноруючи дрібні зауваження → ви недовольні якістю"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-131",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-130",
+          "_type": "span",
+          "marks": [],
+          "text": "Або правок робиться «нескінченно», і дедлайн летить, бо проєкт повертають на доопрацювання 5 разів"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-133",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-132",
+          "_type": "span",
+          "marks": [],
+          "text": "2 раунди — це стандарт. Перший раунд: ви даєте всі зауваження одним списком, студія виправляє. Другий раунд: ви даєте останні дрібні зауваження. Більше — окремий тариф."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-138",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-134",
+          "_type": "span",
+          "marks": [],
+          "text": "Ми застосовуємо саме цю схему — деталі в "
+        },
+        {
+          "_key": "a3-s-136",
+          "_type": "span",
+          "marks": [
+            "a3-m-135"
+          ],
+          "text": "Process"
+        },
+        {
+          "_key": "a3-s-137",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a3-m-135",
+          "_type": "link",
+          "href": "/process",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-140",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-139",
+          "_type": "span",
+          "marks": [],
+          "text": "Пункт 6: Хто пише контент — і за чий рахунок"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3-b-144",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-141",
+          "_type": "span",
+          "marks": [],
+          "text": "❌ "
+        },
+        {
+          "_key": "a3-s-142",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Погано:"
+        },
+        {
+          "_key": "a3-s-143",
+          "_type": "span",
+          "marks": [],
+          "text": " «Замовник надає контент»"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-148",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-145",
+          "_type": "span",
+          "marks": [],
+          "text": "✅ "
+        },
+        {
+          "_key": "a3-s-146",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Добре:"
+        },
+        {
+          "_key": "a3-s-147",
+          "_type": "span",
+          "marks": [],
+          "text": " «Замовник надає текстовий контент для всіх сторінок до старту етапу розробки. Якщо контент не надано, Виконавець може запропонувати копірайтинг за окремим тарифом $200/сторінка. Тариф входить у Додаток 3»"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-152",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-149",
+          "_type": "span",
+          "marks": [],
+          "text": "Це найчастіше джерело конфліктів і простоїв. Власник бізнесу замовляє сайт, не розуміючи, що "
+        },
+        {
+          "_key": "a3-s-150",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "тексти на ньому треба написати"
+        },
+        {
+          "_key": "a3-s-151",
+          "_type": "span",
+          "marks": [],
+          "text": ". Студія припускає, що клієнт надасть. Клієнт припускає, що студія напише."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-154",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-153",
+          "_type": "span",
+          "marks": [],
+          "text": "Через 3 тижні: проєкт стоїть. Студія чекає на тексти. Клієнт не знає, що треба було їх писати, або не має ресурсу."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-158",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-155",
+          "_type": "span",
+          "marks": [],
+          "text": "Правильно: "
+        },
+        {
+          "_key": "a3-s-156",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "прописати в договорі прямо"
+        },
+        {
+          "_key": "a3-s-157",
+          "_type": "span",
+          "marks": [],
+          "text": ", хто пише і за чий рахунок. Якщо ви хочете, щоб контент писала студія — це окремий рядок у кошторисі."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-160",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-159",
+          "_type": "span",
+          "marks": [],
+          "text": "У нас базовий пакет включає копірайтинг на головну і 5 стандартних сторінок (про нас, послуги, контакти, etc.) — це частина тиру Industry Pro. Якщо потрібно більше — $200/сторінка."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-162",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-161",
+          "_type": "span",
+          "marks": [],
+          "text": "Пункт 7: Що з підтримкою після релізу"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3-b-166",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-163",
+          "_type": "span",
+          "marks": [],
+          "text": "❌ "
+        },
+        {
+          "_key": "a3-s-164",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Погано:"
+        },
+        {
+          "_key": "a3-s-165",
+          "_type": "span",
+          "marks": [],
+          "text": " «Гарантійні зобов’язання Виконавця діють 30 днів»"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-170",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-167",
+          "_type": "span",
+          "marks": [],
+          "text": "✅ "
+        },
+        {
+          "_key": "a3-s-168",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Добре:"
+        },
+        {
+          "_key": "a3-s-169",
+          "_type": "span",
+          "marks": [],
+          "text": " «Виконавець надає 1 рік гарантійної підтримки з моменту запуску. У межах гарантії: виправлення багів, оновлення залежностей, консультації. Час реакції: 4 робочі години в робочий час Виконавця. Підтримка не включає: додавання нових функцій, зміни дизайну, переробку контенту»"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-174",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-171",
+          "_type": "span",
+          "marks": [],
+          "text": "30 днів гарантії — це "
+        },
+        {
+          "_key": "a3-s-172",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "анти-стандарт"
+        },
+        {
+          "_key": "a3-s-173",
+          "_type": "span",
+          "marks": [],
+          "text": ". Реальні проблеми зі сайтом часто виникають через 2-3 місяці після релізу: коли клієнти починають активно ним користуватись і знаходять рідкі баги, або коли оновлюються залежності і щось ламається."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-178",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-175",
+          "_type": "span",
+          "marks": [],
+          "text": "Хороша гарантія — "
+        },
+        {
+          "_key": "a3-s-176",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "1 рік"
+        },
+        {
+          "_key": "a3-s-177",
+          "_type": "span",
+          "marks": [],
+          "text": ". Це не «безкоштовно нескінченно», а захист від типових пост-релізних проблем."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-182",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-179",
+          "_type": "span",
+          "marks": [],
+          "text": "⚠️ Уточніть "
+        },
+        {
+          "_key": "a3-s-180",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "що"
+        },
+        {
+          "_key": "a3-s-181",
+          "_type": "span",
+          "marks": [],
+          "text": " входить у гарантію. Виправлення багів — так. Додавання нових функцій — ні (інакше клієнти за рік згенерували б ще 1 проєкт у ціні гарантії). У нас в договорі це прописано окремим переліком."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-184",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-183",
+          "_type": "span",
+          "marks": [],
+          "text": "Бонусний пункт: Хто на стороні студії"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3-b-188",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-185",
+          "_type": "span",
+          "marks": [],
+          "text": "Це не з’являється у договорі прямо, але ви можете попросити "
+        },
+        {
+          "_key": "a3-s-186",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Додаток 4: Команда проєкту"
+        },
+        {
+          "_key": "a3-s-187",
+          "_type": "span",
+          "marks": [],
+          "text": ". У ньому має бути:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-190",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-189",
+          "_type": "span",
+          "marks": [],
+          "text": "ПІБ техлида і дизайнера, які ведуть проєкт"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-192",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-191",
+          "_type": "span",
+          "marks": [],
+          "text": "Їхні LinkedIn / GitHub профілі"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-194",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-193",
+          "_type": "span",
+          "marks": [],
+          "text": "Email і Telegram для прямого зв’язку"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-196",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-195",
+          "_type": "span",
+          "marks": [],
+          "text": "Це знижує ризик «менеджер посередник проєкту замовкнув на 2 тижні, бо звільнився». Якщо ви бачите імена і профілі — ви знаєте, з ким мати справу."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-cta-197",
+      "_type": "ctaCallout",
+      "ctaHref": "/contacts",
+      "ctaLabel": "Записатись на дзвінок",
+      "eyebrow": "Консультація",
+      "heading": "Не впевнені, як виглядає правильний договір?",
+      "sub": "У нас є шаблон договору, який ми підписуємо з клієнтами. Можна подивитись на 30-хв консультації. Поясню кожний пункт."
+    },
+    {
+      "_key": "a3-b-199",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-198",
+          "_type": "span",
+          "marks": [],
+          "text": "Червоні прапори: коли треба бігти"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3-b-201",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-200",
+          "_type": "span",
+          "marks": [],
+          "text": "5 формулювань у договорі, які мають вас насторожити:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-204",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-202",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "«Виконавець зобов’язується докласти максимальних зусиль...»"
+        },
+        {
+          "_key": "a3-s-203",
+          "_type": "span",
+          "marks": [],
+          "text": " — це не зобов’язання, це наміри. Можна не виконувати."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-207",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-205",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "«Терміни є орієнтовними...»"
+        },
+        {
+          "_key": "a3-s-206",
+          "_type": "span",
+          "marks": [],
+          "text": " — без неустойки термінів немає."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-210",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-208",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "«Передача результату відбувається в усному порядку...»"
+        },
+        {
+          "_key": "a3-s-209",
+          "_type": "span",
+          "marks": [],
+          "text": " — приймайте письмово, з підписаним актом."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-213",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-211",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "«Передоплата 100%...»"
+        },
+        {
+          "_key": "a3-s-212",
+          "_type": "span",
+          "marks": [],
+          "text": " — стандарт 50/50. Більше — або ви довіряєте студії з 5+ років, або ризикуєте всім."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-216",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-214",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "«У разі дострокового розірвання Замовник сплачує штраф у розмірі 100%...»"
+        },
+        {
+          "_key": "a3-s-215",
+          "_type": "span",
+          "marks": [],
+          "text": " — це робить вас заручником. Стандарт — поетапна оплата за вже зроблену роботу."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-221",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-217",
+          "_type": "span",
+          "marks": [],
+          "text": "Деякі з цих формулювань ми бачили в договорах від фрилансерів. Деталі — у статті "
+        },
+        {
+          "_key": "a3-s-219",
+          "_type": "span",
+          "marks": [
+            "a3-m-218"
+          ],
+          "text": "vs Freelancers"
+        },
+        {
+          "_key": "a3-s-220",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a3-m-218",
+          "_type": "link",
+          "href": "/vs-freelancers",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-223",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-222",
+          "_type": "span",
+          "marks": [],
+          "text": "Хто перевіряє договір на вашій стороні"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3-b-225",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-224",
+          "_type": "span",
+          "marks": [],
+          "text": "Ідеальний варіант — юрист. Реальний — самостійне ревью з цим чек-лістом + Google + 30 хвилин уваги."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-b-229",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3-s-226",
+          "_type": "span",
+          "marks": [],
+          "text": "Якщо проєкт коштує більше "
+        },
+        {
+          "_key": "a3-s-227",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "$5,000"
+        },
+        {
+          "_key": "a3-s-228",
+          "_type": "span",
+          "marks": [],
+          "text": " — варто заплатити юристу $50-$100 за ревью договору. Це найдешевша страхова поліса в IT."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3-cta-230",
+      "_type": "ctaCallout",
+      "ctaHref": "/contacts",
+      "ctaLabel": "Записатись на 30-хв консультацію",
+      "ctaSecondaryHref": "https://t.me/fedirdev",
+      "ctaSecondaryLabel": "Або написати в Telegram",
+      "eyebrow": "Обговорити",
+      "heading": "Хочете побачити, як виглядає чесний договір?",
+      "sub": "Покажемо наш шаблон. Поясню кожен пункт. Без зобов’язань."
+    }
+  ],
+  "bodyEn": [
+    {
+      "_key": "a3en-tldr-1",
+      "_type": "tldrBox",
+      "items": [
+        "Fixed price in the agreed currency",
+        "Fixed deadline with a rebate clause for delays (minimum 10-30%)",
+        "Code and design IP transfer — from the first commit, not \"after completion\"",
+        "Concrete scope (what's in, what's out) — itemized, not generic",
+        "Number of revision rounds (typically 2 on design)",
+        "Who writes the content — and at whose cost",
+        "Post-launch support — and whether it's included"
+      ],
+      "title": "Verify your contract includes:"
+    },
+    {
+      "_key": "a3en-b-3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-2",
+          "_type": "span",
+          "marks": [],
+          "text": "Why this matters"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3en-b-9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-4",
+          "_type": "span",
+          "marks": [],
+          "text": "A web project contract isn't a "
+        },
+        {
+          "_key": "a3en-s-5",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "letter of intent"
+        },
+        {
+          "_key": "a3en-s-6",
+          "_type": "span",
+          "marks": [],
+          "text": ". It's the legal document you'll point to if something goes wrong. And \"something\" goes wrong in "
+        },
+        {
+          "_key": "a3en-s-7",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "40%"
+        },
+        {
+          "_key": "a3en-s-8",
+          "_type": "span",
+          "marks": [],
+          "text": " of projects by our count — late, off-spec, off-quality. When it does, the business owner needs in writing: what was promised, by when, and what happens if it isn't delivered."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-13",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-10",
+          "_type": "span",
+          "marks": [],
+          "text": "Of 30 competitor contracts we've reviewed over 3 years, "
+        },
+        {
+          "_key": "a3en-s-11",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "24 of 30"
+        },
+        {
+          "_key": "a3en-s-12",
+          "_type": "span",
+          "marks": [],
+          "text": " had at least one of three critical gaps: vague IP transfer, no rebate clause, or \"scope under request\" (scope to be determined later)."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-15",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-14",
+          "_type": "span",
+          "marks": [],
+          "text": "Here's how to avoid that."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-17",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-16",
+          "_type": "span",
+          "marks": [],
+          "text": "Item 1: Fixed price in the agreed currency"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3en-b-21",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-18",
+          "_type": "span",
+          "marks": [],
+          "text": "❌ "
+        },
+        {
+          "_key": "a3en-s-19",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Bad:"
+        },
+        {
+          "_key": "a3en-s-20",
+          "_type": "span",
+          "marks": [],
+          "text": " \"Approximate cost $3,500-$5,000\""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-25",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-22",
+          "_type": "span",
+          "marks": [],
+          "text": "✅ "
+        },
+        {
+          "_key": "a3en-s-23",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Good:"
+        },
+        {
+          "_key": "a3en-s-24",
+          "_type": "span",
+          "marks": [],
+          "text": " \"Total fee is 3,500 USD, fixed, with no additional charges except those listed in Appendix 1\""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-27",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-26",
+          "_type": "span",
+          "marks": [],
+          "text": "If the contract says \"approximate,\" \"around,\" \"depending on\" — that's not a price. It's marketing. You have no legal basis to say \"wait, we agreed on $3,500\" when the studio invoices $4,800."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-31",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-28",
+          "_type": "span",
+          "marks": [],
+          "text": "Pin down "
+        },
+        {
+          "_key": "a3en-s-29",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "the currency"
+        },
+        {
+          "_key": "a3en-s-30",
+          "_type": "span",
+          "marks": [],
+          "text": ". If the contract is in UAH and the site costs $3,500 — write in the exchange rate as of the signing date or until payment. Otherwise a 2-month FX shift becomes an unpleasant surprise for both sides."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-33",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-32",
+          "_type": "span",
+          "marks": [],
+          "text": "Item 2: Fixed deadline with a rebate clause"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3en-b-37",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-34",
+          "_type": "span",
+          "marks": [],
+          "text": "❌ "
+        },
+        {
+          "_key": "a3en-s-35",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Bad:"
+        },
+        {
+          "_key": "a3en-s-36",
+          "_type": "span",
+          "marks": [],
+          "text": " \"Approximate timeline — 6 weeks\""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-41",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-38",
+          "_type": "span",
+          "marks": [],
+          "text": "✅ "
+        },
+        {
+          "_key": "a3en-s-39",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Good:"
+        },
+        {
+          "_key": "a3en-s-40",
+          "_type": "span",
+          "marks": [],
+          "text": " \"Delivery in 6 weeks from contract signing. If the deadline is missed through the studio's fault, the studio pays a 30% rebate from the total project value.\""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-45",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-42",
+          "_type": "span",
+          "marks": [],
+          "text": "The rebate clause isn't decoration. It's "
+        },
+        {
+          "_key": "a3en-s-43",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "the only"
+        },
+        {
+          "_key": "a3en-s-44",
+          "_type": "span",
+          "marks": [],
+          "text": " mechanism that holds the studio to its deadline. Without it, the deadline is a guideline, not a commitment."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-51",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-46",
+          "_type": "span",
+          "marks": [],
+          "text": "Market standard for a rebate is "
+        },
+        {
+          "_key": "a3en-s-47",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "10-30%"
+        },
+        {
+          "_key": "a3en-s-48",
+          "_type": "span",
+          "marks": [],
+          "text": ". Ours is 30% because we really don't want to pay it. Over 3 years we've paid it "
+        },
+        {
+          "_key": "a3en-s-49",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "twice"
+        },
+        {
+          "_key": "a3en-s-50",
+          "_type": "span",
+          "marks": [],
+          "text": " — both times we wired 30% to the client without being asked."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-57",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-52",
+          "_type": "span",
+          "marks": [],
+          "text": "⚠️ "
+        },
+        {
+          "_key": "a3en-s-53",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Fine print:"
+        },
+        {
+          "_key": "a3en-s-54",
+          "_type": "span",
+          "marks": [],
+          "text": " make sure the rebate applies only to delays caused by the "
+        },
+        {
+          "_key": "a3en-s-55",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "studio's"
+        },
+        {
+          "_key": "a3en-s-56",
+          "_type": "span",
+          "marks": [],
+          "text": " fault. If you as the client sit on content for 3 weeks and miss a deadline — that's your delay, not theirs."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-59",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-58",
+          "_type": "span",
+          "marks": [],
+          "text": "Item 3: Code and design IP transfer — from the first commit"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3en-b-63",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-60",
+          "_type": "span",
+          "marks": [],
+          "text": "❌ "
+        },
+        {
+          "_key": "a3en-s-61",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Bad:"
+        },
+        {
+          "_key": "a3en-s-62",
+          "_type": "span",
+          "marks": [],
+          "text": " \"All rights to the created code transfer to the Client after full payment\""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-67",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-64",
+          "_type": "span",
+          "marks": [],
+          "text": "✅ "
+        },
+        {
+          "_key": "a3en-s-65",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Good:"
+        },
+        {
+          "_key": "a3en-s-66",
+          "_type": "span",
+          "marks": [],
+          "text": " \"The studio commits to your GitHub repository from the first commit. All intellectual property rights belong to the Client from the moment of creation.\""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-69",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-68",
+          "_type": "span",
+          "marks": [],
+          "text": "This is the most common trap in contracts from smaller studios and freelancers. \"After full payment\" looks innocent but creates a legal situation where:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-71",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-70",
+          "_type": "span",
+          "marks": [],
+          "text": "If you withhold the final payment (say, due to a quality dispute), the code isn't legally yours"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-73",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-72",
+          "_type": "span",
+          "marks": [],
+          "text": "You can't hire another contractor to finish the project"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-75",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-74",
+          "_type": "span",
+          "marks": [],
+          "text": "The studio can reuse your code for another client (this actually happens)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-79",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-76",
+          "_type": "span",
+          "marks": [],
+          "text": "The right wording: "
+        },
+        {
+          "_key": "a3en-s-77",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "code in your GitHub from the first commit"
+        },
+        {
+          "_key": "a3en-s-78",
+          "_type": "span",
+          "marks": [],
+          "text": ". We do this with every client — push to your repo from day one. Everything we write is yours."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-81",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-80",
+          "_type": "span",
+          "marks": [],
+          "text": "Item 4: Concrete scope — itemized"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3en-b-85",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-82",
+          "_type": "span",
+          "marks": [],
+          "text": "❌ "
+        },
+        {
+          "_key": "a3en-s-83",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Bad:"
+        },
+        {
+          "_key": "a3en-s-84",
+          "_type": "span",
+          "marks": [],
+          "text": " \"Web development, including design, frontend, and engineering\""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-89",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-86",
+          "_type": "span",
+          "marks": [],
+          "text": "✅ "
+        },
+        {
+          "_key": "a3en-s-87",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Good:"
+        },
+        {
+          "_key": "a3en-s-88",
+          "_type": "span",
+          "marks": [],
+          "text": " \"Website development in the following scope:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-91",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-90",
+          "_type": "span",
+          "marks": [],
+          "text": "8 pages (listed in Appendix 2)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-93",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-92",
+          "_type": "span",
+          "marks": [],
+          "text": "Responsive build for 3 screen sizes"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-95",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-94",
+          "_type": "span",
+          "marks": [],
+          "text": "Integration with 2 systems: Helsi and AmoCRM"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-97",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-96",
+          "_type": "span",
+          "marks": [],
+          "text": "1 lead form with email notification"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-99",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-98",
+          "_type": "span",
+          "marks": [],
+          "text": "Lighthouse Performance ≥ 90, SEO ≥ 95"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-101",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-100",
+          "_type": "span",
+          "marks": [],
+          "text": "Sanity CMS for self-editing\""
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-103",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-102",
+          "_type": "span",
+          "marks": [],
+          "text": "If scope isn't written down — it gets discovered \"along the way.\" In practice that means:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-105",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-104",
+          "_type": "span",
+          "marks": [],
+          "text": "Every clarification of yours is \"an additional request\""
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-107",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-106",
+          "_type": "span",
+          "marks": [],
+          "text": "Every \"additional request\" is a separate fee or a contract amendment"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-109",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-108",
+          "_type": "span",
+          "marks": [],
+          "text": "2 months in, you're paying double for not the site you wanted"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-113",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-110",
+          "_type": "span",
+          "marks": [],
+          "text": "A good contract has "
+        },
+        {
+          "_key": "a3en-s-111",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Appendix 1: Scope"
+        },
+        {
+          "_key": "a3en-s-112",
+          "_type": "span",
+          "marks": [],
+          "text": " on 1-2 pages with concrete page lists, integrations, features, and quality metrics. Anything not in it is a separate fee, also priced upfront."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-115",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-114",
+          "_type": "span",
+          "marks": [],
+          "text": "Item 5: Revision rounds"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3en-b-119",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-116",
+          "_type": "span",
+          "marks": [],
+          "text": "❌ "
+        },
+        {
+          "_key": "a3en-s-117",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Bad:"
+        },
+        {
+          "_key": "a3en-s-118",
+          "_type": "span",
+          "marks": [],
+          "text": " \"The studio makes revisions until the Client approves the result\""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-123",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-120",
+          "_type": "span",
+          "marks": [],
+          "text": "✅ "
+        },
+        {
+          "_key": "a3en-s-121",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Good:"
+        },
+        {
+          "_key": "a3en-s-122",
+          "_type": "span",
+          "marks": [],
+          "text": " \"The studio provides 2 full revision rounds on design and 2 on frontend after staging URL handover. Each additional round is billed at $40/hour.\""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-125",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-124",
+          "_type": "span",
+          "marks": [],
+          "text": "Without a revision limit you face risk from both sides:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-127",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-126",
+          "_type": "span",
+          "marks": [],
+          "text": "The studio tries to wrap up faster, ignoring small concerns → you're unhappy with quality"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-129",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-128",
+          "_type": "span",
+          "marks": [],
+          "text": "Or revisions go \"forever\" and the deadline blows because the project gets sent back 5 times"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-131",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-130",
+          "_type": "span",
+          "marks": [],
+          "text": "2 rounds is standard. Round 1: you give all your feedback in one list, the studio fixes it. Round 2: you give last small notes. More than that — separate billing."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-136",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-132",
+          "_type": "span",
+          "marks": [],
+          "text": "We use exactly this model — details on "
+        },
+        {
+          "_key": "a3en-s-134",
+          "_type": "span",
+          "marks": [
+            "a3en-m-133"
+          ],
+          "text": "Process"
+        },
+        {
+          "_key": "a3en-s-135",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a3en-m-133",
+          "_type": "link",
+          "href": "/en/process",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-138",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-137",
+          "_type": "span",
+          "marks": [],
+          "text": "Item 6: Who writes the content — and at whose cost"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3en-b-142",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-139",
+          "_type": "span",
+          "marks": [],
+          "text": "❌ "
+        },
+        {
+          "_key": "a3en-s-140",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Bad:"
+        },
+        {
+          "_key": "a3en-s-141",
+          "_type": "span",
+          "marks": [],
+          "text": " \"Client provides content\""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-146",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-143",
+          "_type": "span",
+          "marks": [],
+          "text": "✅ "
+        },
+        {
+          "_key": "a3en-s-144",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Good:"
+        },
+        {
+          "_key": "a3en-s-145",
+          "_type": "span",
+          "marks": [],
+          "text": " \"Client provides text content for all pages before the development phase. If content is not provided, the studio may offer copywriting at the standard rate of $200/page. The rate is documented in Appendix 3.\""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-150",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-147",
+          "_type": "span",
+          "marks": [],
+          "text": "This is the most common source of conflicts and project stalls. The owner orders a site, not understanding that "
+        },
+        {
+          "_key": "a3en-s-148",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "the text on it has to be written"
+        },
+        {
+          "_key": "a3en-s-149",
+          "_type": "span",
+          "marks": [],
+          "text": ". The studio assumes the client will deliver. The client assumes the studio will write."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-152",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-151",
+          "_type": "span",
+          "marks": [],
+          "text": "3 weeks in: the project stalls. Studio waits for content. Client didn't know they had to write it, or doesn't have the bandwidth."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-156",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-153",
+          "_type": "span",
+          "marks": [],
+          "text": "Right: "
+        },
+        {
+          "_key": "a3en-s-154",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "write it into the contract"
+        },
+        {
+          "_key": "a3en-s-155",
+          "_type": "span",
+          "marks": [],
+          "text": " — who's writing, at whose cost. If you want the studio to write — that's a separate line in the quote."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-158",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-157",
+          "_type": "span",
+          "marks": [],
+          "text": "Our base Industry Pro package includes copywriting for the homepage and 5 standard pages (about, services, contact, etc.). If you need more — $200/page."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-160",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-159",
+          "_type": "span",
+          "marks": [],
+          "text": "Item 7: Post-launch support"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3en-b-164",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-161",
+          "_type": "span",
+          "marks": [],
+          "text": "❌ "
+        },
+        {
+          "_key": "a3en-s-162",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Bad:"
+        },
+        {
+          "_key": "a3en-s-163",
+          "_type": "span",
+          "marks": [],
+          "text": " \"Warranty obligations of the studio remain in force for 30 days\""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-168",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-165",
+          "_type": "span",
+          "marks": [],
+          "text": "✅ "
+        },
+        {
+          "_key": "a3en-s-166",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Good:"
+        },
+        {
+          "_key": "a3en-s-167",
+          "_type": "span",
+          "marks": [],
+          "text": " \"The studio provides 1 year of warranty support starting from the launch date. Warranty includes: bug fixes, dependency updates, advisory. Response time: 4 business hours during studio business hours. Warranty does NOT include: new feature development, design changes, content rework.\""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-172",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-169",
+          "_type": "span",
+          "marks": [],
+          "text": "30-day warranty is an "
+        },
+        {
+          "_key": "a3en-s-170",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "anti-standard"
+        },
+        {
+          "_key": "a3en-s-171",
+          "_type": "span",
+          "marks": [],
+          "text": ". Real post-launch issues often surface 2-3 months in: when clients actively use the site and find rare bugs, or when dependencies update and something breaks."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-176",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-173",
+          "_type": "span",
+          "marks": [],
+          "text": "A good warranty is "
+        },
+        {
+          "_key": "a3en-s-174",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "1 year"
+        },
+        {
+          "_key": "a3en-s-175",
+          "_type": "span",
+          "marks": [],
+          "text": ". Not \"free forever,\" but coverage for typical post-launch problems."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-180",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-177",
+          "_type": "span",
+          "marks": [],
+          "text": "⚠️ Specify "
+        },
+        {
+          "_key": "a3en-s-178",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "what's in"
+        },
+        {
+          "_key": "a3en-s-179",
+          "_type": "span",
+          "marks": [],
+          "text": " the warranty. Bug fixes — yes. New features — no (otherwise a year of warranty equals a free new project). We list this explicitly in our contract."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-182",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-181",
+          "_type": "span",
+          "marks": [],
+          "text": "Bonus: Who's on the studio side"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3en-b-186",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-183",
+          "_type": "span",
+          "marks": [],
+          "text": "Doesn't directly appear in the contract, but you can ask for "
+        },
+        {
+          "_key": "a3en-s-184",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Appendix 4: Project team"
+        },
+        {
+          "_key": "a3en-s-185",
+          "_type": "span",
+          "marks": [],
+          "text": ". It should list:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-188",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-187",
+          "_type": "span",
+          "marks": [],
+          "text": "Tech lead and designer names, with their LinkedIn / GitHub profiles"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-190",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-189",
+          "_type": "span",
+          "marks": [],
+          "text": "Email and Telegram for direct contact"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-192",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-191",
+          "_type": "span",
+          "marks": [],
+          "text": "This lowers the risk of \"the manager went silent for 2 weeks because they quit.\" If you see names and profiles — you know who you're dealing with."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-cta-193",
+      "_type": "ctaCallout",
+      "ctaHref": "/en/contacts",
+      "ctaLabel": "Book a call",
+      "eyebrow": "Consult",
+      "heading": "Not sure what a fair contract looks like?",
+      "sub": "We have a template we sign with clients. Happy to walk through it on a 30-min consult. I'll explain every clause."
+    },
+    {
+      "_key": "a3en-b-195",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-194",
+          "_type": "span",
+          "marks": [],
+          "text": "Red flags: when to walk"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3en-b-197",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-196",
+          "_type": "span",
+          "marks": [],
+          "text": "5 phrases in a contract that should make you nervous:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-200",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-198",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "\"The studio commits to best efforts...\""
+        },
+        {
+          "_key": "a3en-s-199",
+          "_type": "span",
+          "marks": [],
+          "text": " — that's intention, not obligation. Permission to underperform."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-203",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-201",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "\"Timelines are approximate...\""
+        },
+        {
+          "_key": "a3en-s-202",
+          "_type": "span",
+          "marks": [],
+          "text": " — without a rebate, there are no timelines."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-206",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-204",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "\"Handover happens orally...\""
+        },
+        {
+          "_key": "a3en-s-205",
+          "_type": "span",
+          "marks": [],
+          "text": " — accept in writing, with a signed handover protocol."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-209",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-207",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "\"100% upfront...\""
+        },
+        {
+          "_key": "a3en-s-208",
+          "_type": "span",
+          "marks": [],
+          "text": " — standard is 50/50. More than that — either you have 5+ years of trust with the studio, or you're risking everything."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-212",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-210",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "\"Early termination requires the Client to pay 100%...\""
+        },
+        {
+          "_key": "a3en-s-211",
+          "_type": "span",
+          "marks": [],
+          "text": " — that makes you a hostage. Standard is staged payment for work already completed."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-217",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-213",
+          "_type": "span",
+          "marks": [],
+          "text": "We've seen all of these in freelancer contracts. Details in "
+        },
+        {
+          "_key": "a3en-s-215",
+          "_type": "span",
+          "marks": [
+            "a3en-m-214"
+          ],
+          "text": "vs Freelancers"
+        },
+        {
+          "_key": "a3en-s-216",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a3en-m-214",
+          "_type": "link",
+          "href": "/en/vs-freelancers",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-219",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-218",
+          "_type": "span",
+          "marks": [],
+          "text": "Who reviews the contract on your side"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a3en-b-221",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-220",
+          "_type": "span",
+          "marks": [],
+          "text": "Ideal — a lawyer. Realistic — self-review with this checklist + Google + 30 minutes of focus."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-b-225",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a3en-s-222",
+          "_type": "span",
+          "marks": [],
+          "text": "If the project costs more than "
+        },
+        {
+          "_key": "a3en-s-223",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "$5,000"
+        },
+        {
+          "_key": "a3en-s-224",
+          "_type": "span",
+          "marks": [],
+          "text": " — it's worth paying a lawyer $50-$100 for a review. The cheapest insurance policy in IT."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a3en-cta-226",
+      "_type": "ctaCallout",
+      "ctaHref": "/en/contacts",
+      "ctaLabel": "Book a 30-min consult",
+      "ctaSecondaryHref": "https://t.me/fedirdev",
+      "ctaSecondaryLabel": "Or write on Telegram",
+      "eyebrow": "Consult",
+      "heading": "Want to see what an honest contract looks like?",
+      "sub": "We'll show you our template. I'll explain every clause. No obligation."
+    }
+  ],
+  "category": {
+    "_ref": "28b8d6fe-07b6-4ee6-8f40-87bf838df79b",
+    "_type": "reference"
+  },
+  "coverImage": {
+    "alt": "Чек-ліст із 7 пунктів договору з веб-студією",
+    "src": "/blog/cover-dohovir-7-punktiv.webp"
+  },
+  "eyebrow": "Юридичне · 10 хвилин читання",
+  "eyebrowEn": "Legal · 10 min read",
+  "faq": [
+    {
+      "_key": "faq-1",
+      "_type": "blogFaqItem",
+      "answer": "Юридично — ні. Етично — так. Без неустойки термін є рекомендацією, а не зобов’язанням. Стандарт ринку — 10-30% від вартості проєкту.",
+      "question": "Чи обов’язково має бути неустойка в договорі?"
+    },
+    {
+      "_key": "faq-2",
+      "_type": "blogFaqItem",
+      "answer": "Це червоний прапор. Якщо студія не може назвати, хто буде вести ваш проєкт — або в неї проблеми з командою, або вона не планує тримати конкретних людей на вашому проєкті.",
+      "question": "Що робити, якщо студія не хоче ставити свою команду в Додаток до договору?"
+    },
+    {
+      "_key": "faq-3",
+      "_type": "blogFaqItem",
+      "answer": "Так. Diia.Sign в Україні має таку ж юридичну силу, як власноручний підпис. Ми підписуємо саме через Diia.Sign як стандарт, бо це швидше і не вимагає кур’єра.",
+      "question": "Чи можу я підписати договір через Diia.Sign?"
+    },
+    {
+      "_key": "faq-4",
+      "_type": "blogFaqItem",
+      "answer": "$50-$150 у середнього юриста. Якщо проєкт коштує більше $5,000 — це найдешевша страховка.",
+      "question": "Скільки коштує юридичне ревью договору?"
+    },
+    {
+      "_key": "faq-5",
+      "_type": "blogFaqItem",
+      "answer": "Вибирати іншу студію. Це базова норма ринку у 2026. Її відсутність — або непрофесійність, або відсутність впевненості в собі.",
+      "question": "Що робити, якщо студія відмовляється додавати неустойку?"
+    }
+  ],
+  "faqEn": [
+    {
+      "_key": "faq-en-1",
+      "_type": "blogFaqItemEn",
+      "answer": "Legally — no. Ethically — yes. Without one, the deadline is a recommendation, not a commitment. Market standard is 10-30% of the project value.",
+      "question": "Does the contract really need a rebate clause?"
+    },
+    {
+      "_key": "faq-en-2",
+      "_type": "blogFaqItemEn",
+      "answer": "Red flag. If a studio can't name who'll lead your project — either they have team issues, or they don't intend to keep specific people on yours.",
+      "question": "What if the studio refuses to add their team to the contract appendix?"
+    },
+    {
+      "_key": "faq-en-3",
+      "_type": "blogFaqItemEn",
+      "answer": "Yes. Diia.Sign has the same legal force as a handwritten signature in Ukraine. We sign via Diia.Sign as our default. For EU clients, we sign via DocuSign or equivalent.",
+      "question": "Can I sign a contract via Diia.Sign (Ukraine's e-signature)?"
+    },
+    {
+      "_key": "faq-en-4",
+      "_type": "blogFaqItemEn",
+      "answer": "$50-$150 from a generalist. If the project costs more than $5,000 — it's the cheapest insurance you can buy.",
+      "question": "How much does a contract review by a lawyer cost?"
+    },
+    {
+      "_key": "faq-en-5",
+      "_type": "blogFaqItemEn",
+      "answer": "Pick a different studio. It's a baseline norm in 2026. The lack of one is either unprofessionalism or lack of confidence in their own work.",
+      "question": "What if the studio refuses to add a rebate clause?"
+    }
+  ],
+  "lede": "За 3 роки ми бачили 30+ договорів від інших студій, які приносили клієнти на ревью. У більшості з них одна або кілька пасток, які власник бізнесу не помічає до моменту проблеми. Ось 7 пунктів, які варто перевірити **до** того, як ви перерахуєте першу частину.",
+  "ledeEn": "Over 3 years we've reviewed 30+ contracts from other studios that clients brought in for a second opinion. Most had at least one trap the business owner didn't see until the problem hit. Here are 7 items to verify before you wire the deposit.",
+  "metaDescription": "Що має бути в договорі з веб-студією у 2026. Неустойка за зрив, передача коду, права власності, scope. Готовий чек-ліст із 7 пунктів.",
+  "metaDescriptionEn": "What needs to be in a web studio contract in 2026. Rebate clauses, code ownership, scope, and 7 items to verify before paying the deposit.",
+  "metaTitle": "Договір на створення сайту — 7 пунктів перед підписанням | Code-Site.Art",
+  "metaTitleEn": "Web studio contract — 7-item checklist before signing | Code-Site.Art",
+  "publishedAt": "2026-05-19T11:11:30.189Z",
+  "readingTimeMinutes": 10,
+  "relatedPostSlugs": [
+    "skilky-koshtuye-sayt-2026",
+    "tilda-7200-za-3-roky"
+  ],
+  "slug": {
+    "_type": "slug",
+    "current": "dohovir-z-veb-studieyu-7-punktiv"
+  },
+  "slugEn": {
+    "_type": "slug",
+    "current": "web-studio-contract-7-items"
+  },
+  "status": "published",
+  "tags": [
+    "договір",
+    "неустойка",
+    "права власності",
+    "замовлення сайту"
+  ],
+  "title": "Договір з веб-студією: 7 пунктів, які перевіряють перед оплатою",
+  "titleEn": "Web studio contract: 7 things to check before paying",
+  "updatedAt": "2026-05-19T11:11:30.189Z"
+}

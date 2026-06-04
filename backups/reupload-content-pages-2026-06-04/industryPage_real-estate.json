@@ -1,0 +1,1709 @@
+{
+  "_createdAt": "2026-05-20T08:22:10Z",
+  "_id": "industryPage.real-estate",
+  "_rev": "NmlfHczPb8AvtTz8pIoW3t",
+  "_type": "industryPage",
+  "_updatedAt": "2026-06-04T14:15:25Z",
+  "hero": {
+    "ctaPrimary": {
+      "en": "Discuss my project",
+      "uk": "Обговорити мій проєкт"
+    },
+    "ctaSecondary": {
+      "en": "See real estate case studies",
+      "uk": "Подивитися real estate кейси"
+    },
+    "deviceTags": [
+      {
+        "_key": "rea-dt-4",
+        "kind": "default",
+        "primary": {
+          "en": "5 lang · 4 curr",
+          "uk": "5 мов · 4 валюти"
+        }
+      },
+      {
+        "_key": "rea-dt-5",
+        "kind": "default",
+        "primary": {
+          "en": "Google Maps",
+          "uk": "Google Maps"
+        }
+      },
+      {
+        "_key": "rea-dt-6",
+        "kind": "good",
+        "mini": "EU",
+        "primary": {
+          "en": "Geo-routing",
+          "uk": "Geo-routing"
+        }
+      }
+    ],
+    "eyebrow": {
+      "en": "WEBSITES FOR REAL ESTATE · from $5,000",
+      "uk": "САЙТИ ДЛЯ НЕРУХОМОСТІ · від $5 000"
+    },
+    "features": [
+      {
+        "en": "Multi-language | UA · EN · DE · PL · IT",
+        "uk": "Мультимовність | UA · EN · DE · PL · IT"
+      },
+      {
+        "en": "Multi-currency | EUR · USD · GBP · UAH",
+        "uk": "Мультивалютність | EUR · USD · GBP · UAH"
+      },
+      {
+        "en": "Mortgage calculator | region-aware",
+        "uk": "Mortgage калькулятор | з привʼязкою до регіону"
+      },
+      {
+        "en": "Landings | per market and property type",
+        "uk": "Лендинги | під ринок і тип нерухомості"
+      }
+    ],
+    "h1Num": "4",
+    "h1NumLabel": {
+      "en": "currencies\nwith 5 languages",
+      "uk": "валюти\nрядом з 5 мовами"
+    },
+    "heading": {
+      "en": "A real estate site running in *4 currencies and 5 languages*",
+      "uk": "Сайт нерухомості, який працює в *4 валютах і 5 мовах*"
+    },
+    "lede": {
+      "en": "A turnkey real estate solution: multi-language landings, multi-currency pricing, full property catalog with filters and Google Maps, mortgage calculator. No more than 5 hours of your time. Live in 6-10 weeks, and you take leads from *5 markets at once*.",
+      "uk": "Готове рішення для нерухомості: мультимовні лендинги, мультивалютний прайс, повноцінний каталог обʼєктів з фільтрами і Google Maps інтеграцією, mortgage-калькулятор. Без вашої участі більше ніж 5 годин. Запуск за 6–10 тижнів — і ви приймаєте заявки з *5 ринків одночасно*."
+    },
+    "stats": [
+      {
+        "_key": "rea-st-1",
+        "label": {
+          "en": "real estate\nsites built",
+          "uk": "сайтів\nнерухомості"
+        },
+        "value": "47"
+      },
+      {
+        "_key": "rea-st-2",
+        "label": {
+          "en": "client\nrating",
+          "uk": "оцінка\nклієнтів"
+        },
+        "value": "4.9/5"
+      },
+      {
+        "_key": "rea-st-3",
+        "label": {
+          "en": "simultaneous",
+          "uk": "одночасно"
+        },
+        "value": "5 ринків"
+      }
+    ],
+    "tickerItems": [
+      {
+        "en": "Real estate agencies",
+        "uk": "Агенції нерухомості"
+      },
+      {
+        "en": "Developers",
+        "uk": "Забудовники"
+      },
+      {
+        "en": "Private listings",
+        "uk": "Приватні листинги"
+      },
+      {
+        "en": "Investment property",
+        "uk": "Інвестиційна нерухомість"
+      },
+      {
+        "en": "Resort property",
+        "uk": "Курортна нерухомість"
+      },
+      {
+        "en": "Commercial",
+        "uk": "Комерційна нерухомість"
+      },
+      {
+        "en": "Long-term rentals",
+        "uk": "Оренда"
+      },
+      {
+        "en": "Short-term rentals",
+        "uk": "Короткострокова оренда"
+      },
+      {
+        "en": "Foreign property",
+        "uk": "Iноземна нерухомість"
+      },
+      {
+        "en": "Premium segment",
+        "uk": "Premium-сегмент"
+      },
+      {
+        "en": "New-build",
+        "uk": "New-build"
+      },
+      {
+        "en": "Resale",
+        "uk": "Реселл"
+      }
+    ]
+  },
+  "order": 7,
+  "sections": [
+    {
+      "_key": "rea-sec-7",
+      "_type": "reasonsBlock",
+      "eyebrow": {
+        "en": "DIAGNOSIS · 3 REASONS",
+        "uk": "ДІАГНОСТИКА · 3 ПРИЧИНИ"
+      },
+      "footCtaLabel": {
+        "en": "Audit my site",
+        "uk": "Перевірити мій сайт"
+      },
+      "footText": {
+        "en": "We fix *all three* in 6-10 weeks.",
+        "uk": "Виправляємо *всі три* за 6-10 тижнів."
+      },
+      "heading": {
+        "en": "3 reasons your real estate site\n*doesn’t bring clients*",
+        "uk": "3 причини, чому ваш сайт нерухомості\n*не приводить клієнтів*"
+      },
+      "metaRows": [
+        {
+          "en": "audit of 50+ real estate sites · 2024–25",
+          "uk": "аналіз 50+ real estate сайтів · 2024–25"
+        }
+      ],
+      "reasons": [
+        {
+          "_key": "rea-r-8",
+          "number": "01",
+          "stat": {
+            "label": {
+              "en": "of clients drop off due to weak property filters",
+              "uk": "клієнтів зливаються через невдалий фільтр обʼєктів"
+            },
+            "value": "78%"
+          },
+          "tag": {
+            "en": "CATALOG UX",
+            "uk": "CATALOG UX"
+          },
+          "text": [
+            {
+              "_key": "rea-b-12",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-9",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Клієнт шукає квартиру 2-3 кімнати в бюджеті 150-200k євро в Бараньон у Барселоні з парковкою. У вас — 200 обʼєктів у стрічці без фільтрів за районом, метражем, бюджетом. "
+                },
+                {
+                  "_key": "rea-s-10",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "Йде на сайт конкурента з картою + фільтрами"
+                },
+                {
+                  "_key": "rea-s-11",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "rea-b-16",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-13",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "The client is looking for a 2-3 bedroom apartment in the €150-200k range in the Born district of Barcelona with parking. On your site — 200 listings in a feed without filters by area, m², budget. "
+                },
+                {
+                  "_key": "rea-s-14",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "They go to a competitor with a map + filters"
+                },
+                {
+                  "_key": "rea-s-15",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "Property catalog without proper filters or a map",
+            "uk": "Каталог обʼєктів без нормальних фільтрів і карти"
+          }
+        },
+        {
+          "_key": "rea-r-17",
+          "number": "02",
+          "stat": {
+            "label": {
+              "en": "higher conversion on listings with 360° tours or video walkthroughs",
+              "uk": "вища конверсія у листингів з 360°-турами або відео-оглядами"
+            },
+            "value": "×3.6"
+          },
+          "tag": {
+            "en": "TRUST",
+            "uk": "TRUST"
+          },
+          "text": [
+            {
+              "_key": "rea-b-21",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-18",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Лістинг обʼєкту: 5 фото від забудовника зі студії, без реальних кадрів вікон, краєвидів, інтерʼєрів. Клієнт планує інвестицію $100-500k і не отримує жодного \"відчуття\" обʼєкту. "
+                },
+                {
+                  "_key": "rea-s-19",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "Без 360°-туру або відео обʼєкт сприймається як ризик"
+                },
+                {
+                  "_key": "rea-s-20",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "rea-b-25",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-22",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "A listing with 5 developer renders from the studio, zero real shots of windows, views, interiors. The client is planning a $100-500k investment and gets no \"feel\" for the property. "
+                },
+                {
+                  "_key": "rea-s-23",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "Without a 360° tour or video, the property feels risky"
+                },
+                {
+                  "_key": "rea-s-24",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "Stock renders instead of real photos",
+            "uk": "Шаблонні рендери замість справжніх фото"
+          }
+        },
+        {
+          "_key": "rea-r-26",
+          "number": "03",
+          "stat": {
+            "label": {
+              "en": "market expansion via multi-language",
+              "uk": "розширення ринку через мультимовність"
+            },
+            "value": "×5"
+          },
+          "tag": {
+            "en": "LANGUAGE",
+            "uk": "LANGUAGE"
+          },
+          "text": [
+            {
+              "_key": "rea-b-30",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-27",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Українська нерухомість — UA для українських клієнтів, але EN / RU для діаспори, PL для польських інвесторів, DE для німецьких. Іспанська курортна — EN / DE / FR / RU обовʼязково. "
+                },
+                {
+                  "_key": "rea-s-28",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "Один сайт на одній мові = 1/5 потенційної аудиторії"
+                },
+                {
+                  "_key": "rea-s-29",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "rea-b-34",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-31",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Ukrainian real estate — UA for locals, but EN / RU for diaspora, PL for Polish investors, DE for German. Spanish resort property — EN / DE / FR / RU mandatory. "
+                },
+                {
+                  "_key": "rea-s-32",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "A single-language site = 1/5 of the potential audience"
+                },
+                {
+                  "_key": "rea-s-33",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "Single-language site — losing foreign clients",
+            "uk": "Сайт тільки на одній мові — втрачаєте іноземних клієнтів"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "rea-sec-35",
+      "_type": "caseBlock",
+      "after": {
+        "foot": {
+          "en": "Result: a sales-ready reference template for any real estate agency. We deploy to clients in 4 weeks with market-specific customization.",
+          "uk": "Результат: продаючий референс-шаблон для будь-якої real estate агенції. Розгортаємо клієнтам за 4 тижні з кастомізацією під ринок."
+        },
+        "heading": {
+          "en": "✓ Turnkey real estate solution: 5 languages · 4 currencies · map · calculator",
+          "uk": "✓ Готове рішення для нерухомості: 5 мов · 4 валюти · карта · калькулятор"
+        },
+        "items": [
+          {
+            "en": "Multi-language (UA / EN / DE / IT / PL) and multi-currency (EUR / USD / GBP / UAH) catalog",
+            "uk": "Мультимовний (UA / EN / DE / IT / PL) і мультивалютний (EUR / USD / GBP / UAH) каталог"
+          },
+          {
+            "en": "Mortgage calculator tied to local rates",
+            "uk": "Mortgage-калькулятор з привʼязкою до місцевих ставок"
+          },
+          {
+            "en": "Catalog with 12-parameter filters + Google Maps + 360° tours",
+            "uk": "Каталог обʼєктів з 12-параметровими фільтрами + Google Maps + 360° тури"
+          },
+          {
+            "en": "Dedicated landings per market (Albania · Italy · Montenegro)",
+            "uk": "Окремі лендинги під ринок (Albania · Italy · Montenegro)"
+          },
+          {
+            "en": "Dedicated landings per property type (apartment · villa · investment)",
+            "uk": "Окремі лендинги під тип обʼєкту (apartment · villa · investment)"
+          },
+          {
+            "en": "Sanity CMS — add a property from your phone in 5 min",
+            "uk": "Sanity CMS — додавання обʼєкту з телефону за 5 хв"
+          },
+          {
+            "en": "Full Schema.org RealEstateListing markup",
+            "uk": "Schema.org RealEstateListing повна розмітка"
+          },
+          {
+            "en": "HubSpot CRM integration for regional managers",
+            "uk": "Інтеграція з CRM (HubSpot) для регіональних менеджерів"
+          },
+          {
+            "en": "Geo-routing: a visitor from Italy sees the Italian site in EUR",
+            "uk": "Geo-routing: користувач з Italy бачить сайт італійською з EUR"
+          }
+        ],
+        "num": "YOUR HOUSE · NEXT.JS · 2024",
+        "url": "your-house-albania.vercel.app"
+      },
+      "before": {
+        "foot": {
+          "en": "Result: 5-10 leads/month, mostly local, foreign clients walk past.",
+          "uk": "Результат: 5-10 лідов/місяць, переважно місцевих, foreign-клієнти проходять повз."
+        },
+        "heading": {
+          "en": "× A typical real estate agency site",
+          "uk": "× Типовий сайт агенції нерухомості"
+        },
+        "items": [
+          {
+            "en": "50-200 listings without filters by budget / area",
+            "uk": "Каталог 50-200 обʼєктів без фільтрів за бюджетом / районом"
+          },
+          {
+            "en": "One language (usually local), one-currency pricing",
+            "uk": "Одна мова (зазвичай локальна), один валютний прайс"
+          },
+          {
+            "en": "No mortgage calculator",
+            "uk": "Без mortgage-калькулятора"
+          },
+          {
+            "en": "No Google Maps integration — the client doesn’t know where the property is",
+            "uk": "Без Google Maps інтеграції — клієнт не знає де обʼєкт"
+          },
+          {
+            "en": "No video tours / 360°",
+            "uk": "Без відео-турів / 360°"
+          },
+          {
+            "en": "\"Call us\" lead form with zero detail",
+            "uk": "Лід-форма \"Зателефонуйте нам\" без жодних деталей"
+          },
+          {
+            "en": "No structured landings per property type",
+            "uk": "Без структурованих лендингів під типи обʼєктів"
+          },
+          {
+            "en": "Zero SEO: one page about \"buying an apartment\"",
+            "uk": "SEO нуль: одна сторінка про \"купити квартиру\""
+          }
+        ],
+        "num": "RE INDUSTRY · TYPICAL · 2023",
+        "url": "industry-typical state"
+      },
+      "eyebrow": {
+        "en": "REAL CASE",
+        "uk": "РЕАЛЬНИЙ КЕЙС"
+      },
+      "eyebrowEm": {
+        "en": "YOUR HOUSE ALBANIA",
+        "uk": "YOUR HOUSE ALBANIA"
+      },
+      "heading": {
+        "en": "A turnkey real estate solution serving 5 markets at once",
+        "uk": "Готове рішення для нерухомості з 5 ринками одночасно"
+      },
+      "lede": {
+        "en": "Your House Albania — a resort real estate agency in Albania working with buyers from Europe, the US, and post-Soviet markets. The task — build a turnkey solution: a 5-language, 4-currency catalog with filters, mortgage calculator, dedicated landings per market and property type. This is our flagship real estate reference site.",
+        "uk": "Your House Albania — агенція курортної нерухомості в Албанії, що працює з покупцями з Європи, США та постсоветського простору. Завдання — побудувати готове рішення: мультимовний (5 мов) мультивалютний (4 валюти) каталог з фільтрами, mortgage-калькулятор, окремі лендинги під ринок і тип обʼєкту. Це наш референс-сайт для нерухомості."
+      },
+      "meta": [
+        {
+          "_key": "rea-cm-36",
+          "strong": {
+            "en": "10 weeks",
+            "uk": "10 тижнів"
+          },
+          "text": {
+            "en": "brief to launch",
+            "uk": "від брифу до релізу"
+          }
+        },
+        {
+          "_key": "rea-cm-37",
+          "strong": {
+            "en": "5 languages · 4 currencies",
+            "uk": "5 мов · 4 валюти"
+          },
+          "text": {
+            "en": "UA · EN · DE · IT · PL",
+            "uk": "UA · EN · DE · IT · PL"
+          }
+        },
+        {
+          "_key": "rea-cm-38",
+          "strong": {
+            "en": "Turnkey solution",
+            "uk": "Готове рішення"
+          },
+          "text": {
+            "en": "for the whole real estate niche",
+            "uk": "для всієї real estate ніші"
+          }
+        }
+      ],
+      "results": [
+        {
+          "_key": "rea-rs-39",
+          "label": {
+            "en": "simultaneous from one site",
+            "uk": "одночасно з одного сайту"
+          },
+          "tag": {
+            "en": "MARKETS",
+            "uk": "MARKETS"
+          },
+          "value": "5"
+        },
+        {
+          "_key": "rea-rs-40",
+          "label": {
+            "en": "EUR · USD · GBP · UAH",
+            "uk": "EUR · USD · GBP · UAH"
+          },
+          "tag": {
+            "en": "CURRENCIES",
+            "uk": "CURRENCIES"
+          },
+          "value": "4"
+        },
+        {
+          "_key": "rea-rs-41",
+          "label": {
+            "en": "for a new agency",
+            "uk": "для нової агенції"
+          },
+          "tag": {
+            "en": "DEPLOY TIME",
+            "uk": "DEPLOY TIME"
+          },
+          "value": "4 тижні"
+        },
+        {
+          "_key": "rea-rs-42",
+          "label": {
+            "en": "hreflang + Schema.org",
+            "uk": "hreflang + Schema.org"
+          },
+          "tag": {
+            "en": "MULTI-LANG SEO",
+            "uk": "MULTI-LANG SEO"
+          },
+          "value": "full"
+        }
+      ]
+    },
+    {
+      "_key": "rea-sec-43",
+      "_type": "outcomeBlock",
+      "benefitRows": [
+        {
+          "_key": "rea-br-44",
+          "feature": "FEATURE · 01 / 03",
+          "heading": {
+            "en": "Catalog with 12-parameter filters and a map",
+            "uk": "Каталог з 12-параметровими фільтрами і картою"
+          },
+          "items": [
+            {
+              "en": "Filters: area, type, price, m², rooms, condition, balcony, parking",
+              "uk": "Фільтри: район, тип, ціна, метраж, кімнати, ремонт, балкон, парковка"
+            },
+            {
+              "en": "Google Maps with all listings at once",
+              "uk": "Google Maps з усіма обʼєктами одночасно"
+            },
+            {
+              "en": "Price heatmap by area",
+              "uk": "Heatmap цін за районами"
+            },
+            {
+              "en": "Favorites persist between sessions",
+              "uk": "Збереження обраного між сесіями"
+            }
+          ],
+          "mockTags": [
+            {
+              "en": "Map",
+              "uk": "Карта"
+            },
+            {
+              "en": "Filters",
+              "uk": "Фільтри"
+            }
+          ],
+          "mockType": "pages"
+        },
+        {
+          "_key": "rea-br-45",
+          "feature": "FEATURE · 02 / 03",
+          "heading": {
+            "en": "Mortgage calculator",
+            "uk": "Mortgage-калькулятор"
+          },
+          "items": [
+            {
+              "en": "Rates tied to region (UA / Albania / Italy)",
+              "uk": "Ставки привʼязані до регіону (UA / Albania / Italy)"
+            },
+            {
+              "en": "Calculation with deposit, term, rate type",
+              "uk": "Розрахунок з depositом, терміном, типом ставки"
+            },
+            {
+              "en": "PDF calculation to client’s email",
+              "uk": "PDF-розрахунок на email клієнту"
+            },
+            {
+              "en": "Saved in CRM with full breakdown",
+              "uk": "Зберігається в CRM з повним breakdown"
+            }
+          ],
+          "mockTags": [
+            {
+              "en": "Calculator",
+              "uk": "Калькулятор"
+            },
+            {
+              "en": "Rates",
+              "uk": "Ставки"
+            }
+          ],
+          "mockType": "pages"
+        },
+        {
+          "_key": "rea-br-46",
+          "feature": "FEATURE · 03 / 03",
+          "heading": {
+            "en": "Landings per market and property type",
+            "uk": "Лендинги під ринок і тип нерухомості"
+          },
+          "items": [
+            {
+              "en": "\"Apartments in Barcelona\" / \"Villas in Albania\" / \"Investment property\"",
+              "uk": "\"Квартири в Барселоні\" / \"Вілли в Албанії\" / \"Інвестиційна нерухомість\""
+            },
+            {
+              "en": "Each landing — its own SEO, language, currency",
+              "uk": "Кожен лендинг — свій SEO, своя мова, своя валюта"
+            },
+            {
+              "en": "Geo-routing: a visitor from Italy lands on the Italian site",
+              "uk": "Geo-routing: клієнт з Italy одразу бачить італійський сайт"
+            },
+            {
+              "en": "50+ landings generated programmatically",
+              "uk": "50+ лендингів програмно генеруються"
+            }
+          ],
+          "mockTags": [
+            {
+              "en": "Barcelona",
+              "uk": "Barcelona"
+            },
+            {
+              "en": "Albania",
+              "uk": "Albania"
+            },
+            {
+              "en": "Investment",
+              "uk": "Investment"
+            }
+          ],
+          "mockType": "pages"
+        }
+      ],
+      "benefitsHeading": {
+        "en": "How it shows up on the site",
+        "uk": "Як це працює на сайті"
+      },
+      "directions": {
+        "allowedItems": [
+          {
+            "en": "500+ listings, 3-5 languages, 3-4 currencies",
+            "uk": "500+ обʼєктів, 3-5 мов, 3-4 валюти"
+          },
+          {
+            "en": "Geo-routing + landings per market",
+            "uk": "Geo-routing + лендинги під кожен ринок"
+          },
+          {
+            "en": "HubSpot / Salesforce CRM integration",
+            "uk": "HubSpot / Salesforce CRM integration"
+          },
+          {
+            "en": "Custom tier — from $14,000",
+            "uk": "Custom — від $14,000"
+          }
+        ],
+        "allowedLabel": {
+          "en": "International / multi-market",
+          "uk": "Міжнародний / мульти-ринок"
+        },
+        "lede": {
+          "en": "The approach differs for a local agency with 50-200 listings and an international one with 1000+. The pricing tiers below cover both scenarios.",
+          "uk": "Підхід відрізняється для локальної агенції з 50-200 обʼєктами і міжнародної з 1000+. Тарифи нижче — під обидва сценарії."
+        },
+        "replaceItems": [
+          {
+            "en": "50-300 listings, 1-2 languages, local market",
+            "uk": "50-300 обʼєктів, 1-2 мови, локальний ринок"
+          },
+          {
+            "en": "Catalog with filters + Google Maps",
+            "uk": "Каталог з фільтрами + Google Maps"
+          },
+          {
+            "en": "Mortgage calculator with local rates",
+            "uk": "Mortgage калькулятор під локальні ставки"
+          },
+          {
+            "en": "Pro Plus tier fits",
+            "uk": "Розширений пакет — Pro Plus"
+          }
+        ],
+        "replaceLabel": {
+          "en": "Local agency / private listing",
+          "uk": "Локальна агенція / приватний листинг"
+        },
+        "title": {
+          "en": "We work with real estate businesses of every format",
+          "uk": "Працюємо з real estate бізнесом будь-якого формату"
+        }
+      },
+      "recap": {
+        "text": {
+          "en": "A turnkey solution for any real estate agency, customized for your market.",
+          "uk": "Готове рішення для будь-якої real estate агенції з кастомізацією під ваш ринок."
+        }
+      }
+    },
+    {
+      "_key": "rea-sec-47",
+      "_type": "servicesBlock",
+      "features": [
+        {
+          "_key": "rea-sf-48",
+          "items": [
+            {
+              "en": "12-parameter filters + Google Maps",
+              "uk": "12-параметрові фільтри + Google Maps"
+            },
+            {
+              "en": "360° tours and video walkthroughs",
+              "uk": "360° тури і відео-walkthroughs"
+            },
+            {
+              "en": "Side-by-side comparison up to 4 properties",
+              "uk": "Порівняння до 4 обʼєктів side-by-side"
+            },
+            {
+              "en": "Full Schema.org RealEstateListing markup",
+              "uk": "Schema.org RealEstateListing повна розмітка"
+            }
+          ],
+          "title": {
+            "en": "Property catalog",
+            "uk": "Каталог обʼєктів"
+          }
+        },
+        {
+          "_key": "rea-sf-49",
+          "items": [
+            {
+              "en": "Region-based rates",
+              "uk": "Ставки за регіоном"
+            },
+            {
+              "en": "Deposit, term, rate type",
+              "uk": "Депозит, термін, тип ставки"
+            },
+            {
+              "en": "PDF report to the client",
+              "uk": "PDF-розрахунок клієнту"
+            },
+            {
+              "en": "Lead in CRM with full breakdown",
+              "uk": "Лід в CRM з повним breakdown"
+            }
+          ],
+          "title": {
+            "en": "Mortgage calculator",
+            "uk": "Mortgage калькулятор"
+          }
+        },
+        {
+          "_key": "rea-sf-50",
+          "items": [
+            {
+              "en": "Up to 5 languages with own URL structure",
+              "uk": "До 5 мов з власною URL-структурою"
+            },
+            {
+              "en": "Up to 4 currencies with geo-routing",
+              "uk": "До 4 валют з геолокацією"
+            },
+            {
+              "en": "hreflang + Schema.org",
+              "uk": "hreflang + Schema.org"
+            },
+            {
+              "en": "Geo-routing to appropriate language",
+              "uk": "Geo-routing у відповідну мову"
+            }
+          ],
+          "title": {
+            "en": "Multi-language + multi-currency",
+            "uk": "Мультимовність + мультивалютність"
+          }
+        },
+        {
+          "_key": "rea-sf-51",
+          "items": [
+            {
+              "en": "\"Apartments in [city]\" — own SEO page",
+              "uk": "\"Квартири у [місті]\" — окрема SEO-сторінка"
+            },
+            {
+              "en": "\"Investment property\" — separate landing",
+              "uk": "\"Інвестиційна нерухомість\" — окремий лендинг"
+            },
+            {
+              "en": "50-200 programmatic landing pages",
+              "uk": "50-200 програмних landing pages"
+            },
+            {
+              "en": "Each with its own SEO, language, currency",
+              "uk": "Кожен з власним SEO, мовою, валютою"
+            }
+          ],
+          "title": {
+            "en": "Landings per market and type",
+            "uk": "Лендинги під ринок і тип"
+          }
+        },
+        {
+          "_key": "rea-sf-52",
+          "items": [
+            {
+              "en": "Lead from Italy → Italian manager",
+              "uk": "Лід з Italy → ​італійський менеджер"
+            },
+            {
+              "en": "Lead from Germany → German manager",
+              "uk": "Лід з Germany → німецький менеджер"
+            },
+            {
+              "en": "Lead from UA → Ukrainian manager",
+              "uk": "Лід з UA → український менеджер"
+            },
+            {
+              "en": "HubSpot / Salesforce / KeyCRM",
+              "uk": "HubSpot / Salesforce / KeyCRM"
+            }
+          ],
+          "title": {
+            "en": "Lead routing by regional managers",
+            "uk": "Розподіл лідов по регіональних менеджерах"
+          }
+        },
+        {
+          "_key": "rea-sf-53",
+          "items": [
+            {
+              "en": "Add a property from your phone in 5 min",
+              "uk": "Додавання обʼєкту з телефону за 5 хв"
+            },
+            {
+              "en": "12 photos uploaded from gallery in parallel",
+              "uk": "12 фото з галереї, заливаються паралельно"
+            },
+            {
+              "en": "Localize to 5 languages in one document",
+              "uk": "Локалізація на 5 мов в одному документі"
+            },
+            {
+              "en": "Bulk update (e.g., discount by area)",
+              "uk": "Bulk-update (наприклад, знижка на район)"
+            }
+          ],
+          "title": {
+            "en": "Sanity CMS admin",
+            "uk": "Sanity CMS adminка"
+          }
+        }
+      ],
+      "heading": {
+        "en": "What we build for real estate businesses",
+        "uk": "Що ми будуємо для real estate бізнесу"
+      },
+      "integrations": [
+        {
+          "en": "Google Maps",
+          "uk": "Google Maps"
+        },
+        {
+          "en": "HubSpot",
+          "uk": "HubSpot"
+        },
+        {
+          "en": "Salesforce",
+          "uk": "Salesforce"
+        },
+        {
+          "en": "KeyCRM",
+          "uk": "KeyCRM"
+        },
+        {
+          "en": "AmoCRM",
+          "uk": "AmoCRM"
+        },
+        {
+          "en": "Bitrix24",
+          "uk": "Bitrix24"
+        },
+        {
+          "en": "Calendly",
+          "uk": "Calendly"
+        },
+        {
+          "en": "Zoom",
+          "uk": "Zoom"
+        },
+        {
+          "en": "Stripe",
+          "uk": "Stripe"
+        },
+        {
+          "en": "LiqPay",
+          "uk": "LiqPay"
+        },
+        {
+          "en": "DocuSign",
+          "uk": "DocuSign"
+        },
+        {
+          "en": "Telegram",
+          "uk": "Telegram"
+        }
+      ],
+      "integrationsHeading": {
+        "en": "We connect every real estate system",
+        "uk": "Підключаємо всі real estate системи"
+      },
+      "integrationsSub": {
+        "en": "Calculator leads route to the regional manager via CRM routing. Properties from MLS feeds — auto-import. Viewing calendar — Calendly. Reservation payment — Stripe. Manager gets Telegram or Slack alerts. Zero leads lost to email spam.",
+        "uk": "Заявка з калькулятора йде до регіонального менеджера через CRM-routing. Обʼєкт з MLS-фіду — автоматичний імпорт. Календар показу — Calendly. Платіж за резервацію — Stripe. Менеджер отримує сповіщення у Telegram або Slack. Жодних втрачених лідов через email-спам."
+      },
+      "sub": {
+        "en": "A ready foundation for your niche — customized in 4 weeks. Or a full custom build for a unique business process.",
+        "uk": "Готова основа під вашу нішу — кастомізуємо за 4 тижні. Або повний custom під унікальний бізнес-процес."
+      },
+      "testimonial": {
+        "authorInitials": "RE",
+        "authorName": "Real Estate Agency Founder",
+        "authorRole": {
+          "en": "Founder, international real estate agency",
+          "uk": "Засновник міжнародної real estate агенції"
+        },
+        "quote": {
+          "en": "We were looking for a turnkey solution for our agency — not to build from scratch. Code-Site.Art used Your House Albania as the reference, customized it to our market in 4 weeks. We launched with three languages and two currencies on day one.",
+          "uk": "Шукали готове рішення для нашої агенції — щоб не будувати з нуля. Code-Site.Art дав референс-сайт Your House Albania як основу, кастомізували під наш ринок за 4 тижні. Запустилися з трьома мовами і двома валютами на старті."
+        }
+      },
+      "testimonialEyebrow": {
+        "en": "CLIENT TESTIMONIAL",
+        "uk": "ВІДГУК КЛІЄНТА"
+      }
+    },
+    {
+      "_key": "rea-sec-54",
+      "_type": "comparisonBlock",
+      "contact": {
+        "briefPlaceholder": {
+          "en": "What kind of site you need, what your goals are",
+          "uk": "Який сайт потрібен, які цілі"
+        },
+        "channelPlaceholder": {
+          "en": "Telegram, phone, or email",
+          "uk": "Telegram, телефон або email"
+        },
+        "foot": {
+          "en": "Or message us on Telegram — @fedirdev",
+          "uk": "Або одразу пишіть у Telegram — @fedirdev"
+        },
+        "heading": {
+          "en": "Discuss your project",
+          "uk": "Обговорити проєкт"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "uk": "Як до вас звертатися"
+        },
+        "sub": {
+          "en": "Tell us briefly about your project — we’ll reply on Telegram within 1–2 hours during business hours.",
+          "uk": "Розкажіть коротко про ваш проєкт — відповімо в Telegram протягом 1–2 годин у робочий час."
+        },
+        "submitLabel": {
+          "en": "Send — we’ll reply within 1–2 hours",
+          "uk": "Надіслати — відповімо за 1–2 години"
+        }
+      },
+      "heading": {
+        "en": "Why a custom real estate site beats a template",
+        "uk": "Чим кодовий сайт нерухомості кращий за шаблон"
+      },
+      "pricingHeading": {
+        "en": "Pricing for a real estate website",
+        "uk": "Скільки коштує сайт real estate бізнесу"
+      },
+      "rows": [
+        {
+          "_key": "rea-cr-55",
+          "custom": {
+            "en": "12-parameter",
+            "uk": "12-параметрові"
+          },
+          "param": {
+            "en": "Filtered catalog",
+            "uk": "Каталог з фільтрами"
+          },
+          "wix": {
+            "en": "basic",
+            "uk": "базовий"
+          },
+          "wp": {
+            "en": "plugin",
+            "uk": "плагін"
+          }
+        },
+        {
+          "_key": "rea-cr-56",
+          "custom": {
+            "en": "full",
+            "uk": "повна"
+          },
+          "param": {
+            "en": "Google Maps",
+            "uk": "Google Maps інтеграція"
+          },
+          "wix": {
+            "en": "basic",
+            "uk": "базова"
+          },
+          "wp": {
+            "en": "plugin",
+            "uk": "плагін"
+          }
+        },
+        {
+          "_key": "rea-cr-57",
+          "custom": {
+            "en": "custom with PDF",
+            "uk": "кастомний з PDF"
+          },
+          "param": {
+            "en": "Mortgage calculator",
+            "uk": "Mortgage калькулятор"
+          },
+          "wix": {
+            "en": "via Apps",
+            "uk": "через Apps"
+          },
+          "wp": {
+            "en": "plugin (buggy)",
+            "uk": "плагін (баги)"
+          }
+        },
+        {
+          "_key": "rea-cr-58",
+          "custom": {
+            "en": "full structure",
+            "uk": "повна структура"
+          },
+          "param": {
+            "en": "Multi-language",
+            "uk": "Мультимовність"
+          },
+          "wix": {
+            "en": "basic",
+            "uk": "базова"
+          },
+          "wp": {
+            "en": "WPML plugin",
+            "uk": "WPML plugin"
+          }
+        },
+        {
+          "_key": "rea-cr-59",
+          "custom": {
+            "en": "built-in",
+            "uk": "вбудовано"
+          },
+          "param": {
+            "en": "Multi-currency",
+            "uk": "Мультивалютність"
+          },
+          "wix": {
+            "en": "none",
+            "uk": "немає"
+          },
+          "wp": {
+            "en": "via plugins",
+            "uk": "через плагіни"
+          }
+        },
+        {
+          "_key": "rea-cr-60",
+          "custom": {
+            "en": "automatic",
+            "uk": "автоматичний"
+          },
+          "param": {
+            "en": "Geo-routing",
+            "uk": "Geo-routing"
+          },
+          "wix": {
+            "en": "none",
+            "uk": "немає"
+          },
+          "wp": {
+            "en": "via plugins",
+            "uk": "через плагіни"
+          }
+        },
+        {
+          "_key": "rea-cr-61",
+          "custom": {
+            "en": "native",
+            "uk": "нативно"
+          },
+          "param": {
+            "en": "360° tours",
+            "uk": "360° тури"
+          },
+          "wix": {
+            "en": "via embed",
+            "uk": "через embed"
+          },
+          "wp": {
+            "en": "plugin",
+            "uk": "плагін"
+          }
+        },
+        {
+          "_key": "rea-cr-62",
+          "custom": {
+            "en": "$5-10k",
+            "uk": "$5-10k"
+          },
+          "param": {
+            "en": "3-year TCO",
+            "uk": "TCO за 3 роки"
+          },
+          "wix": {
+            "en": "$4-7k",
+            "uk": "$4-7k"
+          },
+          "wp": {
+            "en": "$5-8k",
+            "uk": "$5-8k"
+          }
+        }
+      ],
+      "tableCtaGhost": {
+        "en": "WordPress comparison →",
+        "uk": "Порівняння з WordPress →"
+      },
+      "tableCtaPrimary": {
+        "en": "Detailed page builder comparison →",
+        "uk": "Детальне порівняння конструкторів →"
+      },
+      "tiers": [
+        {
+          "_key": "rea-tier-63",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "en": "Details — on /en/pricing",
+            "uk": "Деталі — на /pricing"
+          },
+          "includes": [
+            {
+              "en": "Industry-ready structure",
+              "uk": "Готова структура під вашу галузь"
+            },
+            {
+              "en": "UA + EN bilingual",
+              "uk": "UA + EN білінгвал"
+            },
+            {
+              "en": "Base integrations (CRM + payments)",
+              "uk": "Базові інтеграції (CRM + платежі)"
+            },
+            {
+              "en": "Sanity CMS for self-serve edits",
+              "uk": "Sanity CMS для самостійних правок"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "uk": "Що входить"
+          },
+          "isPopular": false,
+          "price": {
+            "en": "$3,500",
+            "uk": "$3 500"
+          },
+          "title": {
+            "en": "Industry Pro",
+            "uk": "Industry Pro"
+          },
+          "weeks": {
+            "en": "4-6 weeks",
+            "uk": "4–6 тижнів"
+          }
+        },
+        {
+          "_key": "rea-tier-64",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "en": "Details — on /en/pricing",
+            "uk": "Деталі — на /pricing"
+          },
+          "includes": [
+            {
+              "en": "Everything in Industry Pro",
+              "uk": "Все з Industry Pro"
+            },
+            {
+              "en": "Deep integrations (3-5 systems)",
+              "uk": "Складні інтеграції (3–5 систем)"
+            },
+            {
+              "en": "Multi-language / multi-currency",
+              "uk": "Multi-language / multi-currency"
+            },
+            {
+              "en": "Dedicated landings per market / service",
+              "uk": "Окремі лендинги під ринок / послугу"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "uk": "Що входить"
+          },
+          "isPopular": true,
+          "popularLabel": {
+            "en": "Popular",
+            "uk": "Популярний"
+          },
+          "price": {
+            "en": "$7,500",
+            "uk": "$7 500"
+          },
+          "title": {
+            "en": "Pro Plus",
+            "uk": "Pro Plus"
+          },
+          "weeks": {
+            "en": "6-10 weeks",
+            "uk": "6–10 тижнів"
+          }
+        },
+        {
+          "_key": "rea-tier-65",
+          "ctaGhost": true,
+          "ctaLabel": {
+            "en": "Details — on /en/pricing",
+            "uk": "Деталі — на /pricing"
+          },
+          "includes": [
+            {
+              "en": "Everything in Pro Plus",
+              "uk": "Все з Pro Plus"
+            },
+            {
+              "en": "Custom business logic",
+              "uk": "Унікальна бізнес-логіка"
+            },
+            {
+              "en": "Custom platform / SaaS",
+              "uk": "Власна платформа / SaaS"
+            },
+            {
+              "en": "Programmatic landings (100+)",
+              "uk": "Програмні landing pages (100+)"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "uk": "Що входить"
+          },
+          "isPopular": false,
+          "price": {
+            "en": "from $14,000",
+            "uk": "від $14 000"
+          },
+          "title": {
+            "en": "Custom",
+            "uk": "Custom"
+          },
+          "weeks": {
+            "en": "10+ weeks",
+            "uk": "10+ тижнів"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "rea-sec-66",
+      "_type": "faqBlock",
+      "heading": {
+        "en": "FAQ",
+        "uk": "Часті питання"
+      },
+      "items": [
+        {
+          "_key": "rea-fq-67",
+          "answer": [
+            {
+              "_key": "rea-b-69",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-68",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Так. Це наш референс-шаблон для real estate. Кастомізація під ваш ринок (мови, валюти, регіональні особливості, типи нерухомості, локальні CRM) — 4-8 тижнів залежно від обʼєму. Базова кастомізація — Pro Plus тир. Складна (нові інтеграції, унікальна бізнес-логіка) — Custom."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "rea-b-71",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-70",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Yes. It’s our real estate reference template. Customization for your market (languages, currencies, regional specifics, property types, local CRMs) — 4-8 weeks depending on scope. Basic customization — Pro Plus tier. Complex (new integrations, unique business logic) — Custom."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Can we use Your House Albania as a reference and customize?",
+            "uk": "Чи можна використати Your House Albania як референс і кастомізувати?"
+          }
+        },
+        {
+          "_key": "rea-fq-72",
+          "answer": [
+            {
+              "_key": "rea-b-74",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-73",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Залежить від країни. У США/Канаді — стандарт RETS / RESO Web API, підключаємо через офіційні AOR-аккаунти. Європа — фрагментовано (Idealista, Rightmove, ImmoScout24 — у кожного власний API). Кожна інтеграція — $1,200-2,500. Якщо у вас немає MLS — додавання обʼєктів вручну через Sanity (5 хв на обʼєкт)."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "rea-b-76",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-75",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Depends on the country. US/Canada — RETS / RESO Web API standard, connected via official AOR accounts. Europe — fragmented (Idealista, Rightmove, ImmoScout24 — each with its own API). Each integration — $1,200-2,500. If you have no MLS — manual entries via Sanity (5 min per property)."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How to connect an MLS feed for auto-import?",
+            "uk": "Як підключити MLS-фід (Multiple Listing Service) для автоімпорту?"
+          }
+        },
+        {
+          "_key": "rea-fq-77",
+          "answer": [
+            {
+              "_key": "rea-b-79",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-78",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Ставки локальних банків зберігаються в Sanity і оновлюються через API центральних банків (UA: НБУ, EU: ECB, US: Fed). Калькулятор обирає ставки за geo-locации користувача або вибраному регіону. Можна окремо налаштувати \"наші ставки\" якщо ви маєте партнерство з конкретними банками."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "rea-b-81",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-80",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Local bank rates are stored in Sanity and updated via central bank APIs (UA: NBU, EU: ECB, US: Fed). The calculator picks rates by user geo-location or selected region. You can optionally configure \"our rates\" if you have partnerships with specific banks."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How to set up the mortgage calculator for different countries?",
+            "uk": "Як налаштувати mortgage-калькулятор під різні країни?"
+          }
+        },
+        {
+          "_key": "rea-fq-82",
+          "answer": [
+            {
+              "_key": "rea-b-84",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-83",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Технічно так, але legally складно. Резервація через депозит ($1,000-5,000 через Stripe / LiqPay) як підтвердження інтересу — стандарт. Повна транзакція — через notary або escrow service, не через сайт. DocuSign для попередніх угод. Якщо ви онлайн-агенція без офісу — підключаємо повну воронку."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "rea-b-86",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-85",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Technically yes, but legally complex. Reservation via deposit ($1,000-5,000 via Stripe / LiqPay) as intent confirmation — standard. Full transaction — through notary or escrow service, not the site. DocuSign for preliminary contracts. If you’re an online-only agency — we wire the full funnel."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Can we sell real estate online end-to-end?",
+            "uk": "Чи можна продавати нерухомість онлайн з повним циклом?"
+          }
+        },
+        {
+          "_key": "rea-fq-87",
+          "answer": [
+            {
+              "_key": "rea-b-89",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-88",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Так. Інтеграція з Matterport, Kuula, RoundMe — стандарт. Відео через YouTube / Vimeo embed або власний player. Дрон-фото — окремий розділ галереї. Якщо у вас немає 360° обладнання — рекомендуємо локальних партнерів ($150-300 за обʼєкт)."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "rea-b-91",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-90",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Yes. Matterport, Kuula, RoundMe integrations — standard. Video via YouTube / Vimeo embed or custom player. Drone shots — separate gallery section. If you don’t have 360° equipment — we recommend local partners ($150-300 per property)."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Do you support 360° tours and video walkthroughs?",
+            "uk": "Чи підтримуєте 360° тури і відео-walkthroughs?"
+          }
+        },
+        {
+          "_key": "rea-fq-92",
+          "answer": [
+            {
+              "_key": "rea-b-94",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-93",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Перший раз заходить на your-house.com → IP визначає Italy → редирект на /it/ з ціною в EUR. Запам’ятовуємо в cookie — наступного разу одразу. Користувач може переключити мову / валюту вручну (зберігається в cookie). SEO нормально працює: hreflang каже Google що /it/ для Italy, /en/ для світу."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "rea-b-96",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "rea-s-95",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "First visit to your-house.com → IP identifies Italy → redirect to /it/ with EUR pricing. Saved in cookie — next visit goes directly. The user can switch language / currency manually (saved in cookie). SEO works correctly: hreflang tells Google /it/ is for Italy, /en/ is global."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How does geo-routing work? What does an Italian client see?",
+            "uk": "Як працює geo-routing? Що бачить клієнт з Италии?"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "rea-sec-97",
+      "_type": "auditBlock",
+      "disclaim": {
+        "en": "No obligation. Useful even if you choose a different vendor.",
+        "uk": "Без зобовʼязань. Корисно, навіть якщо вирішите працювати з іншим підрядником."
+      },
+      "heading": {
+        "en": "Free audit of your real estate site",
+        "uk": "Безкоштовний аудит вашого real estate сайту"
+      },
+      "inputs": {
+        "contactPlaceholder": {
+          "en": "Email or Telegram",
+          "uk": "Email або Telegram"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "uk": "Ваше імʼя"
+        },
+        "phonePlaceholder": {
+          "en": "Phone (optional)",
+          "uk": "Телефон (опціонально)"
+        },
+        "urlPlaceholder": {
+          "en": "Link to your site",
+          "uk": "Посилання на ваш сайт"
+        }
+      },
+      "list": [
+        {
+          "en": "Catalog analysis: can the client find their property in 30 seconds",
+          "uk": "Аналіз каталогу: чи знаходить клієнт свій обʼєкт за 30 секунд"
+        },
+        {
+          "en": "SEO audit: are you visible in Google Maps + Google Search",
+          "uk": "SEO-аудит: чи виходите в Google Maps + Google Search"
+        },
+        {
+          "en": "Mobile UX audit (65% of real estate traffic is mobile)",
+          "uk": "Mobile UX-аудит (65% real estate трафіку — mobile)"
+        },
+        {
+          "en": "Multi-language and geo-routing analysis (if present)",
+          "uk": "Аналіз мультимовності і geo-routing (якщо є)"
+        },
+        {
+          "en": "Prioritized improvement plan + budget estimate",
+          "uk": "План покращень з пріоритетами + орієнтовний бюджет"
+        }
+      ],
+      "sub": {
+        "en": "Drop a link to your current site. Detailed PDF report within 3 business days.",
+        "uk": "Залиште посилання на ваш поточний сайт. Протягом 3 робочих днів — детальний звіт у PDF."
+      },
+      "submitLabel": {
+        "en": "Get my free audit",
+        "uk": "Отримати безкоштовний аудит"
+      }
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Custom sites for real estate agencies, developers, and private listings. Multi-language, multi-currency, landings, mortgage calculators. Case: Your House Albania.",
+      "uk": "Кастомні сайти для агенцій нерухомості, забудовників і private listings. Мультимовність, мультивалютність, лендинги, mortgage-калькулятори. Кейс: Your House Albania."
+    },
+    "title": {
+      "en": "Websites for real estate — Code-Site.Art",
+      "uk": "Сайти для нерухомості — Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "real-estate"
+  },
+  "status": "published",
+  "title": {
+    "en": "Websites for real estate",
+    "uk": "Сайти для нерухомості"
+  }
+}

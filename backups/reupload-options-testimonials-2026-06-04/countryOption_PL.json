@@ -1,0 +1,16 @@
+{
+  "_createdAt": "2026-05-30T19:46:12Z",
+  "_id": "countryOption.PL",
+  "_rev": "tYwdV2ldLdzJB4kwq0r8tY",
+  "_type": "countryOption",
+  "_updatedAt": "2026-05-30T19:46:12Z",
+  "name": {
+    "en": "Poland",
+    "uk": "Польща"
+  },
+  "order": 40,
+  "slug": {
+    "_type": "slug",
+    "current": "PL"
+  }
+}

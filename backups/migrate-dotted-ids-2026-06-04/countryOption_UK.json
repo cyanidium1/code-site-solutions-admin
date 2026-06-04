@@ -1,0 +1,16 @@
+{
+  "_createdAt": "2026-05-30T19:46:14Z",
+  "_id": "countryOption.UK",
+  "_rev": "tYwdV2ldLdzJB4kwq0r8za",
+  "_type": "countryOption",
+  "_updatedAt": "2026-05-30T19:46:14Z",
+  "name": {
+    "en": "United Kingdom",
+    "uk": "Велика Британія"
+  },
+  "order": 60,
+  "slug": {
+    "_type": "slug",
+    "current": "UK"
+  }
+}

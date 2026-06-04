@@ -1,0 +1,19 @@
+{
+  "_createdAt": "2026-05-21T06:00:20Z",
+  "_id": "testimonial.placeholder-2",
+  "_rev": "v5FOIhYlayfgccE88t699M",
+  "_type": "testimonial",
+  "_updatedAt": "2026-05-21T06:36:05Z",
+  "authorInitials": "TB",
+  "authorName": "TBD",
+  "authorRole": {
+    "en": "Client role",
+    "uk": "Роль клієнта"
+  },
+  "featured": false,
+  "order": 10,
+  "quote": {
+    "en": "Placeholder for the second testimonial. Fill in when the client provides copy.",
+    "uk": "Заглушка для другого тестімоніалу. Заповнити, коли клієнт надасть копію."
+  }
+}

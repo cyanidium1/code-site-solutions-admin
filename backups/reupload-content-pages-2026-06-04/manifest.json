@@ -1,0 +1,86 @@
+[
+  {
+    "oldId": "pricingPlan.corporate",
+    "newId": "lOTgaDd8FU4wgJ8F4KCFIY",
+    "type": "pricingPlan",
+    "slug": "corporate"
+  },
+  {
+    "oldId": "pricingPlan.custom",
+    "newId": "DHIwRDN3sEoI638qoYRuPt",
+    "type": "pricingPlan",
+    "slug": "custom"
+  },
+  {
+    "oldId": "pricingPlan.landing",
+    "newId": "lOTgaDd8FU4wgJ8F4KCG1D",
+    "type": "pricingPlan",
+    "slug": "landing"
+  },
+  {
+    "oldId": "blogPost.dohovir-z-veb-studieyu-7-punktiv",
+    "newId": "6tWqPRZWZzG4Lv3HK7Jkai",
+    "type": "blogPost",
+    "slug": "dohovir-z-veb-studieyu-7-punktiv"
+  },
+  {
+    "oldId": "blogPost.skilky-koshtuye-sayt-2026",
+    "newId": "DHIwRDN3sEoI638qoYRvCD",
+    "type": "blogPost",
+    "slug": "skilky-koshtuye-sayt-2026"
+  },
+  {
+    "oldId": "blogPost.tilda-7200-za-3-roky",
+    "newId": "6tWqPRZWZzG4Lv3HK7JkiK",
+    "type": "blogPost",
+    "slug": "tilda-7200-za-3-roky"
+  },
+  {
+    "oldId": "industryPage.auto",
+    "newId": "6tWqPRZWZzG4Lv3HK7Jkoz",
+    "type": "industryPage",
+    "slug": "auto"
+  },
+  {
+    "oldId": "industryPage.courses",
+    "newId": "DHIwRDN3sEoI638qoYRvTT",
+    "type": "industryPage",
+    "slug": "courses"
+  },
+  {
+    "oldId": "industryPage.ecommerce",
+    "newId": "DHIwRDN3sEoI638qoYRvv5",
+    "type": "industryPage",
+    "slug": "ecommerce"
+  },
+  {
+    "oldId": "industryPage.finance",
+    "newId": "lOTgaDd8FU4wgJ8F4KCGuB",
+    "type": "industryPage",
+    "slug": "finance"
+  },
+  {
+    "oldId": "industryPage.legal",
+    "newId": "DHIwRDN3sEoI638qoYRwQ9",
+    "type": "industryPage",
+    "slug": "legal"
+  },
+  {
+    "oldId": "industryPage.medicine",
+    "newId": "6tWqPRZWZzG4Lv3HK7JkzS",
+    "type": "industryPage",
+    "slug": "medicine"
+  },
+  {
+    "oldId": "industryPage.real-estate",
+    "newId": "lOTgaDd8FU4wgJ8F4KCHLf",
+    "type": "industryPage",
+    "slug": "real-estate"
+  },
+  {
+    "oldId": "industryPage.renovation",
+    "newId": "lOTgaDd8FU4wgJ8F4KCHn9",
+    "type": "industryPage",
+    "slug": "renovation"
+  }
+]

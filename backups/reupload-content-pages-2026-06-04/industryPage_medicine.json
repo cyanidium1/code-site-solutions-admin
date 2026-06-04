@@ -1,0 +1,2371 @@
+{
+  "_createdAt": "2026-04-30T19:52:34Z",
+  "_id": "industryPage.medicine",
+  "_rev": "tYwdV2ldLdzJB4kwq0hYj6",
+  "_system": {
+    "base": {
+      "id": "industryPage.medicine",
+      "rev": "HJmXNYczL6aRqGsM8H3s8s"
+    }
+  },
+  "_type": "industryPage",
+  "_updatedAt": "2026-05-30T12:38:51Z",
+  "hero": {
+    "ctaPrimary": {
+      "en": "Discuss my project",
+      "uk": "Обговорити мій проєкт"
+    },
+    "ctaSecondary": {
+      "en": "See clinic case studies",
+      "uk": "Подивитися кейси клінік"
+    },
+    "deviceMockup": {
+      "alt": {
+        "en": "Clinic website shown on laptop and phone",
+        "uk": "Сайт клініки на ноутбуці та телефоні"
+      },
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-1c94ec79b74bb3eba1daad7c37dd52b05780f151-2573x1715-png",
+          "_type": "reference"
+        }
+      }
+    },
+    "deviceTags": [
+      {
+        "_key": "dt2b",
+        "kind": "default",
+        "primary": {
+          "en": "Online booking",
+          "uk": "Онлайн-запис"
+        }
+      },
+      {
+        "_key": "dt2c",
+        "kind": "default",
+        "mini": "100/100",
+        "primary": {
+          "en": "Responsive",
+          "uk": "Адаптив"
+        }
+      },
+      {
+        "_key": "dt2d",
+        "kind": "good",
+        "mini": "98",
+        "primary": {
+          "en": "Lighthouse",
+          "uk": "Lighthouse"
+        }
+      }
+    ],
+    "eyebrow": {
+      "en": "MEDICAL WEBSITES / FROM $3,500",
+      "uk": "САЙТИ ДЛЯ МЕДИЧНОЇ ГАЛУЗІ / від $3 500"
+    },
+    "features": [
+      {
+        "_key": "HJmXNYczL6aRqGsM8H4Mw8",
+        "en": "Online booking | in 2 clicks",
+        "uk": "Онлайн-запис | за 2 кліки"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H4Mz3",
+        "en": "Local SEO | by neighborhood",
+        "uk": "Локальне SEO | під район"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H4N1y",
+        "en": "CRM integration | Bitrix · AmoCRM",
+        "uk": "Інтеграція CRM | Bitrix · AmoCRM"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H4N4t",
+        "en": "Compliant | HIPAA-aware (US), GDPR (EU)",
+        "uk": "Юр. коректно | за вимогами МОЗ"
+      }
+    ],
+    "h1Num": "50+",
+    "h1NumLabel": {
+      "en": "patients\nper month",
+      "uk": "пацієнтів\nна місяць"
+    },
+    "heading": {
+      "en": "A practice patients\n*book online*",
+      "uk": "Клініка, до якої\n*записуються*"
+    },
+    "lede": {
+      "en": "Custom websites for dental practices, multi-specialty clinics, and diagnostic centers. Live in *4–6 weeks*, 1-year warranty.",
+      "uk": "Кастомні сайти для стоматологій, багатопрофільних клінік і діагностичних центрів. Запуск за *4–6 тижнів*, гарантія 1 рік."
+    },
+    "stats": [
+      {
+        "_key": "st28",
+        "label": {
+          "en": "clinics\nlaunched",
+          "uk": "клінік\nзапущено"
+        },
+        "value": "47"
+      },
+      {
+        "_key": "st29",
+        "label": {
+          "en": "average\nrating",
+          "uk": "середня\nоцінка"
+        },
+        "value": "4.9/5"
+      },
+      {
+        "_key": "st2a",
+        "label": {
+          "en": "more\nbookings",
+          "uk": "більше\nзаписів"
+        },
+        "value": "×3.2"
+      }
+    ],
+    "tickerItems": [
+      {
+        "_key": "HJmXNYczL6aRqGsM8H4Mec",
+        "en": "Dental practices",
+        "uk": "Стоматології"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H4MhX",
+        "en": "Multi-specialty clinics",
+        "uk": "Багатопрофільні клініки"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H4MkS",
+        "en": "Diagnostic centers",
+        "uk": "Діагностичні центри"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H4MnN",
+        "en": "Aesthetic medicine",
+        "uk": "Косметологія"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H4MqI",
+        "en": "Rehabilitation",
+        "uk": "Реабілітація"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H4MtD",
+        "en": "Labs",
+        "uk": "Лабораторії"
+      }
+    ]
+  },
+  "order": 1,
+  "sections": [
+    {
+      "_key": "sec1",
+      "_type": "reasonsBlock",
+      "eyebrow": {
+        "en": "DIAGNOSIS",
+        "uk": "ДІАГНОСТИКА"
+      },
+      "eyebrowNum": {
+        "en": "/ 03 ITEMS",
+        "uk": "/ 03 ПУНКТИ"
+      },
+      "footCtaLabel": {
+        "en": "Audit my site",
+        "uk": "Перевірити мій сайт"
+      },
+      "footText": {
+        "en": "We fix *all three* at launch — without taking your time.",
+        "uk": "Виправляємо *всі три* на запуску — без вашої участі."
+      },
+      "heading": {
+        "en": "3 reasons patients\n*don't book* on your site",
+        "uk": "3 причини, чому пацієнти\n*не записуються* з вашого сайту"
+      },
+      "metaRows": [
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4I5R",
+          "en": "audit of 47 clinics · 2024–25",
+          "uk": "аналіз 47 клінік · 2024–25"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4I8M",
+          "en": "section 02 / 06",
+          "uk": "розділ 02 / 06"
+        }
+      ],
+      "reasons": [
+        {
+          "_key": "r2",
+          "number": "01",
+          "stat": {
+            "label": {
+              "en": "of after-hours calls go unanswered",
+              "uk": "дзвінків поза робочим часом залишаються без відповіді"
+            },
+            "source": {
+              "en": "GLOBAL DATA · 2024",
+              "uk": "GLOBAL DATA · 2024"
+            },
+            "value": "60%"
+          },
+          "tag": {
+            "en": "UX · CONVERSION",
+            "uk": "UX · CONVERSION"
+          },
+          "text": [
+            {
+              "_key": "b3",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s4",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Пацієнт мусить телефонувати в робочий час. "
+                },
+                {
+                  "_key": "s5",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "60% записів"
+                },
+                {
+                  "_key": "s6",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " втрачається ввечері і у вихідні. Молода аудиторія взагалі не телефонує — вона пише в Instagram конкурентам, у яких "
+                },
+                {
+                  "_key": "s7",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "онлайн-запис працює"
+                },
+                {
+                  "_key": "s8",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "b1en",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s2en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Patients have to call during business hours. "
+                },
+                {
+                  "_key": "s3en",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "60% of bookings"
+                },
+                {
+                  "_key": "s4en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " get lost evenings and weekends. Younger patients don't call at all — they DM your competitors on Instagram, where "
+                },
+                {
+                  "_key": "s5en",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "online booking actually works"
+                },
+                {
+                  "_key": "s6en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "No *online booking*",
+            "uk": "Немає *онлайн-запису*"
+          }
+        },
+        {
+          "_key": "r9",
+          "number": "02",
+          "stat": {
+            "label": {
+              "en": "higher conversion at practices with transparent pricing and team pages",
+              "uk": "вища конверсія у клінік з прозорим прайсом і командою"
+            },
+            "source": {
+              "en": "BENCHMARK · 2025",
+              "uk": "BENCHMARK · 2025"
+            },
+            "value": "×2.4"
+          },
+          "tag": {
+            "en": "TRUST · CONTENT",
+            "uk": "TRUST · CONTENT"
+          },
+          "text": [
+            {
+              "_key": "ba",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "sb",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Пацієнт не розуміє, до кого потрапить і скільки заплатить. Закриває ваш сайт, йде на сайт клініки, де це є. У "
+                },
+                {
+                  "_key": "sc",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "2026 році"
+                },
+                {
+                  "_key": "sd",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " непрозорість — це "
+                },
+                {
+                  "_key": "se",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "втрачені пацієнти"
+                },
+                {
+                  "_key": "sf",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "b7en",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s8en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Patients don't know who they'll see or what it'll cost. They close your site and head to a competitor that shows it. In "
+                },
+                {
+                  "_key": "s9en",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "2026"
+                },
+                {
+                  "_key": "saen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ", opacity equals "
+                },
+                {
+                  "_key": "sben",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "lost patients"
+                },
+                {
+                  "_key": "scen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "No *pricing* or *physician photos*",
+            "uk": "Немає *цін* і *фото лікарів*"
+          }
+        },
+        {
+          "_key": "rg",
+          "number": "03",
+          "stat": {
+            "label": {
+              "en": "of clicks go to the top 5 local search results",
+              "uk": "кліків забирають перші 5 результатів локального пошуку"
+            },
+            "source": {
+              "en": "GOOGLE · 2025",
+              "uk": "GOOGLE · 2025"
+            },
+            "value": "80%"
+          },
+          "tag": {
+            "en": "SEO · LOCAL",
+            "uk": "SEO · LOCAL"
+          },
+          "text": [
+            {
+              "_key": "bh",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "si",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Конкуренти у вашому районі вищі в пошуку за запитом «"
+                },
+                {
+                  "_key": "sj",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "стоматолог + район"
+                },
+                {
+                  "_key": "sk",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "» або «"
+                },
+                {
+                  "_key": "sl",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "клініка + місто"
+                },
+                {
+                  "_key": "sm",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "». "
+                },
+                {
+                  "_key": "sn",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "80% пацієнтів"
+                },
+                {
+                  "_key": "so",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " не йдуть далі першої сторінки результатів."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "bden",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "seen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Competitors in your neighborhood outrank you on queries like \""
+                },
+                {
+                  "_key": "sfen",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "dentist + neighborhood"
+                },
+                {
+                  "_key": "sgen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "\" or \""
+                },
+                {
+                  "_key": "shen",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "clinic + city"
+                },
+                {
+                  "_key": "sien",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "\". "
+                },
+                {
+                  "_key": "sjen",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "80% of patients"
+                },
+                {
+                  "_key": "sken",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " never click past the first page of results."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "You're invisible on *Google*",
+            "uk": "Вас не видно в *Google*"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "sec2e",
+      "_type": "caseBlock",
+      "after": {
+        "alt": {
+          "en": "Efedra Clinic — new site",
+          "uk": "Новий сайт клініки Ефедра"
+        },
+        "foot": {
+          "en": "**Bonus:** two sections (dental and aesthetic) under one brand — focus preserved, with separate lead forms for each line.",
+          "uk": "**Бонус:** два розділи (стоматологія і естетика) під одним брендом — без втрати фокусу і з окремими лід-формами під кожен напрямок."
+        },
+        "image": {
+          "alt": {
+            "en": "Efedra Clinic — new site",
+            "uk": "Новий сайт клініки Ефедра"
+          },
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-29b4ad368a921ae553473b1ae658e1b0a482b264-848x812-jpg",
+              "_type": "reference"
+            }
+          }
+        },
+        "items": [
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4IBH",
+            "en": "clear structure built *around the user*",
+            "uk": "зрозуміла структура сайту *під користувача*"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4IEC",
+            "en": "modern design that builds trust",
+            "uk": "сучасний дизайн, що підвищує довіру"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4IH7",
+            "en": "fast loads *<1.5s*",
+            "uk": "швидке завантаження *<1.5 c*"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4IK2",
+            "en": "proper multilingual setup (RU/UA)",
+            "uk": "коректна мультимовність (RU/UA)"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4IMx",
+            "en": "easy admin *without a developer*",
+            "uk": "зручна адмінка *без розробника*"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4IPs",
+            "en": "stable, no downtime",
+            "uk": "стабільна робота без падінь"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4ISn",
+            "en": "online booking and inquiry forms",
+            "uk": "онлайн-запис та форми заявок"
+          }
+        ],
+        "num": "EFEDRA · v2 · 2025",
+        "tagline": {
+          "en": "A site that brings in patients",
+          "uk": "Сайт, що приводить пацієнтів"
+        },
+        "url": "efedra.com.ua"
+      },
+      "before": {
+        "alt": {
+          "en": "Efedra Clinic — old site",
+          "uk": "Старий сайт клініки Ефедра"
+        },
+        "foot": {
+          "en": "**Note:** Russian was kept as the primary language for SEO — in Odesa a meaningful share of search queries are still in Russian.",
+          "uk": "**Примітка:** російську мову залишено як основну для SEO, оскільки в Одесі значна частина пошукових запитів все ще російською мовою."
+        },
+        "image": {
+          "alt": {
+            "en": "Efedra Clinic — old site",
+            "uk": "Старий сайт клініки Ефедра"
+          },
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-5e4baf68dd8762015f624bd196aa55bb110ebb2a-1280x1121-jpg",
+              "_type": "reference"
+            }
+          }
+        },
+        "items": [
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4IVi",
+            "en": "confusing structure — users didn't know where to click",
+            "uk": "заплутана структура сайту, користувачі не розуміли куди натискати"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4IYd",
+            "en": "dated design that didn't earn *trust*",
+            "uk": "застарілий дизайн, який не викликав *довіри*"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4IbY",
+            "en": "slow page load",
+            "uk": "низька швидкість завантаження"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4IeT",
+            "en": "broken multilingual setup (Russian / Ukrainian)",
+            "uk": "некоректна мультимовність (російська/українська)"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4IhO",
+            "en": "clunky admin — every change required a *paid developer*",
+            "uk": "незручна адмінка — будь-які зміни через розробника *за гроші*"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4IkJ",
+            "en": "intermittent downtime",
+            "uk": "сайт періодично падав"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4InE",
+            "en": "no real booking system",
+            "uk": "не було нормальної системи запису/бронювання"
+          }
+        ],
+        "num": "EFEDRA · v1 · 2022",
+        "tagline": {
+          "en": "A site that doesn't convert",
+          "uk": "Сайт, що не продає"
+        },
+        "url": "efedraclinic.com.ua"
+      },
+      "ctaLabel": {
+        "en": "See clinic case studies",
+        "uk": "Подивитися кейси клінік"
+      },
+      "ctaText": {
+        "en": "Want **the same kind of result**? See how we do it.",
+        "uk": "Хочете **такий самий результат**? Подивіться, як ми це робимо."
+      },
+      "eyebrow": {
+        "en": "REAL CASE",
+        "uk": "РЕАЛЬНИЙ КЕЙС"
+      },
+      "eyebrowEm": {
+        "en": "EFEDRA CLINIC, ODESA",
+        "uk": "КЛІНІКА «ЕФЕДРА», ОДЕСА"
+      },
+      "heading": {
+        "en": "Before / after from a\n*real* client",
+        "uk": "До / Після на прикладі\n*реального* клієнта"
+      },
+      "lede": {
+        "en": "*Efedra Clinic* in Odesa came to us with an outdated site that wasn't generating inquiries. The brief was tricky: rebuild the structure, design, and logic for *two business lines* under one brand — a dental practice and an aesthetic-medicine studio.",
+        "uk": "До нас звернулася клініка *«Ефедра»* з Одеси — із застарілим сайтом, який не приносив заявок. Завдання було не просте: переробити структуру, дизайн і логіку під *два напрямки* бізнесу клініки — стоматологію і студію краси."
+      },
+      "meta": [
+        {
+          "_key": "m2f",
+          "strong": {
+            "en": "4 weeks",
+            "uk": "4 тижні"
+          },
+          "text": {
+            "en": "brief to launch",
+            "uk": "від брифу до релізу"
+          }
+        },
+        {
+          "_key": "m2g",
+          "strong": {
+            "en": "2 business lines",
+            "uk": "2 напрямки"
+          },
+          "text": {
+            "en": "dental + aesthetic",
+            "uk": "стоматологія + естетика"
+          }
+        },
+        {
+          "_key": "m2h",
+          "strong": {
+            "en": "UA + RU",
+            "uk": "UA + RU"
+          },
+          "text": {
+            "en": "SEO localization",
+            "uk": "локалізація під SEO"
+          }
+        }
+      ],
+      "results": [
+        {
+          "_key": "res2i",
+          "label": {
+            "en": "more inquiries from the site",
+            "uk": "більше заявок з сайту"
+          },
+          "tag": {
+            "en": "CONVERSION",
+            "uk": "CONVERSION"
+          },
+          "value": "×3.2"
+        },
+        {
+          "_key": "res2j",
+          "label": {
+            "en": "page load time",
+            "uk": "час завантаження сторінки"
+          },
+          "tag": {
+            "en": "PERFORMANCE",
+            "uk": "PERFORMANCE"
+          },
+          "value": "<1.5c"
+        },
+        {
+          "_key": "res2k",
+          "label": {
+            "en": "Lighthouse · Performance",
+            "uk": "Lighthouse · Performance"
+          },
+          "tag": {
+            "en": "CORE WEB VITALS",
+            "uk": "CORE WEB VITALS"
+          },
+          "value": "98"
+        },
+        {
+          "_key": "res2l",
+          "label": {
+            "en": "more organic traffic from Google",
+            "uk": "органічного трафіку Google"
+          },
+          "tag": {
+            "en": "SEO · 6 MO",
+            "uk": "SEO · 6 МІС."
+          },
+          "value": "×4"
+        }
+      ]
+    },
+    {
+      "_key": "secp",
+      "_type": "outcomeBlock",
+      "benefitHero": {
+        "bullets": [
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4J7f",
+            "en": "clean design, nothing overloaded",
+            "uk": "зручний дизайн без перевантаження"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4JAa",
+            "en": "works on any device or browser",
+            "uk": "працює на будь-яких пристроях і браузерах"
+          }
+        ],
+        "lede": {
+          "en": "lift in inquiry volume after the redesign",
+          "uk": "зростання потоку заявок після редизайну"
+        },
+        "source": {
+          "en": "— per the owner of Efedra Clinic",
+          "uk": "— за словами власниці клініки «Ефедра»"
+        },
+        "value": "×3,4"
+      },
+      "benefitRows": [
+        {
+          "_key": "brq",
+          "feature": "FEATURE · 01 / 03",
+          "heading": {
+            "en": "Clear structure mapped to *real services*",
+            "uk": "Зрозуміла структура під *реальні послуги*"
+          },
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4JMG",
+              "en": "split into *dental* and *aesthetic studio*",
+              "uk": "розділення на *стоматологію* і *студію краси*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4JPB",
+              "en": "a dedicated page for **each service**",
+              "uk": "окремі сторінки під **кожну послугу**"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4JS6",
+              "en": "logical navigation, nothing crowded",
+              "uk": "логічна навігація без перевантаження"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4JV1",
+              "en": "booking always one click away",
+              "uk": "швидкий доступ до запису"
+            }
+          ],
+          "mockTags": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4JDV",
+              "en": "Dental",
+              "uk": "Стомат."
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4JGQ",
+              "en": "Aesthetic",
+              "uk": "Естетика"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4JJL",
+              "en": "Other",
+              "uk": "Інше"
+            }
+          ],
+          "mockType": "pages",
+          "mockUrl": "efedra.com.ua/послуги"
+        },
+        {
+          "_key": "brr",
+          "feature": "FEATURE · 02 / 03",
+          "heading": {
+            "en": "Booking that *actually* works",
+            "uk": "Система запису, яка *реально* працює"
+          },
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4JXw",
+              "en": "booking in **2 clicks**",
+              "uk": "запис у **2 кліки**"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4Jar",
+              "en": "pick a service and a physician",
+              "uk": "вибір послуги і спеціаліста"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4Jdm",
+              "en": "inquiry and contact forms",
+              "uk": "форми заявок і зворотного звʼязку"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4Jgh",
+              "en": "*CRM* integration with notifications",
+              "uk": "інтеграція з *CRM* / сповіщення"
+            }
+          ],
+          "mockType": "booking",
+          "mockUrl": "efedra.com.ua/запис"
+        },
+        {
+          "_key": "brs",
+          "feature": "FEATURE · 03 / 03",
+          "heading": {
+            "en": "You run the site *yourself*",
+            "uk": "Ви керуєте сайтом *самі*"
+          },
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4Jjc",
+              "en": "edit *prices* from your phone",
+              "uk": "зміна *цін* з телефона"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4JmX",
+              "en": "add services and physicians",
+              "uk": "додавання послуг і лікарів"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4JpS",
+              "en": "publish promotions and news",
+              "uk": "публікація акцій і новин"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4JsN",
+              "en": "no **monthly retainer** to a developer",
+              "uk": "без **постійної оплати** розробнику"
+            }
+          ],
+          "mockType": "admin",
+          "mockUrl": "admin.efedra.com.ua"
+        }
+      ],
+      "benefitsHeading": {
+        "en": "What you get,\nshown on a *real* project",
+        "uk": "Що ви отримаєте\nна прикладі *реального* проєкту"
+      },
+      "benefitsSub": {
+        "en": "Not just a '*pretty site*.' Tools that actually move the patient pipeline — SEO-ready structure, online booking, an admin your team can run without us.",
+        "uk": "Не просто «*красивий сайт*». Інструменти, що реально впливають на потік пацієнтів — структура під SEO, онлайн-запис, керована редактором адмінка."
+      },
+      "directions": {
+        "allowedItems": [
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4Iq9",
+            "en": "avoid splitting *SEO* across two domains",
+            "uk": "не дробити *SEO* між двома доменами"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4It4",
+            "en": "skip the traffic loss from *301 redirects*",
+            "uk": "не втрачати трафік на *301-редиректах*"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4Ivz",
+            "en": "keep the two lines clearly separate *for the patient*",
+            "uk": "чітко розділити напрямки *для пацієнта*"
+          }
+        ],
+        "allowedLabel": {
+          "en": "Which let us",
+          "uk": "Це дозволило"
+        },
+        "eyebrow": {
+          "en": "SOLUTION · ARCHITECTURE",
+          "uk": "SOLUTION · ARCHITECTURE"
+        },
+        "lede": {
+          "en": "The client had two lines: a *dental practice* and an *aesthetic studio*. We didn't split them into two sites — that would've been cheaper upfront, but it would've fragmented SEO and doubled long-term support cost.",
+          "uk": "У клієнта було два напрямки: *стоматологія* і *студія краси*. Ми не стали робити два окремі сайти — це здешевило б проєкт, але роздробило б SEO і вдвічі підвищило б вартість підтримки."
+        },
+        "replaceItems": [
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4Iyu",
+            "en": "one homepage for the practice *as a whole*",
+            "uk": "одна головна сторінка для клініки *в цілому*"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4J1p",
+            "en": "two sub-homes: dental and aesthetic",
+            "uk": "дві окремі підголовні: стоматологія і студія краси"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H4J4k",
+            "en": "services, physicians, and content split *by line*",
+            "uk": "послуги, лікарі і контент розділені *за напрямками*"
+          }
+        ],
+        "replaceLabel": {
+          "en": "Instead",
+          "uk": "Замість цього"
+        },
+        "title": {
+          "en": "How we handled\n*two business lines*",
+          "uk": "Як ми вирішили задачу\nз *двома напрямками*"
+        }
+      },
+      "recap": {
+        "eyebrow": {
+          "en": "RESULTS AFTER 6 MONTHS",
+          "uk": "РЕЗУЛЬТАТ ЧЕРЕЗ 6 МІСЯЦІВ"
+        },
+        "text": {
+          "en": "**Six months** after launch, *Efedra Clinic* saw a measurable lift in Google inquiries and full control over site content. That's a typical outcome of a clinic website rebuild — going from a 'business card that doesn't book anyone' to an actual *tool* that brings in patients.",
+          "uk": "За **6 місяців** після запуску клініка *«Ефедра»* отримала вимірний приріст заявок з Google і повний контроль над контентом сайту. Це типовий результат переробки сайту клініки — перетворення з «візитки без заявок» на *інструмент*, який реально приводить пацієнтів."
+        }
+      }
+    },
+    {
+      "_key": "sec2m",
+      "_type": "servicesBlock",
+      "features": [
+        {
+          "_key": "f2n",
+          "image": {
+            "alt": {
+              "en": "Online booking 24/7",
+              "uk": "Онлайн-запис 24/7"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-528dbe84a29039fdb5e1d297fd3059b5c6db8f0e-800x450-jpg",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4JvI",
+              "en": "Booking in *2 clicks*. SMS confirmation to the patient, Telegram alert to the physician",
+              "uk": "Запис у *2 кліки*. SMS-підтвердження пацієнту, Telegram-сповіщення лікарю"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4JyD",
+              "en": "Integrates with *Dental4Windows*, Medesk, MedAI, Helsi, KeyCRM",
+              "uk": "Інтеграція з *Dental4Windows*, Medesk, MedAI, Helsi, KeyCRM"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4K18",
+              "en": "Automated day-before reminders",
+              "uk": "Автоматичні нагадування за день до прийому"
+            }
+          ],
+          "title": {
+            "en": "Online booking 24/7",
+            "uk": "Онлайн-запис 24/7"
+          }
+        },
+        {
+          "_key": "f2o",
+          "image": {
+            "alt": {
+              "en": "Physician directory",
+              "uk": "Каталог лікарів"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5fcf5bd102d94d9e5fba3d4aec0b9d0b63edb026-800x533-jpg",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4K43",
+              "en": "Photo, credentials, education, specialty, real patient reviews",
+              "uk": "Фото, регалії, освіта, спеціалізація, реальні відгуки пацієнтів"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4K6y",
+              "en": "Each physician's schedule in real time",
+              "uk": "Розклад кожного лікаря в реальному часі"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4K9t",
+              "en": "Book directly with the physician you pick",
+              "uk": "Запис безпосередньо до обраного спеціаліста"
+            }
+          ],
+          "title": {
+            "en": "Physician directory",
+            "uk": "Каталог лікарів"
+          }
+        },
+        {
+          "_key": "f2p",
+          "image": {
+            "alt": {
+              "en": "Transparent pricing",
+              "uk": "Прозорий прайс"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0d5305f64b61074575d3320f528f2d9bc62f8d53-800x459-jpg",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4KCo",
+              "en": "Structured price list — your marketing team updates prices in *2 minutes*",
+              "uk": "Структурований прайс-лист, маркетолог оновлює ціни *за 2 хвилини*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4KFj",
+              "en": "Legally vetted formatting with the disclaimers patients need",
+              "uk": "Юридично коректне оформлення (стоп-таблиця для пацієнтів)"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4KIe",
+              "en": "Hide individual line items from search indexing",
+              "uk": "Можливість приховати окремі позиції від індексації"
+            }
+          ],
+          "title": {
+            "en": "Transparent pricing",
+            "uk": "Прозорий прайс"
+          }
+        },
+        {
+          "_key": "f2q",
+          "image": {
+            "alt": {
+              "en": "Service catalog",
+              "uk": "Каталог послуг"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0375ad12e42292ee19f283ef3cc548607b842bf1-800x600-jpg",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4KLZ",
+              "en": "Detailed procedure pages with *before/after* photos (with patient consent)",
+              "uk": "Детальний опис процедур з фото *«до/після»* (з дозволу пацієнтів)"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4KOU",
+              "en": "Related services and bundled offerings",
+              "uk": "Повʼязані послуги і пакетні пропозиції"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4KRP",
+              "en": "Video content from your physicians",
+              "uk": "Відеоматеріали від лікарів"
+            }
+          ],
+          "title": {
+            "en": "Service catalog",
+            "uk": "Каталог послуг"
+          }
+        },
+        {
+          "_key": "f2r",
+          "image": {
+            "alt": {
+              "en": "Insurance integration",
+              "uk": "Інтеграція зі страховими"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c03781ed8a03356aa3c2e359d017f38b5b0c2b05-800x533-jpg",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4KUK",
+              "en": "List of *private insurance plans* with an online coverage calculator",
+              "uk": "Список *ДМС-програм* з онлайн-розрахунком покриття"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4KXF",
+              "en": "*Helsi* integration for Ukraine's NHSU (state insurance)",
+              "uk": "Інтеграція з *Helsi* для держстраховок (НСЗУ)"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4KaA",
+              "en": "Booking with insurance details captured upfront",
+              "uk": "Запис із зазначенням страховки"
+            }
+          ],
+          "title": {
+            "en": "Insurance integration",
+            "uk": "Інтеграція зі страховими"
+          }
+        },
+        {
+          "_key": "f2s",
+          "image": {
+            "alt": {
+              "en": "Local SEO and analytics",
+              "uk": "Локальне SEO та аналітика"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-05339922a39da5118650761f7c6774f9b6d7fda3-800x570-jpg",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4Kd5",
+              "en": "*Schema.org* MedicalOrganization markup, optimized for queries like \"dentist + neighborhood\"",
+              "uk": "*Schema.org* розмітка MedicalOrganization, оптимізація під «стоматолог + район»"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4Kg0",
+              "en": "Google Business Profile setup, directions map with parking",
+              "uk": "Налаштування Google Business Profile, карта проїзду з парковкою"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4Kiv",
+              "en": "Traffic and funnel analytics from view to booking",
+              "uk": "Аналітика трафіку і воронки від перегляду до запису"
+            }
+          ],
+          "title": {
+            "en": "Local SEO and analytics",
+            "uk": "Локальне SEO та аналітика"
+          }
+        }
+      ],
+      "heading": {
+        "en": "What we build for\n*medical* practices",
+        "uk": "Що ми робимо для\n*медичних* клінік"
+      },
+      "integrations": [
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4Klq",
+          "en": "Dental4Windows",
+          "uk": "Dental4Windows"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4Kol",
+          "en": "Medesk",
+          "uk": "Medesk"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4Krg",
+          "en": "MedAI",
+          "uk": "MedAI"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4Kub",
+          "en": "Helsi",
+          "uk": "Helsi"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4KxW",
+          "en": "KeyCRM",
+          "uk": "KeyCRM"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4L0R",
+          "en": "AmoCRM",
+          "uk": "AmoCRM"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4L3M",
+          "en": "Bitrix24",
+          "uk": "Bitrix24"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4L6H",
+          "en": "Telegram",
+          "uk": "Telegram"
+        }
+      ],
+      "integrationsHeading": {
+        "en": "We connect every\n*industry-specific* system",
+        "uk": "Підключаємо всі\n*профільні* системи"
+      },
+      "integrationsSub": {
+        "en": "Inquiries land in your *CRM* the moment they're submitted. Your front desk sees the booking the second a patient clicks. The physician gets a Telegram alert. The patient gets an SMS confirmation. No leads lost to spam folders or after-hours calls.",
+        "uk": "Заявка з сайту потрапляє одразу у вашу *CRM*. Адміністратор бачить запис у момент кліку. Лікар отримує сповіщення в Telegram. Пацієнт — SMS-підтвердження. Жодних втрачених лідів через листи у спамі або дзвінки в неробочий час."
+      },
+      "sub": {
+        "en": "Not '*another cookie-cutter medical site*.' Every project is built for a specific practice, its specialty, and the rules it has to live by.",
+        "uk": "Не «*ще один шаблонний медичний сайт*». Кожен проєкт — під конкретну клініку, її спеціалізацію і регуляторні вимоги."
+      },
+      "testimonial": {
+        "authorInitials": "АП",
+        "authorName": "Анна П.",
+        "authorRole": {
+          "en": "Founder, clinic in Odesa",
+          "uk": "Засновниця клініки в Одесі"
+        },
+        "quote": {
+          "en": "After launch we started getting *3–4×* more inquiries — Google traffic in particular. And the best part: we can *update everything ourselves* now, no developer needed.",
+          "uk": "Після запуску сайту ми почали отримувати в *3–4 рази* більше заявок. Особливо виріс потік з Google. І найголовніше — ми тепер *самі* можемо змінювати все на сайті без розробників."
+        }
+      },
+      "testimonialEyebrow": {
+        "en": "CLIENT TESTIMONIAL",
+        "uk": "ВІДГУК КЛІЄНТА"
+      }
+    },
+    {
+      "_key": "sect",
+      "_type": "comparisonBlock",
+      "columns": {
+        "custom": {
+          "en": "Custom code",
+          "uk": "Кодовий сайт"
+        },
+        "param": {
+          "en": "Parameter",
+          "uk": "Параметр"
+        },
+        "wix": {
+          "en": "Wix",
+          "uk": "Wix"
+        },
+        "wp": {
+          "en": "WP template",
+          "uk": "Шаблон WP"
+        }
+      },
+      "contact": {
+        "briefPlaceholder": {
+          "en": "Tell us about your practice, what site you need, and what's broken now",
+          "uk": "Яка клініка, який сайт потрібен, що зараз не працює"
+        },
+        "channelPlaceholder": {
+          "en": "Telegram, phone, or email",
+          "uk": "Telegram, телефон або email"
+        },
+        "foot": {
+          "en": "Or message us directly on Telegram — @fedirdev",
+          "uk": "Або одразу пишіть у Telegram — @fedirdev"
+        },
+        "heading": {
+          "en": "Discuss your project",
+          "uk": "Обговорити проєкт"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "uk": "Як до вас звертатися"
+        },
+        "sub": {
+          "en": "Tell us briefly about your practice — we reply on Telegram within 1–2 hours during business hours.",
+          "uk": "Розкажіть коротко про вашу клініку — відповімо в Telegram протягом 1–2 годин у робочий час."
+        },
+        "submitLabel": {
+          "en": "Send — reply in 1–2 hours",
+          "uk": "Надіслати — відповімо за 1–2 години"
+        }
+      },
+      "heading": {
+        "en": "Why custom code\nbeats template medical sites\non WordPress or Wix",
+        "uk": "Чим кодовий сайт\nкращий за шаблонну\nмедицину на WordPress або Wix"
+      },
+      "pricingHeading": {
+        "en": "How much a clinic website costs",
+        "uk": "Скільки коштує сайт для клініки"
+      },
+      "rows": [
+        {
+          "_key": "rowu",
+          "custom": {
+            "en": "0.8–1.5s",
+            "uk": "0,8–1,5 сек"
+          },
+          "param": {
+            "en": "Page load speed",
+            "uk": "Швидкість завантаження"
+          },
+          "wix": {
+            "en": "3–6s",
+            "uk": "3–6 сек"
+          },
+          "wp": {
+            "en": "5–8s",
+            "uk": "5–8 сек"
+          }
+        },
+        {
+          "_key": "rowv",
+          "custom": {
+            "en": "custom-built",
+            "uk": "кастомна"
+          },
+          "param": {
+            "en": "Online booking",
+            "uk": "Онлайн-запис"
+          },
+          "wix": {
+            "en": "via Apps",
+            "uk": "через Apps"
+          },
+          "wp": {
+            "en": "plugin (buggy)",
+            "uk": "плагін (баги)"
+          }
+        },
+        {
+          "_key": "roww",
+          "custom": {
+            "en": "any system",
+            "uk": "будь-яка"
+          },
+          "param": {
+            "en": "Medical CRM integration",
+            "uk": "Інтеграція з мед. CRM"
+          },
+          "wix": {
+            "en": "none (Zapier)",
+            "uk": "немає (Zapier)"
+          },
+          "wp": {
+            "en": "limited",
+            "uk": "обмежена"
+          }
+        },
+        {
+          "_key": "rowx",
+          "custom": {
+            "en": "built-in",
+            "uk": "закладено"
+          },
+          "param": {
+            "en": "Local SEO",
+            "uk": "Локальне SEO"
+          },
+          "wix": {
+            "en": "basic",
+            "uk": "базове"
+          },
+          "wp": {
+            "en": "Yoast plugin",
+            "uk": "плагін Yoast"
+          }
+        },
+        {
+          "_key": "rowy",
+          "custom": {
+            "en": "high (HIPAA-aware, GDPR)",
+            "uk": "висока (GDPR)"
+          },
+          "param": {
+            "en": "Patient data security",
+            "uk": "Безпека даних пацієнтів"
+          },
+          "wix": {
+            "en": "medium",
+            "uk": "середня"
+          },
+          "wp": {
+            "en": "low",
+            "uk": "низька"
+          }
+        },
+        {
+          "_key": "rowz",
+          "custom": {
+            "en": "lawyer-reviewed",
+            "uk": "перевіряємо юристом"
+          },
+          "param": {
+            "en": "Compliance (HIPAA / GDPR)",
+            "uk": "Юр. коректність МОЗ"
+          },
+          "wix": {
+            "en": "limited",
+            "uk": "обмежено"
+          },
+          "wp": {
+            "en": "depends on theme",
+            "uk": "залежить від теми"
+          }
+        },
+        {
+          "_key": "row10",
+          "custom": {
+            "en": "$5,000–7,000",
+            "uk": "$5–7k"
+          },
+          "param": {
+            "en": "3-year TCO",
+            "uk": "TCO за 3 роки"
+          },
+          "wix": {
+            "en": "$3,500–5,000",
+            "uk": "$3,5–5k"
+          },
+          "wp": {
+            "en": "$4,000–6,000",
+            "uk": "$4–6k"
+          }
+        }
+      ],
+      "tableCtaGhost": {
+        "en": "Compare against WordPress",
+        "uk": "Порівняння з WordPress"
+      },
+      "tableCtaPrimary": {
+        "en": "Detailed builder comparison",
+        "uk": "Детальне порівняння конструкторів"
+      },
+      "tiers": [
+        {
+          "_key": "tier11",
+          "ctaLabel": {
+            "en": "Choose Starter",
+            "uk": "Замовити базовий"
+          },
+          "excludes": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4L9C",
+              "en": "Content creation (service copy, physician bios)",
+              "uk": "Створення контенту (тексти послуг, описи лікарів)"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4LC7",
+              "en": "Professional photography",
+              "uk": "Професійна фотозйомка"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4LF2",
+              "en": "Private insurance integration",
+              "uk": "ДМС-інтеграція"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4LHx",
+              "en": "Blog",
+              "uk": "Блог"
+            }
+          ],
+          "excludesHeading": {
+            "en": "Not included",
+            "uk": "Не входить"
+          },
+          "includes": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4LKs",
+              "en": "Up to 8 pages",
+              "uk": "До 8 сторінок"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4LNn",
+              "en": "Online booking",
+              "uk": "Онлайн-запис"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4LQi",
+              "en": "Physician and service directory",
+              "uk": "Каталог лікарів і послуг"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4LTd",
+              "en": "Transparent pricing",
+              "uk": "Прозорий прайс"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4LWY",
+              "en": "Patient reviews",
+              "uk": "Відгуки пацієнтів"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4LZT",
+              "en": "Basic *SEO*",
+              "uk": "Базове *SEO*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4LcO",
+              "en": "Mobile-responsive",
+              "uk": "Мобільна адаптація"
+            }
+          ],
+          "includesHeading": {
+            "en": "Includes",
+            "uk": "Що входить"
+          },
+          "price": {
+            "en": "$3,500",
+            "uk": "$3 500"
+          },
+          "title": {
+            "en": "Starter\nclinic site",
+            "uk": "Базовий сайт\nклініки"
+          },
+          "weeks": {
+            "en": "4 weeks",
+            "uk": "4 тижні"
+          }
+        },
+        {
+          "_key": "tier12",
+          "ctaLabel": {
+            "en": "Choose Pro",
+            "uk": "Замовити розширений"
+          },
+          "excludes": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4LfJ",
+              "en": "Photo shoot (we can arrange separately)",
+              "uk": "Фотозйомка (можемо організувати окремо)"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4LiE",
+              "en": "Blog content (we can recommend a copywriter)",
+              "uk": "Контент для блогу (можемо запропонувати копірайтера)"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4Ll9",
+              "en": "Multilingual",
+              "uk": "Багатомовність"
+            }
+          ],
+          "excludesHeading": {
+            "en": "Not included",
+            "uk": "Не входить"
+          },
+          "includes": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4Lo4",
+              "en": "Blog and SEO pages",
+              "uk": "Блог і SEO-сторінки"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4Lqz",
+              "en": "*Private insurance integration*",
+              "uk": "*ДМС-інтеграція*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4Ltu",
+              "en": "Before/after photo cases",
+              "uk": "Фото-кейси до/після"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4Lwp",
+              "en": "Visit history and reminders",
+              "uk": "Історія відвідувань і нагадування"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4Lzk",
+              "en": "Online consultations",
+              "uk": "Онлайн-консультація"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4M2f",
+              "en": "Medical *CRM* integration",
+              "uk": "Інтеграція з медичною *CRM*"
+            }
+          ],
+          "includesHeading": {
+            "en": "Everything in Starter, plus",
+            "uk": "Все з базового +"
+          },
+          "isPopular": true,
+          "popularLabel": {
+            "en": "Most popular",
+            "uk": "Популярно"
+          },
+          "price": {
+            "en": "$6,500",
+            "uk": "$6 500"
+          },
+          "title": {
+            "en": "Pro",
+            "uk": "Розширений"
+          },
+          "weeks": {
+            "en": "6 weeks",
+            "uk": "6 тижнів"
+          }
+        },
+        {
+          "_key": "tier13",
+          "ctaGhost": true,
+          "ctaLabel": {
+            "en": "Talk to us",
+            "uk": "Обговорити мережу"
+          },
+          "excludes": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4M5a",
+              "en": "Photo/video content creation",
+              "uk": "Створення фото/відео контенту"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4M8V",
+              "en": "Legal consulting (we cover technical compliance only)",
+              "uk": "Юридичний консалтинг (тільки технічна юр-коректність)"
+            }
+          ],
+          "excludesHeading": {
+            "en": "Not included",
+            "uk": "Не входить"
+          },
+          "includes": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4MBQ",
+              "en": "Multi-location structure",
+              "uk": "Багатофіліальна структура"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4MEL",
+              "en": "Full *CRM* integration",
+              "uk": "Повна *CRM*-інтеграція"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4MHG",
+              "en": "Multilingual",
+              "uk": "Багатомовність"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4MKB",
+              "en": "Custom modules for your specialty",
+              "uk": "Кастомні модулі під вашу спеціалізацію"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H4MN6",
+              "en": "*SLA*-backed support",
+              "uk": "Підтримка по *SLA*"
+            }
+          ],
+          "includesHeading": {
+            "en": "Everything in Pro, plus",
+            "uk": "Все з розширеного +"
+          },
+          "price": {
+            "en": "$12,000",
+            "uk": "$12 000"
+          },
+          "title": {
+            "en": "Enterprise /\npractice network",
+            "uk": "Преміум / мережа\nклінік"
+          },
+          "weeks": {
+            "en": "8–10 weeks",
+            "uk": "8–10 тижнів"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "sec14",
+      "_type": "faqBlock",
+      "heading": {
+        "en": "Frequently asked questions",
+        "uk": "Часті питання"
+      },
+      "items": [
+        {
+          "_key": "faq15",
+          "answer": [
+            {
+              "_key": "b16",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s17",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Базовий сайт — "
+                },
+                {
+                  "_key": "s18",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "4 тижні"
+                },
+                {
+                  "_key": "s19",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ", розширений — 6 тижнів, преміум для мережі — 8–10 тижнів. Дедлайни фіксуємо у договорі. Кожен тиждень — звіт зі скріншотами та проміжним результатом."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "blen",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "smen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Starter — "
+                },
+                {
+                  "_key": "snen",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "4 weeks"
+                },
+                {
+                  "_key": "soen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ", Pro — 6 weeks, Enterprise for a practice network — 8–10 weeks. Deadlines are written into the contract. Every week you get a report with screenshots and the latest build."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How long does it take to launch a clinic website?",
+            "uk": "Скільки часу займає запуск сайту клініки?"
+          }
+        },
+        {
+          "_key": "faq1a",
+          "answer": [
+            {
+              "_key": "b1b",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s1c",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Старий сайт працює до запуску нового — без втрати трафіку. Налаштовуємо "
+                },
+                {
+                  "_key": "s1d",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "301-редиректи"
+                },
+                {
+                  "_key": "s1e",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " зі старих URL на нові, переносимо мета-теги і Schema-розмітку, передаємо домен. Просідання в Google зазвичай немає."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "bpen",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "sqen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Your old site stays up until the new one launches — no traffic gap. We set up "
+                },
+                {
+                  "_key": "sren",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "301 redirects"
+                },
+                {
+                  "_key": "ssen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " from old URLs to new ones, migrate meta tags and Schema markup, and hand over the domain. Google rankings typically hold."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "What happens to my old site?",
+            "uk": "Що робити зі старим сайтом?"
+          }
+        },
+        {
+          "_key": "faq1f",
+          "answer": [
+            {
+              "_key": "b1g",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s1h",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Можемо повністю — у нас є копірайтер з медичним досвідом і фотограф (за окрему вартість). Або ви даєте тексти і фото, ми верстаємо. Або гібридно — ви даєте опис послуг, ми переписуємо під "
+                },
+                {
+                  "_key": "s1i",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "SEO"
+                },
+                {
+                  "_key": "s1j",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " і вимоги МОЗ."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "bten",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "suen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "We can write everything — we have a copywriter with medical experience and a photographer (priced separately). Or you supply copy and photos and we lay them out. Or hybrid — you give us service descriptions, we rewrite for "
+                },
+                {
+                  "_key": "sven",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "SEO"
+                },
+                {
+                  "_key": "swen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " and the rules medical content has to follow (HIPAA-aware for US clients, GDPR for the EU, Ministry of Health (Ukraine) guidance for UA practices)."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Who writes the content?",
+            "uk": "Хто наповнюватиме сайт контентом?"
+          }
+        },
+        {
+          "_key": "faq1k",
+          "answer": [
+            {
+              "_key": "b1l",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s1m",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Працювали з "
+                },
+                {
+                  "_key": "s1n",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "Dental4Windows"
+                },
+                {
+                  "_key": "s1o",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ", Medesk, MedAI, Helsi (НСЗУ), KeyCRM, AmoCRM, Bitrix24. Якщо у вас інша CRM — підключаємо через API або Webhook. Запис із сайту падає у CRM миттєво, лікар отримує сповіщення в Telegram."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "bxen",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "syen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "We've worked with "
+                },
+                {
+                  "_key": "szen",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "Dental4Windows"
+                },
+                {
+                  "_key": "s10en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ", Medesk, MedAI, Helsi (Ukraine's NHSU), KeyCRM, AmoCRM, and Bitrix24. If your CRM isn't on the list, we wire it up via API or webhooks. Bookings hit your CRM instantly, and the physician gets a Telegram notification."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Which medical CRM integrations are supported?",
+            "uk": "Які інтеграції з медичними CRM можливі?"
+          }
+        },
+        {
+          "_key": "faq1p",
+          "answer": [
+            {
+              "_key": "b1q",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s1r",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Відповідність "
+                },
+                {
+                  "_key": "s1s",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "GDPR"
+                },
+                {
+                  "_key": "s1t",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " і вимогам МОЗ України: шифрування даних на льоту (HTTPS) і у спокої, IP-обмеження для адмінки, журнал доступів, регулярні бекапи. Сервери — у ЄС. Договір з вами включає DPA."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "b11en",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s12en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "We're "
+                },
+                {
+                  "_key": "s13en",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "HIPAA-aware"
+                },
+                {
+                  "_key": "s14en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " for US clients and "
+                },
+                {
+                  "_key": "s15en",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "GDPR-compliant"
+                },
+                {
+                  "_key": "s16en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " for the EU (we also follow Ministry of Health Ukraine guidance for UA practices): encryption in transit (HTTPS) and at rest, IP allowlisting on the admin, audit logs, regular backups. Servers in the EU. Your contract includes a DPA."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How is patient data protected?",
+            "uk": "Як захищені дані пацієнтів?"
+          }
+        },
+        {
+          "_key": "faq1u",
+          "answer": [
+            {
+              "_key": "b1v",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s1w",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Так, але "
+                },
+                {
+                  "_key": "s1x",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "з письмовою згодою пацієнта"
+                },
+                {
+                  "_key": "s1y",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " та без розкриття діагнозу. Підготуємо шаблон згоди разом з юристом. Альтернатива — інтеграція з Google Reviews або Doc.ua, де відгуки модерує платформа."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "b17en",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s18en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Yes, but "
+                },
+                {
+                  "_key": "s19en",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "only with the patient's written consent"
+                },
+                {
+                  "_key": "s1aen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " and without disclosing diagnoses. We'll draft a consent template with a lawyer. Alternative — integrate Google Reviews or Doc.ua, where the platform moderates."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Can we publish patient reviews on the site?",
+            "uk": "Чи можна розмістити відгуки пацієнтів?"
+          }
+        },
+        {
+          "_key": "faq1z",
+          "answer": [
+            {
+              "_key": "b20",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s21",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Так — і з 2024 це навіть обовʼязково для приватних клінік (постанова КМУ). Ми робимо прайс структурований, з позначкою «"
+                },
+                {
+                  "_key": "s22",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "орієнтовна вартість"
+                },
+                {
+                  "_key": "s23",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "» і застереженням, що остаточна ціна визначається після консультації. Юрист перевіряє формулювання."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "b1ben",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s1cen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Different in every market — HIPAA plus FTC rules in the US, GDPR plus your national medical board in the EU (Sundhedsdatastyrelsen in Denmark, MDR in Germany). We handle the technical side: privacy notices, consent banners, secure intake forms, transparent pricing displays where they're required. We're not lawyers — for advertising restrictions, licensing, or telehealth specifics, we'll connect you with a healthcare attorney during the brief. That's their lane."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "What about healthcare advertising rules and patient-data law?",
+            "uk": "Чи можна за законом розміщувати ціни на медичні послуги?"
+          }
+        },
+        {
+          "_key": "faq24",
+          "answer": [
+            {
+              "_key": "b25",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s26",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Можна, але з обмеженнями: не можна обіцяти «гарантоване зцілення», використовувати фото «до/після» в обʼявах, рекламувати рецептурні препарати. Ми готуємо посадкові сторінки, які проходять модерацію Google Ads з першого разу. Налаштування реклами — окремо, але рекомендуємо перевірених підрядників."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "b1den",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s1een",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Yes, with caveats. You can't promise \"guaranteed cures,\" use before/after photos in ad creative, or advertise prescription drugs. We build landing pages that pass Google Ads moderation on the first review. Ad setup itself is a separate scope, but we can refer vetted partners."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Can we run ads for medical services on Google and Facebook?",
+            "uk": "Чи можна запустити рекламу медичних послуг у Google і Facebook?"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "sec27",
+      "_type": "auditBlock",
+      "disclaim": {
+        "en": "We send the audit and one follow-up with examples of our work. No spam.",
+        "uk": "Не надсилаємо нічого, окрім розбору і одного листа з прикладами наших робіт. Без спаму."
+      },
+      "foot": {
+        "en": "No strings attached. Useful even if you end up working with someone else.",
+        "uk": "Жодних зобов'язань. Корисно, навіть якщо вирішите працювати з іншим підрядником."
+      },
+      "heading": {
+        "en": "Get a free audit of your clinic website",
+        "uk": "Отримайте безкоштовний розбір сайту вашої клініки"
+      },
+      "inputs": {
+        "contactPlaceholder": {
+          "en": "Email or Telegram handle",
+          "uk": "Імейл або нік у Telegram"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "uk": "Як до вас звертатися"
+        },
+        "phonePlaceholder": {
+          "en": "+1 (___) ___-____",
+          "uk": "+380 (__) ___-__-__"
+        },
+        "urlPlaceholder": {
+          "en": "https://...",
+          "uk": "https://..."
+        }
+      },
+      "list": [
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4MQ1",
+          "en": "A list of *7–12 issues* costing your practice patients",
+          "uk": "Список з *7–12 помилок*, через які клініка втрачає пацієнтів"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4MSw",
+          "en": "Technical report on speed and *SEO* (PageSpeed + Schema)",
+          "uk": "Технічний звіт зі швидкості та *SEO* (PageSpeed + Schema)"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4MVr",
+          "en": "Prioritized improvement plan",
+          "uk": "План покращень з пріоритетами"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4MYm",
+          "en": "Ballpark cost for a rebuild or a new site",
+          "uk": "Орієнтовну вартість переробки або нового сайту"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H4Mbh",
+          "en": "2–3 clinic cases from our portfolio",
+          "uk": "2–3 кейси клінік з нашого портфоліо"
+        }
+      ],
+      "sub": {
+        "en": "Send us your current site URL. We'll deliver an audit within *24 hours*.",
+        "uk": "Залиште посилання на ваш поточний сайт. Протягом *24 годин* надішлемо розбір."
+      },
+      "submitLabel": {
+        "en": "Get my audit in 24 hours",
+        "uk": "Отримати розбір за 24 години"
+      }
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Custom-coded medical websites that book appointments 24/7. From $3,500, live in 4–10 weeks. HIPAA-aware (US), GDPR (EU). Efedra Clinic case study.",
+      "uk": "Сайти для приватних клінік, стоматологій і діагностичних центрів. Online-запис, інтеграції з МІС, локальне SEO. Кейс: клініка «Ефедра» Одеса."
+    },
+    "title": {
+      "en": "Medical Website Development — Code-Site.Art | Sites for Clinics & Practices",
+      "uk": "Сайти для медичних клінік — Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "medicine"
+  },
+  "status": "published",
+  "title": {
+    "en": "Medical practice websites",
+    "uk": "Сайти для медичних клінік"
+  }
+}

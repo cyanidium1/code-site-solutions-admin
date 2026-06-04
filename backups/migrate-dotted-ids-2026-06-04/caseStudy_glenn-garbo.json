@@ -1,0 +1,418 @@
+{
+  "_createdAt": "2026-06-02T07:12:52Z",
+  "_id": "caseStudy.glenn-garbo",
+  "_rev": "6tWqPRZWZzG4Lv3HK7INDq",
+  "_system": {
+    "base": {
+      "id": "caseStudy.glenn-garbo",
+      "rev": "2L5iqaQa3UmcCheddo8Lnx"
+    }
+  },
+  "_type": "caseStudy",
+  "_updatedAt": "2026-06-04T16:42:03Z",
+  "client": "Glenn Garbo",
+  "coverImage": {
+    "_type": "imageWithLocalizedAlt",
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-566f70a041b6592947fcf946ac86d7e0f52d7fc6-2560x2000-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "duration": {
+    "en": "6 weeks",
+    "uk": "6 тижнів"
+  },
+  "featured": false,
+  "hero": {
+    "eyebrow": {
+      "en": "/ CASE STUDY",
+      "uk": "/ CASE STUDY"
+    },
+    "heading": {
+      "en": "Glenn Garbo - artist website with *direct product sales*",
+      "uk": "Glenn Garbo — сайт музичного проєкту та *продажу авторської продукції*"
+    },
+    "link": {
+      "_type": "ctaAction",
+      "href": "https://www.glenngarbo.com/"
+    },
+    "metrics": [
+      {
+        "_key": "hm1",
+        "label": {
+          "en": "e-commerce module",
+          "uk": "e-commerce модуль"
+        },
+        "value": "1"
+      },
+      {
+        "_key": "hm2",
+        "label": {
+          "en": "content CMS",
+          "uk": "CMS для контенту"
+        },
+        "value": "1"
+      },
+      {
+        "_key": "hm3",
+        "label": {
+          "en": "directions: music, blog, shop",
+          "uk": "напрями: музика, блог, магазин"
+        },
+        "value": "3+"
+      },
+      {
+        "_key": "hm4",
+        "label": {
+          "en": "online-payment integration",
+          "uk": "інтеграція онлайн-оплати"
+        },
+        "value": "1"
+      }
+    ],
+    "subheading": {
+      "en": "A personal-brand platform that combines music content, updates, and e-commerce in one destination.",
+      "uk": "Платформа персонального бренду, що обʼєднує музику, новини та магазин для прямого продажу продукції."
+    }
+  },
+  "metricsLine": {
+    "en": "1 e-commerce module · 1 CMS · 3+ content directions · 1 online-payment integration",
+    "uk": "1 e-commerce модуль · 1 CMS для контенту · 3+ напрями: музика, блог, магазин · 1 інтеграція онлайн-оплати"
+  },
+  "order": 23,
+  "region": {
+    "en": "Ukraine",
+    "uk": "Україна"
+  },
+  "sections": [
+    {
+      "_key": "sec6",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bp",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sq",
+              "_type": "span",
+              "marks": [],
+              "text": "Для творчого проєкту важливо обʼєднати контент і продажі в одній системі, щоб користувач переходив від знайомства з брендом до покупки без тертя."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec6",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec6",
+              "_type": "span",
+              "marks": [],
+              "text": "A creative project needs more than a profile page. The audience should discover content and move to purchase in a single frictionless flow."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "cross",
+      "bulletList": [
+        {
+          "_key": "AKqZen6zsRd6FZqAiYWzZd",
+          "en": "Combine personal-brand storytelling and commerce",
+          "uk": "Поєднати персональний бренд і магазин"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYWzdX",
+          "en": "Centralize creative content in one platform",
+          "uk": "Зібрати творчий контент в одному місці"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYWzhR",
+          "en": "Enable a simple, reliable payment flow",
+          "uk": "Реалізувати простий процес оплати"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYWzlL",
+          "en": "Support regular publishing through CMS",
+          "uk": "Підтримати регулярні публікації через CMS"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ CHALLENGE",
+        "uk": "/ CHALLENGE"
+      },
+      "heading": {
+        "en": "What the *client* came with",
+        "uk": "З чим прийшов *клієнт*"
+      },
+      "imageVariant": "imageRight",
+      "variant": "centered"
+    },
+    {
+      "_key": "sec9",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "br",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "ss",
+              "_type": "span",
+              "marks": [],
+              "text": "Зробили односторінковий сайт із інтегрованим магазином, новинами та зручною навігацією між контентом і покупкою."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec9",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec9",
+              "_type": "span",
+              "marks": [],
+              "text": "We built a modern one-page website with an integrated shop, content blocks, and a clear transition from discovery to order."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "AKqZen6zsRd6FZqAiYWzpF",
+          "en": "One-page architecture for personal-brand presentation",
+          "uk": "Сучасний one-page під персональний бренд"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYWzt9",
+          "en": "Dedicated shop and seamless online payment",
+          "uk": "Окремий магазин і онлайн-оплата"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYWzx3",
+          "en": "News and publication section for audience updates",
+          "uk": "Розділ новин і публікацій"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYX00x",
+          "en": "CMS for independent content and product management",
+          "uk": "CMS для керування контентом і товарами"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ SOLUTION",
+        "uk": "/ SOLUTION"
+      },
+      "heading": {
+        "en": "What we *did*",
+        "uk": "Що ми *зробили*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-566f70a041b6592947fcf946ac86d7e0f52d7fc6-2560x2000-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "fd187ec9f59b",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bt",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "su",
+              "_type": "span",
+              "marks": [],
+              "text": "Автор може самостійно оновлювати матеріали, асортимент і комунікацію з аудиторією в одному інтерфейсі."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-cms",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-cms",
+              "_type": "span",
+              "marks": [],
+              "text": "The creator can update materials, product data, and conversion elements independently in one manageable interface."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "AKqZen6zsRd6FZqAiYX04r",
+          "en": "Publish new content and updates",
+          "uk": "Додавання новин і матеріалів"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYX08l",
+          "en": "Manage products and pricing",
+          "uk": "Оновлення товарів та цін"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYX0Cf",
+          "en": "Adjust key commercial CTA flows",
+          "uk": "Керування ключовими CTA магазину"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ CMS",
+        "uk": "/ CMS"
+      },
+      "heading": {
+        "en": "Admin panel for *content and product management*",
+        "uk": "Адмін-панель для керування *контентом і товарами*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-9a51e68deca8955985f57542524aa61d948539ef-2940x1836-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "faf3ae6315aa",
+      "_type": "mediaGalleryBlock",
+      "enableLightbox": true,
+      "images": [
+        {
+          "_key": "96b1f281d4b5",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-566f70a041b6592947fcf946ac86d7e0f52d7fc6-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "bc99e897b24c",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-28668354c2b11b325fbd9388161e5c14a3ae7313-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        }
+      ]
+    },
+    {
+      "_key": "sech",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bv",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sw",
+              "_type": "span",
+              "marks": [],
+              "text": "Glenn Garbo отримав єдину платформу для розвитку бренду й продажів: сайт обʼєднує контент, комунікацію та e-commerce без залежності від сторонніх сервісів."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-out",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-out",
+              "_type": "span",
+              "marks": [],
+              "text": "Glenn Garbo received a unified platform for brand growth and sales: one system for communication, content, and monetization."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ OUTCOME",
+        "uk": "/ OUTCOME"
+      },
+      "heading": {
+        "en": "Result",
+        "uk": "Результат"
+      },
+      "variant": "centered"
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Artist platform combining content distribution and direct monetization.",
+      "uk": "Платформа персонального бренду, що обʼєднує музику, новини та магазин для прямого продажу продукції."
+    },
+    "title": {
+      "en": "Glenn Garbo - case study | Code-Site.Art",
+      "uk": "Glenn Garbo — кейс | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "glenn-garbo"
+  },
+  "stack": [
+    "Next.js",
+    "Sanity"
+  ],
+  "status": "published",
+  "title": {
+    "en": "Glenn Garbo",
+    "uk": "Glenn Garbo"
+  },
+  "year": 2026
+}

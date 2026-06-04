@@ -16,7 +16,7 @@
  *     metaDescriptionEn / eyebrowEn) when matched by UK key.
  *   - Portable-text shadow fields (bodyEn / textEn / answerEn) are
  *     NOT handled here — those need block-level authoring; use a
- *     per-doc script (e.g. translate-medicine-en.ts) for now.
+ *     per-doc portable-text authoring in JSON (`portableText` key).
  *
  * Usage:
  *   npx tsx scripts/translate-from-json.ts <docId>              # dry-run

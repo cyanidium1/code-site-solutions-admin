@@ -155,7 +155,7 @@ const CASES: CaseSpec[] = [
     // Efedra's sec6/sec9 alts ARE correctly about Efedra — keep their
     // existing translation entries. Only the generic-placeholder fields
     // (hero mockup / mobile / desktop) need overrides.
-    file: "caseStudy.efedra-clinic.json",
+    file: "caseStudy-efedra-clinic.json",
     brand: "Efedra Clinic",
     staleStrings: ["hero mockup", "mobile", "desktop"],
     overrides: {

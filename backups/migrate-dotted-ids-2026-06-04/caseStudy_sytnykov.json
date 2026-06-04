@@ -1,0 +1,593 @@
+{
+  "_createdAt": "2026-06-01T17:30:13Z",
+  "_id": "caseStudy.sytnykov",
+  "_rev": "lOTgaDd8FU4wgJ8F4K7Gw5",
+  "_system": {
+    "base": {
+      "id": "caseStudy.sytnykov",
+      "rev": "6XauXwCqdfjH3lSp8mElJC"
+    }
+  },
+  "_type": "caseStudy",
+  "_updatedAt": "2026-06-04T16:42:26Z",
+  "budgetBucket": {
+    "_ref": "budgetBucketOption.3-7k",
+    "_type": "reference"
+  },
+  "client": "Oleksandr Sytnykov",
+  "country": {
+    "_ref": "countryOption.UA",
+    "_type": "reference"
+  },
+  "coverImage": {
+    "_type": "imageWithLocalizedAlt",
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-1ea24e7640c87dee715c19883b94e4cf5e2f7918-3162x2372-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "duration": {
+    "en": "8 weeks",
+    "uk": "8 тижнів"
+  },
+  "featured": true,
+  "hero": {
+    "eyebrow": {
+      "en": "/ CASE STUDY",
+      "uk": "/ CASE STUDY"
+    },
+    "heading": {
+      "en": "Oleksandr Sytnykov — site for a legal expert and *advocacy courses*",
+      "uk": "Олександр Ситников — сайт для юридичного експерта та *адвокатських курсів*"
+    },
+    "heroImage": {
+      "alt": {
+        "en": "Oleksandr Sytnykov's website shown on laptop and phone",
+        "uk": "Сайт Олександра Ситникова на ноутбуці і телефоні"
+      },
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-99da60caa7b27b25caed0a465d3386cd94c420f0-1201x1133-png",
+          "_type": "reference"
+        }
+      }
+    },
+    "link": {
+      "_type": "ctaAction",
+      "href": "https://sitnikov.com.ua",
+      "label": {
+        "en": "Visit site",
+        "uk": "Переглянути сайт"
+      }
+    },
+    "metrics": [
+      {
+        "_key": "hm1",
+        "label": {
+          "en": "language versions of the site",
+          "uk": "мовні версії сайту"
+        },
+        "value": "2"
+      },
+      {
+        "_key": "hm2",
+        "label": {
+          "en": "easy admin panel",
+          "uk": "зручна адмін-панель"
+        },
+        "value": "1"
+      },
+      {
+        "_key": "hm3",
+        "label": {
+          "en": "main sections",
+          "uk": "основних розділів"
+        },
+        "value": "5+"
+      },
+      {
+        "_key": "hm4",
+        "label": {
+          "en": "tracks: courses, services, publications",
+          "uk": "напрями: курси, послуги, публікації"
+        },
+        "value": "3"
+      }
+    ],
+    "subheading": {
+      "en": "Oleksandr Sytnykov is a former high-court judge, attorney, and educator who runs training programs for lawyers and advocates. We built a personal-brand site that underscores his professional standing, presents his advocacy courses, and moves users toward an inquiry.",
+      "uk": "Олександр Ситников — колишній суддя високої інстанції, адвокат і викладач, який проводить навчальні програми для юристів та адвокатів. Ми розробили сайт персонального бренду, який підкреслює його професійний статус, презентує адвокатські курси та веде користувачів до заявки."
+    }
+  },
+  "industry": {
+    "_ref": "industryPage.legal",
+    "_type": "reference"
+  },
+  "metricsLine": {
+    "en": "2 language versions · 1 easy admin panel · 5+ main sections · 3 tracks: courses, services, publications",
+    "uk": "2 мовні версії · 1 адмін-панель · 5+ розділів · 3 напрями: курси, послуги, публікації"
+  },
+  "order": 2,
+  "region": {
+    "en": "Kyiv, Ukraine",
+    "uk": "Київ, Україна"
+  },
+  "sections": [
+    {
+      "_key": "sec6",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s2",
+              "_type": "span",
+              "marks": [],
+              "text": "У цьому проєкті потрібно було продати не просто юридичні послуги, а довіру до експерта з сильним професійним бекграундом. Клієнт і студент оцінюють досвід, статус і структуру матеріалів до першого звернення — без правильної архітектури навіть сильний фахівець залишається невидимим у пошуку."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "b1en",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s2en",
+              "_type": "span",
+              "marks": [],
+              "text": "This project wasn't about selling legal services alone — it was about selling trust in an expert with a strong professional background. Clients and students weigh experience, status, and how content is organized before the first inquiry. Without the right architecture, even a strong practitioner stays invisible in search."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "cross",
+      "bulletList": [
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iTBT",
+          "en": "Present advocacy courses as an expert product, not a footnote on a bio page",
+          "uk": "Презентувати адвокатські курси як експертний продукт, а не додаток до біографії"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iTFh",
+          "en": "Structure services, publications, and learning materials in one logic",
+          "uk": "Структурувати послуги, публікації та навчальні матеріали в одній логіці"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iTJv",
+          "en": "Ship 2 language versions with a sound SEO architecture",
+          "uk": "Реалізувати 2 мовні версії сайту з коректною SEO-архітектурою"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iTO9",
+          "en": "Add an admin panel for self-serve content updates without a developer",
+          "uk": "Додати адмінку для самостійного оновлення контенту без розробника"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iTSN",
+          "en": "Lay an SEO structure for legal and education queries",
+          "uk": "Закласти SEO-структуру під юридичні та освітні запити"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iTWb",
+          "en": "Give a short path from interest to a consultation or course inquiry",
+          "uk": "Дати короткий шлях від інтересу до заявки на консультацію або навчання"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ CHALLENGE",
+        "uk": "/ CHALLENGE"
+      },
+      "heading": {
+        "en": "What the *client* came with",
+        "uk": "З чим прийшов *клієнт*"
+      },
+      "image": {
+        "alt": {
+          "en": "Oleksandr Sytnykov before the new site launched",
+          "uk": "Олександр Ситников до запуску нового сайту"
+        }
+      },
+      "imageVariant": "imageRight",
+      "variant": "centered"
+    },
+    {
+      "_key": "sec9",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b3",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s4",
+              "_type": "span",
+              "marks": [],
+              "text": "Ми побудували сайт навколо персонального бренду Олександра Ситникова: його досвіду, статусу, юридичної експертизи та навчальних програм. Кожен блок виконує свою задачу: показати експертність, пояснити послуги та курси, провести користувача до заявки."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "b3en",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s4en",
+              "_type": "span",
+              "marks": [],
+              "text": "We built the site around Oleksandr Sytnykov's personal brand: his experience, status, legal expertise, and training programs. Every block does one job: show authority, explain services and courses, and drive the user to an inquiry."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletList": [
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iTap",
+          "en": "Site structure tuned to the legal niche and personal brand",
+          "uk": "Структуру сайту під юридичну нішу та персональний бренд"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iTf3",
+          "en": "Pages for experience, services, courses, publications, and contact",
+          "uk": "Сторінки для досвіду, послуг, курсів, публікацій і контактів"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iTjH",
+          "en": "2 language versions of the site",
+          "uk": "2 мовні версії сайту"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iTnV",
+          "en": "SEO tuning on pages for legal and education queries",
+          "uk": "SEO-пропрацювання сторінок під юридичні та освітні запити"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iTrj",
+          "en": "A Sanity CMS admin panel that's easy to run",
+          "uk": "Зручну адмін-панель Sanity CMS"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iTvx",
+          "en": "Ability to add new articles and courses",
+          "uk": "Можливість додавати нові статті та курси"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iU0B",
+          "en": "Animations for a more modern presentation",
+          "uk": "Анімації для сучаснішої подачі"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iU4P",
+          "en": "A responsive build for mobile devices",
+          "uk": "Адаптивну версію для мобільних пристроїв"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iU8d",
+          "en": "CTAs for consultation or course inquiries",
+          "uk": "CTA для заявок на консультацію або навчання"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ SOLUTION",
+        "uk": "/ SOLUTION"
+      },
+      "heading": {
+        "en": "What we *did*",
+        "uk": "Що ми *зробили*"
+      },
+      "image": {
+        "alt": {
+          "en": "Oleksandr Sytnykov's new homepage with services, courses, and publications",
+          "uk": "Нова головна сторінка сайту Олександра Ситникова з послугами, курсами та публікаціями"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-253fc858d01876d0b169b887b438a4d123979657-2560x1998-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "fd187ec9f59b",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b5",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s6",
+              "_type": "span",
+              "marks": [],
+              "text": "Ми налаштували адмін-панель Sanity CMS, яку клієнт може вести самостійно без постійних звернень до розробника. Інтерфейс зручний з телефона — зміни робляться швидко: оновити текст, додати статтю, курс або змінити порядок блоків."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        },
+        {
+          "_key": "b7",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s8",
+              "_type": "span",
+              "marks": [],
+              "text": "В адмінці можна:"
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "b5en",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s6en",
+              "_type": "span",
+              "marks": [],
+              "text": "We set the client up with a Sanity CMS admin panel they can run themselves without constantly reaching out to a developer. The interface works on a phone, so changes happen fast: update copy, add an article or course, or reorder blocks.\n\nIn the admin you can:"
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletList": [
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iUCr",
+          "en": "Edit copy, headings, and buttons",
+          "uk": "Редагувати тексти, заголовки та кнопки"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iUH5",
+          "en": "Swap images and add new photos",
+          "uk": "Змінювати зображення та додавати нові фото"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iULJ",
+          "en": "Reorder elements via drag-and-drop",
+          "uk": "Змінювати порядок елементів через drag & drop"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iUPX",
+          "en": "Edit SEO fields on every page",
+          "uk": "Редагувати SEO-поля для сторінок"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iUTl",
+          "en": "Manage services, courses, articles, publications, and reviews",
+          "uk": "Керувати послугами, курсами, статтями, публікаціями та відгуками"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iUXz",
+          "en": "Edit only the sections you need without risking the site's design",
+          "uk": "Керувати тільки потрібними розділами без ризику зламати дизайн сайту"
+        },
+        {
+          "_key": "A7ZdjBJBu8tJLg2R10iUcD",
+          "en": "Run the admin even from a phone",
+          "uk": "Працювати з адмінкою навіть з телефону"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ CMS",
+        "uk": "/ CMS"
+      },
+      "heading": {
+        "en": "*Easy admin panel* for site content",
+        "uk": "*Зручна адмін-панель* для контенту на сайті"
+      },
+      "image": {
+        "alt": {
+          "en": "Sanity CMS admin panel on Oleksandr Sytnykov's site",
+          "uk": "Адмін-панель Sanity CMS на сайті Олександра Ситникова"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-9a51e68deca8955985f57542524aa61d948539ef-2940x1836-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageRight",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "sech",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b9",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sa",
+              "_type": "span",
+              "marks": [],
+              "text": "Олександр Ситников отримав сайт, який працює як платформа персонального бренду, юридичних послуг і адвокатських курсів."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        },
+        {
+          "_key": "bb",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sc",
+              "_type": "span",
+              "marks": [],
+              "text": "Сайт підкреслює його статус колишнього судді, показує експертність, презентує навчальні програми та веде користувача до заявки. Двомовна структура й SEO заклали основу для зростання органічного трафіку по юридичних і освітніх запитах."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "b7en",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s8en",
+              "_type": "span",
+              "marks": [],
+              "text": "Oleksandr Sytnykov got a site that works as a personal-brand platform, legal-services hub, and advocacy-courses storefront. The site underscores his standing as a former judge, shows his expertise, presents the training programs, and drives users to an inquiry. The bilingual structure and SEO lay the groundwork for organic growth on legal and education queries."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ OUTCOME",
+        "uk": "/ OUTCOME"
+      },
+      "heading": {
+        "en": "Result",
+        "uk": "Результат"
+      },
+      "image": {
+        "alt": {
+          "en": "Oleksandr Sytnykov's website on mobile",
+          "uk": "Мобільна версія сайту Олександра Ситникова"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-3fda4adc2da5d9bbbaa2309a6e33265f38bc8353-730x904-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "image2": {
+        "alt": {
+          "en": "Oleksandr Sytnykov's website on desktop",
+          "uk": "Десктопна версія сайту Олександра Ситникова"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-71f6a804a767aa4a34d37670f0b09f213b0d8a71-1274x1172-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "variant": "centered"
+    },
+    {
+      "_key": "46c0fd3d5414",
+      "_type": "mediaGalleryBlock",
+      "enableLightbox": true,
+      "images": [
+        {
+          "_key": "233e13a26063",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-1ea24e7640c87dee715c19883b94e4cf5e2f7918-3162x2372-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "09ab30f33976",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-b87b1159cffd0d02168d385ca64de85d8184e98b-3162x2372-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "d437414705d8",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-375dc06a12bdf7b3c2cc407366233e07e81cac34-3162x2372-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "56eede29a6f5",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-62c4f428bffbc5bfe724a85b352b0adf4be96de5-3162x2372-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        }
+      ]
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Personal brand for a former judge: courses, services, publications, 2 languages, Sanity CMS, and SEO for legal and education queries.",
+      "uk": "Персональний бренд колишнього судді: курси, послуги, публікації, 2 мови, Sanity CMS і SEO під юридичні та освітні запити."
+    },
+    "title": {
+      "en": "Oleksandr Sytnykov — legal expert & advocacy courses site | Code-Site.Art",
+      "uk": "Олександр Ситников — сайт юридичного експерта та адвокатських курсів | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "oleksandr-sitnikov"
+  },
+  "stack": [
+    "Next.js",
+    "Sanity",
+    "Vercel"
+  ],
+  "status": "published",
+  "title": {
+    "en": "Oleksandr Sytnykov",
+    "uk": "Олександр Ситников"
+  },
+  "year": 2024
+}

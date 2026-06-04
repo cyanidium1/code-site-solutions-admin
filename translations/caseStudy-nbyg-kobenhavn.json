@@ -1,0 +1,41 @@
+{
+  "_meta": {
+    "docId": "lOTgaDd8FU4wgJ8F4K9wE8",
+    "_type": "caseStudy",
+    "voice": "Direct American English. Replaces every single-word placeholder alt (`hero`/`card`/`mobile`/`Mobile`/`calculator`/`desktop`) with a real per-image description in both UK and EN. Hero copy / body / sections are already translated upstream.",
+    "notes": "Doc was half-translated: body and hero text already had EN. This file (a) fills the CTA label gap (Переглянути сайт → Visit site) and (b) overrides every image-alt slot with brand-aware copy in both locales."
+  },
+  "strings": {
+    "Переглянути сайт": "Visit site"
+  },
+  "overrides": {
+    "coverImage.alt": {
+      "uk": "Картка кейсу NBYG у портфоліо",
+      "en": "NBYG case-study card"
+    },
+    "hero.heroImage.alt": {
+      "uk": "Сайт NBYG на ноутбуці і телефоні",
+      "en": "NBYG website shown on laptop and phone"
+    },
+    "sections[_key==\"27444650b95d\"].images[_key==\"c808a9d3a272\"].alt": {
+      "uk": "Головна сторінка сайту NBYG",
+      "en": "NBYG homepage"
+    },
+    "sections[_key==\"27444650b95d\"].images[_key==\"0d6b5a0a502c\"].alt": {
+      "uk": "Калькулятор вартості даху на сайті NBYG",
+      "en": "Roof-price calculator on the NBYG site"
+    },
+    "sections[_key==\"27444650b95d\"].images[_key==\"5f9154d95701\"].alt": {
+      "uk": "Мобільна версія сайту NBYG",
+      "en": "NBYG website on mobile"
+    },
+    "sections[_key==\"secg\"].image.alt": {
+      "uk": "Мобільна версія сайту NBYG",
+      "en": "NBYG website on mobile"
+    },
+    "sections[_key==\"secg\"].image2.alt": {
+      "uk": "Десктопна версія сайту NBYG",
+      "en": "NBYG website on desktop"
+    }
+  }
+}

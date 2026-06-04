@@ -1,0 +1,2453 @@
+{
+  "_createdAt": "2026-05-01T00:33:16Z",
+  "_id": "industryPage.renovation",
+  "_rev": "UAjCtlAuHSg7wG7TzH0SaF",
+  "_system": {
+    "base": {
+      "id": "industryPage.renovation",
+      "rev": "HJmXNYczL6aRqGsM8H7aon"
+    }
+  },
+  "_type": "industryPage",
+  "_updatedAt": "2026-05-30T13:05:18Z",
+  "hero": {
+    "ctaPrimary": {
+      "en": "Discuss my project",
+      "uk": "Обговорити мій проєкт"
+    },
+    "ctaSecondary": {
+      "en": "See case studies",
+      "uk": "Подивитись кейси"
+    },
+    "deviceTags": [
+      {
+        "_key": "dt4",
+        "kind": "default",
+        "primary": {
+          "en": "Calculator",
+          "uk": "Калькулятор"
+        }
+      },
+      {
+        "_key": "dt5",
+        "kind": "default",
+        "mini": "drag",
+        "primary": {
+          "en": "Before / After",
+          "uk": "До / Після"
+        }
+      },
+      {
+        "_key": "dt6",
+        "kind": "good",
+        "mini": "top-1",
+        "primary": {
+          "en": "Local SEO",
+          "uk": "Local SEO"
+        }
+      }
+    ],
+    "eyebrow": {
+      "en": "RENOVATION & CONSTRUCTION WEBSITES / FROM $3,500",
+      "uk": "САЙТИ ДЛЯ РЕМОНТНИХ І БУДІВЕЛЬНИХ КОМПАНІЙ / від $3 500"
+    },
+    "features": [
+      {
+        "_key": "HJmXNYczL6aRqGsM8H815n",
+        "en": "Price calculator | in 60 seconds",
+        "uk": "Калькулятор ціни | за 60 секунд"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H818i",
+        "en": "Before / after gallery | real projects",
+        "uk": "Галерея «до/після» | реальні об'єкти"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H81Bd",
+        "en": "Local SEO | by neighborhood and city",
+        "uk": "Локальне SEO | під район і місто"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H81EY",
+        "en": "CRM integration | Bitrix24 · AmoCRM",
+        "uk": "CRM-інтеграція | Bitrix24 · AmoCRM"
+      }
+    ],
+    "h1Num": "30+",
+    "h1NumLabel": {
+      "en": "clients\nper month",
+      "uk": "клієнтів\nна місяць"
+    },
+    "heading": {
+      "en": "A renovation contractor\nclients *book*",
+      "uk": "Ремонтна компанія, до якої\n*записуються*"
+    },
+    "lede": {
+      "en": "Custom websites for renovation and construction contractors: price calculator, *before / after* gallery, local SEO. Live in 4–6 weeks, 1-year warranty.",
+      "uk": "Кастомні сайти для ремонтних і будівельних компаній: калькулятор ціни, галерея *«до/після»*, локальне SEO. Запуск за 4–6 тижнів, гарантія 1 рік."
+    },
+    "stats": [
+      {
+        "_key": "st1",
+        "label": {
+          "en": "construction\nsites",
+          "uk": "будівельних\nсайтів"
+        },
+        "value": "47"
+      },
+      {
+        "_key": "st2",
+        "label": {
+          "en": "average\nrating",
+          "uk": "середня\nоцінка"
+        },
+        "value": "4.8/5"
+      },
+      {
+        "_key": "st3",
+        "label": {
+          "en": "more\ninquiries",
+          "uk": "більше\nзаявок"
+        },
+        "value": "×2.4"
+      }
+    ],
+    "tickerItems": [
+      {
+        "_key": "HJmXNYczL6aRqGsM8H81HT",
+        "en": "Light cosmetic remodel",
+        "uk": "Косметичний ремонт"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H81KO",
+        "en": "Gut renovation",
+        "uk": "Капітальний ремонт"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H81NJ",
+        "en": "Designer-led remodel",
+        "uk": "Дизайнерський ремонт"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H81QE",
+        "en": "Restoration",
+        "uk": "Реставрація"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H81T9",
+        "en": "Roofing",
+        "uk": "Покрівельні роботи"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H81W4",
+        "en": "Facade work",
+        "uk": "Фасадні роботи"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H81Yz",
+        "en": "Plumbing",
+        "uk": "Сантехнічні роботи"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H81bu",
+        "en": "Electrical work",
+        "uk": "Електромонтаж"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H81ep",
+        "en": "Commercial fit-out",
+        "uk": "Комерційний ремонт"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H81hk",
+        "en": "Office fit-out",
+        "uk": "Ремонт офісів"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H81kf",
+        "en": "Rural / vacation homes",
+        "uk": "Заміська нерухомість"
+      },
+      {
+        "_key": "HJmXNYczL6aRqGsM8H81na",
+        "en": "Bathroom remodel",
+        "uk": "Ремонт ванної кімнати"
+      }
+    ]
+  },
+  "order": 2,
+  "sections": [
+    {
+      "_key": "sec7",
+      "_type": "reasonsBlock",
+      "eyebrow": {
+        "en": "DIAGNOSIS",
+        "uk": "ДІАГНОСТИКА"
+      },
+      "eyebrowNum": {
+        "en": "/ 03 REASONS",
+        "uk": "/ 03 ПРИЧИНИ"
+      },
+      "footCtaLabel": {
+        "en": "Audit my site",
+        "uk": "Перевірити мій сайт"
+      },
+      "footText": {
+        "en": "These are the 3 most common. Your specific site probably has *5–7*. The free audit will show yours.",
+        "uk": "Це 3 найпоширеніші. На ваш конкретний сайт — *5–7*. Безкоштовний аудит покаже свої."
+      },
+      "heading": {
+        "en": "3 reasons clients\n*don't book* through your site",
+        "uk": "3 причини, чому клієнти\n*не записуються* через ваш сайт"
+      },
+      "metaRows": [
+        {
+          "_key": "HJmXNYczL6aRqGsM8H7vxa",
+          "en": "audit of 47 construction sites · 2024–25",
+          "uk": "аналіз 47 будівельних сайтів · 2024–25"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H7w0V",
+          "en": "section 02 / 06",
+          "uk": "розділ 02 / 06"
+        }
+      ],
+      "reasons": [
+        {
+          "_key": "r8",
+          "number": "01",
+          "stat": {
+            "label": {
+              "en": "of clients drop off at \"call us for pricing\"",
+              "uk": "клієнтів зливаються на «зателефонуйте дізнатися ціну»"
+            },
+            "source": {
+              "en": "BENCHMARK · 2025",
+              "uk": "BENCHMARK · 2025"
+            },
+            "value": "70%"
+          },
+          "tag": {
+            "en": "TRANSPARENCY",
+            "uk": "TRANSPARENCY"
+          },
+          "text": [
+            {
+              "_key": "b9",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "sa",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Клієнт не може зрозуміти, чи влізе ремонт у його бюджет — тому йде до конкурента, який показує "
+                },
+                {
+                  "_key": "sb",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "ціну/м²"
+                },
+                {
+                  "_key": "sc",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ". 70% потенційних клієнтів зливаються на етапі «зателефонуйте дізнатися ціну»."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "b1en",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s2en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Clients can't tell if the renovation fits their budget — so they go to a competitor that shows "
+                },
+                {
+                  "_key": "s3en",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "price per sq ft"
+                },
+                {
+                  "_key": "s4en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ". 70% of leads drop off at \"call us for pricing.\""
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "No transparent *pricing* or calculator",
+            "uk": "Немає прозорого *прайсу* і калькулятора"
+          }
+        },
+        {
+          "_key": "rd",
+          "number": "02",
+          "stat": {
+            "label": {
+              "en": "of the portfolios on most sites show real projects",
+              "uk": "реальних обʼєктів у портфоліо більшості сайтів"
+            },
+            "source": {
+              "en": "AUDIT · 47 SITES",
+              "uk": "AUDIT · 47 SITES"
+            },
+            "value": "0"
+          },
+          "tag": {
+            "en": "TRUST",
+            "uk": "TRUST"
+          },
+          "text": [
+            {
+              "_key": "be",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "sf",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Сторінка послуг з картинками з фотобанку. Жодного реального обʼєкта з адресою. Клієнт думає: «А ви взагалі робите ремонти, чи лише "
+                },
+                {
+                  "_key": "sg",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "посередник"
+                },
+                {
+                  "_key": "sh",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "?». Без живих кейсів немає довіри."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "b5en",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s6en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "A services page with stock-photo art. Not a single real project with an address. Clients think \"do you actually do renovations, or are you a "
+                },
+                {
+                  "_key": "s7en",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "middleman"
+                },
+                {
+                  "_key": "s8en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "?\" Without real cases, there's no trust."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "Stock photos and no *before / after cases*",
+            "uk": "Шаблонні фото і відсутність *кейсів «до/після»*"
+          }
+        },
+        {
+          "_key": "ri",
+          "number": "03",
+          "stat": {
+            "label": {
+              "en": "where most construction sites rank in local search",
+              "uk": "позиція більшості будівельних сайтів у локальному пошуку"
+            },
+            "source": {
+              "en": "GOOGLE · 2025",
+              "uk": "GOOGLE · 2025"
+            },
+            "value": "top-50"
+          },
+          "tag": {
+            "en": "VISIBILITY",
+            "uk": "VISIBILITY"
+          },
+          "text": [
+            {
+              "_key": "bj",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "sk",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Загальна сторінка про «всі види ремонту», без розбивки по районах і типах. Конкуренти з лендами «"
+                },
+                {
+                  "_key": "sl",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "ремонт квартир Печерськ"
+                },
+                {
+                  "_key": "sm",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "» забирають весь локальний трафік."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "b9en",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "saen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "A catch-all \"all renovation types\" page with no breakdown by neighborhood or work type. Competitors with landing pages like \""
+                },
+                {
+                  "_key": "sben",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "apartment renovation Pechersk"
+                },
+                {
+                  "_key": "scen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "\" pick up all the local traffic."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "Your site doesn't rank on Google for *\"renovation + neighborhood\"*",
+            "uk": "Сайт не виходить у Google по *«ремонт + район»*"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "secn",
+      "_type": "caseBlock",
+      "after": {
+        "alt": {
+          "en": "NBYG — new site",
+          "uk": "Новий сайт NBYG"
+        },
+        "foot": {
+          "en": "**Result:** 24+ inquiries per month, 6× organic traffic.",
+          "uk": "**Результат:** заявки 24+ на місяць, ×6 органічного трафіку."
+        },
+        "items": [
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7w3Q",
+            "en": "Separate landing pages for *every* service (new roof, facade, insulation)",
+            "uk": "Окремі лендинги під *кожну* послугу (новий дах, фасад, утеплення)"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7w6L",
+            "en": "Online calculator with *4 roof types* and price per m²",
+            "uk": "Online-калькулятор з *4 типами* дахів і ціною/м²"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7w9G",
+            "en": "Local SEO: *top 1* on Google for \"nyt tag København\"",
+            "uk": "Локальне SEO: *топ-1* у Google по «nyt tag København»"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wCB",
+            "en": "Online form for the free site visit + Calendly",
+            "uk": "Онлайн-форма безкоштовного огляду + Calendly"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wF6",
+            "en": "Sanity CMS for self-serve edits *without a developer*",
+            "uk": "Sanity CMS для самостійних правок *без розробника*"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wI1",
+            "en": "Schema.org LocalBusiness + Google Business Profile",
+            "uk": "Schema.org LocalBusiness + Google Business Profile"
+          }
+        ],
+        "num": "NBYG · v2 · 2024",
+        "tagline": {
+          "en": "Landing page for the \"new roof\" service",
+          "uk": "Лендинг під послугу «новий дах»"
+        },
+        "url": "nbygkbenhavn.dk/byggeydelser/tag"
+      },
+      "before": {
+        "alt": {
+          "en": "NBYG — old site",
+          "uk": "Старий сайт NBYG"
+        },
+        "foot": {
+          "en": "**Result:** 3–5 inquiries per month, only the ones who call.",
+          "uk": "**Результат:** заявки 3–5 на місяць, з тих що дзвонять."
+        },
+        "items": [
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wKw",
+            "en": "Catch-all site with no dedicated landing pages *per service*",
+            "uk": "Загальний сайт без окремих лендингів *під послуги*"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wNr",
+            "en": "Wasn't ranking on Google for \"*nyt tag København*\"",
+            "uk": "Не ранжувався в Google по «*nyt tag København*»"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wQm",
+            "en": "No *roof price* calculator",
+            "uk": "Не було калькулятора *ціни даху*"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wTh",
+            "en": "Inquiries only by phone or email",
+            "uk": "Замовлення тільки через дзвінок або email"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wWc",
+            "en": "Admin runs on an old CMS — every change needs a *developer*",
+            "uk": "Адмінка через старий CMS — будь-яка зміна = *розробник*"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wZX",
+            "en": "No local SEO targeting neighborhoods",
+            "uk": "Жодного локального SEO під район"
+          }
+        ],
+        "num": "NBYG · v1 · 2022",
+        "tagline": {
+          "en": "Business-card site with no landing pages",
+          "uk": "Сайт-візитка без посадочних"
+        },
+        "url": "старий сайт"
+      },
+      "ctaLabel": {
+        "en": "See all case studies",
+        "uk": "Подивитися всі кейси"
+      },
+      "ctaText": {
+        "en": "Want **the same kind of result**? See how we do it.",
+        "uk": "Хочете **такий самий результат**? Подивіться, як ми це робимо."
+      },
+      "eyebrow": {
+        "en": "REAL CASE",
+        "uk": "РЕАЛЬНИЙ КЕЙС"
+      },
+      "eyebrowEm": {
+        "en": "NBYG · COPENHAGEN, DENMARK",
+        "uk": "NBYG · КОПЕНГАГЕН, ДАНІЯ"
+      },
+      "heading": {
+        "en": "Before / after from a\n*real* client",
+        "uk": "До / Після на прикладі\n*реального* клієнта"
+      },
+      "lede": {
+        "en": "Copenhagen contractor *NBYG* came to us with the usual problem: a business-card site on a legacy CMS that wasn't bringing in inquiries and wasn't ranking for local queries. The brief: rebuild the structure around services, add a calculator, and get to the top of Google for \"*nyt tag København*.\"",
+        "uk": "Будівельна компанія *NBYG* з Копенгагена звернулася з типовою проблемою: сайт-візитка на старій CMS, який не приносить заявок і не індексується по локальним запитам. Завдання — переробити структуру під послуги, додати калькулятор і вийти в топ Google по «*nyt tag København*»."
+      },
+      "meta": [
+        {
+          "_key": "mo",
+          "strong": {
+            "en": "6 weeks",
+            "uk": "6 тижнів"
+          },
+          "text": {
+            "en": "brief to launch",
+            "uk": "від брифу до релізу"
+          }
+        },
+        {
+          "_key": "mp",
+          "strong": {
+            "en": "Roofing + facade",
+            "uk": "Покрівля + фасад"
+          },
+          "text": {
+            "en": "two priority lines",
+            "uk": "два пріоритетні напрямки"
+          }
+        },
+        {
+          "_key": "mq",
+          "strong": {
+            "en": "DA + EN",
+            "uk": "DA + EN"
+          },
+          "text": {
+            "en": "SEO localization",
+            "uk": "локалізація під SEO"
+          }
+        }
+      ],
+      "results": [
+        {
+          "_key": "resr",
+          "label": {
+            "en": "more organic traffic from Google",
+            "uk": "органічного трафіку Google"
+          },
+          "tag": {
+            "en": "SEO · 6 MO",
+            "uk": "SEO · 6 МІС."
+          },
+          "value": "×6"
+        },
+        {
+          "_key": "ress",
+          "label": {
+            "en": "Homepage LCP",
+            "uk": "LCP головної сторінки"
+          },
+          "tag": {
+            "en": "PERFORMANCE",
+            "uk": "PERFORMANCE"
+          },
+          "value": "0.8c"
+        },
+        {
+          "_key": "rest",
+          "label": {
+            "en": "for \"nyt tag København\"",
+            "uk": "по «nyt tag København»"
+          },
+          "tag": {
+            "en": "LOCAL SEO",
+            "uk": "LOCAL SEO"
+          },
+          "value": "Top-1"
+        },
+        {
+          "_key": "resu",
+          "label": {
+            "en": "more inquiries from the site",
+            "uk": "більше заявок з сайту"
+          },
+          "tag": {
+            "en": "CONVERSION",
+            "uk": "CONVERSION"
+          },
+          "value": "×4.8"
+        }
+      ]
+    },
+    {
+      "_key": "secv",
+      "_type": "outcomeBlock",
+      "benefitHero": {
+        "bullets": [
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wty",
+            "en": "transparent pricing *in 60 seconds*",
+            "uk": "прозорий розрахунок ціни *за 60 секунд*"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wwt",
+            "en": "real cases with addresses and *job-site* photos",
+            "uk": "реальні кейси з адресами і фото *об'єктів*"
+          }
+        ],
+        "lede": {
+          "en": "lift in inquiry volume after the new site launched",
+          "uk": "зростання потоку заявок після запуску нового сайту"
+        },
+        "source": {
+          "en": "— per the owner of NBYG København",
+          "uk": "— за словами власника NBYG København"
+        },
+        "value": "×4,8"
+      },
+      "benefitRows": [
+        {
+          "_key": "brw",
+          "feature": "FEATURE · 01 / 03",
+          "heading": {
+            "en": "Structure mapped to *real services*",
+            "uk": "Структура під *реальні послуги*"
+          },
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7wzo",
+              "en": "A separate landing page for *each renovation type*",
+              "uk": "Окремий лендинг під *кожен тип* ремонту"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7x2j",
+              "en": "Each page captures *specific SEO traffic*",
+              "uk": "Кожна сторінка ловить *специфічний SEO-трафік*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7x5e",
+              "en": "Broken out by neighborhood and city for local search",
+              "uk": "Розбивка по районах і містах для локального пошуку"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7x8Z",
+              "en": "\"Renovation + neighborhood\" structure instead of a catch-all",
+              "uk": "Структура під «ремонт + район» замість загальної"
+            }
+          ],
+          "mockTags": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xBU",
+              "en": "Roof",
+              "uk": "Дах"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xEP",
+              "en": "Facade",
+              "uk": "Фасад"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xHK",
+              "en": "Insulation",
+              "uk": "Утеплення"
+            }
+          ],
+          "mockType": "pages",
+          "mockUrl": "nbygkbenhavn.dk/послуги"
+        },
+        {
+          "_key": "brx",
+          "feature": "FEATURE · 02 / 03",
+          "heading": {
+            "en": "The calculator as the *primary* sales tool",
+            "uk": "Калькулятор як *головний* інструмент продажів"
+          },
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xKF",
+              "en": "In *60 seconds* the client gets an estimate like \"from $30/sq ft\"",
+              "uk": "Клієнт за *60 секунд* отримує оцінку «від 1 200 грн/м²»"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xNA",
+              "en": "Lead form to email the detailed price list",
+              "uk": "Лід-форма для детального прайсу на *email*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xQ5",
+              "en": "Cuts the sales cycle *in half*",
+              "uk": "Скорочує цикл продажу *вдвічі*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xT0",
+              "en": "CRM integration — inquiries land instantly",
+              "uk": "Інтеграція з CRM — заявка падає миттєво"
+            }
+          ],
+          "mockType": "booking",
+          "mockUrl": "nbygkbenhavn.dk/калькулятор"
+        },
+        {
+          "_key": "bry",
+          "feature": "FEATURE · 03 / 03",
+          "heading": {
+            "en": "*Client* portal",
+            "uk": "Особистий кабінет *клієнта*"
+          },
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xVv",
+              "en": "Job stage in *real time*",
+              "uk": "Етап ремонту в *реальному часі*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xYq",
+              "en": "Photos from the job site (*weekly*)",
+              "uk": "Фото з обʼєкта (*щотижня*)"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xbl",
+              "en": "Documents: contract, estimate, sign-offs",
+              "uk": "Документи: договір, кошторис, акти"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xeg",
+              "en": "Cuts calls to the foreman by *40%*",
+              "uk": "Зменшує дзвінки прорабу на *40%*"
+            }
+          ],
+          "mockType": "admin",
+          "mockUrl": "client.nbygkbenhavn.dk"
+        }
+      ],
+      "benefitsHeading": {
+        "en": "What you get,\nshown on a *real* project",
+        "uk": "Що ви отримаєте\nна прикладі *реального* проєкту"
+      },
+      "benefitsSub": {
+        "en": "Not just a \"*pretty site*.\" Tools that actually move the inquiry pipeline — SEO-ready structure, price calculator, client portal.",
+        "uk": "Не просто «*красивий сайт*». Інструменти, що реально впливають на потік заявок — структура під SEO, калькулятор ціни, особистий кабінет клієнта."
+      },
+      "directions": {
+        "allowedItems": [
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wcS",
+            "en": "avoid splitting *SEO* across two domains",
+            "uk": "не дробити *SEO* між двома доменами"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wfN",
+            "en": "skip the traffic loss from *301 redirects*",
+            "uk": "не втрачати трафік на *301-редиректах*"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wiI",
+            "en": "cleanly separate *funnels* for homeowner clients and developers",
+            "uk": "чітко розділити *воронки* для приватного клієнта і забудовника"
+          }
+        ],
+        "allowedLabel": {
+          "en": "Which let us",
+          "uk": "Це дозволило"
+        },
+        "eyebrow": {
+          "en": "SOLUTION · ARCHITECTURE",
+          "uk": "SOLUTION · ARCHITECTURE"
+        },
+        "lede": {
+          "en": "The client had two segments: *homeowners* (apartments, houses) and *B2B* (developers, HOAs, offices). Splitting them into two sites would've been cheaper upfront, but it would've fragmented SEO and doubled long-term support cost.",
+          "uk": "У клієнта було два сегменти: *приватники* (квартири, будинки) і *B2B* (забудовники, ОСББ, офіси). Робити два окремі сайти здешевило б проєкт, але роздробило б SEO і вдвічі підвищило б вартість підтримки."
+        },
+        "replaceItems": [
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wlD",
+            "en": "one homepage for the company *as a whole*",
+            "uk": "одна головна сторінка для компанії *в цілому*"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wo8",
+            "en": "separate landing pages for *every service* (roof, facade, insulation)",
+            "uk": "окремі лендинги під *кожну послугу* (дах, фасад, утеплення)"
+          },
+          {
+            "_key": "HJmXNYczL6aRqGsM8H7wr3",
+            "en": "split *B2C / B2B* lead forms by client segment",
+            "uk": "розділення *B2C / B2B* лід-форм за сегментом клієнта"
+          }
+        ],
+        "replaceLabel": {
+          "en": "Instead",
+          "uk": "Замість цього"
+        },
+        "title": {
+          "en": "How we handled\n*two audiences*",
+          "uk": "Як ми вирішили задачу\nз *двома аудиторіями*"
+        }
+      },
+      "recap": {
+        "eyebrow": {
+          "en": "RESULTS AFTER 6 MONTHS",
+          "uk": "РЕЗУЛЬТАТ ЧЕРЕЗ 6 МІСЯЦІВ"
+        },
+        "text": {
+          "en": "**Six months** after launch, NBYG saw *6× organic traffic* and a steady stream of inquiries from the calculator form. That's a typical outcome of rebuilding a renovation-contractor site — going from a \"*business card that doesn't book anyone*\" to a tool that actually brings clients in through organic search.",
+          "uk": "За **6 місяців** після запуску NBYG отримала *×6 органічного трафіку* і стабільний потік онлайн-заявок з форми калькулятора. Це типовий результат переробки сайту ремонтної компанії — перетворення з «*візитки без заявок*» на інструмент, що реально приводить клієнтів через органіку."
+        }
+      }
+    },
+    {
+      "_key": "secz",
+      "_type": "servicesBlock",
+      "features": [
+        {
+          "_key": "f10",
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xhb",
+              "en": "Calendar of the *available slots* for each crew",
+              "uk": "Календар *вільних слотів* майстра"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xkW",
+              "en": "Booking in *2 clicks*",
+              "uk": "Бронювання за *2 кліки*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xnR",
+              "en": "SMS reminders 24 hours and 1 hour out",
+              "uk": "SMS-нагадування за 24 і 1 годину"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xqM",
+              "en": "Geolocation for *route optimization*",
+              "uk": "Геолокація для *оптимізації маршруту*"
+            }
+          ],
+          "title": {
+            "en": "Online estimate booking",
+            "uk": "Онлайн-замір"
+          }
+        },
+        {
+          "_key": "f11",
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xtH",
+              "en": "Filter by *type and style*",
+              "uk": "Фільтрація за *типом і стилем*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xwC",
+              "en": "A dedicated page for every *project*",
+              "uk": "Окрема сторінка кожного *обʼєкта*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7xz7",
+              "en": "Address, square footage, budget, timeline",
+              "uk": "Адреса, метраж, бюджет, термін"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7y22",
+              "en": "Photo set of 5–15 images",
+              "uk": "Photo-set 5–15 зображень"
+            }
+          ],
+          "title": {
+            "en": "Before / after gallery",
+            "uk": "Галерея «до/після»"
+          }
+        },
+        {
+          "_key": "f12",
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7y4x",
+              "en": "Fields: *renovation type, square footage, neighborhood*",
+              "uk": "Поля: *тип ремонту, метраж, район*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7y7s",
+              "en": "Add-ons: plumbing, electrical, design",
+              "uk": "Додаткові: сантехніка, електрика, дизайн-проект"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7yAn",
+              "en": "Result: *price range* with deliverables",
+              "uk": "Результат: *вилка цін* з deliverables"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7yDi",
+              "en": "Lead form for the detailed price list",
+              "uk": "Лід-форма для детального прайсу"
+            }
+          ],
+          "title": {
+            "en": "Renovation cost calculator",
+            "uk": "Калькулятор вартості ремонту"
+          }
+        },
+        {
+          "_key": "f13",
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7yGd",
+              "en": "Integration with *Planoplan / SweetHome3D*",
+              "uk": "Інтеграція з *Planoplan / SweetHome3D*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7yJY",
+              "en": "3D visualization galleries",
+              "uk": "Galleries 3D-візуалізацій"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7yMT",
+              "en": "VR tour (optional, Enterprise tier)",
+              "uk": "VR-тур (опційно для преміум)"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7yPO",
+              "en": "PDF export for the client",
+              "uk": "Експорт у PDF для клієнта"
+            }
+          ],
+          "title": {
+            "en": "3D design",
+            "uk": "3D-проєктування"
+          }
+        },
+        {
+          "_key": "f14",
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7ySJ",
+              "en": "Email login + *2FA*",
+              "uk": "Login через email + *2FA*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7yVE",
+              "en": "Job stage in *real time*",
+              "uk": "Етап ремонту в *реальному часі*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7yY9",
+              "en": "Photos from the job site *weekly*",
+              "uk": "Фото з обʼєкта *щотижня*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7yb4",
+              "en": "Chat with the foreman",
+              "uk": "Чат з прорабом"
+            }
+          ],
+          "title": {
+            "en": "Client portal",
+            "uk": "Особистий кабінет клієнта"
+          }
+        },
+        {
+          "_key": "f15",
+          "items": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7ydz",
+              "en": "*Schema.org* LocalBusiness + Service",
+              "uk": "*Schema.org* LocalBusiness + Service"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7ygu",
+              "en": "Google Business Profile + Maps",
+              "uk": "Google Business Profile + Maps"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7yjp",
+              "en": "Dedicated \"*renovation + neighborhood*\" pages",
+              "uk": "Окремі сторінки «*ремонт + район*»"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7ymk",
+              "en": "Funnel from first click to signed contract",
+              "uk": "Воронка від кліку до підписаного договору"
+            }
+          ],
+          "title": {
+            "en": "Local SEO + project pages",
+            "uk": "Локальне SEO + обʼєкти"
+          }
+        }
+      ],
+      "heading": {
+        "en": "What we build for\n*renovation* contractors",
+        "uk": "Що ми робимо для\n*ремонтних* компаній"
+      },
+      "integrations": [
+        {
+          "_key": "HJmXNYczL6aRqGsM8H7ypf",
+          "en": "Bitrix24",
+          "uk": "Bitrix24"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H7ysa",
+          "en": "AmoCRM",
+          "uk": "AmoCRM"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H7yvV",
+          "en": "KeyCRM",
+          "uk": "KeyCRM"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H7yyQ",
+          "en": "Calendly",
+          "uk": "Calendly"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H7z1L",
+          "en": "Google Maps",
+          "uk": "Google Maps"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H7z4G",
+          "en": "Google Business Profile",
+          "uk": "Google Business Profile"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H7z7B",
+          "en": "Planoplan",
+          "uk": "Planoplan"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H7zA6",
+          "en": "SweetHome3D",
+          "uk": "SweetHome3D"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H7zD1",
+          "en": "WayForPay",
+          "uk": "WayForPay"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H7zFw",
+          "en": "LiqPay",
+          "uk": "LiqPay"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H7zIr",
+          "en": "Telegram",
+          "uk": "Telegram"
+        }
+      ],
+      "integrationsHeading": {
+        "en": "We connect every\n*industry-specific* system",
+        "uk": "Підключаємо всі\n*профільні* системи"
+      },
+      "integrationsSub": {
+        "en": "Inquiries from the calculator or contact form land in your *CRM* the moment they're submitted. The foreman gets a Telegram alert. The client gets an SMS confirming the estimator's visit. No leads lost to spam folders.",
+        "uk": "Заявка з калькулятора або форми попадає одразу у вашу *CRM*. Прораб отримує сповіщення в Telegram. Клієнт — SMS-підтвердження візиту замірника. Жодних втрачених лідів через листи у спамі."
+      },
+      "sub": {
+        "en": "The full feature set, tuned for renovation contractors: from the price calculator to a client portal with photo progress.",
+        "uk": "Повний набір функцій, налаштованих під специфіку ремонтної індустрії: від калькулятора ціни до особистого кабінету клієнта з фото-прогресом."
+      }
+    },
+    {
+      "_key": "sec16",
+      "_type": "comparisonBlock",
+      "columns": {
+        "custom": {
+          "en": "Custom code",
+          "uk": "Кодовий сайт"
+        },
+        "param": {
+          "en": "Parameter",
+          "uk": "Параметр"
+        },
+        "wix": {
+          "en": "Wix",
+          "uk": "Wix"
+        },
+        "wp": {
+          "en": "WP template",
+          "uk": "Шаблон WP"
+        }
+      },
+      "contact": {
+        "briefPlaceholder": {
+          "en": "Tell us about your contracting business, what site you need, and what's broken now",
+          "uk": "Яка ремонтна компанія, який сайт потрібен, що зараз не працює"
+        },
+        "channelPlaceholder": {
+          "en": "Telegram, phone, or email",
+          "uk": "Telegram, телефон або email"
+        },
+        "foot": {
+          "en": "Or message us on Telegram — *@fedirdev*",
+          "uk": "Або одразу пишіть у Telegram — *@fedirdev*"
+        },
+        "heading": {
+          "en": "Discuss your project",
+          "uk": "Обговорити проєкт"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "uk": "Як до вас звертатися"
+        },
+        "sub": {
+          "en": "Tell us briefly about your company — we reply on Telegram within 1–2 hours during business hours.",
+          "uk": "Розкажіть коротко про вашу компанію — відповімо в Telegram протягом 1–2 годин у робочий час."
+        },
+        "submitLabel": {
+          "en": "Send — reply in 1–2 hours",
+          "uk": "Надіслати — відповімо за 1–2 години"
+        }
+      },
+      "heading": {
+        "en": "Why custom code\nbeats a template renovation site\non WordPress or Wix",
+        "uk": "Чим кодовий сайт\nкращий за шаблонну\nремонтну компанію на WordPress або Wix"
+      },
+      "pricingHeading": {
+        "en": "How much a renovation-contractor website costs",
+        "uk": "Скільки коштує сайт ремонтної компанії"
+      },
+      "rows": [
+        {
+          "_key": "row17",
+          "custom": {
+            "en": "custom-built",
+            "uk": "кастомний"
+          },
+          "param": {
+            "en": "Price calculator",
+            "uk": "Калькулятор ціни"
+          },
+          "wix": {
+            "en": "via Apps",
+            "uk": "через Apps"
+          },
+          "wp": {
+            "en": "plugin (buggy)",
+            "uk": "плагін (баги)"
+          }
+        },
+        {
+          "_key": "row18",
+          "custom": {
+            "en": "with filters",
+            "uk": "з фільтрами"
+          },
+          "param": {
+            "en": "Before / after gallery",
+            "uk": "Галерея «до/після»"
+          },
+          "wix": {
+            "en": "basic gallery",
+            "uk": "базова галерея"
+          },
+          "wp": {
+            "en": "static photos",
+            "uk": "статичні фото"
+          }
+        },
+        {
+          "_key": "row19",
+          "custom": {
+            "en": "built-in",
+            "uk": "закладено"
+          },
+          "param": {
+            "en": "Local SEO",
+            "uk": "Локальне SEO"
+          },
+          "wix": {
+            "en": "basic",
+            "uk": "базове"
+          },
+          "wp": {
+            "en": "Yoast plugin",
+            "uk": "плагін Yoast"
+          }
+        },
+        {
+          "_key": "row1a",
+          "custom": {
+            "en": "any system",
+            "uk": "будь-яка"
+          },
+          "param": {
+            "en": "CRM integration",
+            "uk": "Інтеграція з CRM"
+          },
+          "wix": {
+            "en": "via Zapier",
+            "uk": "через Zapier"
+          },
+          "wp": {
+            "en": "limited",
+            "uk": "обмежена"
+          }
+        },
+        {
+          "_key": "row1b",
+          "custom": {
+            "en": "with photo progress",
+            "uk": "з фото-прогресом"
+          },
+          "param": {
+            "en": "Client portal",
+            "uk": "Особистий кабінет клієнта"
+          },
+          "wix": {
+            "en": "none",
+            "uk": "немає"
+          },
+          "wp": {
+            "en": "none",
+            "uk": "немає"
+          }
+        },
+        {
+          "_key": "row1c",
+          "custom": {
+            "en": "< 1s",
+            "uk": "< 1 сек"
+          },
+          "param": {
+            "en": "Page load speed",
+            "uk": "Швидкість завантаження"
+          },
+          "wix": {
+            "en": "2–4s",
+            "uk": "2–4 сек"
+          },
+          "wp": {
+            "en": "3–5s",
+            "uk": "3–5 сек"
+          }
+        },
+        {
+          "_key": "row1d",
+          "custom": {
+            "en": "your GitHub",
+            "uk": "ваш GitHub"
+          },
+          "param": {
+            "en": "Code ownership",
+            "uk": "Власність на код"
+          },
+          "wix": {
+            "en": "vendor lock-in",
+            "uk": "vendor lock"
+          },
+          "wp": {
+            "en": "vendor lock-in",
+            "uk": "vendor lock"
+          }
+        },
+        {
+          "_key": "row1e",
+          "custom": {
+            "en": "1 year + 30% penalty clause",
+            "uk": "1 рік + неустойка 30%"
+          },
+          "param": {
+            "en": "Warranty",
+            "uk": "Гарантія"
+          },
+          "wix": {
+            "en": "none",
+            "uk": "немає"
+          },
+          "wp": {
+            "en": "none",
+            "uk": "немає"
+          }
+        }
+      ],
+      "tableCtaGhost": {
+        "en": "Compare against WordPress",
+        "uk": "Порівняння з WordPress"
+      },
+      "tableCtaPrimary": {
+        "en": "Detailed builder comparison",
+        "uk": "Детальне порівняння конструкторів"
+      },
+      "tiers": [
+        {
+          "_key": "tier1f",
+          "ctaLabel": {
+            "en": "Choose Starter",
+            "uk": "Замовити базовий"
+          },
+          "excludes": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7zLm",
+              "en": "Client portal",
+              "uk": "Особистий кабінет клієнта"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7zOh",
+              "en": "3D visualizer",
+              "uk": "3D-візуалізатор"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7zRc",
+              "en": "Multilingual",
+              "uk": "Багатомовність"
+            }
+          ],
+          "excludesHeading": {
+            "en": "Not included",
+            "uk": "Не входить"
+          },
+          "includes": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7zUX",
+              "en": "Solo contractor or *single specialty*",
+              "uk": "Соло-майстер або *1 спеціалізація*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7zXS",
+              "en": "Up to 8 pages, mobile-responsive",
+              "uk": "До 8 сторінок з адаптивом"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7zaN",
+              "en": "Price calculator (*1 service type*)",
+              "uk": "Калькулятор ціни (*1 тип* послуги)"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7zdI",
+              "en": "Project gallery with filters",
+              "uk": "Галерея обʼєктів з фільтрами"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7zgD",
+              "en": "Lead form + 1 CRM integration",
+              "uk": "Лід-форма + інтеграція з 1 CRM"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7zj8",
+              "en": "Local SEO + Google Business Profile",
+              "uk": "Локальне SEO + Google Business Profile"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7zm3",
+              "en": "*Schema.org* LocalBusiness",
+              "uk": "*Schema.org* LocalBusiness"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7zoy",
+              "en": "1-year warranty",
+              "uk": "Гарантія 1 рік"
+            }
+          ],
+          "includesHeading": {
+            "en": "Includes",
+            "uk": "Що входить"
+          },
+          "price": {
+            "en": "$3,500",
+            "uk": "$3 500"
+          },
+          "title": {
+            "en": "Starter landing page\nfor a renovation contractor",
+            "uk": "Базовий лендинг\nремонтної компанії"
+          },
+          "weeks": {
+            "en": "4 weeks",
+            "uk": "4 тижні"
+          }
+        },
+        {
+          "_key": "tier1g",
+          "ctaLabel": {
+            "en": "Choose Pro",
+            "uk": "Замовити розширений"
+          },
+          "excludes": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7zrt",
+              "en": "3D visualizer",
+              "uk": "3D-візуалізатор"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7zuo",
+              "en": "VR tour",
+              "uk": "VR-тур"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H7zxj",
+              "en": "Multilingual",
+              "uk": "Багатомовність"
+            }
+          ],
+          "excludesHeading": {
+            "en": "Not included",
+            "uk": "Не входить"
+          },
+          "includes": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H800e",
+              "en": "Up to 30 pages",
+              "uk": "До 30 сторінок"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H803Z",
+              "en": "Cost calculators (*2–3 types*)",
+              "uk": "Калькулятори вартості (*2–3 типи*)"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H806U",
+              "en": "Before / after gallery with 2-column comparison",
+              "uk": "Галерея «до/після» з 2-col порівнянням"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H809P",
+              "en": "*Client portal*",
+              "uk": "*Особистий кабінет* клієнта"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H80CK",
+              "en": "Sanity CMS for self-serve edits",
+              "uk": "Sanity CMS для самостійних правок"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H80FF",
+              "en": "Integration with 2–3 CRM / back-office systems",
+              "uk": "Інтеграція з 2–3 CRM/системами"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H80IA",
+              "en": "Online estimate booking (Calendly)",
+              "uk": "Онлайн-замір (Calendly)"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H80L5",
+              "en": "*5+ neighborhood pages* for local search",
+              "uk": "*5+ район-сторінок* для локалу"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H80O0",
+              "en": "1-year warranty + *30% penalty clause*",
+              "uk": "Гарантія 1 рік + *неустойка 30%*"
+            }
+          ],
+          "includesHeading": {
+            "en": "Everything in Starter, plus",
+            "uk": "Все з базового +"
+          },
+          "isPopular": true,
+          "popularLabel": {
+            "en": "Most popular",
+            "uk": "Популярно"
+          },
+          "price": {
+            "en": "$6,500",
+            "uk": "$6 500"
+          },
+          "title": {
+            "en": "Pro site\nfor a renovation contractor",
+            "uk": "Розширений сайт\nремонтної компанії"
+          },
+          "weeks": {
+            "en": "6 weeks",
+            "uk": "6 тижнів"
+          }
+        },
+        {
+          "_key": "tier1h",
+          "ctaGhost": true,
+          "ctaLabel": {
+            "en": "Talk to us",
+            "uk": "Обговорити преміум"
+          },
+          "excludes": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H80lM",
+              "en": "Photo / video content creation",
+              "uk": "Створення фото/відео контенту"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H80oH",
+              "en": "3D models of individual jobs",
+              "uk": "3D-моделі окремих обʼєктів"
+            }
+          ],
+          "excludesHeading": {
+            "en": "Not included",
+            "uk": "Не входить"
+          },
+          "includes": [
+            {
+              "_key": "HJmXNYczL6aRqGsM8H80Qv",
+              "en": "*3D visualizer* Planoplan / SweetHome3D",
+              "uk": "*3D-візуалізатор* Planoplan / SweetHome3D"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H80Tq",
+              "en": "VR tour of projects",
+              "uk": "VR-тур по обʼєктах"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H80Wl",
+              "en": "Multi-tenant for branches / *residential developments*",
+              "uk": "Multi-tenant для філій / *ЖК*"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H80Zg",
+              "en": "Multilingual UA + RU + EN",
+              "uk": "Багатомовність UA + RU + EN"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H80cb",
+              "en": "Complex payment funnels (*milestone-based*)",
+              "uk": "Складні платіжні воронки (*milestone*)"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H80fW",
+              "en": "API for ERP / accounting systems",
+              "uk": "API для ERP / облікових систем"
+            },
+            {
+              "_key": "HJmXNYczL6aRqGsM8H80iR",
+              "en": "*24/7 SLA* with 4-hour response time",
+              "uk": "*SLA 24/7* з 4-год response time"
+            }
+          ],
+          "includesHeading": {
+            "en": "Everything in Pro, plus",
+            "uk": "Все з розширеного +"
+          },
+          "price": {
+            "en": "$12,000",
+            "uk": "$12 000"
+          },
+          "title": {
+            "en": "Enterprise /\ndesign studio",
+            "uk": "Преміум /\nдизайнерська студія"
+          },
+          "weeks": {
+            "en": "8–10 weeks",
+            "uk": "8–10 тижнів"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "sec1i",
+      "_type": "faqBlock",
+      "heading": {
+        "en": "Frequently asked questions",
+        "uk": "Часті питання"
+      },
+      "items": [
+        {
+          "_key": "faq1j",
+          "answer": [
+            {
+              "_key": "b1k",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s1l",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Базовий — "
+                },
+                {
+                  "_key": "s1m",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "4 тижні"
+                },
+                {
+                  "_key": "s1n",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " від брифу до запуску. Розширений — 6 тижнів. Преміум з 3D-візуалізатором — 8–10 тижнів. Терміни фіксуються в договорі. Не встигаємо з нашої вини — компенсуємо "
+                },
+                {
+                  "_key": "s1o",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "неустойкою 30%"
+                },
+                {
+                  "_key": "s1p",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "bden",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "seen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Starter — "
+                },
+                {
+                  "_key": "sfen",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "4 weeks"
+                },
+                {
+                  "_key": "sgen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " from brief to launch. Pro — 6 weeks. Enterprise with a 3D visualizer — 8–10 weeks. Deadlines are written into the contract. If we miss them on our end, we pay a "
+                },
+                {
+                  "_key": "shen",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "30% penalty"
+                },
+                {
+                  "_key": "sien",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How long does it take to launch a renovation-contractor website?",
+            "uk": "Скільки часу займає запуск сайту ремонтної компанії?"
+          }
+        },
+        {
+          "_key": "faq1q",
+          "answer": [
+            {
+              "_key": "b1r",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s1s",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Зробимо переїзд без втрати SEO-історії. Старі URL автоматично редиректяться на нові через "
+                },
+                {
+                  "_key": "s1t",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "301-редиректи"
+                },
+                {
+                  "_key": "s1u",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ". Google не втрачає ваші позиції. Перевіряємо всі точки відмови ще до перемикання домену. У портфоліо — 47 міграцій з "
+                },
+                {
+                  "_key": "s1v",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "0 SEO-падінь"
+                },
+                {
+                  "_key": "s1w",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "bjen",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "sken",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "We migrate without losing SEO history. Old URLs auto-redirect to the new ones via "
+                },
+                {
+                  "_key": "slen",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "301 redirects"
+                },
+                {
+                  "_key": "smen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ". Google rankings hold. We audit every failure point before the domain cuts over. Portfolio: 47 migrations with "
+                },
+                {
+                  "_key": "snen",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "zero SEO drops"
+                },
+                {
+                  "_key": "soen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "What happens to my old site?",
+            "uk": "Що робити зі старим сайтом?"
+          }
+        },
+        {
+          "_key": "faq1x",
+          "answer": [
+            {
+              "_key": "b1y",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s1z",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Ви даєте таблицю «"
+                },
+                {
+                  "_key": "s20",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "тип ремонту × тип роботи × ціна/м²"
+                },
+                {
+                  "_key": "s21",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "» у вашому регіоні. Ми переводимо це в калькулятор. Ціни змінюєте самостійно через адмінку без розробника — формула автоматично перерахується."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "bpen",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "sqen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "You give us a table of \""
+                },
+                {
+                  "_key": "sren",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "renovation type × work type × price per sq ft"
+                },
+                {
+                  "_key": "ssen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "\" for your region. We turn it into the calculator. You edit prices yourself through the admin — no developer — and the formula recomputes automatically."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How do we wire the calculator to our actual prices?",
+            "uk": "Як інтегрувати калькулятор з нашими реальними цінами?"
+          }
+        },
+        {
+          "_key": "faq22",
+          "answer": [
+            {
+              "_key": "b23",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s24",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Тільки з "
+                },
+                {
+                  "_key": "s25",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "письмового дозволу"
+                },
+                {
+                  "_key": "s26",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " замовника. Робимо шаблон згоди. Можна показувати анонімізовано — район замість точної адреси, фото без впізнаваних деталей. Багато клієнтів дозволяють згадати ЖК або район."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "bten",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "suen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Only with the client's "
+                },
+                {
+                  "_key": "sven",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "written consent"
+                },
+                {
+                  "_key": "swen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ". We provide a consent template. You can also anonymize — neighborhood instead of exact address, photos without identifying details. Plenty of clients let you mention the building or neighborhood."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Can we show real job addresses in the portfolio?",
+            "uk": "Чи можна показувати реальні адреси обʼєктів у портфоліо?"
+          }
+        },
+        {
+          "_key": "faq27",
+          "answer": [
+            {
+              "_key": "b28",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s29",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "CRM (Bitrix24/AmoCRM/KeyCRM): від "
+                },
+                {
+                  "_key": "s2a",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "$300"
+                },
+                {
+                  "_key": "s2b",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " кожна. Calendly або кастомний календар замірів: $200. 3D-візуалізатор Planoplan: $500–1 000. Особистий кабінет клієнта: $1 500. ERP/облікова система — окремий quote після технічного аудиту."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "bxen",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "syen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "CRM (Bitrix24 / AmoCRM / KeyCRM): from "
+                },
+                {
+                  "_key": "szen",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "$300"
+                },
+                {
+                  "_key": "s10en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " each. Calendly or a custom estimate-booking calendar: $200. 3D visualizer (Planoplan): $500–1,000. Client portal: $1,500. ERP / accounting integration — separate quote after a technical audit."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How do integrations get scoped?",
+            "uk": "Як рахуються інтеграції?"
+          }
+        },
+        {
+          "_key": "faq2c",
+          "answer": [
+            {
+              "_key": "b2d",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s2e",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Так. WayForPay, LiqPay, Mono Pay (UA), Stripe (для іноземних), USDT. Передплата "
+                },
+                {
+                  "_key": "s2f",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "30–50%"
+                },
+                {
+                  "_key": "s2g",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " — стандарт у будівництві. Можемо налаштувати milestone-платежі (30% старт + 35% після дизайну + 35% після здачі)."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "b11en",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s12en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Yes. WayForPay, LiqPay, Mono Pay (UA), Stripe (for international clients), USDT. A "
+                },
+                {
+                  "_key": "s13en",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "30–50%"
+                },
+                {
+                  "_key": "s14en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " deposit is standard in construction. We can wire up milestone payments (30% on start + 35% after design + 35% at handover)."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Can you wire up online deposit payments?",
+            "uk": "Чи можна підключити онлайн-оплату передоплати?"
+          }
+        },
+        {
+          "_key": "faq2h",
+          "answer": [
+            {
+              "_key": "b2i",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s2j",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "На старті — ми ("
+                },
+                {
+                  "_key": "s2k",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "3–5 готових кейсів"
+                },
+                {
+                  "_key": "s2l",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " з вашого архіву). Далі — ваш контент-менеджер або прораб з телефону. Адмінка дозволяє завантажувати фото групами і автоматично робити «до/після» pairs. Навчаємо за 1 годину."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "b15en",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s16en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "At launch — we do ("
+                },
+                {
+                  "_key": "s17en",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "3–5 ready cases"
+                },
+                {
+                  "_key": "s18en",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " from your archive). After that, your content manager or your foreman from a phone. The admin lets you upload photos in batches and auto-pair them into before/after sets. We train your team in an hour."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Who supplies the job-site photos?",
+            "uk": "Хто наповнюватиме сайт фото з обʼєктів?"
+          }
+        },
+        {
+          "_key": "faq2m",
+          "answer": [
+            {
+              "_key": "b2n",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s2o",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Так. "
+                },
+                {
+                  "_key": "s2p",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "Houzz portfolio sync"
+                },
+                {
+                  "_key": "s2q",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " автоматично підтягує обʼєкти з вашого Houzz-профілю на сайт. Pinterest — через embed або API. Instagram — embed-блок з останніми 9–12 публікаціями."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "b19en",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s1aen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Yes. "
+                },
+                {
+                  "_key": "s1ben",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "Houzz portfolio sync"
+                },
+                {
+                  "_key": "s1cen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " auto-pulls projects from your Houzz profile onto the site. Pinterest — via embed or API. Instagram — embed block with your last 9–12 posts."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Can you wire up Pinterest or Houzz?",
+            "uk": "Чи можна підключити Pinterest або Houzz?"
+          }
+        },
+        {
+          "_key": "faq2r",
+          "answer": [
+            {
+              "_key": "b2s",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s2t",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Шифрування трафіку ("
+                },
+                {
+                  "_key": "s2u",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "TLS 1.3"
+                },
+                {
+                  "_key": "s2v",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "), шифрування файлів у хмарі (AES-256), регулярні backup. GDPR-compliant. Особистий кабінет клієнта — login з 2FA. Cookie consent з opt-in."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "b1den",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s1een",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Traffic encryption ("
+                },
+                {
+                  "_key": "s1fen",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "TLS 1.3"
+                },
+                {
+                  "_key": "s1gen",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "), file encryption at rest in the cloud (AES-256), regular backups. GDPR-compliant. Client portal login with 2FA. Cookie consent with opt-in."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How is client data protected?",
+            "uk": "Як захищені дані клієнтів?"
+          }
+        },
+        {
+          "_key": "faq2w",
+          "answer": [
+            {
+              "_key": "b2x",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s2y",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "У Розширеному пакеті — UA + RU. У Преміум — "
+                },
+                {
+                  "_key": "s2z",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "UA + RU + EN"
+                },
+                {
+                  "_key": "s30",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ". Для специфічних ринків (FR для Франції або DA для Данії) — додаткова мова за $1 500. Працюємо з реальними кейсами в Україні, Франції, Данії."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "b1hen",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "s1ien",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Pro tier — UA + RU. Enterprise — "
+                },
+                {
+                  "_key": "s1jen",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "UA + RU + EN"
+                },
+                {
+                  "_key": "s1ken",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ". For specific markets (FR for France or DA for Denmark) — additional language for $1,500. We have real client projects shipping in Ukraine, France, and Denmark."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Can you build a multilingual version?",
+            "uk": "Чи можете зробити багатомовну версію?"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "sec31",
+      "_type": "auditBlock",
+      "disclaim": {
+        "en": "We send the report and one follow-up with examples of our work. No spam.",
+        "uk": "Не надсилаємо нічого, окрім звіту і одного листа з прикладами наших робіт. Без спаму."
+      },
+      "foot": {
+        "en": "No strings attached. No upsell. Useful even if you end up working with someone else.",
+        "uk": "Без зобовʼязань. Не навʼязуємо послуги. Корисно, навіть якщо вирішите працювати з іншим підрядником."
+      },
+      "heading": {
+        "en": "Free audit of your renovation-contractor website",
+        "uk": "Безкоштовний аудит сайту вашої ремонтної компанії"
+      },
+      "inputs": {
+        "contactPlaceholder": {
+          "en": "Email for the report",
+          "uk": "Email для звіту"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "uk": "Як до вас звертатися"
+        },
+        "phonePlaceholder": {
+          "en": "+1 (___) ___-____",
+          "uk": "+380 (__) ___-__-__"
+        },
+        "urlPlaceholder": {
+          "en": "https://...",
+          "uk": "https://..."
+        }
+      },
+      "list": [
+        {
+          "_key": "HJmXNYczL6aRqGsM8H80rC",
+          "en": "*SEO audit*: top 50 keyword queries in your region",
+          "uk": "*SEO-аудит*: топ-50 ключових запитів вашого регіону"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H80u7",
+          "en": "*CRO audit*: 12 conversion-loss points",
+          "uk": "*CRO-перевірка*: 12 точок втрати конверсії"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H80x2",
+          "en": "*Technical audit*: speed, mobile, Schema.org",
+          "uk": "*Технічний аудит*: швидкість, mobile, schema.org"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H80zx",
+          "en": "Prioritized improvement plan",
+          "uk": "План покращень з пріоритетами"
+        },
+        {
+          "_key": "HJmXNYczL6aRqGsM8H812s",
+          "en": "Ballpark cost for a rebuild or a new site",
+          "uk": "Орієнтовну вартість переробки або нового сайту"
+        }
+      ],
+      "sub": {
+        "en": "Send us your current site URL. We'll deliver the report as a PDF within *3 business days*.",
+        "uk": "Залиште посилання на ваш поточний сайт. Протягом *3 робочих днів* надішлемо звіт у PDF."
+      },
+      "submitLabel": {
+        "en": "Get a free audit",
+        "uk": "Отримати безкоштовний аудит"
+      }
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Custom websites for renovation and construction contractors: price calculator, before / after gallery, local SEO. Live in 4–6 weeks, 1-year warranty.",
+      "uk": "Кастомні сайти для ремонтних і будівельних компаній: калькулятор ціни, галерея «до/після», локальне SEO. Запуск 4–6 тижнів, гарантія 1 рік."
+    },
+    "title": {
+      "en": "Renovation & Construction Websites — Code-Site.Art",
+      "uk": "Сайти для ремонтних і будівельних компаній — Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "renovation"
+  },
+  "status": "published",
+  "title": {
+    "en": "Renovation and construction websites",
+    "uk": "Сайти для ремонтних і будівельних компаній"
+  }
+}

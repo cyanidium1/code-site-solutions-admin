@@ -1,0 +1,611 @@
+{
+  "_createdAt": "2026-05-04T01:38:37Z",
+  "_id": "caseStudy.efedra-clinic",
+  "_rev": "DHIwRDN3sEoI638qoYN1Z7",
+  "_system": {
+    "base": {
+      "id": "caseStudy.efedra-clinic",
+      "rev": "tYwdV2ldLdzJB4kwq02dpo"
+    }
+  },
+  "_type": "caseStudy",
+  "_updatedAt": "2026-06-04T16:41:41Z",
+  "budget": "$5,000",
+  "budgetBucket": {
+    "_ref": "budgetBucketOption.3-7k",
+    "_type": "reference"
+  },
+  "client": "Efedra Clinic",
+  "country": {
+    "_ref": "countryOption.UA",
+    "_type": "reference"
+  },
+  "coverImage": {
+    "alt": {
+      "en": "Efedra Clinic — new site after the redesign",
+      "uk": "Efedra Clinic — новий сайт після редизайну"
+    },
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-4fd9ac3fd8c063448479c0ac645daa68e81357e3-1197x898-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "duration": {
+    "en": "6 weeks",
+    "uk": "6 тижнів"
+  },
+  "featured": true,
+  "hero": {
+    "eyebrow": {
+      "en": "/ CASE STUDY",
+      "uk": "/ CASE STUDY"
+    },
+    "heading": {
+      "en": "Efedra Clinic — dental practice and *aesthetic studio* in Odesa",
+      "uk": "Efedra Clinic — стоматологія і *студія краси* в Одесі"
+    },
+    "heroImage": {
+      "_type": "imageWithLocalizedAlt",
+      "alt": {
+        "_type": "localizedString",
+        "en": "Efedra Clinic website shown on laptop and phone",
+        "uk": "Сайт Efedra Clinic на ноутбуці і телефоні"
+      },
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-5eb5b10ef9c6d01be55a1ebad066b923db6059c5-1199x1133-png",
+          "_type": "reference"
+        }
+      }
+    },
+    "link": {
+      "_type": "ctaAction",
+      "href": "https://www.efedracenter.com/",
+      "label": {
+        "_type": "localizedString",
+        "en": "Visit site",
+        "uk": "Переглянути сайт"
+      },
+      "type": "custom"
+    },
+    "metrics": [],
+    "subheading": {
+      "en": "A two-line practice in Odesa: dental + aesthetic medicine. We moved it off legacy Tilda onto Next.js + Sanity with mobile online booking and local SEO.",
+      "uk": "Двонапрямкова клініка в Одесі: стоматологія + естетична медицина. Перенесли з застарілого Tilda на Next.js + Sanity з мобільним онлайн-записом і локальним SEO."
+    }
+  },
+  "industry": {
+    "_ref": "industryPage.medicine",
+    "_type": "reference"
+  },
+  "metricsLine": {
+    "en": "3.2× inquiries · LCP 0.8s · Top-3 Google",
+    "uk": "×3.2 заявок · LCP 0.8s · Top-3 Google"
+  },
+  "order": 1,
+  "region": {
+    "en": "Odesa, Ukraine",
+    "uk": "Одеса, Україна"
+  },
+  "sections": [
+    {
+      "_key": "sec1",
+      "_type": "statsBlock",
+      "items": [
+        {
+          "_key": "m2",
+          "label": {
+            "en": "more inquiries per month",
+            "uk": "більше заявок на місяць"
+          },
+          "value": "×3.2"
+        },
+        {
+          "_key": "m3",
+          "label": {
+            "en": "LCP (was 4.2s)",
+            "uk": "LCP (було 4.2s)"
+          },
+          "value": "0.8s"
+        },
+        {
+          "_key": "m4",
+          "label": {
+            "en": "Lighthouse performance",
+            "uk": "Lighthouse performance"
+          },
+          "value": "98"
+        },
+        {
+          "_key": "m5",
+          "label": {
+            "en": "Google for local queries",
+            "uk": "Google по local запитам"
+          },
+          "value": "Top-3"
+        }
+      ]
+    },
+    {
+      "_key": "sec6",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b7",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s8",
+              "_type": "span",
+              "marks": [],
+              "text": "Клієнт мав застарілий сайт на Tilda 2021 року. Він не підтримував онлайн-запис, мав слабкий маркетинг і втрачав 60%+ потенційних пацієнтів через поганий UX та відсутність інструментів конверсії."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "b1en",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s2en",
+              "_type": "span",
+              "marks": [],
+              "text": "The client had a legacy Tilda site from 2021. It didn't support online booking, the marketing was weak, and 60%+ of prospective patients dropped off because of poor UX and missing conversion tools."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "cross",
+      "bulletList": [
+        {
+          "_key": "2KB7PmPZrihzQa1edpl4tw",
+          "en": "The site took more than 5 seconds to load on mobile",
+          "uk": "Сайт завантажувався понад 5 секунд на мобільному"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl4v2",
+          "en": "Wasn't ranking on Google for key queries",
+          "uk": "Не ранжувався в Google за ключовими запитами"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl4w8",
+          "en": "No real booking form — just basic contact details",
+          "uk": "Не було зручної форми запису — лише базові контакти"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl4xE",
+          "en": "No marketing system in place (CTAs, funnel, conversion logic)",
+          "uk": "Відсутня маркетингова система (CTA, воронка, логіка конверсії)"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl4yK",
+          "en": "Multilingual was wired up wrong (mixed RU/UA copy, no language switcher)",
+          "uk": "Мультимовність реалізована некоректно (змішані RU/UA тексти, без перемикання)"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl4zQ",
+          "en": "The Tilda admin was limited and clumsy on a phone",
+          "uk": "Адмінка на Tilda була обмежена та незручна з телефону"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl50W",
+          "en": "Steep subscription fees from Tilda's pricing model",
+          "uk": "Висока абонплата через тарифну модель Tilda"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl51c",
+          "en": "The site ran unstably and had intermittent downtime",
+          "uk": "Сайт працював нестабільно та періодично падав"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl52i",
+          "en": "No clear split between services (dental + aesthetic)",
+          "uk": "Не було чіткого розділення послуг (стоматологія + краса)"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ CHALLENGE",
+        "uk": "/ CHALLENGE"
+      },
+      "heading": {
+        "en": "What the *client brought in*",
+        "uk": "З чим *прийшов клієнт*"
+      },
+      "image": {
+        "alt": {
+          "en": "Efedra Clinic — old Tilda site before the redesign",
+          "uk": "Старий сайт Efedra Clinic на Tilda до редизайну"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-82f6199d03be33c47fbf2d24d16363f70494faf9-1280x960-jpg",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageRight",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "sec9",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "ba",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sb",
+              "_type": "span",
+              "marks": [],
+              "text": "Ми розробили новий сайт з нуля на Next.js + Sanity CMS. Структурували послуги (стоматологія та краса), покращили UX і впровадили систему конверсії з коректною SEO- та мультимовною архітектурою."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "b3en",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s4en",
+              "_type": "span",
+              "marks": [],
+              "text": "We built a new site from scratch on Next.js + Sanity CMS. Structured the services (dental and aesthetic), tightened the UX, and put a real conversion system in place with proper SEO and multilingual architecture."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "2KB7PmPZrihzQa1edpl53o",
+          "en": "Fully custom site on Next.js + Sanity CMS",
+          "uk": "Повністю кастомний сайт на Next.js + Sanity CMS"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl54u",
+          "en": "Fast mobile-first experience with optimized performance",
+          "uk": "Швидкий mobile-first досвід з оптимізованою продуктивністю"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl560",
+          "en": "Online booking with a deliberate user flow",
+          "uk": "Онлайн-запис із продуманим користувацьким сценарієм"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl576",
+          "en": "Clear split between business lines (dental + aesthetic)",
+          "uk": "Чітке розділення напрямків (стоматологія + краса)"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl58C",
+          "en": "Clear, easy-to-read service price lists",
+          "uk": "Зручні та зрозумілі прайси послуг"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl59I",
+          "en": "CMS that's easy to edit, including from a phone",
+          "uk": "CMS для простого редагування, у тому числі з телефону"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl5AO",
+          "en": "No subscription fees — full control over the platform",
+          "uk": "Відсутність абонплати — повний контроль над платформою"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl5BU",
+          "en": "Proper multilingual setup with SEO indexing",
+          "uk": "Коректна мультимовність з SEO-індексацією"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl5Ca",
+          "en": "Telegram integration for lead handling",
+          "uk": "Інтеграція з Telegram для обробки лідів"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl5Dg",
+          "en": "SEO running for 3 months → inquiries from organic traffic already in",
+          "uk": "SEO ведеться 3 місяці → вже є заявки з органічного трафіку"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ SOLUTION",
+        "uk": "/ SOLUTION"
+      },
+      "heading": {
+        "en": "What we *did*",
+        "uk": "Що ми *зробили*"
+      },
+      "image": {
+        "alt": {
+          "en": "Efedra Clinic — new site on Next.js and Sanity, post-launch",
+          "uk": "Новий сайт Efedra Clinic на Next.js та Sanity після запуску"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-4fd9ac3fd8c063448479c0ac645daa68e81357e3-1197x898-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "secc",
+      "_type": "mediaGalleryBlock",
+      "enableLightbox": true,
+      "images": [
+        {
+          "_key": "imgd",
+          "alt": {
+            "en": "Efedra Clinic — homepage",
+            "uk": "Efedra Clinic — головна сторінка сайту"
+          },
+          "caption": {
+            "en": "Home",
+            "uk": "Головна"
+          },
+          "displayMode": "desktopScreenshot",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-4f8e28f71085c851ca08c01b70b7896ec56395e0-1004x753-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "top"
+        },
+        {
+          "_key": "imge",
+          "alt": {
+            "en": "Efedra Clinic — interior-page design samples",
+            "uk": "Efedra Clinic — приклади дизайну внутрішніх сторінок"
+          },
+          "caption": {
+            "en": "Interior-page design samples",
+            "uk": "Приклади дизайну внутрішніх сторінок"
+          },
+          "displayMode": "desktopScreenshot",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-d5f9067d549f28b86144cb97955aed00b11c33c7-989x742-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "top"
+        },
+        {
+          "_key": "imgf",
+          "alt": {
+            "en": "Efedra Clinic — mobile site",
+            "uk": "Efedra Clinic — мобільна версія сайту"
+          },
+          "caption": {
+            "en": "Mobile version",
+            "uk": "Мобільна версія"
+          },
+          "displayMode": "mobileScreenshot",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-9d315ba006197d52c3a590d9093aebf59cff3943-1112x834-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "top"
+        },
+        {
+          "_key": "imgg",
+          "alt": {
+            "en": "Efedra Clinic — Sanity CMS admin",
+            "uk": "Efedra Clinic — адмінпанель Sanity CMS"
+          },
+          "caption": {
+            "en": "Admin panel (Sanity CMS)",
+            "uk": "Адмінпанель (Sanity CMS)"
+          },
+          "displayMode": "adminPanel",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-145c2ff6c7c770897123d8b7cbbff0067860ae47-1209x907-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "top"
+        }
+      ]
+    },
+    {
+      "_key": "sech",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bi",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sj",
+              "_type": "span",
+              "marks": [],
+              "text": "Через 3 місяці після запуску — нової версії сайту приніс ×3.2 більше заявок на місяць. Мобільний трафік виріс у 4 рази через локальне SEO. Адміністратор клініки витрачає на оновлення контенту в 5 разів менше часу — все самостійно через Sanity."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        },
+        {
+          "_key": "bk",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sl",
+              "_type": "span",
+              "marks": [],
+              "text": "Загальний ROI сайту окупився за 4 місяці тільки через додаткові заявки."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "b5en",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s6en",
+              "_type": "span",
+              "marks": [],
+              "text": "Three months after launch, the new site was bringing in 3.2× more inquiries per month. Mobile traffic grew 4× thanks to local SEO. The clinic's office manager spends 5× less time updating content — all self-serve through Sanity."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        },
+        {
+          "_key": "b7en",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s8en",
+              "_type": "span",
+              "marks": [],
+              "text": "The site's overall ROI paid back in 4 months on additional inquiries alone."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletList": [
+        {
+          "_key": "2KB7PmPZrihzQa1edpl5Em",
+          "en": "Inquiries per month: 8 → 25",
+          "uk": "Заявок на місяць: 8 → 25"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl5Fs",
+          "en": "Mobile traffic: 4×",
+          "uk": "Мобільний трафік: ×4"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl5Gy",
+          "en": "Content update time: −80%",
+          "uk": "Час оновлення контенту: −80%"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl5I4",
+          "en": "Cost per acquisition: −62%",
+          "uk": "Cost per acquisition: −62%"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl5JA",
+          "en": "Bounce rate: 68% → 41%",
+          "uk": "Bounce rate: 68% → 41%"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ OUTCOME",
+        "uk": "/ OUTCOME"
+      },
+      "heading": {
+        "en": "Results 3 months after *launch*",
+        "uk": "Результат через 3 місяці після *запуску*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "en": "Efedra Clinic website on mobile",
+          "uk": "Мобільна версія сайту Efedra Clinic"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-e1ac99246db30c9177c0e11a19b7cc8cf9526573-725x427-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "image2": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "en": "Efedra Clinic website on desktop",
+          "uk": "Десктопна версія сайту Efedra Clinic"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-1f2d6c060cd58dbf97f81db38d36e7f963f1526e-866x458-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "centered"
+    },
+    {
+      "_key": "secm",
+      "_type": "quoteBlock",
+      "authorName": "Марія К.",
+      "authorRole": {
+        "en": "Project SEO lead",
+        "uk": "СЕО Проекту"
+      },
+      "quote": {
+        "en": "Everything works and I'm thrilled. Huge thanks! I'll refer anyone who needs your help.\n\nP.S. and inquiries from organic search finally started coming in!",
+        "uk": "Все працює і я задоволена. Дякую величезне!) Якщо комусь буде потрібна ваша допомога, обов'язково порекомендую.\n\nП.С. ще й нарешті заявки з органіки пішли!"
+      }
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "How we rebuilt the website for a dental practice + aesthetic studio. Custom-coded on Next.js + Sanity. Result: 3.2× inquiries, LCP 0.8s, Top-3 Google.",
+      "uk": "Як ми переробили сайт стоматологічної клініки + студії краси. Custom-coded на Next.js + Sanity. Результат: ×3.2 заявок, LCP 0.8s, Top-3 Google."
+    },
+    "title": {
+      "en": "Efedra Clinic — clinic-website redesign case in Odesa",
+      "uk": "Efedra Clinic — кейс редизайну сайту клініки в Одесі"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "efedra-clinic"
+  },
+  "stack": [
+    "Next.js",
+    "Sanity",
+    "Vercel"
+  ],
+  "status": "published",
+  "title": {
+    "en": "Efedra Clinic",
+    "uk": "Efedra Clinic"
+  },
+  "year": 2025,
+  "youtubeId": "4asVKZhnY9c"
+}

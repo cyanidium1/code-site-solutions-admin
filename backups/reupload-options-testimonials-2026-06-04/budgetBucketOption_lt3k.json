@@ -1,0 +1,16 @@
+{
+  "_createdAt": "2026-05-30T19:46:16Z",
+  "_id": "budgetBucketOption.lt3k",
+  "_rev": "UAjCtlAuHSg7wG7TzHOXwx",
+  "_type": "budgetBucketOption",
+  "_updatedAt": "2026-05-30T19:46:16Z",
+  "name": {
+    "en": "Under $3k",
+    "uk": "До $3k"
+  },
+  "order": 10,
+  "slug": {
+    "_type": "slug",
+    "current": "lt3k"
+  }
+}

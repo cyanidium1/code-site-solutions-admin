@@ -1,0 +1,16 @@
+{
+  "_createdAt": "2026-05-30T19:46:09Z",
+  "_id": "countryOption.UA",
+  "_rev": "tYwdV2ldLdzJB4kwq0r8o4",
+  "_type": "countryOption",
+  "_updatedAt": "2026-05-30T19:46:09Z",
+  "name": {
+    "en": "Ukraine",
+    "uk": "Україна"
+  },
+  "order": 10,
+  "slug": {
+    "_type": "slug",
+    "current": "UA"
+  }
+}

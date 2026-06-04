@@ -1,0 +1,417 @@
+{
+  "_createdAt": "2026-06-02T07:12:55Z",
+  "_id": "caseStudy.clarion-solutions",
+  "_rev": "6tWqPRZWZzG4Lv3HK7INA2",
+  "_system": {
+    "base": {
+      "id": "caseStudy.clarion-solutions",
+      "rev": "2L5iqaQa3UmcCheddo6XuV"
+    }
+  },
+  "_type": "caseStudy",
+  "_updatedAt": "2026-06-04T16:41:58Z",
+  "client": "Clarion Solutions",
+  "coverImage": {
+    "_type": "imageWithLocalizedAlt",
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-34c3866f58dbfda3b11bee55fb64c0860ed5821f-2560x2000-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "duration": {
+    "en": "6 weeks",
+    "uk": "6 тижнів"
+  },
+  "featured": false,
+  "hero": {
+    "eyebrow": {
+      "en": "/ CASE STUDY",
+      "uk": "/ CASE STUDY"
+    },
+    "heading": {
+      "en": "Clarion Solutions - website for *AI automation and local SEO services*",
+      "uk": "Clarion Solutions — сайт агенції *AI-автоматизації та Local SEO*"
+    },
+    "link": {
+      "_type": "ctaAction",
+      "href": "https://www.clarionsol.com/"
+    },
+    "metrics": [
+      {
+        "_key": "hm1",
+        "label": {
+          "en": "service packages",
+          "uk": "пакети послуг"
+        },
+        "value": "4"
+      },
+      {
+        "_key": "hm2",
+        "label": {
+          "en": "interactive AI demo",
+          "uk": "інтерактивна AI-демонстрація"
+        },
+        "value": "1"
+      },
+      {
+        "_key": "hm3",
+        "label": {
+          "en": "directions: SEO, AI, CRM, web, media",
+          "uk": "напрямів: SEO, AI, CRM, web, media"
+        },
+        "value": "5+"
+      },
+      {
+        "_key": "hm4",
+        "label": {
+          "en": "lead-generation structure",
+          "uk": "структура генерації заявок"
+        },
+        "value": "1"
+      }
+    ],
+    "subheading": {
+      "en": "A corporate website that explains AI and SEO services in practical terms, includes an interactive demo, and drives business consultations.",
+      "uk": "Сайт пояснює складні AI-рішення зрозумілою мовою, демонструє автоматизацію через демо-блок і веде бізнес до консультації."
+    }
+  },
+  "metricsLine": {
+    "en": "4 service packages · 1 interactive AI demo · 5+ service directions · 1 inquiry-generation structure",
+    "uk": "4 пакети послуг · 1 інтерактивна AI-демонстрація · 5+ напрямів: SEO, AI, CRM, web, media · 1 структура генерації заявок"
+  },
+  "order": 26,
+  "region": {
+    "en": "Ukraine",
+    "uk": "Україна"
+  },
+  "sections": [
+    {
+      "_key": "sec6",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1d",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s1e",
+              "_type": "span",
+              "marks": [],
+              "text": "Для AI-агенції замало переліку послуг: клієнту потрібні прикладні сценарії, зрозуміла вигода і чіткий шлях до впровадження."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec6",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec6",
+              "_type": "span",
+              "marks": [],
+              "text": "For an AI agency, a service list is not enough. Business clients need real examples, practical outcomes, and a clear path to implementation."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "cross",
+      "bulletList": [
+        {
+          "_key": "AKqZen6zsRd6FZqAiYVPcD",
+          "en": "Explain AI automation and Local SEO clearly",
+          "uk": "Пояснити AI-автоматизацію і Local SEO просто"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYVPg7",
+          "en": "Show applied business scenarios",
+          "uk": "Показати реальні бізнес-сценарії"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYVPk1",
+          "en": "Unify service directions into one system",
+          "uk": "Структурувати сервіси в єдину систему"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYVPnv",
+          "en": "Guide users to audit and consultation actions",
+          "uk": "Побудувати шлях до аудиту та консультації"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ CHALLENGE",
+        "uk": "/ CHALLENGE"
+      },
+      "heading": {
+        "en": "What the *client* came with",
+        "uk": "З чим прийшов *клієнт*"
+      },
+      "imageVariant": "imageRight",
+      "variant": "centered"
+    },
+    {
+      "_key": "sec9",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1f",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s1g",
+              "_type": "span",
+              "marks": [],
+              "text": "Розробили корпоративний сайт з фокусом на сервіси, AI-демо, пакети співпраці та генерацію звернень від бізнесу."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec9",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec9",
+              "_type": "span",
+              "marks": [],
+              "text": "We built a corporate site focused on service clarity, interactive automation demo, package presentation, and inquiry conversion."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "AKqZen6zsRd6FZqAiYVPrp",
+          "en": "Structured service map: SEO, AI, CRM, web, media",
+          "uk": "Структуровані сервіси: SEO, AI, CRM, web, media"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYVPvj",
+          "en": "Interactive AI demo block with practical scenario",
+          "uk": "Інтерактивний демо-блок автоматизації"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYVPzd",
+          "en": "Transparent package and process presentation",
+          "uk": "Презентація пакетів і процесу роботи"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYVQ3X",
+          "en": "Blog for SEO, AI, and local business growth topics",
+          "uk": "Блог про SEO, AI і локальний бізнес"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ SOLUTION",
+        "uk": "/ SOLUTION"
+      },
+      "heading": {
+        "en": "What we *did*",
+        "uk": "Що ми *зробили*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-34c3866f58dbfda3b11bee55fb64c0860ed5821f-2560x2000-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "fd187ec9f59b",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1h",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s1i",
+              "_type": "span",
+              "marks": [],
+              "text": "Команда Clarion Solutions може керувати сервісними сторінками, контентом блогу та комерційними блоками без розробника."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-cms",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-cms",
+              "_type": "span",
+              "marks": [],
+              "text": "Clarion Solutions can independently update service pages, blog content, and key conversion sections."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "AKqZen6zsRd6FZqAiYVQ7R",
+          "en": "Update service packages and offers",
+          "uk": "Оновлення пакетів послуг"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYVQBL",
+          "en": "Publish and edit blog materials",
+          "uk": "Публікація матеріалів блогу"
+        },
+        {
+          "_key": "AKqZen6zsRd6FZqAiYVQFF",
+          "en": "Manage CTA and lead-form content",
+          "uk": "Керування CTA та лід-формами"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ CMS",
+        "uk": "/ CMS"
+      },
+      "heading": {
+        "en": "Admin panel for managing *services and demo content*",
+        "uk": "Адмін-панель для оновлення *сервісів і демо-контенту*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-9a51e68deca8955985f57542524aa61d948539ef-2940x1836-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageRight",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "ab30488749ba",
+      "_type": "mediaGalleryBlock",
+      "enableLightbox": true,
+      "images": [
+        {
+          "_key": "4cd57c19df09",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-34c3866f58dbfda3b11bee55fb64c0860ed5821f-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "58e89637a197",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-bdb4b047087b88937dc3b32b762f4614ffdf550f-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        }
+      ]
+    },
+    {
+      "_key": "sech",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1j",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s1k",
+              "_type": "span",
+              "marks": [],
+              "text": "Clarion Solutions отримала інструмент залучення клієнтів для AI та SEO-послуг: сайт підсилює експертність і переводить відвідувача від інтересу до звернення."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-out",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-out",
+              "_type": "span",
+              "marks": [],
+              "text": "Clarion Solutions received a client-acquisition platform for AI and SEO services with clearer value communication and stronger consultation flow."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ OUTCOME",
+        "uk": "/ OUTCOME"
+      },
+      "heading": {
+        "en": "Result",
+        "uk": "Результат"
+      },
+      "variant": "centered"
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "AI automation and Local SEO website with demo-led conversion architecture.",
+      "uk": "Сайт пояснює складні AI-рішення зрозумілою мовою, демонструє автоматизацію через демо-блок і веде бізнес до консультації."
+    },
+    "title": {
+      "en": "Clarion Solutions - case study | Code-Site.Art",
+      "uk": "Clarion Solutions — кейс | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "clarion-solutions"
+  },
+  "stack": [
+    "Next.js",
+    "Sanity"
+  ],
+  "status": "published",
+  "title": {
+    "en": "Clarion Solutions",
+    "uk": "Clarion Solutions"
+  },
+  "year": 2026
+}

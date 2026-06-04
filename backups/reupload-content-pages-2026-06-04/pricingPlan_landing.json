@@ -1,0 +1,69 @@
+{
+  "_createdAt": "2026-05-29T18:20:14Z",
+  "_id": "pricingPlan.landing",
+  "_rev": "UAjCtlAuHSg7wG7TzGJZIs",
+  "_type": "pricingPlan",
+  "_updatedAt": "2026-05-29T18:20:14Z",
+  "ctaGhost": false,
+  "ctaLabel": {
+    "en": "Choose Landing",
+    "uk": "Обрати Лендінг"
+  },
+  "currency": "USD",
+  "excludes": [
+    {
+      "en": "Multilingual support",
+      "uk": "Багатомовність"
+    },
+    {
+      "en": "CMS for self-editing",
+      "uk": "CMS для самостійного редагування"
+    },
+    {
+      "en": "Blog",
+      "uk": "Блог"
+    },
+    {
+      "en": "Complex integrations",
+      "uk": "Складні інтеграції"
+    }
+  ],
+  "excludesHeading": {
+    "en": "Doesn't include",
+    "uk": "Не входить"
+  },
+  "includes": [
+    {
+      "en": "Responsive build",
+      "uk": "Адаптивна верстка"
+    },
+    {
+      "en": "SEO-first structure",
+      "uk": "SEO-структура"
+    },
+    {
+      "en": "Form integrations",
+      "uk": "Інтеграція форм"
+    },
+    {
+      "en": "1-year warranty",
+      "uk": "Гарантія 1 рік"
+    }
+  ],
+  "includesHeading": {
+    "en": "Includes",
+    "uk": "Що входить"
+  },
+  "isPopular": false,
+  "name": {
+    "en": "Landing",
+    "uk": "Лендінг"
+  },
+  "order": 0,
+  "planKey": "landing",
+  "priceFrom": 800,
+  "weeks": {
+    "en": "1–2 weeks",
+    "uk": "1-2 тижні"
+  }
+}

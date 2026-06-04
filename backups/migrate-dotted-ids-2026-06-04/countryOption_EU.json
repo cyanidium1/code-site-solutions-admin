@@ -1,0 +1,16 @@
+{
+  "_createdAt": "2026-05-30T19:46:15Z",
+  "_id": "countryOption.EU",
+  "_rev": "tYwdV2ldLdzJB4kwq0r92K",
+  "_type": "countryOption",
+  "_updatedAt": "2026-05-30T19:46:15Z",
+  "name": {
+    "en": "Other / EU",
+    "uk": "Інше / ЄС"
+  },
+  "order": 70,
+  "slug": {
+    "_type": "slug",
+    "current": "EU"
+  }
+}

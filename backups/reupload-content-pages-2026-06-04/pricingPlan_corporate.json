@@ -1,0 +1,92 @@
+{
+  "_createdAt": "2026-05-29T18:20:15Z",
+  "_id": "pricingPlan.corporate",
+  "_rev": "UAjCtlAuHSg7wG7TzGkxPZ",
+  "_system": {
+    "base": {
+      "id": "pricingPlan.corporate",
+      "rev": "UAjCtlAuHSg7wG7TzGJZSv"
+    }
+  },
+  "_type": "pricingPlan",
+  "_updatedAt": "2026-05-30T06:44:41Z",
+  "ctaGhost": false,
+  "ctaLabel": {
+    "en": "Choose Corporate",
+    "uk": "Обрати Корпоративний"
+  },
+  "currency": "USD",
+  "excludes": [
+    {
+      "_key": "tYwdV2ldLdzJB4kwq0c3qo",
+      "en": "Dedicated team (5–7 people)",
+      "uk": "Виділена команда (5–7 осіб)"
+    },
+    {
+      "_key": "tYwdV2ldLdzJB4kwq0c3rM",
+      "en": "24/7 SLA",
+      "uk": "24/7 SLA"
+    },
+    {
+      "_key": "tYwdV2ldLdzJB4kwq0c3ru",
+      "en": "Complex SaaS architecture",
+      "uk": "Складна SaaS-архітектура"
+    },
+    {
+      "_key": "tYwdV2ldLdzJB4kwq0c3sS",
+      "en": "Custom integrations",
+      "uk": "Кастомні інтеграції"
+    }
+  ],
+  "excludesHeading": {
+    "en": "Doesn't include",
+    "uk": "Не входить"
+  },
+  "includes": [
+    {
+      "_key": "tYwdV2ldLdzJB4kwq0c3o4",
+      "en": "CMS, blog",
+      "uk": "CMS, блог"
+    },
+    {
+      "_key": "tYwdV2ldLdzJB4kwq0c3oc",
+      "en": "5+ integrations",
+      "uk": "5+ інтеграцій"
+    },
+    {
+      "_key": "tYwdV2ldLdzJB4kwq0c3pA",
+      "en": "Local SEO",
+      "uk": "Локальне SEO"
+    },
+    {
+      "_key": "tYwdV2ldLdzJB4kwq0c3pi",
+      "en": "Compliance: GDPR / HIPAA-ready",
+      "uk": "Compliance: МОЗ / RODO / HIPAA-aware"
+    },
+    {
+      "_key": "tYwdV2ldLdzJB4kwq0c3qG",
+      "en": "Multilingual (2+ languages)",
+      "uk": "Багатомовність"
+    }
+  ],
+  "includesHeading": {
+    "en": "Everything in Landing, plus",
+    "uk": "Все з Лендінгу +"
+  },
+  "isPopular": true,
+  "name": {
+    "en": "Corporate Website",
+    "uk": "Корпоративний сайт"
+  },
+  "order": 10,
+  "planKey": "corporate",
+  "popularLabel": {
+    "en": "★ MOST POPULAR",
+    "uk": "★ НАЙПОПУЛЯРНІШЕ"
+  },
+  "priceFrom": 3500,
+  "weeks": {
+    "en": "4–8 weeks",
+    "uk": "4-8 тижнів"
+  }
+}

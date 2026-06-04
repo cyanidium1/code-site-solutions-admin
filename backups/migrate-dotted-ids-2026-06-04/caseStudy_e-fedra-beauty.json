@@ -1,0 +1,418 @@
+{
+  "_createdAt": "2026-06-02T07:12:53Z",
+  "_id": "caseStudy.e-fedra-beauty",
+  "_rev": "6tWqPRZWZzG4Lv3HK7INox",
+  "_system": {
+    "base": {
+      "id": "caseStudy.e-fedra-beauty",
+      "rev": "2L5iqaQa3UmcCheddo7n8A"
+    }
+  },
+  "_type": "caseStudy",
+  "_updatedAt": "2026-06-04T16:42:21Z",
+  "client": "E-Fedra Beauty",
+  "coverImage": {
+    "_type": "imageWithLocalizedAlt",
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-1bb70e0fa203a676d96c9ff9621b4894a6e6682d-2560x2000-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "duration": {
+    "en": "6 weeks",
+    "uk": "6 тижнів"
+  },
+  "featured": false,
+  "hero": {
+    "eyebrow": {
+      "en": "/ CASE STUDY",
+      "uk": "/ CASE STUDY"
+    },
+    "heading": {
+      "en": "E-Fedra Beauty - website for an *aesthetic medicine and cosmetology clinic*",
+      "uk": "E-Fedra Beauty — сайт для клініки *естетичної медицини та косметології*"
+    },
+    "link": {
+      "_type": "ctaAction",
+      "href": "https://www.efedra-beauty.com/"
+    },
+    "metrics": [
+      {
+        "_key": "hm1",
+        "label": {
+          "en": "directions: cosmetology, aesthetics, care",
+          "uk": "напрями: косметологія, естетика, догляд"
+        },
+        "value": "3"
+      },
+      {
+        "_key": "hm2",
+        "label": {
+          "en": "structured service price list",
+          "uk": "структурований прайс-лист"
+        },
+        "value": "1"
+      },
+      {
+        "_key": "hm3",
+        "label": {
+          "en": "key sections",
+          "uk": "ключових розділів"
+        },
+        "value": "5+"
+      },
+      {
+        "_key": "hm4",
+        "label": {
+          "en": "SEO blog",
+          "uk": "SEO-блог"
+        },
+        "value": "1"
+      }
+    ],
+    "subheading": {
+      "en": "A service-focused website that helps clients choose procedures, check pricing, and book a consultation.",
+      "uk": "Сайт, що допомагає клієнту знайти процедуру, переглянути прайс, отримати відповіді і записатися на консультацію."
+    }
+  },
+  "metricsLine": {
+    "en": "3 core directions · 1 structured price list · 5+ key sections · 1 SEO blog",
+    "uk": "3 напрями: косметологія, естетика, догляд · 1 структурований прайс-лист · 5+ ключових розділів · 1 SEO-блог"
+  },
+  "order": 24,
+  "region": {
+    "en": "Ukraine",
+    "uk": "Україна"
+  },
+  "sections": [
+    {
+      "_key": "sec6",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bx",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sy",
+              "_type": "span",
+              "marks": [],
+              "text": "Для клініки краси важливо не лише показати перелік процедур, а допомогти клієнту прийняти рішення до запису через довіру і зрозумілу структуру."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec6",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec6",
+              "_type": "span",
+              "marks": [],
+              "text": "For a beauty clinic, listing procedures is not enough. The user needs clarity, trust, and enough context to make a decision before booking."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "cross",
+      "bulletList": [
+        {
+          "_key": "2L5iqaQa3UmcCheddo73hS",
+          "en": "Structure a large set of services and prices",
+          "uk": "Структурувати великий перелік послуг і цін"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo73lB",
+          "en": "Build a clear path from service view to booking",
+          "uk": "Побудувати шлях від процедури до запису"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo73ou",
+          "en": "Strengthen perceived expertise and trust",
+          "uk": "Підсилити експертність бренду"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo73sd",
+          "en": "Launch a blog for SEO and educational content",
+          "uk": "Запустити блог для SEO і освітнього контенту"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ CHALLENGE",
+        "uk": "/ CHALLENGE"
+      },
+      "heading": {
+        "en": "What the *client* came with",
+        "uk": "З чим прийшов *клієнт*"
+      },
+      "imageVariant": "imageRight",
+      "variant": "centered"
+    },
+    {
+      "_key": "sec9",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bz",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s10",
+              "_type": "span",
+              "marks": [],
+              "text": "Розробили сайт з окремими сторінками процедур, прайсом, блогом і кількома точками входу до консультації."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec9",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec9",
+              "_type": "span",
+              "marks": [],
+              "text": "We built a clinic website with service categories, detailed procedure pages, transparent pricing, and multiple booking entry points."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "2L5iqaQa3UmcCheddo73wM",
+          "en": "Homepage as a trust-focused service framework",
+          "uk": "Головна сторінка як структура довіри"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo7405",
+          "en": "Detailed service pages grouped by direction",
+          "uk": "Категорії послуг і детальні описи процедур"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo743o",
+          "en": "Dedicated pricing section",
+          "uk": "Окремий прайс-лист"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo747X",
+          "en": "SEO blog for informational traffic growth",
+          "uk": "Блог для контенту та органічного трафіку"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ SOLUTION",
+        "uk": "/ SOLUTION"
+      },
+      "heading": {
+        "en": "What we *did*",
+        "uk": "Що ми *зробили*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-1bb70e0fa203a676d96c9ff9621b4894a6e6682d-2560x2000-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "fd187ec9f59b",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b11",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s12",
+              "_type": "span",
+              "marks": [],
+              "text": "Команда E-Fedra Beauty отримала систему для самостійного оновлення процедур, вартості послуг і статей без технічної підтримки."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-cms",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-cms",
+              "_type": "span",
+              "marks": [],
+              "text": "The clinic team can independently update procedures, prices, and articles without technical support."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "2L5iqaQa3UmcCheddo74BG",
+          "en": "Manage service and pricing content",
+          "uk": "Оновлення послуг і прайсу"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo74Ez",
+          "en": "Publish SEO and educational materials",
+          "uk": "Публікація SEO-матеріалів"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo74Ii",
+          "en": "Control booking forms and conversion blocks",
+          "uk": "Керування формами запису"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ CMS",
+        "uk": "/ CMS"
+      },
+      "heading": {
+        "en": "Admin panel for updating *services, pricing, and blog*",
+        "uk": "Адмін-панель для оновлення *послуг, цін і блогу*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-9a51e68deca8955985f57542524aa61d948539ef-2940x1836-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageRight",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "f9fe86549e9a",
+      "_type": "mediaGalleryBlock",
+      "enableLightbox": true,
+      "images": [
+        {
+          "_key": "cd85b5241dd4",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-1bb70e0fa203a676d96c9ff9621b4894a6e6682d-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "6d43039668e5",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-5fb822e77169baa3145b54beb4f9ef831a04a160-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        }
+      ]
+    },
+    {
+      "_key": "sech",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b13",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s14",
+              "_type": "span",
+              "marks": [],
+              "text": "E-Fedra Beauty отримала digital-інструмент залучення клієнтів: сайт підсилює довіру, структурує послуги та спрощує запис на процедури."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-out",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-out",
+              "_type": "span",
+              "marks": [],
+              "text": "E-Fedra Beauty received a practical acquisition tool: the website builds trust, structures services, and simplifies conversion to consultation."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ OUTCOME",
+        "uk": "/ OUTCOME"
+      },
+      "heading": {
+        "en": "Result",
+        "uk": "Результат"
+      },
+      "variant": "centered"
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Clinic website focused on trust, service clarity, and conversion to booking.",
+      "uk": "Сайт, що допомагає клієнту знайти процедуру, переглянути прайс, отримати відповіді і швидко записатися на консультацію."
+    },
+    "title": {
+      "en": "E-Fedra Beauty - case study | Code-Site.Art",
+      "uk": "E-Fedra Beauty — кейс | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "e-fedra-beauty"
+  },
+  "stack": [
+    "Next.js",
+    "Sanity"
+  ],
+  "status": "published",
+  "title": {
+    "en": "E-Fedra Beauty",
+    "uk": "E-Fedra Beauty"
+  },
+  "year": 2026
+}

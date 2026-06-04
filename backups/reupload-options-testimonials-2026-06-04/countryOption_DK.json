@@ -1,0 +1,16 @@
+{
+  "_createdAt": "2026-05-30T19:46:10Z",
+  "_id": "countryOption.DK",
+  "_rev": "UAjCtlAuHSg7wG7TzHOXHK",
+  "_type": "countryOption",
+  "_updatedAt": "2026-05-30T19:46:10Z",
+  "name": {
+    "en": "Denmark",
+    "uk": "Данія"
+  },
+  "order": 20,
+  "slug": {
+    "_type": "slug",
+    "current": "DK"
+  }
+}

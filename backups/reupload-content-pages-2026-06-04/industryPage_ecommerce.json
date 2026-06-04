@@ -1,0 +1,1748 @@
+{
+  "_createdAt": "2026-05-20T08:22:08Z",
+  "_id": "industryPage.ecommerce",
+  "_rev": "eT6ikCnoiITdwl7TA8OQyE",
+  "_type": "industryPage",
+  "_updatedAt": "2026-06-04T14:15:22Z",
+  "hero": {
+    "ctaPrimary": {
+      "en": "Discuss my project",
+      "uk": "Обговорити мій проєкт"
+    },
+    "ctaSecondary": {
+      "en": "See e-com case studies",
+      "uk": "Подивитися e-com кейси"
+    },
+    "deviceTags": [
+      {
+        "_key": "eco-dt-4",
+        "kind": "default",
+        "primary": {
+          "en": "2-step cart",
+          "uk": "2-step cart"
+        }
+      },
+      {
+        "_key": "eco-dt-5",
+        "kind": "default",
+        "primary": {
+          "en": "Mobile admin",
+          "uk": "Mobile admin"
+        }
+      },
+      {
+        "_key": "eco-dt-6",
+        "kind": "good",
+        "mini": "Top",
+        "primary": {
+          "en": "Google Shopping",
+          "uk": "Google Shopping"
+        }
+      }
+    ],
+    "eyebrow": {
+      "en": "E-COMMERCE WEBSITES · from $5,000",
+      "uk": "САЙТИ ДЛЯ E-COMMERCE · від $5 000"
+    },
+    "features": [
+      {
+        "en": "Mobile admin | add products from your phone",
+        "uk": "Зручна адмінка | додаєте товари з телефону"
+      },
+      {
+        "en": "Payments | Stripe · LiqPay · WayForPay",
+        "uk": "Оплата | Stripe · LiqPay · WayForPay"
+      },
+      {
+        "en": "Shipping | Nova Poshta · Ukrposhta · DHL",
+        "uk": "Інтеграція | Нова Пошта · Укрпошта · DHL"
+      },
+      {
+        "en": "CRM | KeyCRM · AmoCRM · Bitrix24",
+        "uk": "CRM | KeyCRM · AmoCRM · Bitrix24"
+      }
+    ],
+    "h1Num": "100+",
+    "h1NumLabel": {
+      "en": "orders\nper month",
+      "uk": "замовлень\nна місяць"
+    },
+    "heading": {
+      "en": "An online store that *sells* every day",
+      "uk": "Інтернет-магазин, який *продає* щодня"
+    },
+    "lede": {
+      "en": "A custom Next.js store with a simple admin where you *add products from your phone*. No Tilda template, no Shopify at $300/mo for three years. Live in 6-10 weeks, and clients check out in 2 clicks.",
+      "uk": "Кастомний інтернет-магазин на Next.js з простою адмінкою, де ви *додаєте товари з телефону*. Не Tilda-конструктор з шаблонним каталогом і не Shopify за $300/міс на 3 роки. Запуск за 6–10 тижнів — і клієнти оформлюють замовлення за 2 кліки."
+    },
+    "stats": [
+      {
+        "_key": "eco-st-1",
+        "label": {
+          "en": "e-com\nsites built",
+          "uk": "e-com\nсайтів"
+        },
+        "value": "47"
+      },
+      {
+        "_key": "eco-st-2",
+        "label": {
+          "en": "client\nrating",
+          "uk": "оцінка\nклієнтів"
+        },
+        "value": "4.8/5"
+      },
+      {
+        "_key": "eco-st-3",
+        "label": {
+          "en": "conversion\nuplift",
+          "uk": "приріст\nконверсії"
+        },
+        "value": "×3.4"
+      }
+    ],
+    "tickerItems": [
+      {
+        "en": "Bookshops",
+        "uk": "Книжкові магазини"
+      },
+      {
+        "en": "Publishers",
+        "uk": "Видавництва"
+      },
+      {
+        "en": "Fashion",
+        "uk": "Магазини одягу"
+      },
+      {
+        "en": "Cosmetics",
+        "uk": "Магазини косметики"
+      },
+      {
+        "en": "Footwear",
+        "uk": "Магазини взуття"
+      },
+      {
+        "en": "Electronics",
+        "uk": "Електроніка"
+      },
+      {
+        "en": "Kids",
+        "uk": "Дитячі товари"
+      },
+      {
+        "en": "Sports",
+        "uk": "Спортивні товари"
+      },
+      {
+        "en": "Gifts",
+        "uk": "Подарунки"
+      },
+      {
+        "en": "Handmade",
+        "uk": "Хендмейд"
+      },
+      {
+        "en": "Accessories",
+        "uk": "Аксесуари"
+      },
+      {
+        "en": "Home & garden",
+        "uk": "Дім і сад"
+      }
+    ]
+  },
+  "order": 5,
+  "sections": [
+    {
+      "_key": "eco-sec-7",
+      "_type": "reasonsBlock",
+      "eyebrow": {
+        "en": "DIAGNOSIS · 3 REASONS",
+        "uk": "ДІАГНОСТИКА · 3 ПРИЧИНИ"
+      },
+      "footCtaLabel": {
+        "en": "Audit my site",
+        "uk": "Перевірити мій сайт"
+      },
+      "footText": {
+        "en": "We fix *all three* in 6-10 weeks.",
+        "uk": "Виправляємо *всі три* за 6-10 тижнів."
+      },
+      "heading": {
+        "en": "3 reasons your store\n*doesn’t sell*",
+        "uk": "3 причини, чому ваш магазин\n*не продає*"
+      },
+      "metaRows": [
+        {
+          "en": "audit of 47 e-com sites · 2024–25",
+          "uk": "аналіз 47 e-com сайтів · 2024–25"
+        }
+      ],
+      "reasons": [
+        {
+          "_key": "eco-r-8",
+          "number": "01",
+          "stat": {
+            "label": {
+              "en": "of clients abandon a standard 5-step checkout",
+              "uk": "клієнтів зливаються на стандартному 5-крокового чекауті"
+            },
+            "value": "68%"
+          },
+          "tag": {
+            "en": "CHECKOUT",
+            "uk": "CHECKOUT"
+          },
+          "text": [
+            {
+              "_key": "eco-b-12",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-9",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Реєстрація → email-підтвердження → форма доставки → форма оплати → підтвердження → оплата. "
+                },
+                {
+                  "_key": "eco-s-10",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "Половина клієнтів закриває вкладку до 3-го кроку"
+                },
+                {
+                  "_key": "eco-s-11",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ". Чекаут має бути на 2 кроки максимум."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "eco-b-16",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-13",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Register → verify email → shipping form → payment form → confirmation → pay. "
+                },
+                {
+                  "_key": "eco-s-14",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "Half the clients close the tab by step 3"
+                },
+                {
+                  "_key": "eco-s-15",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ". Checkout should be 2 steps max."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "5-step checkout — clients drop off",
+            "uk": "Чекаут на 5 кроків — клієнт зливається"
+          }
+        },
+        {
+          "_key": "eco-r-17",
+          "number": "02",
+          "stat": {
+            "label": {
+              "en": "of e-com traffic is mobile, but the design is desktop-first",
+              "uk": "e-com трафіку приходить з mobile, але дизайн оптимізований під desktop"
+            },
+            "value": "70%"
+          },
+          "tag": {
+            "en": "MOBILE",
+            "uk": "MOBILE"
+          },
+          "text": [
+            {
+              "_key": "eco-b-21",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-18",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Каталог — 4 колонки, на mobile стискається в нечитабельну сітку. Кнопка \"купити\" — десь у футері карточки. Корзина — модальне вікно з горизонтальним скролом. "
+                },
+                {
+                  "_key": "eco-s-19",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "70% e-com трафіку — mobile"
+                },
+                {
+                  "_key": "eco-s-20",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ". Мобільний UX = виживання."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "eco-b-25",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-22",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Catalog at 4 columns squashes into an unreadable grid on mobile. The buy button is buried in the card footer. Cart opens as a modal with horizontal scroll. "
+                },
+                {
+                  "_key": "eco-s-23",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "70% of e-com traffic is mobile"
+                },
+                {
+                  "_key": "eco-s-24",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ". Mobile UX is survival."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "The site doesn’t open properly on mobile",
+            "uk": "Сайт не відкривається на mobile нормально"
+          }
+        },
+        {
+          "_key": "eco-r-26",
+          "number": "03",
+          "stat": {
+            "label": {
+              "en": "of orders fail at branch selection",
+              "uk": "замовлень зриваються на етапі вибору відділення"
+            },
+            "value": "42%"
+          },
+          "tag": {
+            "en": "SHIPPING",
+            "uk": "SHIPPING"
+          },
+          "text": [
+            {
+              "_key": "eco-b-30",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-27",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Клієнт обирає Нову Пошту → вводить місто → випадає 400 відділень без сортування → шукає своє через Ctrl+F. На Tilda або WooCommerce це нормально. "
+                },
+                {
+                  "_key": "eco-s-28",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "На кастомному сайті — пошук, фільтр, рекомендоване відділення поруч"
+                },
+                {
+                  "_key": "eco-s-29",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "textEn": [
+            {
+              "_key": "eco-b-34",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-31",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Client picks Nova Poshta → enters city → 400 unsorted branches drop down → they Ctrl+F to find theirs. On Tilda or WooCommerce that’s normal. "
+                },
+                {
+                  "_key": "eco-s-32",
+                  "_type": "span",
+                  "marks": [
+                    "em"
+                  ],
+                  "text": "On a custom site — search, filter, and the nearest branch suggested"
+                },
+                {
+                  "_key": "eco-s-33",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "title": {
+            "en": "Shipping integration is broken or broken-ish",
+            "uk": "Інтеграція з доставкою не працює, або працює погано"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "eco-sec-35",
+      "_type": "caseBlock",
+      "after": {
+        "foot": {
+          "en": "Result: 100+ orders/month, zero outages, 3.4% conversion.",
+          "uk": "Результат: 100+ замовлень/місяць, нуль падінь, конверсія 3.4%."
+        },
+        "heading": {
+          "en": "✓ Custom site with 2-step mobile checkout",
+          "uk": "✓ Custom-сайт з 2-кроковим mobile checkout"
+        },
+        "items": [
+          {
+            "en": "Stylish minimalist design (matches the publisher’s aesthetic)",
+            "uk": "Стильний мінімалістичний дизайн (під естетику видавництва)"
+          },
+          {
+            "en": "Sanity CMS — add a book from your phone in 3 minutes",
+            "uk": "Sanity CMS — додавання книги з телефону за 3 хвилини"
+          },
+          {
+            "en": "2-step cart: shipping → payment",
+            "uk": "2-крокова корзина: вибір доставки → оплата"
+          },
+          {
+            "en": "KeyCRM integration (orders land in CRM directly)",
+            "uk": "Інтеграція з KeyCRM (замовлення одразу в CRM)"
+          },
+          {
+            "en": "Nova Poshta: branch search with geolocation",
+            "uk": "Нова Пошта: пошук відділення з геолокацією"
+          },
+          {
+            "en": "LiqPay + WayForPay for card payments",
+            "uk": "LiqPay + WayForPay для оплати карткою"
+          },
+          {
+            "en": "Structured catalog: authors / categories / tags / new releases",
+            "uk": "Структурований каталог: автори / категорії / теги / новинки"
+          },
+          {
+            "en": "Full Schema.org Book + Product markup",
+            "uk": "Schema.org Book + Product повна розмітка"
+          },
+          {
+            "en": "Ranks top of Google for \"[author] buy book\"",
+            "uk": "Виходить у топ Google по \"[автор] купити книгу\""
+          }
+        ],
+        "num": "GLIMMER · v2 · Next.js 2024",
+        "url": "glimmer.com.ua"
+      },
+      "before": {
+        "foot": {
+          "en": "Result: ~30 orders/month, constant outages on announcements.",
+          "uk": "Результат: ~30 замовлень/місяць, постійні падіння при анонсах."
+        },
+        "heading": {
+          "en": "× WooCommerce that crashed under traffic of a new book launch",
+          "uk": "× WooCommerce, який падав під трафіком запуску нової книги"
+        },
+        "items": [
+          {
+            "en": "23 plugins, 3 of which regularly broke checkout",
+            "uk": "23 плагіни, з яких 3 регулярно ламали checkout"
+          },
+          {
+            "en": "WooCommerce admin too complex for a non-technical founder",
+            "uk": "Адмінка WooCommerce — складна для нетехнічного керівника"
+          },
+          {
+            "en": "Adding a new book took 30 minutes (photo, description, tags)",
+            "uk": "Додавання нової книги забирало 30 хвилин (фото, опис, теги)"
+          },
+          {
+            "en": "Mobile checkout — 5 steps, 0.7% conversion",
+            "uk": "На mobile checkout — 5 кроків, конверсія 0.7%"
+          },
+          {
+            "en": "Nova Poshta integration via a plugin that hung",
+            "uk": "Інтеграція з Новою Поштою через плагін, який зависав"
+          },
+          {
+            "en": "Site went down during new-book launch traffic spikes",
+            "uk": "Сайт падав під спайками трафіку при анонсі нової книги"
+          },
+          {
+            "en": "SEO basic via Yoast, no structured categories",
+            "uk": "SEO — базовий через Yoast, без структурованих категорій"
+          }
+        ],
+        "num": "GLIMMER · v1 · WooCommerce 2023",
+        "url": "previous WooCommerce site"
+      },
+      "eyebrow": {
+        "en": "REAL CASE",
+        "uk": "РЕАЛЬНИЙ КЕЙС"
+      },
+      "eyebrowEm": {
+        "en": "GLIMMER",
+        "uk": "GLIMMER"
+      },
+      "heading": {
+        "en": "Before / After — a real client case",
+        "uk": "До / Після на прикладі реального клієнта"
+      },
+      "lede": {
+        "en": "Ukrainian literary publisher Glimmer came to us. The task: a custom store with mobile admin (the founder adds books from her phone), a stylish minimalist design, a 2-step checkout cart, and integrations with KeyCRM and Nova Poshta.",
+        "uk": "До нас звернулося українське літературне видавництво Glimmer. Завдання — кастомний магазин з мобільною адмінкою (бо керівник додає книги з телефону), стильним мінімалістичним дизайном, корзиною з 2-крокового чекауту, інтеграцією з KeyCRM і Новою Поштою."
+      },
+      "meta": [
+        {
+          "_key": "eco-cm-36",
+          "strong": {
+            "en": "8 weeks",
+            "uk": "8 тижнів"
+          },
+          "text": {
+            "en": "brief to launch",
+            "uk": "від брифу до релізу"
+          }
+        },
+        {
+          "_key": "eco-cm-37",
+          "strong": {
+            "en": "200+ SKUs",
+            "uk": "200+ SKU"
+          },
+          "text": {
+            "en": "categories + authors + tags",
+            "uk": "категорії + автори + теги"
+          }
+        },
+        {
+          "_key": "eco-cm-38",
+          "strong": {
+            "en": "2-step checkout",
+            "uk": "2-крокова корзина"
+          },
+          "text": {
+            "en": "mobile-first",
+            "uk": "mobile-first"
+          }
+        }
+      ],
+      "results": [
+        {
+          "_key": "eco-rs-39",
+          "label": {
+            "en": "orders per month",
+            "uk": "замовлень на місяць"
+          },
+          "tag": {
+            "en": "ORDERS",
+            "uk": "ORDERS"
+          },
+          "value": "×3.4"
+        },
+        {
+          "_key": "eco-rs-40",
+          "label": {
+            "en": "vs 0.7% on WooCommerce",
+            "uk": "проти 0.7% на WooCommerce"
+          },
+          "tag": {
+            "en": "CONVERSION",
+            "uk": "CONVERSION"
+          },
+          "value": "3.4%"
+        },
+        {
+          "_key": "eco-rs-41",
+          "label": {
+            "en": "under traffic spikes",
+            "uk": "під спайками трафіку"
+          },
+          "tag": {
+            "en": "UPTIME",
+            "uk": "UPTIME"
+          },
+          "value": "100%"
+        },
+        {
+          "_key": "eco-rs-42",
+          "label": {
+            "en": "adding a new book (was 30 min)",
+            "uk": "додавання нової книги (було 30 хв)"
+          },
+          "tag": {
+            "en": "ADMIN",
+            "uk": "ADMIN"
+          },
+          "value": "3 хв"
+        }
+      ]
+    },
+    {
+      "_key": "eco-sec-43",
+      "_type": "outcomeBlock",
+      "benefitRows": [
+        {
+          "_key": "eco-br-44",
+          "feature": "FEATURE · 01 / 03",
+          "heading": {
+            "en": "2-step cart (not 5)",
+            "uk": "2-крокова корзина (не 5)"
+          },
+          "items": [
+            {
+              "en": "Step 1: contact + shipping (Nova Poshta / Ukrposhta / courier)",
+              "uk": "Крок 1: контакти + доставка (Нова Пошта/Укрпошта/курʼєр)"
+            },
+            {
+              "en": "Step 2: payment (Stripe / LiqPay / WayForPay) or COD",
+              "uk": "Крок 2: оплата (Stripe / LiqPay / WayForPay) або накладений"
+            },
+            {
+              "en": "Guest checkout (no forced registration)",
+              "uk": "Гостьовий чекаут (без обовʼязкової реєстрації)"
+            },
+            {
+              "en": "Progress saved — client returns and finishes",
+              "uk": "Збереження прогресу — клієнт повертається і завершує"
+            }
+          ],
+          "mockTags": [
+            {
+              "en": "Shipping",
+              "uk": "Доставка"
+            },
+            {
+              "en": "Payment",
+              "uk": "Оплата"
+            }
+          ],
+          "mockType": "pages"
+        },
+        {
+          "_key": "eco-br-45",
+          "feature": "FEATURE · 02 / 03",
+          "heading": {
+            "en": "Mobile-first admin",
+            "uk": "Зручна адмінка з мобільного"
+          },
+          "items": [
+            {
+              "en": "Add a new product from your phone in 3 min",
+              "uk": "Додаєте новий товар із телефону за 3 хв"
+            },
+            {
+              "en": "Upload photos from your phone’s gallery",
+              "uk": "Заливаєте фото з галереї телефона"
+            },
+            {
+              "en": "Update prices and stock on the fly",
+              "uk": "Оновлюєте ціни і залишки на льоту"
+            },
+            {
+              "en": "No tech support, no monthly fees",
+              "uk": "Без техпідтримки і помісячних оплат"
+            }
+          ],
+          "mockType": "admin"
+        },
+        {
+          "_key": "eco-br-46",
+          "feature": "FEATURE · 03 / 03",
+          "heading": {
+            "en": "Smart catalog with filters",
+            "uk": "Розумний каталог з фільтрами"
+          },
+          "items": [
+            {
+              "en": "Filters by category, price, tag, author",
+              "uk": "Фільтри за категоріями, цінами, тегами, авторами"
+            },
+            {
+              "en": "Quick search with suggestions",
+              "uk": "Швидкий пошук з підказками"
+            },
+            {
+              "en": "Auto \"related products\" recommendations",
+              "uk": "Рекомендації \"схожі товари\" автоматично"
+            },
+            {
+              "en": "Full Schema.org Product markup",
+              "uk": "Schema.org Product повна розмітка"
+            }
+          ],
+          "mockTags": [
+            {
+              "en": "Filters",
+              "uk": "Фільтри"
+            },
+            {
+              "en": "Categories",
+              "uk": "Категорії"
+            }
+          ],
+          "mockType": "pages"
+        }
+      ],
+      "benefitsHeading": {
+        "en": "How it shows up on the site",
+        "uk": "Як це працює на сайті"
+      },
+      "directions": {
+        "allowedItems": [
+          {
+            "en": "Fashion, electronics, kids, sports",
+            "uk": "Одяг, електроніка, дитячі товари, спорттовари"
+          },
+          {
+            "en": "Extended catalog: filters, variants, sizes",
+            "uk": "Розширений каталог: фільтри, варіанти, розміри"
+          },
+          {
+            "en": "1C/BAS integration for stock sync",
+            "uk": "Інтеграція з 1С/BAS для синхронізації залишків"
+          },
+          {
+            "en": "Custom tier — from $14,000",
+            "uk": "Custom пакет — від $14,000"
+          }
+        ],
+        "allowedLabel": {
+          "en": "Larger store · 500-5000 SKUs",
+          "uk": "Магазин · 500-5000 SKU"
+        },
+        "lede": {
+          "en": "The approach differs for a niche store with 50-200 SKUs and a wider e-com with 1000+ SKUs. The pricing tiers below cover both scenarios.",
+          "uk": "Підхід відрізняється для нішевого магазину з 50-200 SKU і ширшого e-com з 1000+ SKU. Тарифи нижче — під обидва сценарії."
+        },
+        "replaceItems": [
+          {
+            "en": "Books, jewelry, handmade, niche cosmetics",
+            "uk": "Книги, прикраси, хендмейд, нішева косметика"
+          },
+          {
+            "en": "Simple catalog, minimalist design",
+            "uk": "Простий каталог, мінімалістичний дизайн"
+          },
+          {
+            "en": "Mobile admin for phone updates",
+            "uk": "Mobile admin для оновлень з телефону"
+          },
+          {
+            "en": "Pro Plus tier fits",
+            "uk": "Розширений пакет — Pro Plus"
+          }
+        ],
+        "replaceLabel": {
+          "en": "Niche store · 50-300 SKUs",
+          "uk": "Нішевий магазин · 50-300 SKU"
+        },
+        "title": {
+          "en": "We work with stores of every size",
+          "uk": "Працюємо з магазинами будь-якого розміру"
+        }
+      },
+      "recap": {
+        "text": {
+          "en": "Your store should sell — not crash under traffic.",
+          "uk": "Ваш магазин має продавати, а не падати під трафіком."
+        }
+      }
+    },
+    {
+      "_key": "eco-sec-47",
+      "_type": "servicesBlock",
+      "features": [
+        {
+          "_key": "eco-sf-48",
+          "items": [
+            {
+              "en": "Categories, subcategories, tags, authors (for books)",
+              "uk": "Категорії, підкатегорії, теги, автори (якщо книги)"
+            },
+            {
+              "en": "Variants (size, color, volume) with separate prices",
+              "uk": "Варіанти (розмір, колір, обʼєм) з різними цінами"
+            },
+            {
+              "en": "Filters and search with suggestions",
+              "uk": "Фільтри і пошук з підказками"
+            },
+            {
+              "en": "Schema.org Product + Offer markup",
+              "uk": "Schema.org Product + Offer розмітка"
+            }
+          ],
+          "title": {
+            "en": "Custom catalog",
+            "uk": "Кастомний каталог"
+          }
+        },
+        {
+          "_key": "eco-sf-49",
+          "items": [
+            {
+              "en": "2-step cart, no forced registration",
+              "uk": "2-крокова корзина, без обовʼязкової реєстрації"
+            },
+            {
+              "en": "Guest checkout + memo for repeat buyers",
+              "uk": "Гостьовий чекаут + memo для повторних покупців"
+            },
+            {
+              "en": "Promo codes, volume discounts, bundles",
+              "uk": "Промокоди, знижки за обсягом, пакетні пропозиції"
+            },
+            {
+              "en": "Cart persists between sessions",
+              "uk": "Збереження стану корзини між сесіями"
+            }
+          ],
+          "title": {
+            "en": "Cart and checkout",
+            "uk": "Корзина і чекаут"
+          }
+        },
+        {
+          "_key": "eco-sf-50",
+          "items": [
+            {
+              "en": "LiqPay, WayForPay, Mono for Ukrainian clients",
+              "uk": "LiqPay, WayForPay, Mono для українських клієнтів"
+            },
+            {
+              "en": "Stripe for international clients",
+              "uk": "Stripe для міжнародних"
+            },
+            {
+              "en": "Cash on delivery via Nova Poshta",
+              "uk": "Накладений платіж через Нову Пошту"
+            },
+            {
+              "en": "Recurring billing for subscription products",
+              "uk": "Recurring billing для підписочних товарів"
+            }
+          ],
+          "title": {
+            "en": "Payments",
+            "uk": "Платіжні системи"
+          }
+        },
+        {
+          "_key": "eco-sf-51",
+          "items": [
+            {
+              "en": "Nova Poshta: branch search with geolocation",
+              "uk": "Нова Пошта: пошук відділення з геолокацією"
+            },
+            {
+              "en": "Ukrposhta, Justin, Meest, DHL, Glovo",
+              "uk": "Укрпошта, Justin, MeestExpress, DHL, Glovo"
+            },
+            {
+              "en": "Auto shipping cost calculation",
+              "uk": "Розрахунок вартості автоматично"
+            },
+            {
+              "en": "Order tracking on the site",
+              "uk": "Трекінг замовлення на сайті"
+            }
+          ],
+          "title": {
+            "en": "Shipping",
+            "uk": "Доставка"
+          }
+        },
+        {
+          "_key": "eco-sf-52",
+          "items": [
+            {
+              "en": "Add a product from your phone in 3 min",
+              "uk": "Додаєте товар з телефону за 3 хв"
+            },
+            {
+              "en": "Photo from gallery, description, price, variants, tags",
+              "uk": "Фото з галереї, опис, ціна, варіанти, теги"
+            },
+            {
+              "en": "Bulk update (e.g., category-wide discount)",
+              "uk": "Bulk-update (наприклад, знижка на категорію)"
+            },
+            {
+              "en": "Order export to CSV",
+              "uk": "Експорт замовлень в CSV"
+            }
+          ],
+          "title": {
+            "en": "Sanity CMS admin",
+            "uk": "Sanity CMS adminка"
+          }
+        },
+        {
+          "_key": "eco-sf-53",
+          "items": [
+            {
+              "en": "Orders flow into KeyCRM / AmoCRM / Bitrix24",
+              "uk": "Замовлення одразу в KeyCRM / AmoCRM / Bitrix24"
+            },
+            {
+              "en": "Telegram alerts to manager on each order",
+              "uk": "Telegram-сповіщення менеджеру про нове замовлення"
+            },
+            {
+              "en": "GA4 + Meta Pixel + GTM",
+              "uk": "GA4 + Meta Pixel + GTM"
+            },
+            {
+              "en": "Sales funnel with drop-off page metrics",
+              "uk": "Воронка продажів з показниками сторінок виходу"
+            }
+          ],
+          "title": {
+            "en": "CRM and analytics",
+            "uk": "CRM і аналітика"
+          }
+        }
+      ],
+      "heading": {
+        "en": "What we build for online stores",
+        "uk": "Що ми будуємо для інтернет-магазинів"
+      },
+      "integrations": [
+        {
+          "en": "KeyCRM",
+          "uk": "KeyCRM"
+        },
+        {
+          "en": "AmoCRM",
+          "uk": "AmoCRM"
+        },
+        {
+          "en": "Bitrix24",
+          "uk": "Bitrix24"
+        },
+        {
+          "en": "LiqPay",
+          "uk": "LiqPay"
+        },
+        {
+          "en": "WayForPay",
+          "uk": "WayForPay"
+        },
+        {
+          "en": "Stripe",
+          "uk": "Stripe"
+        },
+        {
+          "en": "Mono Pay",
+          "uk": "Mono Pay"
+        },
+        {
+          "en": "Nova Poshta",
+          "uk": "Nova Poshta"
+        },
+        {
+          "en": "Ukrposhta",
+          "uk": "Ukrposhta"
+        },
+        {
+          "en": "Telegram",
+          "uk": "Telegram"
+        },
+        {
+          "en": "GA4",
+          "uk": "GA4"
+        },
+        {
+          "en": "Meta Pixel",
+          "uk": "Meta Pixel"
+        }
+      ],
+      "integrationsHeading": {
+        "en": "We connect every e-com system",
+        "uk": "Підключаємо всі e-com системи"
+      },
+      "integrationsSub": {
+        "en": "Orders flow from site to your CRM. Payments via Stripe / LiqPay. Nova Poshta waybill auto-generated. Client gets an SMS with tracking number. Manager gets a Telegram alert. Zero orders lost to email spam.",
+        "uk": "Замовлення з сайту одразу у вашій CRM. Платіж — у Stripe / LiqPay. Накладна Нової Пошти автоматично. Клієнт отримує SMS з ТТН. Менеджер — сповіщення в Telegram. Жодних втрачених замовлень через email-спам."
+      },
+      "sub": {
+        "en": "Not \"another WooCommerce template.\" A store built for your niche, your shipping logic, and your update cadence.",
+        "uk": "Не \"ще один шаблон з WooCommerce\". Магазин під вашу нішу, вашу логіку доставки і ваш темп оновлень."
+      },
+      "testimonial": {
+        "authorInitials": "GL",
+        "authorName": "Glimmer Founder",
+        "authorRole": {
+          "en": "Publishing house founder",
+          "uk": "Засновниця видавництва"
+        },
+        "quote": {
+          "en": "We just wanted a design refresh. We got a store that survives traffic spikes, doesn’t crash on a new book launch, and lets me run it from my phone. Conversion grew 4× without changing traffic.",
+          "uk": "Замовляли просто переробку дизайну. Отримали магазин, який витримує спайки трафіку, не падає під анонсом нової книги і дає мені керувати ним з телефону. Конверсія виросла в 4 рази без зміни трафіку."
+        }
+      },
+      "testimonialEyebrow": {
+        "en": "CLIENT TESTIMONIAL",
+        "uk": "ВІДГУК КЛІЄНТА"
+      }
+    },
+    {
+      "_key": "eco-sec-54",
+      "_type": "comparisonBlock",
+      "columns": {
+        "custom": {
+          "en": "Custom",
+          "uk": "Кодовий"
+        },
+        "param": {
+          "en": "Parameter",
+          "uk": "Параметр"
+        },
+        "wix": {
+          "en": "Shopify",
+          "uk": "Shopify"
+        },
+        "wp": {
+          "en": "WooCommerce",
+          "uk": "WooCommerce"
+        }
+      },
+      "contact": {
+        "briefPlaceholder": {
+          "en": "What kind of site you need, what your goals are",
+          "uk": "Який сайт потрібен, які цілі"
+        },
+        "channelPlaceholder": {
+          "en": "Telegram, phone, or email",
+          "uk": "Telegram, телефон або email"
+        },
+        "foot": {
+          "en": "Or message us on Telegram — @fedirdev",
+          "uk": "Або одразу пишіть у Telegram — @fedirdev"
+        },
+        "heading": {
+          "en": "Discuss your project",
+          "uk": "Обговорити проєкт"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "uk": "Як до вас звертатися"
+        },
+        "sub": {
+          "en": "Tell us briefly about your project — we’ll reply on Telegram within 1–2 hours during business hours.",
+          "uk": "Розкажіть коротко про ваш проєкт — відповімо в Telegram протягом 1–2 годин у робочий час."
+        },
+        "submitLabel": {
+          "en": "Send — we’ll reply within 1–2 hours",
+          "uk": "Надіслати — відповімо за 1–2 години"
+        }
+      },
+      "heading": {
+        "en": "Why a custom store beats Tilda, Shopify, or WooCommerce",
+        "uk": "Чим кодовий магазин кращий за Tilda, Shopify або WooCommerce"
+      },
+      "pricingHeading": {
+        "en": "Pricing for an online store",
+        "uk": "Скільки коштує інтернет-магазин"
+      },
+      "rows": [
+        {
+          "_key": "eco-cr-55",
+          "custom": {
+            "en": "< 1 sec",
+            "uk": "< 1 сек"
+          },
+          "param": {
+            "en": "Mobile speed",
+            "uk": "Швидкість на mobile"
+          },
+          "wix": {
+            "en": "2-4 sec",
+            "uk": "2-4 сек"
+          },
+          "wp": {
+            "en": "3-6 sec",
+            "uk": "3-6 сек"
+          }
+        },
+        {
+          "_key": "eco-cr-56",
+          "custom": {
+            "en": "2 steps",
+            "uk": "2 кроки"
+          },
+          "param": {
+            "en": "Checkout",
+            "uk": "Чекаут"
+          },
+          "wix": {
+            "en": "3 steps",
+            "uk": "3 кроки"
+          },
+          "wp": {
+            "en": "4-5 steps",
+            "uk": "4-5 кроків"
+          }
+        },
+        {
+          "_key": "eco-cr-57",
+          "custom": {
+            "en": "full-featured",
+            "uk": "повноцінна"
+          },
+          "param": {
+            "en": "Mobile admin",
+            "uk": "Адмінка з mobile"
+          },
+          "wix": {
+            "en": "OK",
+            "uk": "OK"
+          },
+          "wp": {
+            "en": "hard",
+            "uk": "важко"
+          }
+        },
+        {
+          "_key": "eco-cr-58",
+          "custom": {
+            "en": "native",
+            "uk": "нативно"
+          },
+          "param": {
+            "en": "Nova Poshta",
+            "uk": "Інтеграція з Новою Поштою"
+          },
+          "wix": {
+            "en": "via app",
+            "uk": "через додаток"
+          },
+          "wp": {
+            "en": "plugin (buggy)",
+            "uk": "плагін (баги)"
+          }
+        },
+        {
+          "_key": "eco-cr-59",
+          "custom": {
+            "en": "$0 (Vercel free tier)",
+            "uk": "$0 (Vercel free tier)"
+          },
+          "param": {
+            "en": "Monthly fee",
+            "uk": "Місячна оплата"
+          },
+          "wix": {
+            "en": "$30-300/mo",
+            "uk": "$30-300/міс"
+          },
+          "wp": {
+            "en": "$0-30 hosting",
+            "uk": "$0-30 hosting"
+          }
+        },
+        {
+          "_key": "eco-cr-60",
+          "custom": {
+            "en": "full",
+            "uk": "повна"
+          },
+          "param": {
+            "en": "Customization",
+            "uk": "Кастомізація"
+          },
+          "wix": {
+            "en": "limited",
+            "uk": "обмежена"
+          },
+          "wp": {
+            "en": "via plugins",
+            "uk": "через плагіни"
+          }
+        },
+        {
+          "_key": "eco-cr-61",
+          "custom": {
+            "en": "your GitHub",
+            "uk": "ваш GitHub"
+          },
+          "param": {
+            "en": "Code ownership",
+            "uk": "Власність на код"
+          },
+          "wix": {
+            "en": "Shopify lock",
+            "uk": "Shopify lock"
+          },
+          "wp": {
+            "en": "WooCommerce ecosystem",
+            "uk": "WooCommerce ecosystem"
+          }
+        },
+        {
+          "_key": "eco-cr-62",
+          "custom": {
+            "en": "$6-10k",
+            "uk": "$6-10k"
+          },
+          "param": {
+            "en": "3-year TCO",
+            "uk": "TCO за 3 роки"
+          },
+          "wix": {
+            "en": "$4-12k",
+            "uk": "$4-12k"
+          },
+          "wp": {
+            "en": "$5-9k",
+            "uk": "$5-9k"
+          }
+        }
+      ],
+      "tableCtaGhost": {
+        "en": "WordPress comparison →",
+        "uk": "Порівняння з WordPress →"
+      },
+      "tableCtaPrimary": {
+        "en": "Detailed page builder comparison →",
+        "uk": "Детальне порівняння конструкторів →"
+      },
+      "tiers": [
+        {
+          "_key": "eco-tier-63",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "en": "Details — on /en/pricing",
+            "uk": "Деталі — на /pricing"
+          },
+          "includes": [
+            {
+              "en": "Industry-ready structure",
+              "uk": "Готова структура під вашу галузь"
+            },
+            {
+              "en": "UA + EN bilingual",
+              "uk": "UA + EN білінгвал"
+            },
+            {
+              "en": "Base integrations (CRM + payments)",
+              "uk": "Базові інтеграції (CRM + платежі)"
+            },
+            {
+              "en": "Sanity CMS for self-serve edits",
+              "uk": "Sanity CMS для самостійних правок"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "uk": "Що входить"
+          },
+          "isPopular": false,
+          "price": {
+            "en": "$3,500",
+            "uk": "$3 500"
+          },
+          "title": {
+            "en": "Industry Pro",
+            "uk": "Industry Pro"
+          },
+          "weeks": {
+            "en": "4-6 weeks",
+            "uk": "4–6 тижнів"
+          }
+        },
+        {
+          "_key": "eco-tier-64",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "en": "Details — on /en/pricing",
+            "uk": "Деталі — на /pricing"
+          },
+          "includes": [
+            {
+              "en": "Everything in Industry Pro",
+              "uk": "Все з Industry Pro"
+            },
+            {
+              "en": "Deep integrations (3-5 systems)",
+              "uk": "Складні інтеграції (3–5 систем)"
+            },
+            {
+              "en": "Multi-language / multi-currency",
+              "uk": "Multi-language / multi-currency"
+            },
+            {
+              "en": "Dedicated landings per market / service",
+              "uk": "Окремі лендинги під ринок / послугу"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "uk": "Що входить"
+          },
+          "isPopular": true,
+          "popularLabel": {
+            "en": "Popular",
+            "uk": "Популярний"
+          },
+          "price": {
+            "en": "$7,500",
+            "uk": "$7 500"
+          },
+          "title": {
+            "en": "Pro Plus",
+            "uk": "Pro Plus"
+          },
+          "weeks": {
+            "en": "6-10 weeks",
+            "uk": "6–10 тижнів"
+          }
+        },
+        {
+          "_key": "eco-tier-65",
+          "ctaGhost": true,
+          "ctaLabel": {
+            "en": "Details — on /en/pricing",
+            "uk": "Деталі — на /pricing"
+          },
+          "includes": [
+            {
+              "en": "Everything in Pro Plus",
+              "uk": "Все з Pro Plus"
+            },
+            {
+              "en": "Custom business logic",
+              "uk": "Унікальна бізнес-логіка"
+            },
+            {
+              "en": "Custom platform / SaaS",
+              "uk": "Власна платформа / SaaS"
+            },
+            {
+              "en": "Programmatic landings (100+)",
+              "uk": "Програмні landing pages (100+)"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "uk": "Що входить"
+          },
+          "isPopular": false,
+          "price": {
+            "en": "from $14,000",
+            "uk": "від $14 000"
+          },
+          "title": {
+            "en": "Custom",
+            "uk": "Custom"
+          },
+          "weeks": {
+            "en": "10+ weeks",
+            "uk": "10+ тижнів"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "eco-sec-66",
+      "_type": "faqBlock",
+      "heading": {
+        "en": "FAQ",
+        "uk": "Часті питання"
+      },
+      "items": [
+        {
+          "_key": "eco-fq-67",
+          "answer": [
+            {
+              "_key": "eco-b-69",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-68",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Shopify це підписка $30-300/міс на 3 роки = $1,080-10,800. Custom-магазин — $5,000-10,000 один раз. За 3 роки виходить як Shopify, але код ваш. Плюс кастомізація без обмежень: 2-крокова корзина, інтеграція з Новою Поштою, specific UA-payment-методи — все це на Shopify нативно слабке."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "eco-b-71",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-70",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Shopify is a $30-300/mo subscription = $1,080-10,800 over 3 years. A custom store costs $5,000-10,000 once. Over 3 years it’s roughly the same — but the code is yours. Plus full customization: 2-step cart, Nova Poshta integration, Ukrainian-specific payment methods — all weak on Shopify."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Why not Shopify, since it’s \"out of the box\"?",
+            "uk": "Чому не Shopify, якщо він \"з коробки\"?"
+          }
+        },
+        {
+          "_key": "eco-fq-72",
+          "answer": [
+            {
+              "_key": "eco-b-74",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-73",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "2 варіанти: (1) ручний експорт-імпорт CSV 1 раз на день, (2) повна автоматична синхронізація через API 1С/BAS — залишки оновлюються кожні 15 хвилин. Варіант 2 — окрема інтеграція $1,200-2,500. Якщо у вас велике число SKU з частими змінами — варіант 2."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "eco-b-76",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-75",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Two options: (1) manual CSV export-import once a day, (2) full auto-sync via 1C/BAS API — stock updates every 15 min. Option 2 is a separate integration at $1,200-2,500. If you have many SKUs with frequent changes — option 2."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How does 1C/BAS sync work for inventory?",
+            "uk": "Як працює інтеграція з 1С/BAS для синхронізації залишків?"
+          }
+        },
+        {
+          "_key": "eco-fq-77",
+          "answer": [
+            {
+              "_key": "eco-b-79",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-78",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Next.js на Vercel auto-scaling = десятки тисяч одночасних користувачів без додаткової оплати. Спайк трафіку при анонсі нової колекції / Чорній Пʼятниці — без проблем. На Tilda або WooCommerce подібний спайк часто кладе сайт."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "eco-b-81",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-80",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Next.js on Vercel auto-scaling = tens of thousands of concurrent users without extra cost. A traffic spike for a new collection / Black Friday — no problem. On Tilda or WooCommerce a similar spike often takes the site down."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How much traffic can the site handle without crashing?",
+            "uk": "Скільки трафіку витримує сайт без падінь?"
+          }
+        },
+        {
+          "_key": "eco-fq-82",
+          "answer": [
+            {
+              "_key": "eco-b-84",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-83",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Так. UA + EN — стандарт у Pro Plus тирі. Кожна мова має власну URL-структуру і hreflang. Каталог товарів локалізується через Sanity (для кожного товару — поля title_uk, title_en, description_uk, description_en). Додавання 3-ї мови (наприклад, RU або PL) — $1,500-2,500."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "eco-b-86",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-85",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Yes. UA + EN — standard in the Pro Plus tier. Each language has its own URL structure and hreflang. Product catalog is localized via Sanity (each product gets title_uk, title_en, description_uk, description_en). Adding a 3rd language (RU or PL) — $1,500-2,500."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "Can we add multilingual support?",
+            "uk": "Чи можна додати багатомовність?"
+          }
+        },
+        {
+          "_key": "eco-fq-87",
+          "answer": [
+            {
+              "_key": "eco-b-89",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-88",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Stripe — стандарт. Підтримує всі основні валюти, картки Visa/Mastercard/American Express, Apple Pay, Google Pay. Якщо у вас український ФОП — приймаєте оплату в USD/EUR, конвертація в UAH у банку. Або відкриваємо англійський рахунок у Wise / Revolut Business для прямого прийому в валютах."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "eco-b-91",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-90",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Stripe is the standard. Supports all major currencies, Visa / Mastercard / Amex, Apple Pay, Google Pay. If you’re a Ukrainian sole proprietor — receive in USD/EUR, convert to UAH at the bank. Or open an EN account at Wise / Revolut Business to receive in the original currency."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How to accept international payments?",
+            "uk": "Як приймати оплату міжнародних клієнтів?"
+          }
+        },
+        {
+          "_key": "eco-fq-92",
+          "answer": [
+            {
+              "_key": "eco-b-94",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-93",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Schema.org Product з повною розміткою (price, availability, brand, reviews, image, rating). Google Merchant Center feed автоматично з Sanity. Sitemap з усіма товарами. Open Graph для соцмереж. У результаті — товари виходять в Google Shopping і Google Search без додаткової реклами."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "eco-b-96",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-95",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Schema.org Product with full markup (price, availability, brand, reviews, image, rating). Google Merchant Center feed auto-generated from Sanity. Sitemap with every product. Open Graph for social. Result: products appear in Google Shopping and Google Search without paid ads."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "What about SEO? How do we appear in Google Shopping?",
+            "uk": "Що з SEO? Як ми будемо в Google Shopping?"
+          }
+        },
+        {
+          "_key": "eco-fq-97",
+          "answer": [
+            {
+              "_key": "eco-b-99",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-98",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Через Sanity-адмінку. Створюєте промокод, обираєте умови (мінімальна сума, конкретні товари, дата дії). Видаєте клієнтам у email-розсилці / соцмережах. На сайті клієнт вводить код у корзині — знижка застосовується. Звіт по використаним кодам — в адмінці."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "answerEn": [
+            {
+              "_key": "eco-b-101",
+              "_type": "block",
+              "children": [
+                {
+                  "_key": "eco-s-100",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Via the Sanity admin. Create a promo code, set conditions (min amount, specific products, validity). Distribute to clients via email / social. The client enters the code in the cart — discount applies. Usage report in the admin."
+                }
+              ],
+              "markDefs": [],
+              "style": "normal"
+            }
+          ],
+          "question": {
+            "en": "How are discounts and promo codes set up?",
+            "uk": "Як налаштувати знижки і промокоди?"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "eco-sec-102",
+      "_type": "auditBlock",
+      "disclaim": {
+        "en": "No obligation. Useful even if you choose a different vendor.",
+        "uk": "Без зобовʼязань. Корисно, навіть якщо вирішите працювати з іншим підрядником."
+      },
+      "heading": {
+        "en": "Free audit of your store",
+        "uk": "Безкоштовний аудит вашого магазину"
+      },
+      "inputs": {
+        "contactPlaceholder": {
+          "en": "Email or Telegram",
+          "uk": "Email або Telegram"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "uk": "Ваше імʼя"
+        },
+        "phonePlaceholder": {
+          "en": "Phone (optional)",
+          "uk": "Телефон (опціонально)"
+        },
+        "urlPlaceholder": {
+          "en": "Link to your site",
+          "uk": "Посилання на ваш сайт"
+        }
+      },
+      "list": [
+        {
+          "en": "Checkout audit: 10-15 client drop-off points",
+          "uk": "Аудит чекауту: 10-15 точок втрати клієнтів"
+        },
+        {
+          "en": "Mobile UX audit (70% of e-com traffic is mobile)",
+          "uk": "Mobile UX-аудит (70% e-com трафіку — mobile)"
+        },
+        {
+          "en": "SEO audit: are you visible in Google Shopping",
+          "uk": "SEO-аудит: чи виходите ви в Google Shopping"
+        },
+        {
+          "en": "Load speed + Core Web Vitals",
+          "uk": "Швидкість завантаження + Core Web Vitals"
+        },
+        {
+          "en": "Prioritized improvement plan + budget estimate",
+          "uk": "План покращень з пріоритетами + орієнтовний бюджет"
+        }
+      ],
+      "sub": {
+        "en": "Drop a link to your current site. Detailed PDF report within 3 business days.",
+        "uk": "Залиште посилання на ваш поточний сайт. Протягом 3 робочих днів — детальний звіт у PDF."
+      },
+      "submitLabel": {
+        "en": "Get my free audit",
+        "uk": "Отримати безкоштовний аудит"
+      }
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Custom Next.js e-commerce sites with a simple admin. KeyCRM, Nova Poshta, LiqPay, Stripe integrations. Case: Glimmer publishing house.",
+      "uk": "Кастомні інтернет-магазини на Next.js з простою адмінкою. Інтеграції з KeyCRM, Новою Поштою, LiqPay, Stripe. Кейс: видавництво Glimmer."
+    },
+    "title": {
+      "en": "E-commerce websites — Code-Site.Art",
+      "uk": "Сайти для інтернет-магазинів — Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "ecommerce"
+  },
+  "status": "published",
+  "title": {
+    "en": "E-commerce websites",
+    "uk": "Сайти для інтернет-магазинів"
+  }
+}

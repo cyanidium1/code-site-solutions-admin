@@ -1,0 +1,430 @@
+{
+  "_createdAt": "2026-06-02T07:12:54Z",
+  "_id": "caseStudy.co2lab",
+  "_rev": "6tWqPRZWZzG4Lv3HK7IPFS",
+  "_system": {
+    "base": {
+      "id": "caseStudy.co2lab",
+      "rev": "6tWqPRZWZzG4Lv3HK7HNqL"
+    }
+  },
+  "_type": "caseStudy",
+  "_updatedAt": "2026-06-04T16:43:05Z",
+  "client": "CO2LAB",
+  "coverImage": {
+    "_type": "imageWithLocalizedAlt",
+    "alt": {
+      "_type": "localizedString",
+      "uk": "Home"
+    },
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-63232289188e1e0c4a2ba839394bd17192f9643d-2560x2000-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "duration": {
+    "en": "6 weeks",
+    "uk": "6 тижнів"
+  },
+  "featured": false,
+  "hero": {
+    "eyebrow": {
+      "en": "/ CASE STUDY",
+      "uk": "/ CASE STUDY"
+    },
+    "heading": {
+      "en": "CO2LAB - website for *industrial CO2 solutions*",
+      "uk": "CO2LAB — сайт для компанії з *промислових CO₂-рішень*"
+    },
+    "link": {
+      "_type": "ctaAction",
+      "href": "https://www.co2lab.pro/"
+    },
+    "metrics": [
+      {
+        "_key": "hm1",
+        "label": {
+          "en": "activity directions",
+          "uk": "напрями діяльності"
+        },
+        "value": "4"
+      },
+      {
+        "_key": "hm2",
+        "label": {
+          "en": "B2B corporate website",
+          "uk": "B2B корпоративний сайт"
+        },
+        "value": "1"
+      },
+      {
+        "_key": "hm3",
+        "label": {
+          "en": "key pages",
+          "uk": "ключових сторінок"
+        },
+        "value": "5+"
+      },
+      {
+        "_key": "hm4",
+        "label": {
+          "en": "partner-acquisition structure",
+          "uk": "структура залучення партнерів"
+        },
+        "value": "1"
+      }
+    ],
+    "subheading": {
+      "en": "A B2B corporate website that translates complex engineering processes into clear business value and partner-ready communication.",
+      "uk": "Корпоративний B2B-сайт, що пояснює складні інженерні процеси простою мовою і веде потенційних партнерів до консультації."
+    }
+  },
+  "metricsLine": {
+    "en": "4 activity directions · 1 B2B corporate site · 5+ key pages · 1 partner-acquisition structure",
+    "uk": "4 напрями діяльності · 1 B2B корпоративний сайт · 5+ ключових сторінок · 1 структура залучення партнерів"
+  },
+  "order": 25,
+  "region": {
+    "en": "Ukraine",
+    "uk": "Україна"
+  },
+  "sections": [
+    {
+      "_key": "sec6",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b15",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s16",
+              "_type": "span",
+              "marks": [],
+              "text": "Інженерні CO₂-рішення складно продавати через типову презентацію. Клієнту потрібні зрозумілі сценарії застосування, експертність і бізнес-цінність."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec6",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec6",
+              "_type": "span",
+              "marks": [],
+              "text": "Industrial CO2 services are difficult to present through a generic site format. The audience needs understandable use cases, technical credibility, and commercial logic."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "cross",
+      "bulletList": [
+        {
+          "_key": "XrTxD1czjbsDVYzLTyppXY",
+          "en": "Explain complex solutions in clear language",
+          "uk": "Пояснити складні рішення просто"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTyppbG",
+          "en": "Unify multiple technical directions in one structure",
+          "uk": "Структурувати напрями в одну систему"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTyppey",
+          "en": "Show sector-specific application scenarios",
+          "uk": "Показати сфери застосування технологій"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTyppig",
+          "en": "Strengthen trust for a B2B decision process",
+          "uk": "Підсилити довіру B2B-аудиторії"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ CHALLENGE",
+        "uk": "/ CHALLENGE"
+      },
+      "heading": {
+        "en": "What the *client* came with",
+        "uk": "З чим прийшов *клієнт*"
+      },
+      "imageVariant": "imageRight",
+      "variant": "centered"
+    },
+    {
+      "_key": "sec9",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b17",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s18",
+              "_type": "span",
+              "marks": [],
+              "text": "Побудували корпоративний сайт з чіткою подачею рішень, обладнання та виробничих можливостей компанії."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec9",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec9",
+              "_type": "span",
+              "marks": [],
+              "text": "We built a corporate platform that presents solutions, equipment, and production capabilities in a structured way."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "XrTxD1czjbsDVYzLTyppmO",
+          "en": "Clear architecture of core activity directions",
+          "uk": "Презентація ключових напрямів діяльності"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTyppq6",
+          "en": "Dedicated pages for equipment and systems",
+          "uk": "Окремі сторінки для обладнання і систем"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTyppto",
+          "en": "Industry-oriented use-case sections",
+          "uk": "Розділи для галузевих сценаріїв застосування"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTyppxW",
+          "en": "Lead and consultation forms for B2B inquiries",
+          "uk": "Контактні форми для консультацій і запитів"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ SOLUTION",
+        "uk": "/ SOLUTION"
+      },
+      "heading": {
+        "en": "What we *did*",
+        "uk": "Що ми *зробили*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "uk": "Головна"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-63232289188e1e0c4a2ba839394bd17192f9643d-2560x2000-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "fd187ec9f59b",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b19",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s1a",
+              "_type": "span",
+              "marks": [],
+              "text": "Команда CO2LAB може самостійно оновлювати сервісні матеріали, сторінки рішень та інформацію для партнерів."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-cms",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-cms",
+              "_type": "span",
+              "marks": [],
+              "text": "The CO2LAB team can independently update technical pages, solution descriptions, and partner-facing content."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "XrTxD1czjbsDVYzLTypq1E",
+          "en": "Update technical and service pages",
+          "uk": "Оновлення технічних сторінок"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTypq4w",
+          "en": "Edit solution and process descriptions",
+          "uk": "Редагування описів рішень"
+        },
+        {
+          "_key": "XrTxD1czjbsDVYzLTypq8e",
+          "en": "Manage consultation and request flows",
+          "uk": "Керування заявками на консультацію"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ CMS",
+        "uk": "/ CMS"
+      },
+      "heading": {
+        "en": "Admin panel for managing *B2B engineering content*",
+        "uk": "Адмін-панель для керування *B2B-контентом*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "uk": "Sanity"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-9a51e68deca8955985f57542524aa61d948539ef-2940x1836-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "ab89ce9c2c36",
+      "_type": "mediaGalleryBlock",
+      "enableLightbox": true,
+      "images": [
+        {
+          "_key": "fbdd4fbeec8c",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-63232289188e1e0c4a2ba839394bd17192f9643d-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "81748386dace",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-094f7209359a2e2cb4251c0e90bdc1648cbe81fd-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        }
+      ]
+    },
+    {
+      "_key": "sech",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1b",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s1c",
+              "_type": "span",
+              "marks": [],
+              "text": "CO2LAB отримала платформу для презентації технологій і залучення партнерів: сайт перетворює складні інженерні процеси на зрозумілу комерційну пропозицію."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-out",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-out",
+              "_type": "span",
+              "marks": [],
+              "text": "CO2LAB received a partner-acquisition platform: the site converts complex engineering topics into a clear commercial proposition."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ OUTCOME",
+        "uk": "/ OUTCOME"
+      },
+      "heading": {
+        "en": "Result",
+        "uk": "Результат"
+      },
+      "variant": "centered"
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "B2B engineering website focused on technical clarity and partner conversion.",
+      "uk": "Корпоративний B2B-сайт, що пояснює складні інженерні процеси простою мовою і веде потенційних партнерів до консультації."
+    },
+    "title": {
+      "en": "CO2LAB - case study | Code-Site.Art",
+      "uk": "CO2LAB — кейс | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "co2lab"
+  },
+  "stack": [
+    "Next.js",
+    "Sanity"
+  ],
+  "status": "published",
+  "title": {
+    "en": "CO2LAB",
+    "uk": "CO2LAB"
+  },
+  "year": 2026
+}

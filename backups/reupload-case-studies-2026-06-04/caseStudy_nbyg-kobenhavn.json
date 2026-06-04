@@ -1,0 +1,597 @@
+{
+  "_createdAt": "2026-05-03T22:47:29Z",
+  "_id": "caseStudy.nbyg-kobenhavn",
+  "_rev": "DHIwRDN3sEoI638qoYN1LJ",
+  "_system": {
+    "base": {
+      "id": "caseStudy.nbyg-kobenhavn",
+      "rev": "bM4Vn6Xhr0kQ8myfjAvelC"
+    }
+  },
+  "_type": "caseStudy",
+  "_updatedAt": "2026-06-04T16:41:37Z",
+  "budgetBucket": {
+    "_ref": "budgetBucketOption.3-7k",
+    "_type": "reference"
+  },
+  "client": "Анна",
+  "country": {
+    "_ref": "countryOption.DK",
+    "_type": "reference"
+  },
+  "coverImage": {
+    "_type": "imageWithLocalizedAlt",
+    "alt": {
+      "_type": "localizedString",
+      "en": "NBYG case-study card",
+      "uk": "Картка кейсу NBYG у портфоліо"
+    },
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-5bc6d1c53c532509f4c3072f369ffcad13d39b26-2560x1762-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "duration": {
+    "en": "6 weeks",
+    "uk": "6 тижнів"
+  },
+  "featured": true,
+  "hero": {
+    "eyebrow": {
+      "en": "/ CASE STUDY",
+      "uk": "/ CASE STUDY"
+    },
+    "heading": {
+      "en": "NBYG København — construction company in *Copenhagen and Bornholm*",
+      "uk": "NBYG København — будівнича компанія в *Копенгагені і на Борнгольмі*"
+    },
+    "heroImage": {
+      "_type": "imageWithLocalizedAlt",
+      "alt": {
+        "_type": "localizedString",
+        "en": "NBYG website shown on laptop and phone",
+        "uk": "Сайт NBYG на ноутбуці і телефоні"
+      },
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-889f454747dc0c92f06510cd730cd315d3e7c35c-1211x1133-png",
+          "_type": "reference"
+        }
+      }
+    },
+    "link": {
+      "_type": "ctaAction",
+      "href": "https://www.xn--nbygkbenhavn-zjb.dk/",
+      "label": {
+        "_type": "localizedString",
+        "en": "Visit site",
+        "uk": "Переглянути сайт"
+      },
+      "type": "custom"
+    },
+    "metrics": [
+      {
+        "_key": "ede68733e685",
+        "_type": "metric"
+      }
+    ],
+    "subheading": {
+      "en": "Construction company with two locations in Denmark. Migrated from a legacy WordPress site to Next.js + Sanity with mobile editing, local SEO for two cities, and a custom admin where the owner creates new service pages himself.",
+      "uk": "Будівнича компанія з двома локаціями в Данії. Перенесли з застарілого WordPress на Next.js + Sanity з мобільним редагуванням, локальним SEO для двох міст і кастомною адмінкою для самостійного створення сторінок послуг."
+    }
+  },
+  "industry": {
+    "_ref": "industryPage.renovation",
+    "_type": "reference"
+  },
+  "metricsLine": {
+    "en": "×8 inquiries · LCP 0.8s · Top-1 local",
+    "uk": "×8 заявок · LCP 0.8s · Top-1 local"
+  },
+  "order": 0,
+  "region": {
+    "en": "Copenhagen + Bornholm, Denmark",
+    "uk": "Копенгаген + Борнгольм, Данія"
+  },
+  "sections": [
+    {
+      "_key": "sec1",
+      "_type": "statsBlock",
+      "items": [
+        {
+          "_key": "m2",
+          "label": {
+            "en": "MORE INQUIRIES PER MONTH",
+            "uk": "більше заявок на місяць"
+          },
+          "value": "×8"
+        },
+        {
+          "_key": "m3",
+          "label": {
+            "en": "LCP (WAS 4.5s)",
+            "uk": "LCP (було 4.5s)"
+          },
+          "value": "0.8s"
+        },
+        {
+          "_key": "m4",
+          "label": {
+            "en": "LIGHTHOUSE PERFORMANCE",
+            "uk": "Lighthouse performance"
+          },
+          "value": "98"
+        },
+        {
+          "_key": "m5",
+          "label": {
+            "en": "GOOGLE LOCAL SEARCH",
+            "uk": "Google по local запитам"
+          },
+          "value": "Top-1"
+        }
+      ]
+    },
+    {
+      "_key": "sec6",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b7",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s8",
+              "_type": "span",
+              "marks": [],
+              "text": "Клієнт мав застарілий сайт на WordPress 2018 року з 5 платними плагінами. Сайт не ранжувався в локальному пошуку Копенгагена і Борнгольма, мав слабкий мобільний UX і отримував лише 3 заявки на місяць — недостатньо для завантаження команди в обидвох локаціях."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "b9",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sa",
+              "_type": "span",
+              "marks": [],
+              "text": "The client had a legacy WordPress site from 2018 with 5 paid plugins. The site didn't rank in local search for Copenhagen or Bornholm, had a weak mobile UX, and pulled only 3 inquiries a month — not enough to keep the teams in both locations busy."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "cross",
+      "bulletList": [
+        {
+          "_key": "2KB7PmPZrihzQa1edpl6l6",
+          "en": "Site loaded in 4.5 seconds on mobile",
+          "uk": "Сайт завантажувався 4.5 секунди на мобільному"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl6mC",
+          "en": "Page 2 in local search for “byggefirma København” — invisible to most prospects",
+          "uk": "Сторінка 2 в локальному пошуку за «byggefirma København» — невидимий для більшості клієнтів"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl6nI",
+          "en": "Only 3 inquiries per month — Google Ads weren’t paying back",
+          "uk": "Тільки 3 заявки на місяць — Google Ads не окупались"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl6oO",
+          "en": "5 paid plugins with yearly subscriptions (€600/year combined) + €60/mo hosting",
+          "uk": "5 платних плагінів з річними підписками (€600/рік) + €60/міс хостинг"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl6pU",
+          "en": "Owner couldn’t edit himself — Elementor fought the theme",
+          "uk": "Власник не міг сам редагувати — Elementor конфліктував з темою"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl6qa",
+          "en": "No schema.org — Google didn’t show rich snippets",
+          "uk": "Без schema.org — Google не показував rich-snippets"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl6rg",
+          "en": "No proper split between the two locations (Copenhagen vs Bornholm)",
+          "uk": "Не було розділення на дві локації (Копенгаген vs Борнгольм)"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl6sm",
+          "en": "Admin on mobile was unusable",
+          "uk": "Адмінка на телефоні була нечитабельна"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ 02 PROBLEM",
+        "uk": "/ PROBLEM"
+      },
+      "heading": {
+        "en": "What was *wrong*",
+        "uk": "Що *було*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-f5f750e15bc4967519e3e7909dc9a7968a8ebe48-2420x1624-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageRight",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "secb",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bc",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sd",
+              "_type": "span",
+              "marks": [],
+              "text": "Розробили з нуля custom-coded сайт на Next.js + Sanity CMS. Архітектура з двома гео-таргетованими лендингами (Копенгаген і Борнгольм), глибока структура послуг із підсторінками, інтегрований Telegram для миттєвих заявок, повний schema.org під LocalBusiness."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "be",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sf",
+              "_type": "span",
+              "marks": [],
+              "text": "We rebuilt the site from scratch as a custom-coded Next.js + Sanity CMS project. The architecture has two geo-targeted landings (Copenhagen and Bornholm), a deep service structure with sub-pages, integrated Telegram for instant lead notifications, and full schema.org for LocalBusiness."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "2KB7PmPZrihzQa1edpl6ts",
+          "en": "Custom code on Next.js — zero plugins, zero subscriptions",
+          "uk": "Custom code на Next.js — нуль плагінів, нуль підписок"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl6uy",
+          "en": "Sanity CMS with drag-and-drop blocks for self-editing",
+          "uk": "Sanity CMS з drag-and-drop блоками для самостійного редагування"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl6w4",
+          "en": "Full admin from a phone — owner creates new service pages in 5 minutes",
+          "uk": "Адмінка повноцінна з телефона — створення нових сторінок послуг за 5 хвилин"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl6xA",
+          "en": "Sub-pages per service (Roofing → Shingle / Metal / Repair) — owner adds them himself",
+          "uk": "Підсторінки під кожну послугу (Дахи → Шифер / Метал / Ремонт) — власник додає сам"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl6yG",
+          "en": "Geo-targeted landings for Copenhagen and Bornholm separately",
+          "uk": "Гео-таргетовані лендинги для Копенгагена і Борнгольма окремо"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl6zM",
+          "en": "Schema.org/LocalBusiness with hours, services, service areas",
+          "uk": "Schema.org/LocalBusiness з годинами, послугами, зонами обслуговування"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl70S",
+          "en": "Tap-to-call on mobile + integrated online booking form",
+          "uk": "Tap-to-call на мобільному + інтегрована форма онлайн-бронювання"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl71Y",
+          "en": "301 redirects from every old URL — zero SEO drops",
+          "uk": "301-редіректи з усіх старих URL — 0 SEO-падінь"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl72e",
+          "en": "Vercel hosting + Cloudflare CDN — €0/mo at this traffic",
+          "uk": "Vercel hosting + Cloudflare CDN — €0/міс на цьому трафіку"
+        },
+        {
+          "_key": "2KB7PmPZrihzQa1edpl73k",
+          "en": "DA primary, EN ready — English version activates with one click",
+          "uk": "DA primary, EN ready — англомовна версія активується одним кліком"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ 03 SOLUTION",
+        "uk": "/ SOLUTION"
+      },
+      "heading": {
+        "en": "What we *did*",
+        "uk": "Що ми *зробили*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-18b7e1be43671e71da319e88a6b2d3cbb5f69fc7-2420x1998-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "27444650b95d",
+      "_type": "mediaGalleryBlock",
+      "enableLightbox": true,
+      "images": [
+        {
+          "_key": "bb109334d995",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-9b1ab14bd9bf09e4f3e4f9f3fee40f98d67325f7-2560x1896-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "789e2b135904",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-c8c4b521c73c1b7763a8c19bfd5162902cd580fc-2560x1748-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "c808a9d3a272",
+          "_type": "mediaGalleryImageItem",
+          "alt": {
+            "_type": "localizedString",
+            "en": "NBYG homepage",
+            "uk": "Головна сторінка сайту NBYG"
+          },
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-104bd3a770fcb47c04f033b10f5a2dbb8e73210f-2560x1748-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "0d6b5a0a502c",
+          "_type": "mediaGalleryImageItem",
+          "alt": {
+            "_type": "localizedString",
+            "en": "Roof-price calculator on the NBYG site",
+            "uk": "Калькулятор вартості даху на сайті NBYG"
+          },
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-6fd6686bb52420c78f61b9cb7f7a609511f36aa1-2560x1748-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "5f9154d95701",
+          "_type": "mediaGalleryImageItem",
+          "alt": {
+            "_type": "localizedString",
+            "en": "NBYG website on mobile",
+            "uk": "Мобільна версія сайту NBYG"
+          },
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-e0b0c663acebe6d30cdac9e82b591037d7e6412f-2560x1500-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "ab5a4a33df92",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-248500fe331ee3c4c1ad82c9d2975eb9335ec77c-1280x610-jpg",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        }
+      ]
+    },
+    {
+      "_key": "secg",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bh",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "si",
+              "_type": "span",
+              "marks": [],
+              "text": "Через 60 днів після запуску — нова версія сайту приносить ×8 заявок на місяць (24 проти 3). Органічний трафік виріс у 6 разів. Сайт займає №1 у локальному пошуку Google за «byggefirma København» і «byggefirma Bornholm». LCP — 0.8 секунди проти 4.5 секунди на старій версії."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        },
+        {
+          "_key": "bj",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sk",
+              "_type": "span",
+              "marks": [],
+              "text": "Загальний ROI сайту окупився за 2 місяці тільки через додаткові заявки. Власник самостійно створив 4 нові сторінки послуг за перший місяць — без розробника, без звертання до нас."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "bl",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sm",
+              "_type": "span",
+              "marks": [],
+              "text": "Sixty days after launch, the new site is bringing 8× more inquiries per month (24 vs. 3). Organic traffic is up 6×. The site ranks #1 in Google local search for “byggefirma København” and “byggefirma Bornholm.” LCP is 0.8 seconds versus 4.5 seconds on the old site."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        },
+        {
+          "_key": "bn",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "so",
+              "_type": "span",
+              "marks": [],
+              "text": "Total site ROI paid back in 2 months just from the new inquiries. The owner has independently created 4 new service pages in the first month — no developer involved, no calls to us."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ 04 OUTCOME",
+        "uk": "/ OUTCOME"
+      },
+      "heading": {
+        "en": "Results after *60 days post-launch*",
+        "uk": "Результат через *60 днів після запуску*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "en": "NBYG website on mobile",
+          "uk": "Мобільна версія сайту NBYG"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-10f9be8c537d9f3d0267546be3ad93f88a679a8f-720x890-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "image2": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "en": "NBYG website on desktop",
+          "uk": "Десктопна версія сайту NBYG"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-9f6d2d19ce3c4b22d8dffc8e7ac3a563c56ebd8a-1100x1008-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "variant": "centered"
+    },
+    {
+      "_key": "secp",
+      "_type": "quoteBlock",
+      "authorAvatar": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-4bf016c2d13959e53e23fd5ea116d06d9422cc2d-1159x1157-png",
+          "_type": "reference"
+        }
+      },
+      "authorName": "Анна",
+      "authorRole": {
+        "en": "Anna, customer",
+        "uk": "Замовник"
+      },
+      "quote": {
+        "en": "Thank you for your work on the site:) the site turned out very stylish, cool, fast, just like I thought it should be) And most importantly, everything took as long as we agreed.\nWorking with you is comfortable and pleasant.",
+        "uk": "Дякую за роботою на сайтом:) сайт вийшов дуже стильний, класний, швидкий, такий, як я і думала він має бути) І головне по часу все зайняло як ми домовлялись. \nПрацювати з вами комфортно і приємно."
+      }
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Danish construction company: migrated off WordPress in 6 weeks, 8× monthly inquiries, #1 in local search, zero SEO drops.",
+      "uk": "Будівнича компанія в Данії: міграція з WordPress за 6 тижнів, ×8 заявок на місяць, Top-1 в локальному пошуку, 0 SEO-падінь."
+    },
+    "title": {
+      "en": "NBYG København — WordPress migration to Next.js, 8× inquiries | Code-Site.Art",
+      "uk": "NBYG København — кейс міграції з WordPress на Next.js, ×8 заявок | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "nbyg-kobenhavn"
+  },
+  "stack": [
+    "Next.js",
+    "Sanity",
+    "Vercel"
+  ],
+  "status": "published",
+  "title": {
+    "en": "NBYG København",
+    "uk": "NBYG København"
+  },
+  "year": 2024
+}

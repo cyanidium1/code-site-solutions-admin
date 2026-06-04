@@ -1,0 +1,418 @@
+{
+  "_createdAt": "2026-06-02T07:12:56Z",
+  "_id": "caseStudy.boulevard-salon",
+  "_rev": "lOTgaDd8FU4wgJ8F4K7GRA",
+  "_system": {
+    "base": {
+      "id": "caseStudy.boulevard-salon",
+      "rev": "AKqZen6zsRd6FZqAiYVGAj"
+    }
+  },
+  "_type": "caseStudy",
+  "_updatedAt": "2026-06-04T16:42:12Z",
+  "client": "Boulevard Salon",
+  "coverImage": {
+    "_type": "imageWithLocalizedAlt",
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-36a2aee6ac7abba4f315c45d83f05e5c72e99319-2560x2000-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "duration": {
+    "en": "6 weeks",
+    "uk": "6 тижнів"
+  },
+  "featured": false,
+  "hero": {
+    "eyebrow": {
+      "en": "/ CASE STUDY",
+      "uk": "/ CASE STUDY"
+    },
+    "heading": {
+      "en": "Boulevard Salon - beauty salon website with *online procedure booking*",
+      "uk": "Boulevard Salon — сайт салону краси з *онлайн-записом* на процедури"
+    },
+    "link": {
+      "_type": "ctaAction",
+      "href": "https://www.boulevardsalon.dk/"
+    },
+    "metrics": [
+      {
+        "_key": "hm1",
+        "label": {
+          "en": "beauty service categories",
+          "uk": "категорій beauty-послуг"
+        },
+        "value": "10+"
+      },
+      {
+        "_key": "hm2",
+        "label": {
+          "en": "online procedure booking",
+          "uk": "онлайн-запис на процедури"
+        },
+        "value": "1"
+      },
+      {
+        "_key": "hm3",
+        "label": {
+          "en": "key sections",
+          "uk": "ключових розділів"
+        },
+        "value": "5+"
+      },
+      {
+        "_key": "hm4",
+        "label": {
+          "en": "client-acquisition structure",
+          "uk": "структура залучення клієнтів"
+        },
+        "value": "1"
+      }
+    ],
+    "subheading": {
+      "en": "A service-driven website that helps clients find the right category and go straight to online booking.",
+      "uk": "Сайт допомагає обрати напрям послуг і перейти до бронювання процедури через зрозумілу структуру."
+    }
+  },
+  "metricsLine": {
+    "en": "10+ beauty categories · 1 online booking flow · 5+ key sections · 1 client-acquisition structure",
+    "uk": "10+ категорій beauty-послуг · 1 онлайн-запис на процедури · 5+ ключових розділів · 1 структура залучення клієнтів"
+  },
+  "order": 27,
+  "region": {
+    "en": "Ukraine",
+    "uk": "Україна"
+  },
+  "sections": [
+    {
+      "_key": "sec6",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1l",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s1m",
+              "_type": "span",
+              "marks": [],
+              "text": "Для салону краси важливо структурувати великий перелік процедур так, щоб користувач легко знаходив потрібну послугу і бронював без зайвих кроків."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec6",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec6",
+              "_type": "span",
+              "marks": [],
+              "text": "For a beauty salon, showing a long list of procedures is not enough. The user must quickly find the right category and book without friction."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "cross",
+      "bulletList": [
+        {
+          "_key": "2L5iqaQa3UmcCheddo2V8i",
+          "en": "Structure beauty services into clear categories",
+          "uk": "Структурувати beauty-послуги по категоріях"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo2VCR",
+          "en": "Build intuitive navigation and booking flow",
+          "uk": "Побудувати зручну навігацію і запис"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo2VGA",
+          "en": "Increase trust through modern presentation",
+          "uk": "Підсилити довіру через сучасну подачу"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo2VJt",
+          "en": "Reduce steps from interest to appointment",
+          "uk": "Скоротити шлях від інтересу до бронювання"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ CHALLENGE",
+        "uk": "/ CHALLENGE"
+      },
+      "heading": {
+        "en": "What the *client* came with",
+        "uk": "З чим прийшов *клієнт*"
+      },
+      "imageVariant": "imageRight",
+      "variant": "centered"
+    },
+    {
+      "_key": "sec9",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1n",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s1o",
+              "_type": "span",
+              "marks": [],
+              "text": "Створили сайт з акцентом на категорії послуг, інтеграцію бронювання та швидкий перехід до онлайн-запису."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec9",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec9",
+              "_type": "span",
+              "marks": [],
+              "text": "We built a website focused on service categorization, booking integration, and fast transition from service discovery to reservation."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "2L5iqaQa3UmcCheddo2VNc",
+          "en": "Homepage structured around core service directions",
+          "uk": "Головна сторінка як презентація напрямів послуг"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo2VRL",
+          "en": "Integrated online booking system",
+          "uk": "Інтеграція системи бронювання процедур"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo2VV4",
+          "en": "Multiple CTA points for fast appointment booking",
+          "uk": "Кілька CTA до швидкого запису"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo2VYn",
+          "en": "CMS for updating services and salon content",
+          "uk": "CMS для оновлення послуг і контенту салону"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ SOLUTION",
+        "uk": "/ SOLUTION"
+      },
+      "heading": {
+        "en": "What we *did*",
+        "uk": "Що ми *зробили*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-36a2aee6ac7abba4f315c45d83f05e5c72e99319-2560x2000-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "fd187ec9f59b",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1p",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s1q",
+              "_type": "span",
+              "marks": [],
+              "text": "Команда салону може самостійно оновлювати послуги, тексти й ключові блоки для онлайн-запису."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-cms",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-cms",
+              "_type": "span",
+              "marks": [],
+              "text": "The salon team can independently update procedures, service descriptions, and conversion blocks tied to booking."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "2L5iqaQa3UmcCheddo2VcW",
+          "en": "Maintain categories and procedure descriptions",
+          "uk": "Оновлення категорій і описів процедур"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo2VgF",
+          "en": "Update core content sections",
+          "uk": "Керування контентом розділів"
+        },
+        {
+          "_key": "2L5iqaQa3UmcCheddo2Vjy",
+          "en": "Keep booking-oriented CTA blocks current",
+          "uk": "Підтримка актуальних CTA запису"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ CMS",
+        "uk": "/ CMS"
+      },
+      "heading": {
+        "en": "Admin panel for managing *salon services*",
+        "uk": "Адмін-панель для керування *послугами салону*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-9a51e68deca8955985f57542524aa61d948539ef-2940x1836-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "98cba349abf6",
+      "_type": "mediaGalleryBlock",
+      "enableLightbox": true,
+      "images": [
+        {
+          "_key": "4f3e0c5d4853",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-36a2aee6ac7abba4f315c45d83f05e5c72e99319-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "ccaa9f382309",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-e735053732f8c79557fa7ed5c16fa0997495b6b2-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        }
+      ]
+    },
+    {
+      "_key": "sech",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1r",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s1s",
+              "_type": "span",
+              "marks": [],
+              "text": "Boulevard Salon отримав digital-інструмент для залучення клієнтів: сайт перетворює великий перелік послуг на зрозумілу систему й веде відвідувача до бронювання."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-out",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-out",
+              "_type": "span",
+              "marks": [],
+              "text": "Boulevard Salon received a practical acquisition tool: the site turns a broad service catalog into a clear journey toward online booking."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ OUTCOME",
+        "uk": "/ OUTCOME"
+      },
+      "heading": {
+        "en": "Result",
+        "uk": "Результат"
+      },
+      "variant": "centered"
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Beauty website focused on structured services and frictionless booking.",
+      "uk": "Сайт допомагає швидко обрати напрям послуг і перейти до бронювання процедури через зрозумілу структуру."
+    },
+    "title": {
+      "en": "Boulevard Salon - case study | Code-Site.Art",
+      "uk": "Boulevard Salon — кейс | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "boulevard-salon"
+  },
+  "stack": [
+    "Next.js",
+    "Sanity"
+  ],
+  "status": "published",
+  "title": {
+    "en": "Boulevard Salon",
+    "uk": "Boulevard Salon"
+  },
+  "year": 2026
+}

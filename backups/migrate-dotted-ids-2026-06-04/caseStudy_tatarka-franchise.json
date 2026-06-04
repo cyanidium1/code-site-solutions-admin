@@ -1,0 +1,418 @@
+{
+  "_createdAt": "2026-06-02T07:12:51Z",
+  "_id": "caseStudy.tatarka-franchise",
+  "_rev": "6tWqPRZWZzG4Lv3HK7IN6E",
+  "_system": {
+    "base": {
+      "id": "caseStudy.tatarka-franchise",
+      "rev": "6XauXwCqdfjH3lSp8m1xg2"
+    }
+  },
+  "_type": "caseStudy",
+  "_updatedAt": "2026-06-04T16:41:55Z",
+  "client": "Tatarka Franchise",
+  "coverImage": {
+    "_type": "imageWithLocalizedAlt",
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-daa129b98a2b43839bf307a53ee5c83e7e82a620-2560x2000-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "duration": {
+    "en": "6 weeks",
+    "uk": "6 тижнів"
+  },
+  "featured": false,
+  "hero": {
+    "eyebrow": {
+      "en": "/ CASE STUDY",
+      "uk": "/ CASE STUDY"
+    },
+    "heading": {
+      "en": "Tatarka Franchise - website for *restaurant franchise sales*",
+      "uk": "Tatarka Franchise — сайт для *продажу франшизи* ресторанного бренду"
+    },
+    "link": {
+      "_type": "ctaAction",
+      "href": "https://www.tatarka-franchise.com/"
+    },
+    "metrics": [
+      {
+        "_key": "hm1",
+        "label": {
+          "en": "franchise sales structure",
+          "uk": "продаюча структура франшизи"
+        },
+        "value": "1"
+      },
+      {
+        "_key": "hm2",
+        "label": {
+          "en": "key blocks",
+          "uk": "ключових блоків"
+        },
+        "value": "5+"
+      },
+      {
+        "_key": "hm3",
+        "label": {
+          "en": "partner inquiry form",
+          "uk": "форма для партнерських заявок"
+        },
+        "value": "1"
+      },
+      {
+        "_key": "hm4",
+        "label": {
+          "en": "network-scaling website",
+          "uk": "сайт масштабування мережі"
+        },
+        "value": "1"
+      }
+    ],
+    "subheading": {
+      "en": "A sales-focused website built to attract franchise partners and scale a restaurant network through a partner model.",
+      "uk": "Сайт для залучення нових франчайзі та розвитку ресторанної мережі через партнерську модель."
+    }
+  },
+  "metricsLine": {
+    "en": "1 franchise sales structure · 5+ key blocks · 1 partner lead form · 1 scaling website",
+    "uk": "1 продаюча структура франшизи · 5+ ключових блоків · 1 форма для партнерських заявок · 1 сайт масштабування мережі"
+  },
+  "order": 22,
+  "region": {
+    "en": "Ukraine",
+    "uk": "Україна"
+  },
+  "sections": [
+    {
+      "_key": "sec6",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bh",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "si",
+              "_type": "span",
+              "marks": [],
+              "text": "Потенційний франчайзі хоче швидко зрозуміти модель бізнесу, переваги співпраці, умови запуску та підтримку після старту."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec6",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec6",
+              "_type": "span",
+              "marks": [],
+              "text": "A potential franchisee needs more than brand visuals. They need to understand the business model, launch terms, support format, and partnership upside."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "cross",
+      "bulletList": [
+        {
+          "_key": "zdDSdhTDV24lASLsPdqbMx",
+          "en": "Explain the franchise model in clear business language",
+          "uk": "Пояснити франшизу простою бізнес-мовою"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdqbQK",
+          "en": "Structure launch terms and support details",
+          "uk": "Структурувати умови запуску і підтримки"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdqbTh",
+          "en": "Build a path from interest to consultation",
+          "uk": "Побудувати шлях від інтересу до заявки"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdqbX4",
+          "en": "Present a franchise offer, not just a restaurant showcase",
+          "uk": "Презентувати франшизу, а не просто ресторан"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ CHALLENGE",
+        "uk": "/ CHALLENGE"
+      },
+      "heading": {
+        "en": "What the *client* came with",
+        "uk": "З чим прийшов *клієнт*"
+      },
+      "imageVariant": "imageRight",
+      "variant": "centered"
+    },
+    {
+      "_key": "sec9",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bj",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sk",
+              "_type": "span",
+              "marks": [],
+              "text": "Розробили landing page з фокусом на бізнес-модель, вигоди партнерства і генерацію заявок."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec9",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec9",
+              "_type": "span",
+              "marks": [],
+              "text": "We built a conversion-focused landing page centered on franchise economics, partner value, and lead capture."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "zdDSdhTDV24lASLsPdqbaR",
+          "en": "Homepage flow around franchise concept and advantages",
+          "uk": "Презентація концепції франшизи та її переваг"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdqbdo",
+          "en": "Trust blocks that reduce partnership risk perception",
+          "uk": "Блоки довіри для підсилення рішення"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdqbhB",
+          "en": "Multiple CTAs for consultation and application",
+          "uk": "Кілька CTA для консультації"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdqbkY",
+          "en": "CMS for updating franchise content independently",
+          "uk": "CMS для оновлення інформації про франшизу"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ SOLUTION",
+        "uk": "/ SOLUTION"
+      },
+      "heading": {
+        "en": "What we *did*",
+        "uk": "Що ми *зробили*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-daa129b98a2b43839bf307a53ee5c83e7e82a620-2560x2000-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "fd187ec9f59b",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bl",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sm",
+              "_type": "span",
+              "marks": [],
+              "text": "Контент про умови співпраці, блоки довіри та заявки можна оновлювати самостійно без втрати структури сторінки."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-cms",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-cms",
+              "_type": "span",
+              "marks": [],
+              "text": "The team can update partnership terms, trust content, and conversion blocks without changing the sales structure."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "zdDSdhTDV24lASLsPdqbnv",
+          "en": "Edit terms and partner advantages",
+          "uk": "Редагування умов і переваг"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdqbrI",
+          "en": "Update conversion copy and CTA blocks",
+          "uk": "Оновлення текстів та CTA"
+        },
+        {
+          "_key": "zdDSdhTDV24lASLsPdqbuf",
+          "en": "Manage incoming partner leads",
+          "uk": "Керування заявками партнерів"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ CMS",
+        "uk": "/ CMS"
+      },
+      "heading": {
+        "en": "Admin panel for updating the *franchise offer*",
+        "uk": "Адмін-панель для оновлення *франшизної пропозиції*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-9a51e68deca8955985f57542524aa61d948539ef-2940x1836-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "a885723e82d2",
+      "_type": "mediaGalleryBlock",
+      "enableLightbox": true,
+      "images": [
+        {
+          "_key": "a9f5ffdde8e5",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-daa129b98a2b43839bf307a53ee5c83e7e82a620-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "5da74c968500",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-71ed3d87fbc5c08f725c37343793532ab060ccc1-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        }
+      ]
+    },
+    {
+      "_key": "sech",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "bn",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "so",
+              "_type": "span",
+              "marks": [],
+              "text": "Tatarka Franchise отримала інструмент залучення франчайзі: сайт підсилює довіру до бренду й переводить зацікавлених партнерів у заявки на співпрацю."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-out",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-out",
+              "_type": "span",
+              "marks": [],
+              "text": "Tatarka Franchise got a partner-acquisition tool: the website builds trust and turns franchise interest into qualified inquiries."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ OUTCOME",
+        "uk": "/ OUTCOME"
+      },
+      "heading": {
+        "en": "Result",
+        "uk": "Результат"
+      },
+      "variant": "centered"
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Franchise landing page focused on partner conversion and business-model clarity.",
+      "uk": "Сайт для залучення нових франчайзі та розвитку ресторанної мережі через партнерську модель."
+    },
+    "title": {
+      "en": "Tatarka Franchise - case study | Code-Site.Art",
+      "uk": "Tatarka Franchise — кейс | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "tatarka-franchise"
+  },
+  "stack": [
+    "Next.js",
+    "Sanity"
+  ],
+  "status": "published",
+  "title": {
+    "en": "Tatarka Franchise",
+    "uk": "Tatarka Franchise"
+  },
+  "year": 2026
+}

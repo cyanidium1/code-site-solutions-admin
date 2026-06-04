@@ -1,0 +1,424 @@
+{
+  "_createdAt": "2026-06-02T07:12:49Z",
+  "_id": "caseStudy.webbond",
+  "_rev": "DHIwRDN3sEoI638qoYN1mv",
+  "_system": {
+    "base": {
+      "id": "caseStudy.webbond",
+      "rev": "Af0w24d1UBF0wdCcQLygJQ"
+    }
+  },
+  "_type": "caseStudy",
+  "_updatedAt": "2026-06-04T16:41:45Z",
+  "budgetBucket": {
+    "_ref": "budgetBucketOption.3-7k",
+    "_type": "reference"
+  },
+  "client": "WebBond",
+  "country": {
+    "_ref": "countryOption.DK",
+    "_type": "reference"
+  },
+  "coverImage": {
+    "_type": "imageWithLocalizedAlt",
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-3432d66acf8a6e25eb64b91cef3f1dd5f8db90a3-2560x2000-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "duration": {
+    "en": "6 weeks",
+    "uk": "6 тижнів"
+  },
+  "featured": false,
+  "hero": {
+    "eyebrow": {
+      "en": "/ CASE STUDY",
+      "uk": "/ CASE STUDY"
+    },
+    "heading": {
+      "en": "WebBond - website for a digital agency that builds *client-acquisition websites*",
+      "uk": "WebBond — сайт для digital-агенції, яка створює *сайти для залучення клієнтів*"
+    },
+    "link": {
+      "_type": "ctaAction",
+      "href": "https://www.webbond.dk/"
+    },
+    "metrics": [
+      {
+        "_key": "hm1",
+        "label": {
+          "en": "service lines",
+          "uk": "напрями послуг"
+        },
+        "value": "4"
+      },
+      {
+        "_key": "hm2",
+        "label": {
+          "en": "corporate website",
+          "uk": "корпоративний сайт"
+        },
+        "value": "1"
+      },
+      {
+        "_key": "hm3",
+        "label": {
+          "en": "key sections",
+          "uk": "ключових розділів"
+        },
+        "value": "5+"
+      },
+      {
+        "_key": "hm4",
+        "label": {
+          "en": "lead-generation structure",
+          "uk": "структура генерації заявок"
+        },
+        "value": "1"
+      }
+    ],
+    "subheading": {
+      "en": "WebBond is a digital agency that helps businesses grow their online presence through websites, SEO, advertising, and branding.",
+      "uk": "WebBond — digital-агенція, яка допомагає бізнесу розвивати онлайн-присутність через сайти, SEO, рекламу та брендинг."
+    }
+  },
+  "metricsLine": {
+    "en": "4 service lines · 1 corporate website · 5+ key sections · 1 lead-generation structure",
+    "uk": "4 напрями послуг · 1 корпоративний сайт · 5+ ключових розділів · 1 структура генерації заявок"
+  },
+  "order": 20,
+  "region": {
+    "en": "Denmark",
+    "uk": "Данія"
+  },
+  "sections": [
+    {
+      "_key": "sec6",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b1",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s2",
+              "_type": "span",
+              "marks": [],
+              "text": "Для digital-агенції недостатньо просто показати перелік послуг. Потенційний клієнт хоче зрозуміти підхід до роботи, оцінити експертність команди та побачити, як саме агенція допомагає бізнесу отримувати клієнтів через digital-канали."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec6",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec6",
+              "_type": "span",
+              "marks": [],
+              "text": "For a digital agency, listing services isn't enough. A potential client wants to understand the approach, evaluate the team's expertise, and see how the agency drives client growth through digital channels."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletIcon": "cross",
+      "bulletList": [
+        {
+          "_key": "Af0w24d1UBF0wdCcQLyN9z",
+          "en": "Show expertise and a clear working approach",
+          "uk": "Підкреслити експертність і підхід до роботи"
+        },
+        {
+          "_key": "Af0w24d1UBF0wdCcQLyNBK",
+          "en": "Structure multiple service lines into one system",
+          "uk": "Структурувати кілька напрямів послуг в єдину систему"
+        },
+        {
+          "_key": "Af0w24d1UBF0wdCcQLyNCf",
+          "en": "Present business value in plain language",
+          "uk": "Показати бізнес-цінність послуг зрозумілою мовою"
+        },
+        {
+          "_key": "Af0w24d1UBF0wdCcQLyNE0",
+          "en": "Build a clear path from first visit to inquiry",
+          "uk": "Побудувати логічний шлях від знайомства до заявки"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ CHALLENGE",
+        "uk": "/ CHALLENGE"
+      },
+      "heading": {
+        "en": "What *the client* came with",
+        "uk": "З чим прийшов *клієнт*"
+      },
+      "imageVariant": "imageRight",
+      "variant": "centered"
+    },
+    {
+      "_key": "sec9",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b3",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s4",
+              "_type": "span",
+              "marks": [],
+              "text": "Розробили корпоративний сайт для digital-агенції з фокусом на експертність, послуги та генерацію заявок."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-sec9",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-sec9",
+              "_type": "span",
+              "marks": [],
+              "text": "We built a corporate website focused on expertise, service clarity, and business inquiries."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletList": [
+        {
+          "_key": "Af0w24d1UBF0wdCcQLyNFL",
+          "en": "Homepage as a structured presentation of services and approach",
+          "uk": "Головна сторінка як презентація послуг і підходу"
+        },
+        {
+          "_key": "Af0w24d1UBF0wdCcQLyNGg",
+          "en": "Clear service architecture: websites, SEO, advertising, branding",
+          "uk": "Структуровані напрями: сайти, SEO, реклама, брендинг"
+        },
+        {
+          "_key": "Af0w24d1UBF0wdCcQLyNI1",
+          "en": "Multiple CTAs for consultation and partnership",
+          "uk": "Кілька CTA для консультації та співпраці"
+        },
+        {
+          "_key": "Af0w24d1UBF0wdCcQLyNJM",
+          "en": "Responsive build and CMS for independent content updates",
+          "uk": "Адаптивна версія і CMS для оновлення контенту"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ SOLUTION",
+        "uk": "/ SOLUTION"
+      },
+      "heading": {
+        "en": "What we *did*",
+        "uk": "Що ми *зробили*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-3432d66acf8a6e25eb64b91cef3f1dd5f8db90a3-2560x2000-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "fd187ec9f59b",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b5",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s6",
+              "_type": "span",
+              "marks": [],
+              "text": "Команда WebBond може самостійно оновлювати сторінки послуг, структуру контенту та інформацію про компанію без розробника."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-cms",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-cms",
+              "_type": "span",
+              "marks": [],
+              "text": "The WebBond team can update service pages, core content, and company information independently without developer involvement."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bulletList": [
+        {
+          "_key": "Af0w24d1UBF0wdCcQLyNKh",
+          "en": "Edit service and solution blocks",
+          "uk": "Редагування послуг і сервісних блоків"
+        },
+        {
+          "_key": "Af0w24d1UBF0wdCcQLyNM2",
+          "en": "Update copy and CTA content",
+          "uk": "Оновлення текстів і CTA"
+        },
+        {
+          "_key": "Af0w24d1UBF0wdCcQLyNNN",
+          "en": "Manage key site sections safely",
+          "uk": "Керування ключовими розділами сайту"
+        }
+      ],
+      "eyebrow": {
+        "en": "/ CMS",
+        "uk": "/ CMS"
+      },
+      "heading": {
+        "en": "Admin panel for managing *services and content*",
+        "uk": "Адмін-панель для керування *послугами та контентом*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-9a51e68deca8955985f57542524aa61d948539ef-2940x1836-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageRight",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "1634ba18c68b",
+      "_type": "mediaGalleryBlock",
+      "enableLightbox": true,
+      "images": [
+        {
+          "_key": "427bc29ee648",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-3432d66acf8a6e25eb64b91cef3f1dd5f8db90a3-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "9e7df23eba79",
+          "_type": "mediaGalleryImageItem",
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-4261f74d3b42e0cf34d5d0f435bdc6119212221c-2560x2000-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        }
+      ]
+    },
+    {
+      "_key": "sech",
+      "_type": "imageTextBlock",
+      "body": [
+        {
+          "_key": "b7",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "s8",
+              "_type": "span",
+              "marks": [],
+              "text": "WebBond отримала digital-інструмент для залучення нових клієнтів: користувач швидко розуміє спеціалізацію агенції, ознайомлюється з послугами та переходить до консультації."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "bodyEn": [
+        {
+          "_key": "ben-out",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "sen-out",
+              "_type": "span",
+              "marks": [],
+              "text": "WebBond received a full digital lead-generation tool: users quickly understand the agency specialization, review service lines, and move to consultation."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "en": "/ OUTCOME",
+        "uk": "/ OUTCOME"
+      },
+      "heading": {
+        "en": "Result",
+        "uk": "Результат"
+      },
+      "variant": "centered"
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "Corporate site for a digital agency focused on expertise presentation and lead generation.",
+      "uk": "WebBond — digital-агенція, яка допомагає бізнесу розвивати онлайн-присутність через сайти, SEO, рекламу та брендинг."
+    },
+    "title": {
+      "en": "WebBond - case study | Code-Site.Art",
+      "uk": "WebBond — кейс | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "webbond"
+  },
+  "stack": [
+    "Next.js",
+    "Sanity"
+  ],
+  "status": "published",
+  "title": {
+    "en": "WebBond",
+    "uk": "WebBond"
+  },
+  "year": 2026
+}

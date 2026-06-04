@@ -1,0 +1,3082 @@
+{
+  "_createdAt": "2026-05-16T04:30:26Z",
+  "_id": "blogPost.skilky-koshtuye-sayt-2026",
+  "_rev": "bM4Vn6Xhr0kQ8myfjCRc7f",
+  "_system": {
+    "base": {
+      "id": "blogPost.skilky-koshtuye-sayt-2026",
+      "rev": "4QjxnWaZRYTL6JsL6nB5RX"
+    }
+  },
+  "_type": "blogPost",
+  "_updatedAt": "2026-05-31T08:34:40Z",
+  "author": {
+    "bio": "Засновник Code-Site.Art. Веду техлід-роботу і пишу про реальні цифри з 47 проєктів.",
+    "name": "Fedir Alpatov",
+    "photoUrl": "/team/fedir.jpg",
+    "role": "Founder & Tech Lead"
+  },
+  "body": [
+    {
+      "_key": "a1-tldr-1",
+      "_type": "tldrBox",
+      "items": [
+        "**Лендинг:** $1,000–$2,500 (1-2 тижні)",
+        "**Багатосторінковий сайт під галузь:** $3,500–$7,500 (4-10 тижнів)",
+        "**Інтернет-магазин:** $5,000–$10,000 (6-10 тижнів)",
+        "**Кастомний продукт (SaaS, B2B-портал):** $14,000+ (8-16 тижнів)",
+        "**WordPress із плагінами за 3 роки:** $4,200–$6,800 у реальних витратах",
+        "**Конструктор за 3 роки:** $720–$7,200 у підписках"
+      ],
+      "title": "За 60 секунд:"
+    },
+    {
+      "_key": "a1-b-3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-2",
+          "_type": "span",
+          "marks": [],
+          "text": "4 фактори, які насправді формують ціну"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1-b-5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-4",
+          "_type": "span",
+          "marks": [],
+          "text": "Власник бізнесу заходить у Google і пише «скільки коштує сайт». Отримує 200 студій і 200 цін, які відрізняються в 30 разів. Причина проста — нікого з підрядників не вчили розкладати ціну на статті витрат. Усі дають загальну цифру і просять надіслати ТЗ."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-6",
+          "_type": "span",
+          "marks": [],
+          "text": "Реальна ціна формується з чотирьох речей:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-10",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-8",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Скільки сторінок"
+        },
+        {
+          "_key": "a1-s-9",
+          "_type": "span",
+          "marks": [],
+          "text": " і яка з них кастомна. 5 простих сторінок ≠ 5 складних з калькуляторами."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-13",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-11",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Скільки інтеграцій."
+        },
+        {
+          "_key": "a1-s-12",
+          "_type": "span",
+          "marks": [],
+          "text": " Helsi, AmoCRM, Stripe, LiqPay, Diia.Sign, Telegram-міст — кожна з них це 4-12 годин роботи плюс тестування."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-16",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-14",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Хто пише контент."
+        },
+        {
+          "_key": "a1-s-15",
+          "_type": "span",
+          "marks": [],
+          "text": " Якщо клієнт — економимо $1,500-$2,500 на копірайтері. Якщо ми — додаємо до тиру."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-19",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-17",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Скільки мов."
+        },
+        {
+          "_key": "a1-s-18",
+          "_type": "span",
+          "marks": [],
+          "text": " Кожна додаткова мова = окрема SEO-структура + CMS-конфігурація + +15-25% до scope."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-21",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-20",
+          "_type": "span",
+          "marks": [],
+          "text": "Дизайн впливає менше, ніж здається. Складність дизайну змінює ціну на 0-40%, а не в рази. Більшість тиру забирає інженерія і інтеграції."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-23",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-22",
+          "_type": "span",
+          "marks": [],
+          "text": "Що в кошторисі ховають «під запит»"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1-b-27",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-24",
+          "_type": "span",
+          "marks": [],
+          "text": "З 47 наших клієнтів "
+        },
+        {
+          "_key": "a1-s-25",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "40"
+        },
+        {
+          "_key": "a1-s-26",
+          "_type": "span",
+          "marks": [],
+          "text": " прийшли після того, як інша студія відмовилась дати конкретну цифру. Стандартний скрипт виглядає так: «надішліть детальне ТЗ — і ми порахуємо». На практиці це означає одне з двох:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-29",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-28",
+          "_type": "span",
+          "marks": [],
+          "text": "Студія не знає реальних витрат і боїться промахнутись"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-31",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-30",
+          "_type": "span",
+          "marks": [],
+          "text": "Студія знає, що рахунок виходить великий, і хоче спершу «затягнути» клієнта на консультацію"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-33",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-32",
+          "_type": "span",
+          "marks": [],
+          "text": "В обох випадках це програш для клієнта. Час, витрачений на бриф і консультацію без цифри — це 2-3 тижні фактичного простою."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-38",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-34",
+          "_type": "span",
+          "marks": [],
+          "text": "Якщо ви хочете зрозуміти діапазон під свій проєкт за 60 секунд, без email і реги — у нас є "
+        },
+        {
+          "_key": "a1-s-36",
+          "_type": "span",
+          "marks": [
+            "a1-m-35"
+          ],
+          "text": "калькулятор"
+        },
+        {
+          "_key": "a1-s-37",
+          "_type": "span",
+          "marks": [],
+          "text": ". Він не замінює бриф, але дає чесну вилку."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a1-m-35",
+          "_type": "link",
+          "href": "/calculator",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-40",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-39",
+          "_type": "span",
+          "marks": [],
+          "text": "Розбивка ціни Industry Pro ($3,500) — рядок за рядком"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1-b-42",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-41",
+          "_type": "span",
+          "marks": [],
+          "text": "Це найпопулярніший наш тир. Покриває клініки, юр-фірми, бух-аутсорсинг, ремонтні компанії — всіх, кому потрібен сайт під свою галузь з 2-3 інтеграціями та compliance-вимогами."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-tbl-43",
+      "_type": "blogTable",
+      "headers": [
+        "Стаття",
+        "Витрати",
+        "Дні роботи"
+      ],
+      "rows": [
+        {
+          "_key": "a1-row-44",
+          "_type": "blogTableRow",
+          "cells": [
+            "Копірайтинг (10 сторінок + 2 SEO-статті)",
+            "$400",
+            "3"
+          ]
+        },
+        {
+          "_key": "a1-row-45",
+          "_type": "blogTableRow",
+          "cells": [
+            "Дизайн (Figma, 2 раунди правок)",
+            "$700",
+            "4-5"
+          ]
+        },
+        {
+          "_key": "a1-row-46",
+          "_type": "blogTableRow",
+          "cells": [
+            "Frontend (Next.js, адаптив, анімації)",
+            "$1,200",
+            "6-8"
+          ]
+        },
+        {
+          "_key": "a1-row-47",
+          "_type": "blogTableRow",
+          "cells": [
+            "Backend / API / інтеграції",
+            "$600",
+            "4"
+          ]
+        },
+        {
+          "_key": "a1-row-48",
+          "_type": "blogTableRow",
+          "cells": [
+            "Sanity CMS + onboarding",
+            "$250",
+            "2"
+          ]
+        },
+        {
+          "_key": "a1-row-49",
+          "_type": "blogTableRow",
+          "cells": [
+            "QA (60-точковий чек-ліст)",
+            "$150",
+            "1"
+          ]
+        },
+        {
+          "_key": "a1-row-50",
+          "_type": "blogTableRow",
+          "cells": [
+            "Запуск + домен + аналітика",
+            "$100",
+            "0.5"
+          ]
+        },
+        {
+          "_key": "a1-row-51",
+          "_type": "blogTableRow",
+          "cells": [
+            "Рік підтримки (зарезервовано)",
+            "$100",
+            "—"
+          ]
+        },
+        {
+          "_key": "a1-row-52",
+          "_type": "blogTableRow",
+          "cells": [
+            "**Разом**",
+            "**$3,500**",
+            "20-24"
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "a1-b-54",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-53",
+          "_type": "span",
+          "marks": [],
+          "text": "Те, що відсутнє у цьому списку, але часто з'являється у конкурентів — окремі рядки на «контент-стратегію», «UX-дослідження», «комунікацію з командою». У нас це включене в дизайн і копірайтинг, не виноситься окремими позиціями."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-cta-55",
+      "_type": "ctaCallout",
+      "ctaHref": "/calculator",
+      "ctaLabel": "Розрахувати ціну",
+      "eyebrow": "Калькулятор",
+      "heading": "Ось скільки конкретно у вас",
+      "sub": "Натисніть на калькулятор і за 60 секунд ви отримаєте вилку ціни під ваш проєкт. Без розмови з sales. Без email-розсилки."
+    },
+    {
+      "_key": "a1-b-57",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-56",
+          "_type": "span",
+          "marks": [],
+          "text": "Скільки коштує WordPress за 3 роки (реальні витрати)"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1-b-59",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-58",
+          "_type": "span",
+          "marks": [],
+          "text": "З 47 наших клієнтів 14 прийшли з WordPress-сайтом, який треба було переробити. У 12 з 14 загальні витрати на WP за попередні 2-3 роки виявились вищими, ніж ціна нового custom-сайту:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-62",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-60",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "18 платних плагінів"
+        },
+        {
+          "_key": "a1-s-61",
+          "_type": "span",
+          "marks": [],
+          "text": " (середнє по нашій вибірці) — $300-$800 на рік"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-65",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-63",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Підтримка розробника"
+        },
+        {
+          "_key": "a1-s-64",
+          "_type": "span",
+          "marks": [],
+          "text": " (виправлення після оновлень плагінів) — $400-$800 на рік"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-68",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-66",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Хостинг + SSL"
+        },
+        {
+          "_key": "a1-s-67",
+          "_type": "span",
+          "marks": [],
+          "text": " — $120-$300 на рік"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-71",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-69",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Тема + ліцензія"
+        },
+        {
+          "_key": "a1-s-70",
+          "_type": "span",
+          "marks": [],
+          "text": " — $60-$200 на рік"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-74",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-72",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Backup + security plugins"
+        },
+        {
+          "_key": "a1-s-73",
+          "_type": "span",
+          "marks": [],
+          "text": " — $100-$200 на рік"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-78",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-75",
+          "_type": "span",
+          "marks": [],
+          "text": "Сума за 3 роки: "
+        },
+        {
+          "_key": "a1-s-76",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "$2,940-$6,300"
+        },
+        {
+          "_key": "a1-s-77",
+          "_type": "span",
+          "marks": [],
+          "text": " — не враховуючи годин самого власника, які пішли на «розібратись чому плагін Yoast зламав сторінку послуг після останнього оновлення»."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-87",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-79",
+          "_type": "span",
+          "marks": [],
+          "text": "Custom-сайт на Next.js — це "
+        },
+        {
+          "_key": "a1-s-80",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "одна оплата"
+        },
+        {
+          "_key": "a1-s-81",
+          "_type": "span",
+          "marks": [],
+          "text": " ($3,500) і "
+        },
+        {
+          "_key": "a1-s-82",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "$0/міс"
+        },
+        {
+          "_key": "a1-s-83",
+          "_type": "span",
+          "marks": [],
+          "text": " після релізу. Деталі ми розбираємо окремо на сторінці "
+        },
+        {
+          "_key": "a1-s-85",
+          "_type": "span",
+          "marks": [
+            "a1-m-84"
+          ],
+          "text": "vs WordPress"
+        },
+        {
+          "_key": "a1-s-86",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a1-m-84",
+          "_type": "link",
+          "href": "/vs-wordpress",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-89",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-88",
+          "_type": "span",
+          "marks": [],
+          "text": "Як рахуються інтеграції (точна формула)"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1-b-91",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-90",
+          "_type": "span",
+          "marks": [],
+          "text": "Це найчастіше джерело сюрпризів у кошторисі від інших студій. У нас формула проста:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-94",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-92",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Базова інтеграція через REST API"
+        },
+        {
+          "_key": "a1-s-93",
+          "_type": "span",
+          "marks": [],
+          "text": " (форма → Telegram, форма → email): $150"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-97",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-95",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Інтеграція з CRM"
+        },
+        {
+          "_key": "a1-s-96",
+          "_type": "span",
+          "marks": [],
+          "text": " (Bitrix24, AmoCRM, KeyCRM): $500"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-100",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-98",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Інтеграція з галузевою системою"
+        },
+        {
+          "_key": "a1-s-99",
+          "_type": "span",
+          "marks": [],
+          "text": " (Helsi, Clio, MEDoc): $500-$1,200 залежно від API"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-103",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-101",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Інтеграція з платіжкою"
+        },
+        {
+          "_key": "a1-s-102",
+          "_type": "span",
+          "marks": [],
+          "text": " (Stripe, LiqPay, WayForPay): $900"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-106",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-104",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Інтеграція з системою бронювання"
+        },
+        {
+          "_key": "a1-s-105",
+          "_type": "span",
+          "marks": [],
+          "text": " (Calendly, YClients, Booksy): $600"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-109",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-107",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Інтеграція з ERP"
+        },
+        {
+          "_key": "a1-s-108",
+          "_type": "span",
+          "marks": [],
+          "text": " (1С, BAS, Odoo): $1,200-$2,500"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-114",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-110",
+          "_type": "span",
+          "marks": [],
+          "text": "Усе це є в "
+        },
+        {
+          "_key": "a1-s-112",
+          "_type": "span",
+          "marks": [
+            "a1-m-111"
+          ],
+          "text": "калькуляторі"
+        },
+        {
+          "_key": "a1-s-113",
+          "_type": "span",
+          "marks": [],
+          "text": " як окремі чекбокси."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a1-m-111",
+          "_type": "link",
+          "href": "/calculator",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-116",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-115",
+          "_type": "span",
+          "marks": [],
+          "text": "Реальний приклад: клініка «Ефедра», Одеса"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1-b-118",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-117",
+          "_type": "span",
+          "marks": [],
+          "text": "Базовий тир Industry Pro $3,500. Що ввійшло у проєкт:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-120",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-119",
+          "_type": "span",
+          "marks": [],
+          "text": "12 сторінок (головна, послуги стоматології, послуги естетики, лікарі, ціни, контакти, FAQ, блог, акції, кейси, про клініку, запис)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-122",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-121",
+          "_type": "span",
+          "marks": [],
+          "text": "Інтеграція з Helsi (онлайн-запис) — $500"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-124",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-123",
+          "_type": "span",
+          "marks": [],
+          "text": "Двомовність UA/RU — +15% від базової ціни (~$525)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-126",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-125",
+          "_type": "span",
+          "marks": [],
+          "text": "2 розділи (стоматологія + студія краси) під одним брендом — без подвійної оплати дизайну"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-128",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-127",
+          "_type": "span",
+          "marks": [],
+          "text": "Compliance під МОЗ (юр-коректне оформлення прайсу і ліцензій)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-132",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-129",
+          "_type": "span",
+          "marks": [],
+          "text": "Підсумкова ціна: "
+        },
+        {
+          "_key": "a1-s-130",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "$4,525"
+        },
+        {
+          "_key": "a1-s-131",
+          "_type": "span",
+          "marks": [],
+          "text": ", термін 4 тижні. Результат через 6 місяців — у 3.2 рази більше заявок, у 4 рази більше органічного трафіку з Google."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-134",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-133",
+          "_type": "span",
+          "marks": [],
+          "text": "Коли ціна вища за $14,000"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1-b-136",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-135",
+          "_type": "span",
+          "marks": [],
+          "text": "Якщо ви плануєте проєкт з:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-138",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-137",
+          "_type": "span",
+          "marks": [],
+          "text": "Користувацькими кабінетами і ролями (більш ніж 2)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-140",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-139",
+          "_type": "span",
+          "marks": [],
+          "text": "Складною платіжною воронкою (тарифи, апселли, реферали)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-142",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-141",
+          "_type": "span",
+          "marks": [],
+          "text": "SaaS-логікою (multi-tenancy, біллінг)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-144",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-143",
+          "_type": "span",
+          "marks": [],
+          "text": "4+ мовами"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-146",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-145",
+          "_type": "span",
+          "marks": [],
+          "text": "SLA з 24/7 підтримкою"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-148",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-147",
+          "_type": "span",
+          "marks": [],
+          "text": "— це тир Custom від $14,000. Не тому що «студія наживається», а тому що це 8-16 тижнів роботи 5-7 людей з QA, dev-ops і архітектором. У такого проєкту інша економіка."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-cta-149",
+      "_type": "ctaCallout",
+      "ctaHref": "/calculator",
+      "ctaLabel": "Спробувати калькулятор",
+      "eyebrow": "Калькулятор",
+      "heading": "Хочете розрахунок під ваш проєкт?",
+      "sub": "Калькулятор за 60 секунд: тип сайту, кількість сторінок, мови, інтеграції — і ви бачите вилку ціни з розбивкою. Без email. Без розмови з sales."
+    },
+    {
+      "_key": "a1-b-151",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-150",
+          "_type": "span",
+          "marks": [],
+          "text": "Як перевірити, що ваш кошторис чесний"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1-b-153",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-152",
+          "_type": "span",
+          "marks": [],
+          "text": "5 запитань, які варто поставити будь-якій студії перед підписанням:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-156",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-154",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Чи фіксована сума в договорі?"
+        },
+        {
+          "_key": "a1-s-155",
+          "_type": "span",
+          "marks": [],
+          "text": " Якщо «приблизно» або «залежить від» — це не кошторис, це маркетинг."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-159",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-157",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Чи входить рік підтримки в ціну?"
+        },
+        {
+          "_key": "a1-s-158",
+          "_type": "span",
+          "marks": [],
+          "text": " У 80% студій — ні. У нас — так."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-162",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-160",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Чи розписана робота по статтях?"
+        },
+        {
+          "_key": "a1-s-161",
+          "_type": "span",
+          "marks": [],
+          "text": " Якщо ви бачите тільки «розробка $X» — половина роботи може зникнути по дорозі."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-165",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-163",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Чи прописана неустойка за зрив термінів?"
+        },
+        {
+          "_key": "a1-s-164",
+          "_type": "span",
+          "marks": [],
+          "text": " Без неустойки термін — це орієнтир, не зобов’язання."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-168",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-166",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Хто пише контент?"
+        },
+        {
+          "_key": "a1-s-167",
+          "_type": "span",
+          "marks": [],
+          "text": " Це окрема сума $200-$2,000. Має бути проговорено."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-173",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-169",
+          "_type": "span",
+          "marks": [],
+          "text": "Ці пункти ми розбираємо детальніше в окремій статті: "
+        },
+        {
+          "_key": "a1-s-171",
+          "_type": "span",
+          "marks": [
+            "a1-m-170"
+          ],
+          "text": "Договір з веб-студією: 7 пунктів, які перевіряють перед оплатою"
+        },
+        {
+          "_key": "a1-s-172",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a1-m-170",
+          "_type": "link",
+          "href": "/blog/dohovir-z-veb-studieyu-7-punktiv",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-175",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-174",
+          "_type": "span",
+          "marks": [],
+          "text": "Чому ми даємо фіксовану ціну, а не «під запит»"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1-b-177",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-176",
+          "_type": "span",
+          "marks": [],
+          "text": "Дві причини:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-180",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-178",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Це поважно до часу клієнта."
+        },
+        {
+          "_key": "a1-s-179",
+          "_type": "span",
+          "marks": [],
+          "text": " Власник бізнесу не повинен витрачати 3 години на консультацію, щоб дізнатись, що він не може собі дозволити тир."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-183",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-181",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Це дисципліна для нас."
+        },
+        {
+          "_key": "a1-s-182",
+          "_type": "span",
+          "marks": [],
+          "text": " Якщо ми не вміємо назвати цифру за 30 хвилин на брифі — ми не до кінця розуміємо проєкт. А це значить, що проєкт ризикує піти не туди."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-187",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-184",
+          "_type": "span",
+          "marks": [],
+          "text": "З 47 проєктів за 3 роки ми "
+        },
+        {
+          "_key": "a1-s-185",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "не помилились із вилкою ціни"
+        },
+        {
+          "_key": "a1-s-186",
+          "_type": "span",
+          "marks": [],
+          "text": " в жодному. Це не тому що ми генії — це тому що ми бачили 47 схожих проєктів і знаємо, скільки реально йде на що."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-b-192",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1-s-188",
+          "_type": "span",
+          "marks": [],
+          "text": "Якщо ваш проєкт схожий на щось із нашого "
+        },
+        {
+          "_key": "a1-s-190",
+          "_type": "span",
+          "marks": [
+            "a1-m-189"
+          ],
+          "text": "портфоліо"
+        },
+        {
+          "_key": "a1-s-191",
+          "_type": "span",
+          "marks": [],
+          "text": ", ми скажемо вам вилку ціни на 30-хвилинному дзвінку. Якщо проєкт нестандартний — теж скажемо, але з більшим діапазоном."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a1-m-189",
+          "_type": "link",
+          "href": "/portfolio",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a1-cta-193",
+      "_type": "ctaCallout",
+      "ctaHref": "/contacts",
+      "ctaLabel": "Записатись на дзвінок",
+      "ctaSecondaryHref": "https://t.me/fedirdev",
+      "ctaSecondaryLabel": "Або написати в Telegram",
+      "eyebrow": "Обговорити",
+      "heading": "Хочете обговорити проєкт?",
+      "sub": "Безкоштовна 30-хв консультація. Озвучимо вилку ціни на дзвінку і чесно скажемо, чи підходимо одне одному."
+    }
+  ],
+  "bodyEn": [
+    {
+      "_key": "a1en-tldr-1",
+      "_type": "tldrBox",
+      "items": [
+        "**Landing page:** $1,000–$2,500 (1-2 weeks)",
+        "**Industry business site:** $3,500–$7,500 (4-10 weeks)",
+        "**E-commerce:** $5,000–$10,000 (6-10 weeks)",
+        "**Custom product (SaaS, B2B portal):** $14,000+ (8-16 weeks)",
+        "**WordPress + plugins, real cost over 3 years:** $4,200–$6,800",
+        "**Page builder over 3 years:** $720–$7,200 in subscriptions"
+      ],
+      "title": "Quick numbers:"
+    },
+    {
+      "_key": "a1en-b-3",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-2",
+          "_type": "span",
+          "marks": [],
+          "text": "4 factors that actually shape the price"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1en-b-5",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-4",
+          "_type": "span",
+          "marks": [],
+          "text": "A business owner Googles \"how much does a website cost.\" They get 200 studios and 200 prices that differ by 30×. The reason is simple — none of those vendors were taught to break a quote into line items. Everyone gives one number and asks you to send a spec."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-6",
+          "_type": "span",
+          "marks": [],
+          "text": "The actual cost comes from four things:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-10",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-8",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "How many pages"
+        },
+        {
+          "_key": "a1en-s-9",
+          "_type": "span",
+          "marks": [],
+          "text": " and how custom each one is. 5 simple pages ≠ 5 custom ones with calculators."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-13",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-11",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "How many integrations."
+        },
+        {
+          "_key": "a1en-s-12",
+          "_type": "span",
+          "marks": [],
+          "text": " Helsi, AmoCRM, Stripe, e-signature, Telegram bridge — each is 4-12 hours of work plus testing."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-16",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-14",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Who writes the content."
+        },
+        {
+          "_key": "a1en-s-15",
+          "_type": "span",
+          "marks": [],
+          "text": " If the client does — we save $1,500-$2,500 on a copywriter. If we do — that's an added line."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-19",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-17",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "How many languages."
+        },
+        {
+          "_key": "a1en-s-18",
+          "_type": "span",
+          "marks": [],
+          "text": " Each language doubles the SEO structure + CMS config + adds 15-25% to scope."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-21",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-20",
+          "_type": "span",
+          "marks": [],
+          "text": "Design matters less than people think. Design complexity shifts the price by 0-40%, not by multiples. Most of the tier is engineering and integrations."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-23",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-22",
+          "_type": "span",
+          "marks": [],
+          "text": "What \"on request\" hides in a quote"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1en-b-27",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-24",
+          "_type": "span",
+          "marks": [],
+          "text": "Of our 47 clients, "
+        },
+        {
+          "_key": "a1en-s-25",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "40"
+        },
+        {
+          "_key": "a1en-s-26",
+          "_type": "span",
+          "marks": [],
+          "text": " came to us after another studio refused to give a number. The standard script: \"send a detailed spec and we'll quote it.\" In practice, that means one of two things:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-29",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-28",
+          "_type": "span",
+          "marks": [],
+          "text": "The studio doesn't know their real cost and is afraid of being wrong"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-31",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-30",
+          "_type": "span",
+          "marks": [],
+          "text": "The studio knows the bill is large and wants to lock you into a discovery call first"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-33",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-32",
+          "_type": "span",
+          "marks": [],
+          "text": "Either way, you lose. Time spent on briefs and discovery without a number means 2-3 weeks of effective standstill."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-38",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-34",
+          "_type": "span",
+          "marks": [],
+          "text": "If you want a price range for your project in 60 seconds, no email or signup — we have a "
+        },
+        {
+          "_key": "a1en-s-36",
+          "_type": "span",
+          "marks": [
+            "a1en-m-35"
+          ],
+          "text": "calculator"
+        },
+        {
+          "_key": "a1en-s-37",
+          "_type": "span",
+          "marks": [],
+          "text": ". It doesn't replace a brief, but it gives an honest range."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a1en-m-35",
+          "_type": "link",
+          "href": "/en/calculator",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-40",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-39",
+          "_type": "span",
+          "marks": [],
+          "text": "Industry Pro ($3,500) — line by line"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1en-b-42",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-41",
+          "_type": "span",
+          "marks": [],
+          "text": "This is our most-picked tier. Covers clinics, law firms, accounting offices, renovation companies — anyone who needs an industry-specific site with 2-3 integrations and compliance requirements."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-tbl-43",
+      "_type": "blogTable",
+      "headers": [
+        "Line item",
+        "Cost",
+        "Days"
+      ],
+      "rows": [
+        {
+          "_key": "a1en-row-44",
+          "_type": "blogTableRow",
+          "cells": [
+            "Copywriting (10 pages + 2 SEO articles)",
+            "$400",
+            "3"
+          ]
+        },
+        {
+          "_key": "a1en-row-45",
+          "_type": "blogTableRow",
+          "cells": [
+            "Design (Figma, 2 revision rounds)",
+            "$700",
+            "4-5"
+          ]
+        },
+        {
+          "_key": "a1en-row-46",
+          "_type": "blogTableRow",
+          "cells": [
+            "Frontend (Next.js, responsive, animations)",
+            "$1,200",
+            "6-8"
+          ]
+        },
+        {
+          "_key": "a1en-row-47",
+          "_type": "blogTableRow",
+          "cells": [
+            "Backend / API / integrations",
+            "$600",
+            "4"
+          ]
+        },
+        {
+          "_key": "a1en-row-48",
+          "_type": "blogTableRow",
+          "cells": [
+            "Sanity CMS + onboarding",
+            "$250",
+            "2"
+          ]
+        },
+        {
+          "_key": "a1en-row-49",
+          "_type": "blogTableRow",
+          "cells": [
+            "QA (60-point checklist)",
+            "$150",
+            "1"
+          ]
+        },
+        {
+          "_key": "a1en-row-50",
+          "_type": "blogTableRow",
+          "cells": [
+            "Launch + domain + analytics",
+            "$100",
+            "0.5"
+          ]
+        },
+        {
+          "_key": "a1en-row-51",
+          "_type": "blogTableRow",
+          "cells": [
+            "Year of support (reserved)",
+            "$100",
+            "—"
+          ]
+        },
+        {
+          "_key": "a1en-row-52",
+          "_type": "blogTableRow",
+          "cells": [
+            "**Total**",
+            "**$3,500**",
+            "20-24"
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "a1en-b-54",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-53",
+          "_type": "span",
+          "marks": [],
+          "text": "What's missing from this list — but often appears at competitors — are separate lines for \"content strategy,\" \"UX research,\" \"team comms.\" With us, that's bundled into design and copywriting, not invoiced separately."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-cta-55",
+      "_type": "ctaCallout",
+      "ctaHref": "/en/calculator",
+      "ctaLabel": "Calculate price",
+      "eyebrow": "Calculator",
+      "heading": "Here's exactly what yours costs.",
+      "sub": "Run the calculator and get a price range for your project in 60 seconds. No sales call. No email list."
+    },
+    {
+      "_key": "a1en-b-57",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-56",
+          "_type": "span",
+          "marks": [],
+          "text": "What WordPress really costs over 3 years"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1en-b-59",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-58",
+          "_type": "span",
+          "marks": [],
+          "text": "Of our 47 clients, 14 came from a WordPress site that needed a rebuild. In 12 of those 14, total WordPress spend over the previous 2-3 years exceeded the price of a new custom site:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-62",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-60",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "18 paid plugins"
+        },
+        {
+          "_key": "a1en-s-61",
+          "_type": "span",
+          "marks": [],
+          "text": " (our average sample) — $300-$800/year"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-65",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-63",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Developer support"
+        },
+        {
+          "_key": "a1en-s-64",
+          "_type": "span",
+          "marks": [],
+          "text": " (fixes after plugin updates) — $400-$800/year"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-68",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-66",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Hosting + SSL"
+        },
+        {
+          "_key": "a1en-s-67",
+          "_type": "span",
+          "marks": [],
+          "text": " — $120-$300/year"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-71",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-69",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Theme + license"
+        },
+        {
+          "_key": "a1en-s-70",
+          "_type": "span",
+          "marks": [],
+          "text": " — $60-$200/year"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-74",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-72",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Backup + security plugins"
+        },
+        {
+          "_key": "a1en-s-73",
+          "_type": "span",
+          "marks": [],
+          "text": " — $100-$200/year"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-78",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-75",
+          "_type": "span",
+          "marks": [],
+          "text": "Total over 3 years: "
+        },
+        {
+          "_key": "a1en-s-76",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "$2,940-$6,300"
+        },
+        {
+          "_key": "a1en-s-77",
+          "_type": "span",
+          "marks": [],
+          "text": " — not counting the owner's hours spent on \"figuring out why the Yoast plugin broke the services page after the last update.\""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-87",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-79",
+          "_type": "span",
+          "marks": [],
+          "text": "Custom site on Next.js — "
+        },
+        {
+          "_key": "a1en-s-80",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "one payment"
+        },
+        {
+          "_key": "a1en-s-81",
+          "_type": "span",
+          "marks": [],
+          "text": " ($3,500) and "
+        },
+        {
+          "_key": "a1en-s-82",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "$0/mo"
+        },
+        {
+          "_key": "a1en-s-83",
+          "_type": "span",
+          "marks": [],
+          "text": " after launch. We break this down in detail on "
+        },
+        {
+          "_key": "a1en-s-85",
+          "_type": "span",
+          "marks": [
+            "a1en-m-84"
+          ],
+          "text": "vs WordPress"
+        },
+        {
+          "_key": "a1en-s-86",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a1en-m-84",
+          "_type": "link",
+          "href": "/en/vs-wordpress",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-89",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-88",
+          "_type": "span",
+          "marks": [],
+          "text": "How integrations get counted (the formula)"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1en-b-91",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-90",
+          "_type": "span",
+          "marks": [],
+          "text": "This is the most common quote-surprise source. Our formula is simple:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-94",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-92",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Basic REST integration"
+        },
+        {
+          "_key": "a1en-s-93",
+          "_type": "span",
+          "marks": [],
+          "text": " (form → Telegram, form → email): $150"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-97",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-95",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "CRM integration"
+        },
+        {
+          "_key": "a1en-s-96",
+          "_type": "span",
+          "marks": [],
+          "text": " (Bitrix24, AmoCRM, HubSpot, Pipedrive, KeyCRM): $500"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-100",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-98",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Industry-specific system"
+        },
+        {
+          "_key": "a1en-s-99",
+          "_type": "span",
+          "marks": [],
+          "text": " (Helsi, Clio, MEDoc — UA), or EU equivalents: $500-$1,200 depending on API"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-103",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-101",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Payment gateway"
+        },
+        {
+          "_key": "a1en-s-102",
+          "_type": "span",
+          "marks": [],
+          "text": " (Stripe, LiqPay, WayForPay): $900"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-106",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-104",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Booking system"
+        },
+        {
+          "_key": "a1en-s-105",
+          "_type": "span",
+          "marks": [],
+          "text": " (Calendly, YClients, Booksy): $600"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-109",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-107",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "ERP system"
+        },
+        {
+          "_key": "a1en-s-108",
+          "_type": "span",
+          "marks": [],
+          "text": " (Odoo, SAP B1, 1C/BAS): $1,200-$2,500"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-114",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-110",
+          "_type": "span",
+          "marks": [],
+          "text": "All of this is in the "
+        },
+        {
+          "_key": "a1en-s-112",
+          "_type": "span",
+          "marks": [
+            "a1en-m-111"
+          ],
+          "text": "calculator"
+        },
+        {
+          "_key": "a1en-s-113",
+          "_type": "span",
+          "marks": [],
+          "text": " as separate checkboxes."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a1en-m-111",
+          "_type": "link",
+          "href": "/en/calculator",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-116",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-115",
+          "_type": "span",
+          "marks": [],
+          "text": "Real example: Efedra Clinic, Odesa"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1en-b-118",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-117",
+          "_type": "span",
+          "marks": [],
+          "text": "Base tier Industry Pro $3,500. What went into the project:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-120",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-119",
+          "_type": "span",
+          "marks": [],
+          "text": "12 pages (home, dental services, aesthetic services, doctors, prices, contact, FAQ, blog, promotions, cases, about, booking)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-122",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-121",
+          "_type": "span",
+          "marks": [],
+          "text": "Integration with Helsi (online booking) — $500"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-124",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-123",
+          "_type": "span",
+          "marks": [],
+          "text": "UA/RU bilingual — +15% on base price (~$525)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-126",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-125",
+          "_type": "span",
+          "marks": [],
+          "text": "2 service lines (dental + aesthetics) under one brand — without doubling the design cost"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-128",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-127",
+          "_type": "span",
+          "marks": [],
+          "text": "Compliance with the Ukrainian Ministry of Health (legal-correct pricing and licensing)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-132",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-129",
+          "_type": "span",
+          "marks": [],
+          "text": "Final price: "
+        },
+        {
+          "_key": "a1en-s-130",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "$4,525"
+        },
+        {
+          "_key": "a1en-s-131",
+          "_type": "span",
+          "marks": [],
+          "text": ", timeline 4 weeks. Result after 6 months — 3.2× more inquiries, 4× more organic traffic from Google."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-134",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-133",
+          "_type": "span",
+          "marks": [],
+          "text": "When the price goes over $14,000"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1en-b-136",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-135",
+          "_type": "span",
+          "marks": [],
+          "text": "If you're planning a project with:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-138",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-137",
+          "_type": "span",
+          "marks": [],
+          "text": "User accounts with roles (more than 2)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-140",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-139",
+          "_type": "span",
+          "marks": [],
+          "text": "Complex payment flow (subscriptions, upsells, referrals)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-142",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-141",
+          "_type": "span",
+          "marks": [],
+          "text": "SaaS logic (multi-tenancy, billing)"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-144",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-143",
+          "_type": "span",
+          "marks": [],
+          "text": "4+ languages"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-146",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-145",
+          "_type": "span",
+          "marks": [],
+          "text": "24/7 SLA support"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-148",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-147",
+          "_type": "span",
+          "marks": [],
+          "text": "— that's Custom tier from $14,000. Not because \"the studio is profiteering,\" but because that's 8-16 weeks of work for 5-7 people with QA, DevOps, and an architect. That kind of project has different economics."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-cta-149",
+      "_type": "ctaCallout",
+      "ctaHref": "/en/calculator",
+      "ctaLabel": "Try the calculator",
+      "eyebrow": "Calculator",
+      "heading": "Want a number for your project?",
+      "sub": "60-second calculator: project type, page count, languages, integrations — get a price range with a breakdown. No email. No sales call."
+    },
+    {
+      "_key": "a1en-b-151",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-150",
+          "_type": "span",
+          "marks": [],
+          "text": "How to verify your quote is honest"
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1en-b-153",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-152",
+          "_type": "span",
+          "marks": [],
+          "text": "5 questions to ask any studio before signing:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-156",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-154",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Is the price fixed in the contract?"
+        },
+        {
+          "_key": "a1en-s-155",
+          "_type": "span",
+          "marks": [],
+          "text": " If \"approximate\" or \"depending on\" — it's not a quote, it's marketing."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-159",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-157",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Is one year of support in the price?"
+        },
+        {
+          "_key": "a1en-s-158",
+          "_type": "span",
+          "marks": [],
+          "text": " At 80% of studios — no. With us — yes."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-162",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-160",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Is the work broken down by line item?"
+        },
+        {
+          "_key": "a1en-s-161",
+          "_type": "span",
+          "marks": [],
+          "text": " If you only see \"development $X\" — half the work can vanish along the way."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-165",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-163",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Is there a rebate clause for missed deadlines?"
+        },
+        {
+          "_key": "a1en-s-164",
+          "_type": "span",
+          "marks": [],
+          "text": " Without a rebate, a deadline is a guideline, not a commitment."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-168",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-166",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Who writes the content?"
+        },
+        {
+          "_key": "a1en-s-167",
+          "_type": "span",
+          "marks": [],
+          "text": " That's a separate $200-$2,000. Has to be agreed upfront."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-173",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-169",
+          "_type": "span",
+          "marks": [],
+          "text": "We cover these in detail in "
+        },
+        {
+          "_key": "a1en-s-171",
+          "_type": "span",
+          "marks": [
+            "a1en-m-170"
+          ],
+          "text": "Web studio contract: 7 things to check before paying"
+        },
+        {
+          "_key": "a1en-s-172",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a1en-m-170",
+          "_type": "link",
+          "href": "/en/blog/web-studio-contract-7-items",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-175",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-174",
+          "_type": "span",
+          "marks": [],
+          "text": "Why we quote a fixed price, not \"on request\""
+        }
+      ],
+      "markDefs": [],
+      "style": "h2"
+    },
+    {
+      "_key": "a1en-b-177",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-176",
+          "_type": "span",
+          "marks": [],
+          "text": "Two reasons:"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-180",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-178",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Respect for your time."
+        },
+        {
+          "_key": "a1en-s-179",
+          "_type": "span",
+          "marks": [],
+          "text": " A business owner shouldn't spend 3 hours on a consult to find out they can't afford a tier."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-183",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-181",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "Discipline for us."
+        },
+        {
+          "_key": "a1en-s-182",
+          "_type": "span",
+          "marks": [],
+          "text": " If we can't put a number on the brief within 30 minutes, we don't fully understand the project yet — and that's a risk."
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-187",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-184",
+          "_type": "span",
+          "marks": [],
+          "text": "In 47 projects over 3 years, "
+        },
+        {
+          "_key": "a1en-s-185",
+          "_type": "span",
+          "marks": [
+            "strong"
+          ],
+          "text": "we haven't missed the price range"
+        },
+        {
+          "_key": "a1en-s-186",
+          "_type": "span",
+          "marks": [],
+          "text": " on a single one. Not because we're geniuses — because we've seen 47 similar projects and know what really goes into what."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-b-192",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "a1en-s-188",
+          "_type": "span",
+          "marks": [],
+          "text": "If your project looks like something in our "
+        },
+        {
+          "_key": "a1en-s-190",
+          "_type": "span",
+          "marks": [
+            "a1en-m-189"
+          ],
+          "text": "portfolio"
+        },
+        {
+          "_key": "a1en-s-191",
+          "_type": "span",
+          "marks": [],
+          "text": "'ll give you a price range on the 30-min call. If it's non-standard — we'll still give you one, but with a wider band."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "a1en-m-189",
+          "_type": "link",
+          "href": "/en/portfolio",
+          "newTab": false
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "a1en-cta-193",
+      "_type": "ctaCallout",
+      "ctaHref": "/en/contacts",
+      "ctaLabel": "Book a call",
+      "ctaSecondaryHref": "https://t.me/fedirdev",
+      "ctaSecondaryLabel": "Or write on Telegram",
+      "eyebrow": "Discuss",
+      "heading": "Want to discuss your project?",
+      "sub": "Free 30-min consult. We'll quote you on the call and honestly say whether we're a fit."
+    }
+  ],
+  "category": {
+    "_ref": "3dda2459-8805-4c53-ae6f-88ea595e2c0f",
+    "_type": "reference"
+  },
+  "coverImage": {
+    "alt": "Графік цін: Landing $1,000 / Industry Pro $3,500 / Pro Plus $7,500 / Custom $14,000+",
+    "altEn": "Pricing chart: Landing $1,000 / Industry Pro $3,500 / Pro Plus $7,500 / Custom $14,000+",
+    "src": "/blog/cover-skilky-koshtuye.webp"
+  },
+  "eyebrow": "Бюджет · 9 хвилин читання",
+  "eyebrowEn": "Budget · 9 min read",
+  "faq": [
+    {
+      "_key": "faq-1",
+      "_type": "blogFaqItem",
+      "answer": "У 2026 році реальний діапазон — від $1,000 за лендинг до $14,000+ за кастомний продукт. Більшість клієнтів МСБ потрапляє у тир Industry Pro $3,500 (повноцінний сайт з CMS, інтеграціями і compliance).",
+      "question": "Скільки коштує сайт для малого бізнесу в Україні?"
+    },
+    {
+      "_key": "faq-2",
+      "_type": "blogFaqItem",
+      "answer": "«Такий же» зазвичай не такий же. Різниця ховається в кількості сторінок, інтеграцій, компетенції команди, гарантіях і тому, чи входить рік підтримки. Якщо ціна виглядає підозріло низькою — половина роботи зазвичай не входить.",
+      "question": "Чому одна студія називає $500, а інша $5,000 за «такий же» сайт?"
+    },
+    {
+      "_key": "faq-3",
+      "_type": "blogFaqItem",
+      "answer": "$1,000–$2,500 у нашій вилці. Дешевше — це шаблон на конструкторі (з усіма мінусами). Дорожче — це не лендинг, це багатосторінковий сайт.",
+      "question": "Скільки коштує лендинг у 2026?"
+    },
+    {
+      "_key": "faq-4",
+      "_type": "blogFaqItem",
+      "answer": "$5,000–$10,000 для каталогу до 200 SKU з оплатою і доставкою. Якщо потрібен мультивендор, складна логіка знижок, B2B-портал — це тир Custom від $14,000.",
+      "question": "Скільки коштує інтернет-магазин?"
+    },
+    {
+      "_key": "faq-5",
+      "_type": "blogFaqItem",
+      "answer": "У нас — налаштовуємо на вашому акаунті Vercel або Cloudflare. Перший рік фактично безкоштовний (free-тариф покриває більшість малих сайтів). Далі $20-$50/міс залежно від трафіку.",
+      "question": "Чи входить хостинг у вартість сайту?"
+    }
+  ],
+  "faqEn": [
+    {
+      "_key": "faq-en-1",
+      "_type": "blogFaqItemEn",
+      "answer": "In 2026, the real range is $1,000 for a landing page up to $14,000+ for a custom product. Most SMBs land in the Industry Pro tier at $3,500 (full site with CMS, integrations, and compliance).",
+      "question": "How much does a website cost for a small business?"
+    },
+    {
+      "_key": "faq-en-2",
+      "_type": "blogFaqItemEn",
+      "answer": "\"The same\" usually isn't. The difference hides in page count, integrations, team competence, warranties, and whether one year of support is in the price. If the quote looks suspiciously low — half the work usually isn't included.",
+      "question": "Why does one studio quote $500 and another $5,000 for \"the same\" site?"
+    },
+    {
+      "_key": "faq-en-3",
+      "_type": "blogFaqItemEn",
+      "answer": "$1,000–$2,500 in our range. Cheaper means template on a builder (with all the trade-offs). More expensive isn't a landing page — it's a multi-page site.",
+      "question": "How much does a landing page cost in 2026?"
+    },
+    {
+      "_key": "faq-en-4",
+      "_type": "blogFaqItemEn",
+      "answer": "$5,000–$10,000 for a catalog up to 200 SKU with payments and shipping. If you need multi-vendor, complex discount logic, or a B2B portal — that's Custom tier from $14,000.",
+      "question": "How much does e-commerce cost?"
+    },
+    {
+      "_key": "faq-en-5",
+      "_type": "blogFaqItemEn",
+      "answer": "We set it up on your Vercel or Cloudflare account. Year one is effectively free (free tier covers most small sites). After that, $20-$50/mo depending on traffic.",
+      "question": "Is hosting included in the price?"
+    }
+  ],
+  "lede": "За 3 роки ми зробили 47 сайтів у 4 країнах. Тут — реальні цифри з кошторисів, з якими стикається власник малого і середнього бізнесу в 2026 році. Без «під запит». Без «це залежить». Конкретні діапазони, з розбивкою на статті витрат.",
+  "ledeEn": "Over 3 years we've shipped 47 websites across 4 regions. Here are the actual numbers from those quotes — what a small or mid-size business owner pays in 2026. No \"on request.\" No \"it depends.\" Real ranges, broken down by line item.",
+  "metaDescription": "Реальні цифри з 47 проєктів за 3 роки. Скільки коштує лендинг, корпоративний сайт, інтернет-магазин у 2026. З розбивкою по статтях витрат.",
+  "metaDescriptionEn": "Real numbers from 47 projects across 3 years. What a landing page, business site, e-commerce, and custom build cost in 2026. With a line-by-line breakdown.",
+  "metaTitle": "Скільки коштує сайт у 2026 — розбір 47 кошторисів | Code-Site.Art",
+  "metaTitleEn": "Website cost in 2026 — breakdown of 47 quotes | Code-Site.Art",
+  "publishedAt": "2026-05-19T11:11:30.189Z",
+  "readingTimeMinutes": 9,
+  "relatedPostSlugs": [
+    "tilda-7200-za-3-roky",
+    "dohovir-z-veb-studieyu-7-punktiv"
+  ],
+  "slug": {
+    "_type": "slug",
+    "current": "skilky-koshtuye-sayt-2026"
+  },
+  "slugEn": {
+    "_type": "slug",
+    "current": "website-cost-2026-breakdown"
+  },
+  "status": "published",
+  "tags": [
+    "ціни",
+    "бюджет",
+    "розробка",
+    "вартість"
+  ],
+  "title": "Скільки коштує сайт у 2026: розбір 47 реальних кошторисів",
+  "titleEn": "How much does a website cost in 2026: a breakdown of 47 real quotes",
+  "updatedAt": "2026-05-19T11:11:30.189Z"
+}

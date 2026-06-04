@@ -1,0 +1,16 @@
+{
+  "_createdAt": "2026-05-30T19:46:18Z",
+  "_id": "budgetBucketOption.7-15k",
+  "_rev": "tYwdV2ldLdzJB4kwq0r99S",
+  "_type": "budgetBucketOption",
+  "_updatedAt": "2026-05-30T19:46:18Z",
+  "name": {
+    "en": "$7–15k",
+    "uk": "$7–15k"
+  },
+  "order": 30,
+  "slug": {
+    "_type": "slug",
+    "current": "7-15k"
+  }
+}
