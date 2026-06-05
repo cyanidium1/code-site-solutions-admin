@@ -52,6 +52,7 @@ import {calculatorSettings} from './documents/calculatorSettings'
 import {calculatorTimelineOptions} from './documents/calculatorTimelineOptions'
 import {caseStudy} from './documents/caseStudy'
 import {countryOption} from './documents/countryOption'
+import {homepageCases} from './documents/homepageCases'
 import {industryPage} from './documents/industryPage'
 import {pricingPlan} from './documents/pricingPlan'
 import {testimonial} from './documents/testimonial'
@@ -104,6 +105,7 @@ export const schemaTypes = [
   budgetBucketOption,
   blogCategoryOption,
   calculatorSettings,
+  homepageCases,
 
   // v2 calculator singletons (consolidate v1 docs)
   calculatorProjectTypes,

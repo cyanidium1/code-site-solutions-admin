@@ -81,3 +81,27 @@ export const INDUSTRY_PAGE_REF = /* groq */ `{
   status,
   order
 }`
+
+/**
+ * Card-level projection used wherever a list of caseStudy refs is rendered
+ * (/portfolio listing, homepage Cases section, future homepage curation).
+ * Mirrors `CaseStudyRef` in Frontend `types/sanity.ts`.
+ */
+export const CASE_STUDY_LISTING_PROJECTION = /* groq */ `{
+  _id,
+  "slug": slug.current,
+  title ${LOCALIZED_STRING},
+  client,
+  region ${LOCALIZED_STRING},
+  "country": country->{ "slug": slug.current, name ${LOCALIZED_STRING} },
+  year,
+  "budgetBucket": budgetBucket->{ "slug": slug.current, name ${LOCALIZED_STRING} },
+  "industrySlug": industry->slug.current,
+  "coverImage": coverImage ${IMAGE_WITH_ALT},
+  status,
+  featured,
+  metricsLine ${LOCALIZED_STRING},
+  hero{
+    metrics[] ${METRIC}
+  }
+}`

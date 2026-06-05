@@ -1,5 +1,6 @@
 import {
   BLOG_POST_REF,
+  CASE_STUDY_LISTING_PROJECTION,
   CTA_ACTION,
   IMAGE_WITH_ALT,
   LOCALIZED_STRING,
@@ -10,24 +11,9 @@ import {
 
 /** Lightweight projection used by /portfolio listings + sitemap. */
 export const CASE_STUDIES_QUERY = /* groq */ `
-*[_type == "caseStudy" && status == "published" && defined(slug.current)]{
-  _id,
-  "slug": slug.current,
-  title ${LOCALIZED_STRING},
-  client,
-  region ${LOCALIZED_STRING},
-  "country": country->{ "slug": slug.current, name ${LOCALIZED_STRING} },
-  year,
-  "budgetBucket": budgetBucket->{ "slug": slug.current, name ${LOCALIZED_STRING} },
-  "industrySlug": industry->slug.current,
-  "coverImage": coverImage ${IMAGE_WITH_ALT},
-  status,
-  featured,
-  metricsLine ${LOCALIZED_STRING},
-  hero{
-    metrics[] ${METRIC}
-  }
-} | order(featured desc, year desc, _createdAt desc)
+*[_type == "caseStudy" && status == "published" && defined(slug.current)]
+  ${CASE_STUDY_LISTING_PROJECTION}
+  | order(featured desc, year desc, _createdAt desc)
 `
 
 /** Full case-study payload. Parameter: $slug. */

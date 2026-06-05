@@ -128,6 +128,21 @@ export const structure: StructureResolver = (S) =>
         ),
       S.divider(),
       S.listItem()
+        .title('Налаштування головної')
+        .child(
+          S.list()
+            .title('Налаштування головної')
+            .items([
+              S.listItem()
+                .title('Кейси на головній')
+                .id('homepageCases')
+                .child(
+                  S.document().schemaType('homepageCases').documentId('homepageCases'),
+                ),
+            ]),
+        ),
+      S.divider(),
+      S.listItem()
         .title('Налаштування фільтрів')
         .child(
           S.list()
