@@ -6,6 +6,13 @@ export const testimonial = defineType({
   title: 'Testimonial',
   type: 'document',
   icon: CommentIcon,
+  fieldsets: [
+    {
+      name: 'review',
+      title: 'Schema.org Review fields',
+      options: {collapsible: true, collapsed: true},
+    },
+  ],
   fields: [
     defineField({
       name: 'authorName',
@@ -76,6 +83,30 @@ export const testimonial = defineType({
       type: 'number',
       initialValue: 0,
       description: 'Lower numbers appear first. Ties broken by most-recently-created.',
+    }),
+    defineField({
+      name: 'rating',
+      title: 'Rating (1–5)',
+      type: 'number',
+      description:
+        'Used as schema.org Review.reviewRating. Optional — when empty, no Review JSON-LD is emitted for this testimonial.',
+      validation: (rule) => rule.integer().min(1).max(5),
+      fieldset: 'review',
+    }),
+    defineField({
+      name: 'reviewDate',
+      title: 'Review date',
+      type: 'date',
+      description:
+        'Used as schema.org Review.datePublished. Optional — when empty, falls back to the document creation date.',
+      fieldset: 'review',
+    }),
+    defineField({
+      name: 'reviewHeadline',
+      title: 'Review headline',
+      type: 'localizedString',
+      description: 'Optional short summary — rendered as Review.name in JSON-LD.',
+      fieldset: 'review',
     }),
   ],
   preview: {

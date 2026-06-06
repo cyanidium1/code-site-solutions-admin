@@ -9,6 +9,13 @@ export const testimonialBlock = defineType({
   title: 'Відгук клієнта',
   type: 'object',
   icon: CommentIcon,
+  fieldsets: [
+    {
+      name: 'review',
+      title: 'Schema.org Review поля',
+      options: {collapsible: true, collapsed: true},
+    },
+  ],
   fields: [
     defineField({name: 'quote', title: 'Цитата', type: 'localizedText'}),
     defineField({name: 'authorName', title: "Ім'я автора", type: 'string'}),
@@ -48,6 +55,28 @@ export const testimonialBlock = defineType({
       validation: (rule) => optionalHref(rule),
     }),
     defineField({name: 'showLink', title: 'Показувати посилання', type: 'boolean', initialValue: false}),
+    defineField({
+      name: 'rating',
+      title: 'Оцінка (1–5)',
+      type: 'number',
+      description: 'schema.org Review.reviewRating. Без значення — Review не публікується.',
+      validation: (rule) => rule.integer().min(1).max(5),
+      fieldset: 'review',
+    }),
+    defineField({
+      name: 'reviewDate',
+      title: 'Дата відгуку',
+      type: 'date',
+      description: 'schema.org Review.datePublished.',
+      fieldset: 'review',
+    }),
+    defineField({
+      name: 'reviewHeadline',
+      title: 'Заголовок відгуку',
+      type: 'localizedString',
+      description: 'Опціональний короткий підсумок — Review.name у JSON-LD.',
+      fieldset: 'review',
+    }),
   ],
   preview: {
     select: {

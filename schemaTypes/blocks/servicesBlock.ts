@@ -34,6 +34,25 @@ export const servicesBlock = defineType({
           type: 'image',
           options: {hotspot: true},
         }),
+        defineField({
+          name: 'rating',
+          title: 'Оцінка (1–5)',
+          type: 'number',
+          description: 'schema.org Review.reviewRating. Без значення — Review не публікується.',
+          validation: (rule) => rule.integer().min(1).max(5),
+        }),
+        defineField({
+          name: 'reviewDate',
+          title: 'Дата відгуку',
+          type: 'date',
+          description: 'schema.org Review.datePublished.',
+        }),
+        defineField({
+          name: 'reviewHeadline',
+          title: 'Заголовок відгуку',
+          type: 'localizedString',
+          description: 'Опціональний короткий підсумок — Review.name у JSON-LD.',
+        }),
       ],
     }),
     defineField({
