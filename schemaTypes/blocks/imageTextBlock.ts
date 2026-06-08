@@ -46,6 +46,22 @@ export const imageTextBlock = defineType({
       type: 'array',
       of: [defineArrayMember({type: 'localizedString'})],
     }),
+    defineField({
+      name: 'bulletIcon',
+      title: 'Іконка bullet-списку',
+      description: 'Стиль маркера перед кожним пунктом списку.',
+      type: 'string',
+      options: {
+        list: [
+          {title: 'Галочка (✓)', value: 'check'},
+          {title: 'Хрестик (✕)', value: 'cross'},
+          {title: 'Крапка (•)', value: 'dot'},
+        ],
+        layout: 'radio',
+      },
+      initialValue: 'check',
+      hidden: ({parent}) => !(parent?.bulletList && parent.bulletList.length > 0),
+    }),
     defineField({name: 'image', title: 'Зображення', type: 'imageWithLocalizedAlt'}),
     defineField({
       name: 'image2',
