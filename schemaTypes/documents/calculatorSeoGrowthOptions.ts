@@ -61,8 +61,8 @@ export const calculatorSeoGrowthOptions = defineType({
             }),
             defineField({
               name: 'priceLabel',
-              title: 'Відображувана ціна (override, напр. "$1,200-$1,500 /mo")',
-              type: 'string',
+              title: 'Відображувана ціна (override, напр. "$1,200-$1,500 /mo" / "£1,200-£1,500 /mo")',
+              type: 'localizedString',
             }),
           ],
           preview: {
@@ -74,7 +74,8 @@ export const calculatorSeoGrowthOptions = defineType({
             },
             prepare({label, optionKey, monthly, priceLabel}) {
               const lbl = pickLocalizedFirst(label) || optionKey || '—'
-              const detail = priceLabel || (typeof monthly === 'number' ? `$${monthly}/mo` : '—')
+              const detail =
+                pickLocalizedFirst(priceLabel) || (typeof monthly === 'number' ? `$${monthly}/mo` : '—')
               return {title: lbl, subtitle: `${optionKey} · ${detail}`}
             },
           },

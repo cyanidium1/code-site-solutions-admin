@@ -106,7 +106,7 @@ export const caseStudy = defineType({
       type: 'localizedString',
       group: 'meta',
     }),
-    defineField({name: 'budget', title: 'Бюджет (display)', type: 'string', group: 'meta'}),
+    defineField({name: 'budget', title: 'Бюджет (display)', type: 'localizedString', group: 'meta'}),
     defineField({
       name: 'budgetBucket',
       title: 'Бюджет — bucket (для фільтра /portfolio)',

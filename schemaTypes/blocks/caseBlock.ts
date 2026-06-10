@@ -78,7 +78,7 @@ export const caseBlock = defineType({
           type: 'object',
           name: 'caseResult',
           fields: [
-            defineField({name: 'value', title: 'Значення (display)', type: 'string'}),
+            defineField({name: 'value', title: 'Значення (display)', type: 'localizedString'}),
             defineField({name: 'label', title: 'Підпис', type: 'localizedString'}),
             defineField({name: 'tag', title: 'Тег / категорія', type: 'localizedString'}),
           ],
@@ -86,7 +86,9 @@ export const caseBlock = defineType({
             select: {value: 'value', label: 'label', tag: 'tag'},
             prepare({value, label, tag}) {
               return {
-                title: [value, pickLocalizedFirst(tag)].filter(Boolean).join(' · ') || 'Result',
+                title:
+                  [pickLocalizedFirst(value), pickLocalizedFirst(tag)].filter(Boolean).join(' · ') ||
+                  'Result',
                 subtitle: pickLocalizedFirst(label),
               }
             },
