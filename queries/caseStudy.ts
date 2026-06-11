@@ -5,7 +5,6 @@ import {
   IMAGE_WITH_ALT,
   LOCALIZED_STRING,
   LOCALIZED_TEXT,
-  METRIC,
   SEO_FIELDS,
 } from './fragments'
 
@@ -41,8 +40,7 @@ export const CASE_STUDY_BY_SLUG_QUERY = /* groq */ `
     heading ${LOCALIZED_TEXT},
     subheading ${LOCALIZED_TEXT},
     "heroImage": heroImage ${IMAGE_WITH_ALT},
-    link ${CTA_ACTION},
-    metrics[] ${METRIC}
+    link ${CTA_ACTION}
   },
   sections[]{
     _type,

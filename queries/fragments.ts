@@ -100,8 +100,5 @@ export const CASE_STUDY_LISTING_PROJECTION = /* groq */ `{
   "coverImage": coverImage ${IMAGE_WITH_ALT},
   status,
   featured,
-  metricsLine ${LOCALIZED_STRING},
-  hero{
-    metrics[] ${METRIC}
-  }
+  metricsLine ${LOCALIZED_STRING}
 }`

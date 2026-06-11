@@ -165,12 +165,6 @@ export const caseStudy = defineType({
             'Окреме зображення для героя. Не плутати з coverImage — той рендериться лише на /portfolio і в related-картках.',
           type: 'imageWithLocalizedAlt',
         }),
-        defineField({
-          name: 'metrics',
-          title: 'Показники',
-          type: 'array',
-          of: [defineArrayMember({type: 'metric'})],
-        }),
       ],
     }),
 
