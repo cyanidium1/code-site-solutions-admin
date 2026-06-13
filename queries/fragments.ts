@@ -36,7 +36,7 @@ export const SEO_FIELDS = /* groq */ `{
 }`
 
 export const METRIC = /* groq */ `{
-  value,
+  value ${LOCALIZED_STRING},
   label ${LOCALIZED_STRING}
 }`
 
