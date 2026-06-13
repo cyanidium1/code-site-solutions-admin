@@ -14,7 +14,8 @@
     "cleanup:calculator-v1": "tsx scripts/cleanup-calculator-v1.ts",
     "reupload:dotted-case-studies": "sanity exec scripts/reupload-dotted-case-studies.ts --with-user-token",
     "reupload:dotted-options-testimonials": "sanity exec scripts/reupload-dotted-options-testimonials.ts --with-user-token",
-    "reupload:dotted-content-pages": "sanity exec scripts/reupload-dotted-content-pages.ts --with-user-token"
+    "reupload:dotted-content-pages": "sanity exec scripts/reupload-dotted-content-pages.ts --with-user-token",
+    "migrate:metric-value-localized": "sanity exec scripts/migrate-metric-value-to-localized.ts --with-user-token"
   },
   "keywords": [
     "sanity"
