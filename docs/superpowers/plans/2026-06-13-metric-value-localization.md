@@ -467,11 +467,13 @@ git commit -m "feat(migrate): localize existing metric.value strings"
 
 ## Rollout (operator step — not part of code execution)
 
-Per the spec, run the migration with `--apply` **before/with** the deploy:
+Per the spec, run the migration with `--apply` **before/with** the deploy. Use the
+direct `npx` form so the `--` delimiter reaches `sanity exec` (the
+`npm run … -- --apply` form drops it and `sanity exec` rejects `--apply`):
 
 ```bash
 cd Sanity
-npm run migrate:metric-value-localized -- --apply
+npx sanity exec scripts/migrate-metric-value-to-localized.ts --with-user-token -- --apply
 ```
 
 Then re-run the dry run and confirm `0 value(s) would be migrated.` (idempotent).
