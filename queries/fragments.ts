@@ -4,6 +4,9 @@
  * Conventions:
  * - Locale resolution happens in the frontend after the query — projections include all locales.
  * - Image projections always include `asset->{...}` to keep CDN URL + LQIP available.
+ * - `metadata.isOpaque` gates the frontend's LQIP blur-up placeholder (a CSS
+ *   background that would show through transparent pixels), so it ships in the
+ *   image projection — auto-computed asset metadata, not an editable field.
  * - References are followed once with `->`; deeper graph walks belong in page-level queries.
  */
 
@@ -19,7 +22,7 @@ export const IMAGE_WITH_ALT = /* groq */ `{
   "asset": image.asset->{
     _id,
     url,
-    metadata { lqip, dimensions }
+    metadata { lqip, dimensions, isOpaque }
   },
   "hotspot": image.hotspot,
   "crop": image.crop,
