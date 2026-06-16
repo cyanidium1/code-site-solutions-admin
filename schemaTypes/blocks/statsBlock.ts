@@ -2,6 +2,7 @@ import {BarChartIcon} from '@sanity/icons'
 import {defineArrayMember, defineField, defineType} from 'sanity'
 
 import {pickLocalizedFirst} from '../lib/localized'
+import {sectionHeaderFields} from '../lib/sectionHeader'
 
 export const statsBlock = defineType({
   name: 'statsBlock',
@@ -9,8 +10,7 @@ export const statsBlock = defineType({
   type: 'object',
   icon: BarChartIcon,
   fields: [
-    defineField({name: 'eyebrow', title: 'Eyebrow', type: 'localizedString'}),
-    defineField({name: 'heading', title: 'Заголовок', type: 'localizedText'}),
+    ...sectionHeaderFields(),
     defineField({
       name: 'items',
       title: 'Показники',

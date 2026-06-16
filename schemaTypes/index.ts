@@ -7,7 +7,6 @@ import {localizedString} from './objects/localizedString'
 import {localizedText} from './objects/localizedText'
 import {mediaGalleryImageItem} from './objects/mediaGalleryImageItem'
 import {metric} from './objects/metric'
-import {outcomeResultItem} from './objects/outcomeResultItem'
 import {richTextSimple} from './objects/richTextSimple'
 import {seoFields} from './objects/seoFields'
 
@@ -67,7 +66,6 @@ export const schemaTypes = [
   seoFields,
   richTextSimple,
   mediaGalleryImageItem,
-  outcomeResultItem,
   blogAuthor,
   // Blog body PT type — must register AFTER blog blocks since it references them
   // (order doesn't strictly matter at runtime, but keeps the dep graph readable).

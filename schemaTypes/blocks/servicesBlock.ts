@@ -2,6 +2,7 @@ import {ComposeSparklesIcon} from '@sanity/icons'
 import {defineArrayMember, defineField, defineType} from 'sanity'
 
 import {pickLocalizedFirst} from '../lib/localized'
+import {sectionHeaderFields} from '../lib/sectionHeader'
 
 export const servicesBlock = defineType({
   name: 'servicesBlock',
@@ -9,9 +10,11 @@ export const servicesBlock = defineType({
   type: 'object',
   icon: ComposeSparklesIcon,
   fields: [
-    defineField({name: 'eyebrow', title: 'Eyebrow', type: 'localizedString'}),
-    defineField({name: 'heading', title: 'Заголовок (services)', type: 'localizedText'}),
-    defineField({name: 'sub', title: 'Підзаголовок (services)', type: 'localizedText'}),
+    ...sectionHeaderFields({
+      headingTitle: 'Заголовок (services)',
+      sub: true,
+      subTitle: 'Підзаголовок (services)',
+    }),
 
     defineField({
       name: 'testimonialEyebrow',

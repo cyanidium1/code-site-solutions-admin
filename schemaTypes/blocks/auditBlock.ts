@@ -2,6 +2,7 @@ import {ClipboardImageIcon} from '@sanity/icons'
 import {defineArrayMember, defineField, defineType} from 'sanity'
 
 import {pickLocalizedFirst} from '../lib/localized'
+import {sectionHeaderFields} from '../lib/sectionHeader'
 
 export const auditBlock = defineType({
   name: 'auditBlock',
@@ -9,9 +10,7 @@ export const auditBlock = defineType({
   type: 'object',
   icon: ClipboardImageIcon,
   fields: [
-    defineField({name: 'eyebrow', title: 'Eyebrow', type: 'localizedString'}),
-    defineField({name: 'heading', title: 'Заголовок', type: 'localizedText'}),
-    defineField({name: 'sub', title: 'Підзаголовок', type: 'localizedText'}),
+    ...sectionHeaderFields({sub: true}),
     defineField({
       name: 'list',
       title: 'Що отримає клієнт',

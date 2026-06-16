@@ -3,6 +3,7 @@ import {defineArrayMember, defineField, defineType} from 'sanity'
 
 import {pickLocalizedFirst} from '../lib/localized'
 import {requireLocalizedUk} from '../lib/validators'
+import {sectionHeaderFields} from '../lib/sectionHeader'
 
 export const faqBlock = defineType({
   name: 'faqBlock',
@@ -10,8 +11,7 @@ export const faqBlock = defineType({
   type: 'object',
   icon: HelpCircleIcon,
   fields: [
-    defineField({name: 'eyebrow', title: 'Eyebrow', type: 'localizedString'}),
-    defineField({name: 'heading', title: 'Заголовок', type: 'localizedText'}),
+    ...sectionHeaderFields(),
     defineField({
       name: 'items',
       title: 'Питання та відповіді',

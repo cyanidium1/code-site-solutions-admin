@@ -2,6 +2,7 @@ import {TrendUpwardIcon} from '@sanity/icons'
 import {defineArrayMember, defineField, defineType} from 'sanity'
 
 import {pickLocalizedFirst} from '../lib/localized'
+import {sectionHeaderFields} from '../lib/sectionHeader'
 
 export const outcomeBlock = defineType({
   name: 'outcomeBlock',
@@ -9,8 +10,7 @@ export const outcomeBlock = defineType({
   type: 'object',
   icon: TrendUpwardIcon,
   fields: [
-    defineField({name: 'eyebrow', title: 'Eyebrow', type: 'localizedString'}),
-    defineField({name: 'heading', title: 'Заголовок (опціонально)', type: 'localizedText'}),
+    ...sectionHeaderFields({headingTitle: 'Заголовок (опціонально)'}),
 
     /* ─── Recap pull-quote ───────────────────────────────────────── */
     defineField({
@@ -139,22 +139,6 @@ export const outcomeBlock = defineType({
       ],
     }),
 
-    /* ─── Legacy fields (hidden, kept for backward compat) ─────────── */
-    defineField({
-      name: 'title',
-      title: 'Title (legacy)',
-      type: 'localizedString',
-      hidden: true,
-    }),
-    defineField({name: 'intro', title: 'Intro (legacy)', type: 'localizedText', hidden: true}),
-    defineField({
-      name: 'resultItems',
-      title: 'Результати (legacy)',
-      type: 'array',
-      of: [defineArrayMember({type: 'outcomeResultItem'})],
-      hidden: true,
-    }),
-    defineField({name: 'summary', title: 'Підсумок (legacy)', type: 'localizedText', hidden: true}),
   ],
   preview: {
     select: {recapEyebrow: 'recap.eyebrow'},

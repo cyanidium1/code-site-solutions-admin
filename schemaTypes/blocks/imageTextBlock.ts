@@ -2,6 +2,7 @@ import {ImagesIcon} from '@sanity/icons'
 import {defineArrayMember, defineField, defineType} from 'sanity'
 
 import {pickLocalizedFirst} from '../lib/localized'
+import {sectionHeaderFields} from '../lib/sectionHeader'
 
 export const imageTextBlock = defineType({
   name: 'imageTextBlock',
@@ -36,8 +37,7 @@ export const imageTextBlock = defineType({
       },
       initialValue: 'imageRight',
     }),
-    defineField({name: 'eyebrow', title: 'Eyebrow', type: 'localizedString'}),
-    defineField({name: 'heading', title: 'Заголовок', type: 'localizedText'}),
+    ...sectionHeaderFields(),
     defineField({name: 'body', title: 'Опис (UK)', type: 'richTextSimple'}),
     defineField({name: 'bodyEn', title: 'Description (EN)', type: 'richTextSimple'}),
     defineField({

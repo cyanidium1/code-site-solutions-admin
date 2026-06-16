@@ -1,14 +1,15 @@
 import {TextIcon} from '@sanity/icons'
 import {defineField, defineType} from 'sanity'
 
+import {sectionHeaderFields} from '../lib/sectionHeader'
+
 export const richTextBlock = defineType({
   name: 'richTextBlock',
   title: 'Простий текстовий блок',
   type: 'object',
   icon: TextIcon,
   fields: [
-    defineField({name: 'eyebrow', title: 'Eyebrow', type: 'localizedString'}),
-    defineField({name: 'heading', title: 'Заголовок', type: 'localizedText'}),
+    ...sectionHeaderFields(),
     defineField({
       name: 'content',
       title: 'Контент (UK)',

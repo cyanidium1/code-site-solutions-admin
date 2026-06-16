@@ -2,6 +2,7 @@ import {DocumentsIcon} from '@sanity/icons'
 import {defineArrayMember, defineField, defineType} from 'sanity'
 
 import {pickLocalizedFirst} from '../lib/localized'
+import {sectionHeaderFields} from '../lib/sectionHeader'
 
 export const reasonsBlock = defineType({
   name: 'reasonsBlock',
@@ -9,9 +10,8 @@ export const reasonsBlock = defineType({
   type: 'object',
   icon: DocumentsIcon,
   fields: [
-    defineField({name: 'eyebrow', title: 'Eyebrow', type: 'localizedString'}),
+    ...sectionHeaderFields(),
     defineField({name: 'eyebrowNum', title: 'Eyebrow Num (напр. «/ 03 ПУНКТИ»)', type: 'localizedString'}),
-    defineField({name: 'heading', title: 'Заголовок', type: 'localizedText'}),
     defineField({
       name: 'metaRows',
       title: 'Meta-рядки (під заголовком)',
@@ -61,7 +61,12 @@ export const reasonsBlock = defineType({
       ],
     }),
     defineField({name: 'footText', title: 'Footnote (під списком)', type: 'localizedText'}),
-    defineField({name: 'footCtaLabel', title: 'Footnote CTA — кнопка', type: 'localizedString'}),
+    defineField({
+      name: 'footCta',
+      title: 'Footnote CTA — кнопка',
+      description: 'Текст кнопки. Без посилання прокручує до форми аудиту внизу сторінки.',
+      type: 'ctaAction',
+    }),
   ],
   preview: {
     select: {reasons: 'reasons'},

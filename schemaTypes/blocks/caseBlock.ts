@@ -2,6 +2,7 @@ import {SplitHorizontalIcon} from '@sanity/icons'
 import {defineArrayMember, defineField, defineType} from 'sanity'
 
 import {pickLocalizedFirst} from '../lib/localized'
+import {sectionHeaderFields} from '../lib/sectionHeader'
 
 const beforeAfterFields = (kind: 'до' | 'після') => [
   defineField({name: 'num', title: `Номер версії (display, напр. «v1 · 2022»)`, type: 'string'}),
@@ -24,9 +25,8 @@ export const caseBlock = defineType({
   type: 'object',
   icon: SplitHorizontalIcon,
   fields: [
-    defineField({name: 'eyebrow', title: 'Eyebrow (напр. «РЕАЛЬНИЙ КЕЙС»)', type: 'localizedString'}),
+    ...sectionHeaderFields({eyebrowTitle: 'Eyebrow (напр. «РЕАЛЬНИЙ КЕЙС»)'}),
     defineField({name: 'eyebrowEm', title: 'Eyebrow Em (напр. «КЛІНІКА «ЕФЕДРА», ОДЕСА»)', type: 'localizedString'}),
-    defineField({name: 'heading', title: 'Заголовок', type: 'localizedText'}),
     defineField({name: 'lede', title: 'Lede / опис', type: 'localizedText'}),
 
     defineField({
@@ -98,7 +98,12 @@ export const caseBlock = defineType({
     }),
 
     defineField({name: 'ctaText', title: 'CTA-текст', type: 'localizedText'}),
-    defineField({name: 'ctaLabel', title: 'CTA — кнопка', type: 'localizedString'}),
+    defineField({
+      name: 'cta',
+      title: 'CTA — кнопка',
+      description: 'Текст кнопки. Посилання необовʼязкове — без нього веде на портфоліо галузі.',
+      type: 'ctaAction',
+    }),
   ],
   preview: {
     select: {heading: 'heading'},

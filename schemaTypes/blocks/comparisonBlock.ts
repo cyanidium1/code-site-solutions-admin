@@ -2,6 +2,7 @@ import {SplitHorizontalIcon} from '@sanity/icons'
 import {defineArrayMember, defineField, defineType} from 'sanity'
 
 import {pickLocalizedFirst} from '../lib/localized'
+import {sectionHeaderFields} from '../lib/sectionHeader'
 
 export const comparisonBlock = defineType({
   name: 'comparisonBlock',
@@ -9,8 +10,7 @@ export const comparisonBlock = defineType({
   type: 'object',
   icon: SplitHorizontalIcon,
   fields: [
-    defineField({name: 'eyebrow', title: 'Eyebrow', type: 'localizedString'}),
-    defineField({name: 'heading', title: 'Заголовок таблиці', type: 'localizedText'}),
+    ...sectionHeaderFields({headingTitle: 'Заголовок таблиці'}),
     defineField({
       name: 'columns',
       title: 'Заголовки колонок (опціонально)',
@@ -49,8 +49,18 @@ export const comparisonBlock = defineType({
       ],
     }),
 
-    defineField({name: 'tableCtaPrimary', title: 'CTA primary під таблицею', type: 'localizedString'}),
-    defineField({name: 'tableCtaGhost', title: 'CTA secondary (ghost) під таблицею', type: 'localizedString'}),
+    defineField({
+      name: 'primaryCta',
+      title: 'CTA primary під таблицею',
+      description: 'Текст кнопки. Без посилання веде на калькулятор.',
+      type: 'ctaAction',
+    }),
+    defineField({
+      name: 'ghostCta',
+      title: 'CTA secondary (ghost) під таблицею',
+      description: 'Текст кнопки. Без посилання веде на сторінку порівняння з WordPress.',
+      type: 'ctaAction',
+    }),
 
     /* ─── Contact form ────────────────────────────────────────────── */
     defineField({
