@@ -118,6 +118,13 @@ export const outcomeBlock = defineType({
               of: [defineArrayMember({type: 'localizedString'})],
               hidden: ({parent}) => parent?.mockType !== 'pages',
             }),
+            defineField({
+              name: 'image',
+              title: 'Зображення / скріншот (показується замість мокапу)',
+              description:
+                'Якщо завантажено — у рамці показується це зображення замість CSS-мокапу.',
+              type: 'imageWithLocalizedAlt',
+            }),
           ],
           preview: {
             select: {feature: 'feature', heading: 'heading', mockType: 'mockType'},

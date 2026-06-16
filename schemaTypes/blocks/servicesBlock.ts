@@ -25,6 +25,12 @@ export const servicesBlock = defineType({
       options: {collapsible: true},
       fields: [
         defineField({name: 'quote', title: 'Цитата', type: 'localizedText'}),
+        defineField({
+          name: 'visual',
+          title: 'Зображення секції (велике, поряд із цитатою)',
+          description: 'Якщо завантажено — показується велике зображення зліва від відгуку.',
+          type: 'imageWithLocalizedAlt',
+        }),
         defineField({name: 'authorName', title: "Ім'я автора", type: 'string'}),
         defineField({name: 'authorInitials', title: 'Ініціали (для аватара)', type: 'string'}),
         defineField({name: 'authorRole', title: 'Роль', type: 'localizedString'}),
