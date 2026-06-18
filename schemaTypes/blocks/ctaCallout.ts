@@ -50,6 +50,16 @@ export const ctaCallout = defineType({
       name: 'ctaSecondaryHref',
       title: 'URL вторинної кнопки (опц.)',
       type: 'string',
+      // Вторинна кнопка має бути або повною (текст + URL), або порожньою:
+      // текст без URL рендериться як мертве посилання.
+      validation: (rule) =>
+        rule.custom((href, context) => {
+          const label = (context.parent as {ctaSecondaryLabel?: string})?.ctaSecondaryLabel
+          if (Boolean(label?.trim()) !== Boolean(href?.trim())) {
+            return 'Заповніть і текст, і URL вторинної кнопки — або залиште обидва порожніми'
+          }
+          return true
+        }),
     }),
   ],
   preview: {

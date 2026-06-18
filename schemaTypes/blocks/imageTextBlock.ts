@@ -3,6 +3,7 @@ import {defineArrayMember, defineField, defineType} from 'sanity'
 
 import {pickLocalizedFirst} from '../lib/localized'
 import {sectionHeaderFields} from '../lib/sectionHeader'
+import {pairedCta} from '../lib/validators'
 
 export const imageTextBlock = defineType({
   name: 'imageTextBlock',
@@ -85,7 +86,12 @@ export const imageTextBlock = defineType({
       initialValue: 'vertical',
       hidden: ({parent}) => parent?.variant !== 'centered',
     }),
-    defineField({name: 'cta', title: 'CTA (опційно)', type: 'ctaAction'}),
+    defineField({
+      name: 'cta',
+      title: 'CTA (опційно)',
+      type: 'ctaAction',
+      validation: (rule) => pairedCta()(rule),
+    }),
   ],
   preview: {
     select: {
