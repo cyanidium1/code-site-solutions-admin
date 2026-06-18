@@ -25,6 +25,22 @@ export const caseBlock = defineType({
   type: 'object',
   icon: SplitHorizontalIcon,
   fields: [
+    defineField({
+      name: 'layout',
+      title: 'Макет кейсу',
+      description:
+        'Auto: «до/після» лише коли є зображення «до», інакше — лише «після» (зображення + список). Comparison / After-only — примусово.',
+      type: 'string',
+      options: {
+        list: [
+          {title: 'Auto (за наявністю «до»)', value: 'auto'},
+          {title: 'Порівняння «до/після»', value: 'comparison'},
+          {title: 'Лише «після» (зображення + текст)', value: 'afterOnly'},
+        ],
+        layout: 'radio',
+      },
+      initialValue: 'auto',
+    }),
     ...sectionHeaderFields({eyebrowTitle: 'Eyebrow (напр. «РЕАЛЬНИЙ КЕЙС»)'}),
     defineField({name: 'eyebrowEm', title: 'Eyebrow Em (напр. «КЛІНІКА «ЕФЕДРА», ОДЕСА»)', type: 'localizedString'}),
     defineField({name: 'lede', title: 'Lede / опис', type: 'localizedText'}),
