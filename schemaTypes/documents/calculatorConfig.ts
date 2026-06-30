@@ -125,21 +125,6 @@ export const calculatorConfig = defineType({
             defineField({name: 'label', title: 'Назва', type: 'localizedString', validation: (r) => requireLocalizedUk('UK обовʼязкова')(r)}),
             defineField({name: 'hint', title: 'Підказка (тултіп)', type: 'localizedText'}),
             defineField({name: 'percent', title: 'Множник (0–1)', type: 'number', validation: (r) => r.required().min(0).max(1)}),
-            defineField({
-              name: 'previews',
-              title: 'Прев’ю',
-              type: 'array',
-              of: [
-                defineArrayMember({
-                  type: 'object',
-                  name: 'designPreview',
-                  fields: [
-                    defineField({name: 'src', title: 'Шлях до зображення', type: 'string', validation: (r) => r.required()}),
-                    defineField({name: 'caption', title: 'Підпис', type: 'localizedString'}),
-                  ],
-                }),
-              ],
-            }),
           ],
         }),
       ],
