@@ -1,0 +1,86 @@
+[
+  {
+    "path": "hero.subheading.en",
+    "expect": "Raul Avto is a company that helps customers buy, deliver, and clear customs for cars from the USA.\nWe developed a website that explains a complex service in simple language, builds trust in the company, and leads the user to the application through a clear structure, a cost calculator, and SEO-oriented content.",
+    "to": "Raul Avto buys, ships, and handles customs clearance for cars imported from the USA.\nWe built a site that explains a complicated service in plain language, earns the buyer's trust, and guides them towards an enquiry through a clear structure, a cost calculator, and SEO-led content.",
+    "why": "Fix translationese; 'leads the user to the application' to enquiry; British spelling/voice"
+  },
+  {
+    "path": "metricsLine.en",
+    "expect": "1 cost calculator · 3 languages: UA, RU, EN · 5+ entry points to the application · SEO-structure for search",
+    "to": "1 cost calculator · 3 languages: UA, RU, EN · 5+ enquiry entry points · SEO structure for search",
+    "why": "'entry points to the application' to 'enquiry entry points'; tidy 'SEO-structure'"
+  },
+  {
+    "path": "sections[0].items[2].label.en",
+    "expect": "entry points to the application",
+    "to": "enquiry entry points",
+    "why": "'application' (lead) to 'enquiry'"
+  },
+  {
+    "path": "sections[1].bodyEn[0].children[0].text",
+    "expect": "Buying a car from the USA is a complex service, where it is important for the client to quickly understand the process, cost, and level of reliability of the company. A regular business card website is not enough for such a niche. The user wants to see the experience, get answers to basic questions, estimate the budget, and only then leave an application. It was necessary to create a website that would not just present the company, but also help the client go from initial interest to application.",
+    "to": "Importing a car from the USA is a complicated service, and the buyer needs to grasp the process, the cost, and how dependable the company is before committing. A simple brochure site doesn't cover a niche like this. People want to see the track record, get answers to the obvious questions, and work out a rough budget before they ever get in touch. So the site had to do more than introduce the company. It had to carry someone from first interest to enquiry.",
+    "why": "Fix 'business card website', 'level of reliability', 'leave an application'; natural British marketing copy with varied sentence length"
+  },
+  {
+    "path": "sections[1].bulletList[0].en",
+    "expect": "A complex service with a large number of stages that need to be explained to the client in simple language.",
+    "to": "A complicated service with many stages, all of which need explaining in plain language.",
+    "why": "Smooth translationese; British phrasing"
+  },
+  {
+    "path": "sections[1].bulletList[1].en",
+    "expect": "Lack of a convenient tool for preliminary calculation of the cost of a car from the USA.",
+    "to": "No easy way for a buyer to work out the rough cost of importing a car upfront.",
+    "why": "De-stiffen 'preliminary calculation of the cost'"
+  },
+  {
+    "path": "sections[1].bulletList[2].en",
+    "expect": "The need to increase trust in the company through a clear structure and presentation of services.",
+    "to": "A need to build trust through a clear structure and a straight presentation of the services.",
+    "why": "Smooth 'increase trust in the company' translationese"
+  },
+  {
+    "path": "sections[1].bulletList[3].en",
+    "expect": "The need to guide the user from the first acquaintance with the company to leaving a request for consultation.",
+    "to": "A need to guide people from their first look at the company through to requesting a consultation.",
+    "why": "Fix 'first acquaintance' and 'leaving a request'"
+  },
+  {
+    "path": "sections[2].bodyEn[0].children[0].text",
+    "expect": "We built a website as a sales structure for a car delivery company from the USA. On the first screen, we immediately showed the essence of the service, the company's advantages and the main CTA. Then we structured the information so that the user could quickly understand the purchase process, see the trust figures and proceed to the cost calculation. We placed special emphasis on the custom calculator. It allows the user to independently estimate the approximate cost of the car, delivery and customs clearance. This lowers the barrier to contact and helps the company receive more prepared applications.",
+    "to": "We built the site as a sales journey for a US car-import business. The first screen lays out what the service is, why Raul Avto, and the main call to action. From there the page is ordered so a visitor quickly understands how a purchase works, sees the figures that build trust, and moves on to pricing. The custom calculator does a lot of the work. It lets someone estimate the rough cost of the car, shipping, and customs clearance on their own, which lowers the barrier to making contact and means the enquiries that come in are better prepared.",
+    "why": "Fix 'car delivery company', 'first screen', 'more prepared applications' to enquiries; British voice, varied sentence length"
+  },
+  {
+    "path": "sections[2].bulletList[1].en",
+    "expect": "Clear presentation of the process of buying a car from the USA;",
+    "to": "A clear walk-through of how importing a car from the USA works;",
+    "why": "Smooth 'presentation of the process'"
+  },
+  {
+    "path": "sections[2].bulletList[6].en",
+    "expect": "Adaptive version for mobile devices",
+    "to": "Mobile-responsive design",
+    "why": "Required term swap"
+  },
+  {
+    "path": "sections[5].bodyEn[0].children[0].text",
+    "expect": "Raul Avto received a website that works as a full-fledged channel for attracting customers. The user can quickly understand the service, estimate the approximate budget using a calculator and leave a request without unnecessary questions. Thanks to the SEO structure, the site also works to consistently attract customers from search. As a result, the site does not just present the company, but helps to sell a complex service more simply, more clearly and effectively.",
+    "to": "Raul Avto now has a site that works as a proper channel for winning customers. A visitor can quickly understand the service, get a rough budget from the calculator, and get in touch without a load of back-and-forth. The SEO structure keeps bringing in customers from search, too. The site doesn't just present the company; it helps sell a complicated service more simply and more clearly.",
+    "why": "Fix 'full-fledged', 'leave a request', translationese ending; British voice"
+  },
+  {
+    "path": "hero.heading.en",
+    "expect": "Raul Avto is a website for a car delivery company from the USA",
+    "to": "Raul Avto — a website for a US car-import company",
+    "why": "clunky machine-translation heading"
+  },
+  {
+    "path": "coverImage.alt.en",
+    "expect": "Raul Avto is a website for a car delivery company from the USA",
+    "to": "Raul Avto — website for a US car-import company",
+    "why": "match heading"
+  }
+]
