@@ -18,7 +18,7 @@ const DIR =
   fs.existsSync(__dirname + '/uk-phase4-patches')
     ? __dirname + '/uk-phase4-patches'
     : 'C:/Users/kulak/AppData/Local/Temp/claude/C--GitHub23-code-site-workspace/8de58134-5bfd-4f76-882c-82eb3077e213/scratchpad/en-dumps'
-const SLUGS = ['raul-avto', 'nbyg-kobenhavn', 'tatarka-franchise']
+const SLUGS = ['raul-avto', 'nbyg-kobenhavn', 'tatarka-franchise', 'mono-pools']
 
 function getAtPath(obj: any, path: string): any {
   const parts = path.replace(/\[(\d+)\]/g, '.$1').split('.')
