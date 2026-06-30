@@ -1,0 +1,8 @@
+[
+  {
+    "path": "sections[4].bodyEn[0].children[0].text",
+    "expect": "The site became a full client-acquisition channel — not just a business card. The user gets answers to the key questions before the first call.",
+    "to": "The site became a full client-acquisition channel, not just a business card. Visitors get answers to the key questions before they ever call.",
+    "why": "reader-focus (user->visitors), trim em dash"
+  }
+]

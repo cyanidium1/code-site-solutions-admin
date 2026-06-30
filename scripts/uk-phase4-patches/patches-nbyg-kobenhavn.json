@@ -1,0 +1,218 @@
+[
+  {
+    "path": "hero.heading.en",
+    "expect": "NBYG København: a website that brought 300+ applications in a year",
+    "to": "NBYG København: a website that brought in 300+ enquiries in a year",
+    "why": "\"applications\" → \"enquiries\"; natural phrasing"
+  },
+  {
+    "path": "hero.subheading.en",
+    "expect": "The client turned to us for a website for a construction company in Denmark. The task was not just to “make it beautiful”, but to create a website that would help the business get new customers from Google. The cost of developing the website was $4,000. After launching, the client continued SEO promotion with us, and in the first year the website brought 300+ applications. For the construction niche in Denmark, this is a strong result, because the cost of such services is high, and each high-quality application can bring serious income to the business.",
+    "to": "A Danish construction firm came to us for a new website. The brief wasn't just to \"make it look good\" — it was to build a site that wins new customers through Google. The build cost a fixed $4,000. After launch the client stayed on for ongoing SEO, and in the first year the site brought in 300+ enquiries. For construction in Denmark that's a strong result: these jobs are high-value, so a single solid enquiry can be worth a great deal to the business.",
+    "why": "Translationese fixed; $4,000 relabelled as this client's fixed build price; enquiries; ongoing SEO"
+  },
+  {
+    "path": "metricsLine.en",
+    "expect": "300+ applications received by the client in the first year · 1,100 conversions from Google in the last 6 months · 302,000 impressions on Google the website was seen more often by people in search",
+    "to": "300+ enquiries for the client in the first year · 1,100 Google conversions in the last 6 months · 302,000 Google impressions, so more searchers saw the site",
+    "why": "enquiries; tightened impressions clause into readable English"
+  },
+  {
+    "path": "sections[0].items[0].label.en",
+    "expect": "received by the client in the first year",
+    "to": "for the client in the first year",
+    "why": "natural phrasing"
+  },
+  {
+    "path": "sections[0].items[0].value.en",
+    "expect": "300+ applications",
+    "to": "300+ enquiries",
+    "why": "\"applications\" → \"enquiries\""
+  },
+  {
+    "path": "sections[0].items[3].label.en",
+    "expect": "people clicked the contact buttons, went to contacts and left forms",
+    "to": "people clicked contact buttons, reached the contact details and sent forms",
+    "why": "\"went to contacts\"/\"left forms\" → natural British phrasing"
+  },
+  {
+    "path": "sections[0].items[3].value.en",
+    "expect": "300+ actions on the website",
+    "to": "300+ actions on the site",
+    "why": "tighten wording"
+  },
+  {
+    "path": "sections[1].bodyEn[0].children[0].text",
+    "expect": "These numbers show more than just website traffic. They show that the site began to fulfil its main task: bring potential customers to the business. People found the company on Google, went to the site, looked at the services and left applications. That is, the site became not just an online business card, but a full-fledged channel for attracting customers.",
+    "to": "These numbers are about more than traffic. They show the site doing its main job: bringing potential customers to the business. People found the company on Google, visited the site, looked over the services and got in touch. The site stopped being an online brochure and became a real channel for winning customers.",
+    "why": "Fix translationese; brochure site; enquiries/get in touch; British voice"
+  },
+  {
+    "path": "sections[2].bodyEn[0].children[0].text",
+    "expect": "Over the past 6 months, the site received 1,100 conversions from Google. For comparison: over the previous 6 months there were 677 conversions. That is, after the launch of the site and SEO promotion, more people began to find the company through Google. The site also appeared in search 302,000 times in 6 months. This means that the company began to be seen more often by people looking for construction services. More people see the site on Google → more people go to the site → more chances to get an application.",
+    "to": "Over the past 6 months the site recorded 1,100 Google conversions, up from 677 in the 6 months before. In short, once the new site launched and SEO kicked in, far more people found the company through Google. The site also showed up in search 302,000 times across those 6 months, so more people looking for construction services saw it. More visibility on Google means more visitors, and more visitors means more chances of an enquiry.",
+    "why": "Fix translationese and arrow notation; enquiry; British voice"
+  },
+  {
+    "path": "sections[3].bodyEn[0].children[0].text",
+    "expect": "Before the update, the site did not use the full potential of the business. The company had services, experience and real projects, but the site did not help sell it well enough.",
+    "to": "Before the rebuild, the site wasn't pulling its weight. The company had the services, the experience and the completed projects, but the old site didn't do enough to sell them.",
+    "why": "Fix translationese; British voice; contractions"
+  },
+  {
+    "path": "sections[3].bulletList[0].en",
+    "expect": "The site looked more like a business card than a tool for applications",
+    "to": "The site read more like a brochure than a tool for generating enquiries",
+    "why": "brochure site; enquiries"
+  },
+  {
+    "path": "sections[3].bulletList[1].en",
+    "expect": "People did not immediately understand what the company does",
+    "to": "It wasn't clear at a glance what the company actually does",
+    "why": "natural phrasing"
+  },
+  {
+    "path": "sections[3].bulletList[2].en",
+    "expect": "The services were not presented clearly enough",
+    "to": "The services weren't presented clearly enough",
+    "why": "contraction; British voice"
+  },
+  {
+    "path": "sections[3].bulletList[3].en",
+    "expect": "The site was poorly prepared for promotion on Google",
+    "to": "The site was poorly set up for Google",
+    "why": "tighten translationese"
+  },
+  {
+    "path": "sections[3].bulletList[4].en",
+    "expect": "It was more difficult for the user to quickly go to the contact",
+    "to": "It was harder than it should be to reach the contact details",
+    "why": "\"go to the contact\" → \"reach the contact details\""
+  },
+  {
+    "path": "sections[3].bulletList[5].en",
+    "expect": "It was inconvenient for the client to update information on the site",
+    "to": "Updating content on the site was awkward for the client",
+    "why": "natural phrasing"
+  },
+  {
+    "path": "sections[4].bodyEn[0].children[0].text",
+    "expect": "We developed a site that helps the company receive applications from search.\nThe work included:",
+    "to": "We built a site that helps the company win enquiries from search.\nThe work included:",
+    "why": "enquiries; keep \\n; British voice"
+  },
+  {
+    "path": "sections[4].bulletList[2].en",
+    "expect": "Separate pages for different areas of work",
+    "to": "Separate pages for the different areas of work",
+    "why": "minor phrasing"
+  },
+  {
+    "path": "sections[4].bulletList[3].en",
+    "expect": "Texts and structure that work better on Google",
+    "to": "Copy and structure that perform better on Google",
+    "why": "\"texts\" → \"copy\"; natural phrasing"
+  },
+  {
+    "path": "sections[4].bulletList[4].en",
+    "expect": "Convenient buttons for contact",
+    "to": "Clear contact buttons",
+    "why": "fix calque \"convenient\""
+  },
+  {
+    "path": "sections[4].bulletList[5].en",
+    "expect": "Application forms",
+    "to": "Enquiry forms",
+    "why": "\"Application forms\" → \"Enquiry forms\""
+  },
+  {
+    "path": "sections[4].bulletList[6].en",
+    "expect": "Adaptation to the phone",
+    "to": "Mobile-responsive design",
+    "why": "\"Adaptation to the phone\" → \"Mobile-responsive design\""
+  },
+  {
+    "path": "sections[4].bulletList[7].en",
+    "expect": "Fast loading of the site",
+    "to": "Fast page loads",
+    "why": "natural phrasing"
+  },
+  {
+    "path": "sections[4].bulletList[8].en",
+    "expect": "Convenient admin so that the client can change the content himself;",
+    "to": "An easy admin so the client can edit content themselves;",
+    "why": "fix calque \"convenient\"; British voice; keep trailing semicolon"
+  },
+  {
+    "path": "sections[4].bulletList[9].en",
+    "expect": "Further SEO promotion after launch",
+    "to": "Ongoing SEO after launch",
+    "why": "\"Further SEO promotion\" → \"ongoing SEO\""
+  },
+  {
+    "path": "sections[5].bodyEn[0].children[0].text",
+    "expect": "Analytics showed that people did not just visit the site, but performed actions that could lead to an application. Over 360 days, the site recorded users actions. This data shows the main thing: people came to the site and were looking for a way to contact the company.",
+    "to": "Analytics showed people weren't just visiting — they were taking the kind of actions that lead to an enquiry. Over 360 days the site logged what users did, and the pattern is clear: visitors arrived and went looking for a way to contact the company.",
+    "why": "Fix translationese; enquiry; British voice"
+  },
+  {
+    "path": "sections[5].bulletList[0].en",
+    "expect": "166 times users clicked Contact us",
+    "to": "166 clicks on \"Contact us\"",
+    "why": "natural phrasing"
+  },
+  {
+    "path": "sections[5].bulletList[1].en",
+    "expect": "104 times they followed external links",
+    "to": "104 clicks on external links",
+    "why": "natural phrasing"
+  },
+  {
+    "path": "sections[5].bulletList[2].en",
+    "expect": "50 times they submitted a form",
+    "to": "50 form submissions",
+    "why": "natural phrasing"
+  },
+  {
+    "path": "sections[5].bulletList[3].en",
+    "expect": "14 times they clicked the Kontakt os button",
+    "to": "14 clicks on the \"Kontakt os\" button",
+    "why": "keep real Danish button name; natural phrasing"
+  },
+  {
+    "path": "sections[7].bodyEn[0].children[0].text",
+    "expect": "After launching the site and SEO promotion, the client received 300+ applications per year. For a construction company in Denmark, this is especially valuable, because even one closed project can cost much more than the development of the site. The $4,000 site became for the client not just a design expense, but a tool that helps to get new clients. \nThe result did not come from a “good website in itself.” The website started working because we:",
+    "to": "After the site launched and SEO got going, the client was seeing 300+ enquiries a year. For a Danish construction firm that's especially valuable, since a single won project can be worth far more than the whole build. At a fixed $4,000, the site wasn't just a design cost for the client — it became a tool that brings in new business. \nThe result didn't come from a \"nice website\" on its own. The site started working because we:",
+    "why": "Fix translationese; $4,000 relabelled as this client's fixed price; enquiries; keep \\n"
+  },
+  {
+    "path": "sections[7].bulletList[1].en",
+    "expect": "Provided services correctly",
+    "to": "Presented the services properly",
+    "why": "\"Provided services correctly\" → \"presented the services properly\""
+  },
+  {
+    "path": "sections[7].bulletList[2].en",
+    "expect": "Prepared the website for Google",
+    "to": "Set the site up for Google",
+    "why": "natural phrasing"
+  },
+  {
+    "path": "sections[7].bulletList[3].en",
+    "expect": "Added an easy way to apply",
+    "to": "Added an easy way to get in touch",
+    "why": "\"apply\" → \"get in touch\""
+  },
+  {
+    "path": "sections[7].bulletList[4].en",
+    "expect": "Made the website user-friendly on mobile",
+    "to": "Made the site easy to use on mobile",
+    "why": "natural phrasing"
+  },
+  {
+    "path": "sections[7].bulletList[5].en",
+    "expect": "Continued SEO promotion after launch",
+    "to": "Kept SEO going after launch",
+    "why": "\"Continued SEO promotion\" → ongoing SEO sense"
+  }
+]

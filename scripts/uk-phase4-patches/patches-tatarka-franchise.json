@@ -1,0 +1,8 @@
+[
+  {
+    "path": "sections[5].bodyEn[0].children[0].text",
+    "expect": "Tatarka Franchise received not just a presentation site, but a full-fledged franchise sales tool. Thanks to a clear structure, emphasis on the business model and the right path to the application, the landing page helped to quickly explain the value of the offer to potential partners.\nThe site became part of the brand scaling process: it strengthens trust, warms up interested franchisees and translates interest into real applications for cooperation. As a result, the client received not just a beautiful page, but a channel that directly affects franchise sales and the financial result of the business.",
+    "to": "Tatarka Franchise came away with more than a presentation site: a proper franchise sales tool. A clear structure, the business model up front, and a sensible route to enquiry mean the landing page explains the offer to prospective partners fast.\nIt is now part of how the brand scales. The site builds trust, warms up interested franchisees, and turns that interest into real enquiries from would-be partners. The client got a channel that feeds franchise sales, not just a good-looking page.",
+    "why": "machine-translated outcome paragraph -> British English; application->enquiry"
+  }
+]
