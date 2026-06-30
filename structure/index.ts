@@ -19,7 +19,11 @@ export const structure: StructureResolver = (S) =>
       S.documentTypeListItem('pricingPlan').title('Тарифи (/pricing)'),
       S.divider(),
       S.listItem()
-        .title('Калькулятор')
+        .title('Калькулятор — конфігурація')
+        .id('calculatorConfig')
+        .child(S.document().schemaType('calculatorConfig').documentId('calculatorConfig')),
+      S.listItem()
+        .title('Калькулятор (застаріле)')
         .child(
           S.list()
             .title('Калькулятор')
