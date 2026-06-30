@@ -1,0 +1,134 @@
+[
+  {
+    "path": "hero.features[3].en",
+    "expect": "CRM integration | Bitrix24 · AmoCRM",
+    "to": "CRM integration | Pipedrive · HubSpot",
+    "why": "Swap UA/RU CRMs (Bitrix24, AmoCRM) for UK CRMs"
+  },
+  {
+    "path": "sections[0].reasons[0].textEn[0].children[1].text",
+    "expect": "price per sq ft",
+    "to": "price per m²",
+    "why": "UK uses per m², not per sq ft, for construction"
+  },
+  {
+    "path": "sections[0].reasons[2].textEn[0].children[1].text",
+    "expect": "apartment renovation Pechersk",
+    "to": "flat renovation Islington",
+    "why": "Pechersk is a Kyiv district; swap to UK area and apartment→flat"
+  },
+  {
+    "path": "sections[1].after.items[2].en",
+    "expect": "Local SEO: *top 1* on Google for \"nyt tag København\"",
+    "to": "Local SEO: *top 1* on Google for the client's priority local search",
+    "why": "Danish-language SEO example jars a UK reader; reframe generically while keeping the real client"
+  },
+  {
+    "path": "sections[1].before.items[1].en",
+    "expect": "Wasn't ranking on Google for \"*nyt tag København*\"",
+    "to": "Wasn't ranking on Google for its *priority local search*",
+    "why": "Danish-language SEO example; reframe generically"
+  },
+  {
+    "path": "sections[1].lede.en",
+    "expect": "Copenhagen contractor *NBYG* came to us with the usual problem: a business-card site on a legacy CMS that wasn't bringing in inquiries and wasn't ranking for local queries. The brief: rebuild the structure around services, add a calculator, and get to the top of Google for \"*nyt tag København*.\"",
+    "to": "Copenhagen contractor *NBYG* came to us with the usual problem: a business-card site on a legacy CMS that wasn't bringing in enquiries and wasn't ranking for local queries. The brief: rebuild the structure around services, add a calculator, and get to the top of Google for its *priority local search*.",
+    "why": "Strip Danish-language SEO string that jars a UK reader; keep the real Copenhagen client"
+  },
+  {
+    "path": "sections[1].meta[2].strong.en",
+    "expect": "DA",
+    "to": "Multilingual",
+    "why": "Drop DA localisation tag for a UK buyer"
+  },
+  {
+    "path": "sections[1].results[2].label.en",
+    "expect": "for \"nyt tag København\"",
+    "to": "for the priority local search",
+    "why": "Danish-language SEO example; reframe generically"
+  },
+  {
+    "path": "sections[5].features[1].items[2].en",
+    "expect": "Address, square footage, budget, timeline",
+    "to": "Address, floor area, budget, timeline",
+    "why": "UK uses floor area, not square footage"
+  },
+  {
+    "path": "sections[5].features[2].items[0].en",
+    "expect": "Fields: *renovation type, square footage, neighbourhood*",
+    "to": "Fields: *renovation type, floor area, area*",
+    "why": "square footage→floor area for UK construction"
+  },
+  {
+    "path": "sections[5].integrations[0].en",
+    "expect": "Bitrix24",
+    "to": "Pipedrive",
+    "why": "Bitrix24 (UA/RU CRM) → Pipedrive"
+  },
+  {
+    "path": "sections[5].integrations[1].en",
+    "expect": "AmoCRM",
+    "to": "HubSpot",
+    "why": "AmoCRM (RU CRM) → HubSpot"
+  },
+  {
+    "path": "sections[5].integrations[2].en",
+    "expect": "KeyCRM",
+    "to": "Tradify",
+    "why": "KeyCRM (UA CRM) → UK trade-ops tool, avoiding CRM duplicate"
+  },
+  {
+    "path": "sections[5].integrations[8].en",
+    "expect": "WayForPay",
+    "to": "Worldpay",
+    "why": "WayForPay (UA payments) → Worldpay"
+  },
+  {
+    "path": "sections[5].integrations[9].en",
+    "expect": "LiqPay",
+    "to": "GoCardless",
+    "why": "LiqPay (UA payments) → GoCardless"
+  },
+  {
+    "path": "sections[6].tiers[2].includes[3].en",
+    "expect": "Multilingual UA + RU + EN",
+    "to": "Multilingual, English-first",
+    "why": "Drop UA/RU language tiers; English-first for UK buyer"
+  },
+  {
+    "path": "sections[7].items[2].answerEn[0].children[1].text",
+    "expect": "renovation type × work type × price per sq ft",
+    "to": "renovation type × work type × price per m²",
+    "why": "per sq ft → per m² for UK construction"
+  },
+  {
+    "path": "sections[7].items[5].answerEn[0].children[0].text",
+    "expect": "Yes. WayForPay, LiqPay, Mono Pay (UA), Stripe (for international clients), USDT. A ",
+    "to": "Yes. Worldpay, GoCardless, Klarna, Stripe. A ",
+    "why": "Swap UA payments for UK ones; drop USDT/crypto and UA tag"
+  },
+  {
+    "path": "sections[7].items[9].answerEn[0].children[0].text",
+    "expect": "Pro tier — UA + RU. Enterprise — ",
+    "to": "Pro tier — English plus one language. Enterprise — ",
+    "why": "Drop UA/RU language claims; English-first"
+  },
+  {
+    "path": "sections[7].items[9].answerEn[0].children[1].text",
+    "expect": "UA + RU + EN",
+    "to": "English plus additional languages on request",
+    "why": "Drop UA/RU language claims; English-first phrasing"
+  },
+  {
+    "path": "sections[7].items[9].answerEn[0].children[2].text",
+    "expect": ". For specific markets (FR for France or DA for Denmark) — additional language for £1,500. We have real client projects shipping in Ukraine, France, and Denmark.",
+    "to": ". For specific markets (such as French or Danish) — additional language for £1,500. We have real client projects shipping across the UK and Europe.",
+    "why": "Reframe geography for UK buyer while keeping honest multi-market fact"
+  },
+  {
+    "path": "sections[7].items[4].answerEn[0].children[0].text",
+    "expect": "CRM (Bitrix24 / AmoCRM / KeyCRM): from ",
+    "to": "CRM (HubSpot / Pipedrive / Salesforce): from ",
+    "why": "UA CRMs->UK"
+  }
+]

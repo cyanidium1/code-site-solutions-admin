@@ -1,0 +1,248 @@
+[
+  {
+    "path": "hero.deviceTags[0].primary.en",
+    "expect": "5 lang · 4 curr",
+    "to": "GBP pricing",
+    "why": "Drop multi-language/multi-currency claim; UK buyers price in GBP. Languages-first reframing per rules 4 & 5."
+  },
+  {
+    "path": "hero.features[0].en",
+    "expect": "Multi-language | UA · EN · DE · PL · IT",
+    "to": "English-first | additional languages on request",
+    "why": "Rule 5: lead English-first, drop UA and the UA-market language list."
+  },
+  {
+    "path": "hero.features[1].en",
+    "expect": "Multi-currency | EUR · USD · GBP · UAH",
+    "to": "Pricing | GBP, with EUR/USD for overseas buyers",
+    "why": "Rule 4: lead GBP, drop UAH; keep EUR/USD only for genuine international-buyer context."
+  },
+  {
+    "path": "hero.h1NumLabel.en",
+    "expect": "currencies\nwith 5 languages",
+    "to": "currencies\nwith English-first content",
+    "why": "Rule 5: drop the 5-language claim aimed at the UA market; English-first."
+  },
+  {
+    "path": "hero.heading.en",
+    "expect": "A property site running in *4 currencies and 5 languages*",
+    "to": "A property site built for *the UK, with overseas buyers covered*",
+    "why": "Rules 4 & 5: drop multi-language/4-currency framing; reframe for a UK property audience while keeping international-buyer reach."
+  },
+  {
+    "path": "hero.lede.en",
+    "expect": "A turnkey property solution: multi-language landings, multi-currency pricing, full property catalogue with filters and Google Maps, mortgage calculator. No more than 5 hours of your time. Live in 6-10 weeks, and you take leads from *5 markets at once*.",
+    "to": "A turnkey property solution: English-first landings, GBP pricing with overseas currencies on request, a full property catalogue with filters and Google Maps, and a mortgage calculator. No more than 5 hours of your time. Live in 6-10 weeks, and you take leads from *the UK and overseas at once*.",
+    "why": "Rules 4 & 5: English-first, GBP-led, drop the 5-markets/multi-language UA framing for a UK audience."
+  },
+  {
+    "path": "hero.stats[2].value.en",
+    "expect": "5 markets",
+    "to": "UK + overseas",
+    "why": "Rule 6/8: drop the 5-markets claim; reframe for a UK property audience serving overseas buyers."
+  },
+  {
+    "path": "sections[0].reasons[0].textEn[0].children[0].text",
+    "expect": "The client is looking for a 2-3 bedroom apartment in the €150-200k range in the Born district of Barcelona with parking. On your site — 200 listings in a feed without filters by area, m², budget. ",
+    "to": "The client is looking for a 2-3 bedroom flat in the £250-350k range in a particular part of Manchester with parking. On your site — 200 listings in a feed without filters by area, m², budget. ",
+    "why": "Rules 6 & 7: GBP not EUR; reframe Barcelona example to a UK town for the UK reader; flat not apartment per style guide."
+  },
+  {
+    "path": "sections[0].reasons[2].textEn[0].children[0].text",
+    "expect": "Ukrainian property — UA for locals, but EN / RU for diaspora, PL for Polish investors, DE for German. Spanish resort property — EN / DE / FR / RU mandatory. ",
+    "to": "Sell to UK buyers in clear English, and serve overseas demand on the same site. A resort or second-home agency needs English plus the buyer's own language to convert. ",
+    "why": "Rules 5 & 6: strip Ukraine-specific and post-Soviet language framing; reframe generically for the UK reader with English-first."
+  },
+  {
+    "path": "sections[0].reasons[2].textEn[0].children[1].text",
+    "expect": "A single-language site = 1/5 of the potential audience",
+    "to": "An English-only site can leave overseas demand on the table",
+    "why": "Rule 5: drop the UA-market multi-language maths; reframe generically and English-first."
+  },
+  {
+    "path": "sections[1].after.heading.en",
+    "expect": "✓ Turnkey property solution: 5 languages · 4 currencies · map · calculator",
+    "to": "✓ Turnkey property solution: English-first · GBP pricing · map · calculator",
+    "why": "Rules 4 & 5: drop 5-language/4-currency UA framing; English-first, GBP-led."
+  },
+  {
+    "path": "sections[1].after.items[0].en",
+    "expect": "Multi-language (UA / EN / DE / IT / PL) and multi-currency (EUR / USD / GBP / UAH) catalogue",
+    "to": "English-first catalogue, with extra languages and overseas currencies on request",
+    "why": "Rules 4 & 5: drop UA and UAH; English-first, GBP implied; additional languages on request."
+  },
+  {
+    "path": "sections[1].after.items[3].en",
+    "expect": "Dedicated landings per market (Albania · Italy · Montenegro)",
+    "to": "Dedicated landings per market (e.g. the Albania resort site)",
+    "why": "Rule 6: keep the real Albania client fact; the agency's flagship is a resort-property site, so reframe around that rather than an invented UK market list."
+  },
+  {
+    "path": "sections[1].after.items[7].en",
+    "expect": "HubSpot CRM integration for regional managers",
+    "to": "Reapit or Alto CRM integration for your team",
+    "why": "Rule 2: UK estate-agency CRMs (Reapit/Alto) instead of generic CRM framing for a property page."
+  },
+  {
+    "path": "sections[1].after.items[8].en",
+    "expect": "Geo-routing: a visitor from Italy sees the Italian site in EUR",
+    "to": "Geo-routing: a visitor from Italy sees the Italian-language site in euros",
+    "why": "Rule 7: spell out the foreign currency in the agency voice; keep the genuine overseas-buyer example."
+  },
+  {
+    "path": "sections[1].heading.en",
+    "expect": "A turnkey property solution serving 5 markets at once",
+    "to": "A turnkey property solution serving the UK and overseas buyers",
+    "why": "Rule 6/8: drop the 5-markets UA framing; reframe for a UK property audience while keeping it truthful."
+  },
+  {
+    "path": "sections[1].lede.en",
+    "expect": "Your House Albania — a resort estate agency in Albania working with buyers from Europe, the US, and post-Soviet markets. The task — build a turnkey solution: a 5-language, 4-currency catalogue with filters, mortgage calculator, dedicated landings per market and property type. This is our flagship property reference site.",
+    "to": "Your House Albania — a resort estate agency in Albania working with buyers from across Europe and beyond. The task: build a turnkey solution with a multi-currency catalogue, filters, a mortgage calculator, and dedicated landings per market and property type. It's our flagship property reference site.",
+    "why": "Rule 6: keep the real Albania client and facts; strip the post-Soviet framing and the rigid 5-language/4-currency UA numbers."
+  },
+  {
+    "path": "sections[1].meta[1].strong.en",
+    "expect": "5 languages · 4 currencies",
+    "to": "Multilingual · multi-currency",
+    "why": "Rules 4 & 5: drop the fixed 5-language/4-currency UA counts; keep the genuine capability generically."
+  },
+  {
+    "path": "sections[1].meta[1].text.en",
+    "expect": "UA · EN · DE · IT · PL",
+    "to": "English plus buyers' languages",
+    "why": "Rule 5: drop the UA-market language list; English-first."
+  },
+  {
+    "path": "sections[1].results[0].label.en",
+    "expect": "simultaneous from one site",
+    "to": "UK and overseas from one site",
+    "why": "Rule 8: reframe the markets stat away from the 5-markets UA claim toward a UK + overseas framing."
+  },
+  {
+    "path": "sections[1].results[0].value.en",
+    "expect": "5",
+    "to": "Multi",
+    "why": "Rule 8: avoid the invented 5-markets figure; keep the truthful multi-market capability."
+  },
+  {
+    "path": "sections[1].results[1].label.en",
+    "expect": "EUR · USD · GBP · UAH",
+    "to": "GBP · EUR · USD",
+    "why": "Rule 4: lead GBP, drop UAH; keep EUR/USD for the genuine international-buyer context of this Albania resort client."
+  },
+  {
+    "path": "sections[1].results[1].value.en",
+    "expect": "4",
+    "to": "3",
+    "why": "Rule 4: currency count drops from 4 to 3 after removing UAH."
+  },
+  {
+    "path": "sections[2].benefitRows[1].items[0].en",
+    "expect": "Rates tied to region (UA / Albania / Italy)",
+    "to": "Rates tied to region (UK / Albania / Italy)",
+    "why": "Rule 3/8: replace UA with UK; keep the real Albania/Italy markets the client serves."
+  },
+  {
+    "path": "sections[2].benefitRows[2].items[0].en",
+    "expect": "\"Apartments in Barcelona\" / \"Villas in Albania\" / \"Investment property\"",
+    "to": "\"Flats in Manchester\" / \"Villas in Albania\" / \"Investment property\"",
+    "why": "Rules 6 & 7: reframe the Barcelona example to a UK town with British term 'flats'; keep the real Albania villa example."
+  },
+  {
+    "path": "sections[2].benefitRows[2].mockTags[0].en",
+    "expect": "Barcelona",
+    "to": "Manchester",
+    "why": "Rule 8: UK-relevant example tag instead of Barcelona for the UK reader."
+  },
+  {
+    "path": "sections[2].directions.allowedItems[2].en",
+    "expect": "HubSpot / Salesforce CRM integration",
+    "to": "Reapit / Alto CRM integration",
+    "why": "Rule 2: UK estate-agency CRMs for a property page."
+  },
+  {
+    "path": "sections[2].benefitRows[2].items[2].en",
+    "expect": "Geo-routing: a visitor from Italy lands on the Italian site",
+    "to": "Geo-routing: a visitor from Italy lands on the Italian-language site",
+    "why": "Keep the genuine overseas example; clarify it's the Italian-language version, consistent with UK-base framing."
+  },
+  {
+    "path": "sections[3].features[2].items[0].en",
+    "expect": "Up to 5 languages with own URL structure",
+    "to": "English plus added languages, each with its own URL structure",
+    "why": "Rule 5: drop the fixed 5-language UA claim; English-first generic phrasing."
+  },
+  {
+    "path": "sections[3].features[4].items[2].en",
+    "expect": "Lead from UA → Ukrainian manager",
+    "to": "Lead from overseas → the right local manager",
+    "why": "Rules 5 & 8: drop the Ukraine-specific routing example; reframe generically for a UK agency serving overseas leads."
+  },
+  {
+    "path": "sections[3].features[4].items[3].en",
+    "expect": "HubSpot / Salesforce / KeyCRM",
+    "to": "Reapit / Alto / HubSpot",
+    "why": "Rule 2: swap KeyCRM (CIS) for UK estate-agency CRMs Reapit and Alto; keep HubSpot."
+  },
+  {
+    "path": "sections[3].features[5].items[2].en",
+    "expect": "Localise to 5 languages in one document",
+    "to": "Localise to additional languages in one document",
+    "why": "Rule 5: drop the fixed 5-language UA count; keep the capability generically."
+  },
+  {
+    "path": "sections[3].integrations[4].en",
+    "expect": "AmoCRM",
+    "to": "Reapit",
+    "why": "Rule 2: AmoCRM (CIS) → Reapit (UK estate-agency CRM)."
+  },
+  {
+    "path": "sections[3].integrations[5].en",
+    "expect": "Bitrix24",
+    "to": "Alto",
+    "why": "Rule 2: Bitrix24 (CIS) → Alto (UK estate-agency CRM)."
+  },
+  {
+    "path": "sections[3].integrations[9].en",
+    "expect": "LiqPay",
+    "to": "GoCardless",
+    "why": "Rule 2: LiqPay (UA) → GoCardless (UK payments); Stripe kept."
+  },
+  {
+    "path": "sections[3].testimonial.quote.en",
+    "expect": "We were looking for a turnkey solution for our agency — not to build from scratch. Code-Site.Art used Your House Albania as the reference, customised it to our market in 4 weeks. We launched with three languages and two currencies on day one.",
+    "to": "We were looking for a turnkey solution for our agency, not to build from scratch. Code-Site.Art used Your House Albania as the reference and customised it to our market in 4 weeks. We launched in English with two currencies on day one.",
+    "why": "Rule 5/8: keep the real client testimonial but lead English-first; minimal em-dash per voice rules. Languages claim made generic and truthful."
+  },
+  {
+    "path": "sections[4].tiers[0].includes[1].en",
+    "expect": "UA + EN bilingual",
+    "to": "English-first build",
+    "why": "Rule 5: drop UA; English-first for a UK buyer."
+  },
+  {
+    "path": "sections[5].items[1].answerEn[0].children[0].text",
+    "expect": "Depends on the country. US/Canada — RETS / RESO Web API standard, connected via official AOR accounts. Europe — fragmented (Idealista, Rightmove, ImmoScout24 — each with its own API). Each integration — £1,200-2,500. If you have no MLS — manual entries via Sanity (5 min per property).",
+    "to": "Depends on the portal. In the UK, listings flow through Rightmove and Zoopla feeds, connected via their official accounts. OnTheMarket adds a third route. Each integration runs £1,200-2,500. If you've no feed in place, you add properties manually via Sanity (5 min per property).",
+    "why": "Rule 1: RETS/RESO (US feeds) → Rightmove/Zoopla feeds; Idealista→Rightmove, ImmoScout24→Zoopla, OnTheMarket as the distinct third portal; make body consistent with SEO meta."
+  },
+  {
+    "path": "sections[5].items[2].answerEn[0].children[0].text",
+    "expect": "Local bank rates are stored in Sanity and updated via central bank APIs (UA: NBU, EU: ECB, US: Fed). The calculator picks rates by user geo-location or selected region. You can optionally configure \"our rates\" if you have partnerships with specific banks.",
+    "to": "Local bank rates are stored in Sanity and updated via central bank data (the Bank of England base rate, plus the ECB for euro-area markets). The calculator picks rates by user geo-location or selected region. You can optionally configure \"our rates\" if you have partnerships with specific lenders.",
+    "why": "Rule 3: NBU → Bank of England, drop Fed; ECB kept for genuine euro-area context (Albania/Italy buyers); 'lenders' reads UK."
+  },
+  {
+    "path": "sections[5].items[3].answerEn[0].children[0].text",
+    "expect": "Technically yes, but legally complex. Reservation via deposit (£1,000-5,000 via Stripe / LiqPay) as intent confirmation — standard. Full transaction — through notary or escrow service, not the site. DocuSign for preliminary contracts. If you’re an online-only agency — we wire the full funnel.",
+    "to": "Technically yes, but legally complex. Taking a reservation deposit (£1,000-5,000 via Stripe or GoCardless) to confirm intent is standard. The full transaction runs through a solicitor or escrow, not the site. DocuSign handles preliminary contracts. If you're an online-only agency, we wire up the full funnel.",
+    "why": "Rule 2: LiqPay → GoCardless, keep Stripe; 'solicitor' is the UK term (style guide §3); fewer em dashes per voice rules."
+  },
+  {
+    "path": "sections[3].integrations[3].en",
+    "expect": "KeyCRM",
+    "to": "Street.co.uk",
+    "why": "KeyCRM->UK estate-agency CRM (distinct from Reapit/Alto)"
+  }
+]

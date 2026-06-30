@@ -1,0 +1,116 @@
+[
+  {
+    "path": "hero.tickerItems[5].en",
+    "expect": "Financial leagues",
+    "to": "Financial services",
+    "why": "\"Financial leagues\" is a mistranslation; the ticker lists finance verticals, so \"Financial services\" is the right UK category."
+  },
+  {
+    "path": "sections[0].reasons[0].title.en",
+    "expect": "The site looks like a £50 Tilda template",
+    "to": "The site looks like a £50 Wix template",
+    "why": "Tilda is a UA/CIS builder; the UK reader knows Wix as the cheap-template reference."
+  },
+  {
+    "path": "sections[3].features[3].items[0].en",
+    "expect": "Stripe / LiqPay / WayForPay",
+    "to": "Stripe / GoCardless / Worldpay",
+    "why": "LiqPay/WayForPay are UA payment gateways; swap to UK GoCardless/Worldpay, keep Stripe."
+  },
+  {
+    "path": "sections[3].features[3].items[2].en",
+    "expect": "Auto-invoicing via MEDoc",
+    "to": "Auto-invoicing via Xero",
+    "why": "MEDoc is the Ukrainian e-invoicing system; Xero is the UK accounting/invoicing equivalent."
+  },
+  {
+    "path": "sections[3].integrations[0].en",
+    "expect": "MEDoc",
+    "to": "Sage",
+    "why": "MEDoc→UK accounting; Xero already in list, so use Sage to avoid a duplicate."
+  },
+  {
+    "path": "sections[3].integrations[1].en",
+    "expect": "1C / BAS",
+    "to": "FreeAgent",
+    "why": "1C/BAS is a CIS accounting suite; map to FreeAgent (Xero/Sage already covered) to avoid duplicates."
+  },
+  {
+    "path": "sections[3].integrations[4].en",
+    "expect": "KeyCRM",
+    "to": "Pipedrive",
+    "why": "KeyCRM is a UA CRM; Pipedrive is the UK pick."
+  },
+  {
+    "path": "sections[3].integrations[5].en",
+    "expect": "AmoCRM",
+    "to": "Salesforce",
+    "why": "AmoCRM→HubSpot, but HubSpot is already in the list; use Salesforce to keep a distinct UK-relevant CRM."
+  },
+  {
+    "path": "sections[3].integrations[6].en",
+    "expect": "Bitrix24",
+    "to": "HMRC Making Tax Digital",
+    "why": "Bitrix24→Pipedrive would duplicate KeyCRM's swap; this is an accounting/payment integrations list, so add HMRC Making Tax Digital per the MTD requirement."
+  },
+  {
+    "path": "sections[3].integrations[9].en",
+    "expect": "LiqPay",
+    "to": "GoCardless",
+    "why": "LiqPay is a UA payment gateway; GoCardless is the UK direct-debit pick."
+  },
+  {
+    "path": "sections[3].integrations[10].en",
+    "expect": "WayForPay",
+    "to": "Worldpay",
+    "why": "WayForPay is a UA payment gateway; Worldpay is the UK equivalent."
+  },
+  {
+    "path": "sections[3].integrationsSub.en",
+    "expect": "Leads from the calculator land in your CRM with full UTM tagging. Subscription payments flow Stripe → auto-invoice via MEDoc → entry in your accounting system. The manager gets a WhatsApp alert. Zero leads lost to email spam.",
+    "to": "Leads from the calculator land in your CRM with full UTM tagging. Subscription payments flow Stripe → auto-invoice via Xero → entry in your accounting system. The manager gets a WhatsApp alert. Zero leads lost to email spam.",
+    "why": "MEDoc is the UA e-invoicing tool; Xero is the UK invoicing/accounting equivalent."
+  },
+  {
+    "path": "sections[4].rows[3].param.en",
+    "expect": "MEDoc / 1C integration",
+    "to": "Xero / Sage integration",
+    "why": "Comparison-table row names UA accounting tools; swap to UK Xero/Sage."
+  },
+  {
+    "path": "sections[4].rows[5].custom.en",
+    "expect": "Stripe / LiqPay",
+    "to": "Stripe / GoCardless",
+    "why": "LiqPay is a UA gateway; GoCardless is the UK recurring-payments pick, Stripe kept."
+  },
+  {
+    "path": "sections[5].items[0].answerEn[0].children[0].text",
+    "expect": "Yes. Stripe for international clients, LiqPay or WayForPay for Ukrainian ones. Recurring billing works out of the box: client pays once, then auto-monthly. 24-hour pre-charge reminders, self-serve pause.",
+    "to": "Yes. Stripe and GoCardless for cards and Direct Debit, Worldpay where you need it. Recurring billing works out of the box: client pays once, then auto-monthly. 24-hour pre-charge reminders, self-serve pause.",
+    "why": "Drops the \"for Ukrainian ones\" framing and UA gateways; uses UK payment options (Stripe, GoCardless Direct Debit, Worldpay)."
+  },
+  {
+    "path": "sections[5].items[1].answerEn[0].children[0].text",
+    "expect": "MEDoc, 1C/BAS, ifin (Ukrainian clients). Xero, QuickBooks, FreshBooks (international). API integration: £500-1200 depending on complexity. If you use a different system — we connect.",
+    "to": "Xero, Sage, QuickBooks, FreeAgent, plus HMRC Making Tax Digital. API integration: £500-1200 depending on complexity. If you use a different system, we connect.",
+    "why": "Removes UA accounting tools and the \"Ukrainian/international clients\" split; lists the UK accounting stack and adds HMRC MTD."
+  },
+  {
+    "path": "sections[5].items[2].answerEn[0].children[0].text",
+    "expect": "GDPR-compliant architecture. SSL required. AES-256 encrypted databases. 2FA access. Regular security audits. PCI DSS for card data — we use Stripe / LiqPay (no card numbers stored locally).",
+    "to": "GDPR-compliant architecture. SSL required. AES-256 encrypted databases. 2FA access. Regular security audits. PCI DSS for card data: we use Stripe and GoCardless, so no card numbers are stored locally.",
+    "why": "Plain UK GDPR is fine; swaps LiqPay for GoCardless and reworks the em dash per the style guide."
+  },
+  {
+    "path": "sections[5].items[4].answerEn[0].children[0].text",
+    "expect": "Yes. MEDoc integration (for Ukrainian sole proprietors/LLCs) or Stripe Invoicing (international) generates invoices after payment. PDF with your legal name, address, tax ID. The client gets it by email + via the client portal.",
+    "to": "Yes. Xero integration or Stripe Invoicing generates invoices after payment, whether you're a sole trader or a limited company. PDF with your legal name, address and VAT number. The client gets it by email and via the client portal.",
+    "why": "Removes MEDoc and the \"Ukrainian sole proprietors/LLCs\" framing; uses UK legal forms (sole trader, limited company) and VAT number, with Xero as the UK invoicing tool."
+  },
+  {
+    "path": "sections[1].after.items[3].en",
+    "expect": "CRM integration (KeyCRM) + WhatsApp alerts to the manager",
+    "to": "CRM integration (Pipedrive) + WhatsApp alerts to the manager",
+    "why": "KeyCRM->Pipedrive"
+  }
+]
