@@ -37,6 +37,7 @@ import {blogCategoryOption} from './documents/blogCategoryOption'
 import {blogPost} from './documents/blogPost'
 import {budgetBucketOption} from './documents/budgetBucketOption'
 import {calculatorCmsOptions} from './documents/calculatorCmsOptions'
+import {calculatorConfig} from './documents/calculatorConfig'
 import {calculatorContentOptions} from './documents/calculatorContentOptions'
 import {calculatorDesignOptions} from './documents/calculatorDesignOptions'
 import {calculatorFeatureOptions} from './documents/calculatorFeatureOptions'
@@ -105,7 +106,10 @@ export const schemaTypes = [
   calculatorSettings,
   homepageCases,
 
-  // v2 calculator singletons (consolidate v1 docs)
+  // v3 calculator — single consolidated config singleton
+  calculatorConfig,
+
+  // v2 calculator singletons (legacy — removed in Phase 7 after cutover)
   calculatorProjectTypes,
   calculatorPresets,
   calculatorCmsOptions,

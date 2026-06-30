@@ -28,5 +28,5 @@
 # Dotenv and similar local-only files
 *.local
 
-# Local dataset backups (large archives)
-backups/*.tar.gz
+# Local dataset backups (large archives + JSON exports)
+backups/
