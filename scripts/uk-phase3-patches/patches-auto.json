@@ -1,0 +1,302 @@
+[
+  {
+    "path": "hero.tickerItems[0].en",
+    "expect": "US car delivery",
+    "to": "Used car sales",
+    "why": "US-import model in agency ticker → UK motor-trade reality (used-car sales)."
+  },
+  {
+    "path": "hero.tickerItems[1].en",
+    "expect": "EU car delivery",
+    "to": "Dealership websites",
+    "why": "US/EU import framing in agency ticker → UK dealership focus."
+  },
+  {
+    "path": "hero.tickerItems[3].en",
+    "expect": "Car import",
+    "to": "MOT & servicing",
+    "why": "Replace generic import claim with a core UK motor-trade service."
+  },
+  {
+    "path": "hero.tickerItems[4].en",
+    "expect": "Repair shops",
+    "to": "Garages",
+    "why": "UK term for repair shops is 'garages' per style guide."
+  },
+  {
+    "path": "hero.tickerItems[10].en",
+    "expect": "Auto logistics",
+    "to": "Fleet & leasing",
+    "why": "US-to-UA logistics line → UK motor-trade segment."
+  },
+  {
+    "path": "hero.tickerItems[11].en",
+    "expect": "Customs clearance",
+    "to": "Parts & accessories",
+    "why": "Customs clearance is US-import framing; swap to a UK motor-trade category."
+  },
+  {
+    "path": "hero.features[2].en",
+    "expect": "Integrations | auctions · logistics · CRM",
+    "to": "Integrations | auctions · DMS · CRM",
+    "why": "US-import 'logistics' → UK dealer-management systems (DMS)."
+  },
+  {
+    "path": "sections[0].reasons[0].textEn[0].children[2].text",
+    "expect": ". Car delivery from the US/EU has 12+ cost lines (auction fee, logistics, insurance, customs, excise, VAT, broker commission). Without a calculator, the client can’t gauge the budget — they go to whoever shows numbers.",
+    "to": ". A used-car deal or a service job can carry a dozen line items (vehicle price, prep, warranty, finance, part-exchange, VAT, admin fees). Without a calculator the buyer can’t gauge the cost, so they go to whoever shows numbers.",
+    "why": "Agency pitch describing US/EU import cost lines → UK motor-trade pricing reality."
+  },
+  {
+    "path": "sections[0].reasons[2].textEn[0].children[0].text",
+    "expect": "A \"deliveries\" page with 3 photos from 2019. The client risks £15-50k — and sees zero proof that you actually deliver and won’t disappear with the deposit. ",
+    "to": "A \"sold\" page with 3 photos from 2019. The buyer's spending £15-50k and sees zero proof you deliver the car you describe and won't vanish with the deposit. ",
+    "why": "Reframe US-import 'deliveries' to UK used-car sales; keep GBP risk figure."
+  },
+  {
+    "path": "sections[0].reasons[2].textEn[0].children[1].text",
+    "expect": "Without a \"here are the 200 cars we brought\" gallery, the client picks the bigger player",
+    "to": "Without a \"here are the cars we've sold\" gallery, the buyer picks the bigger player",
+    "why": "'cars we brought' implies importing; UK garages sell stock."
+  },
+  {
+    "path": "sections[0].reasons[2].title.en",
+    "expect": "No real cases of delivered cars",
+    "to": "No real cases of cars sold",
+    "why": "UK motor-trade frames proof as cars sold, not delivered/imported."
+  },
+  {
+    "path": "sections[1].after.items[0].en",
+    "expect": "Custom calculator with 12 cost lines (auction, logistics, insurance, customs, excise, VAT, commission)",
+    "to": "Custom calculator with 12 cost lines (vehicle price, prep, warranty, finance, part-exchange, VAT, admin fees)",
+    "why": "Agency 'after' offering describing import cost lines → UK motor-trade lines."
+  },
+  {
+    "path": "sections[1].after.items[2].en",
+    "expect": "3 languages: UA / RU / EN with separate URL structure",
+    "to": "English-first, with additional languages on request and a clean URL structure",
+    "why": "Drop UA/RU language claims from the UK-facing offering; English-first."
+  },
+  {
+    "path": "sections[1].after.items[4].en",
+    "expect": "SEO: landings for \"BMW from USA\", \"Tesla from USA\", \"buy car [budget]\"",
+    "to": "SEO: landing pages for \"used BMW Manchester\", \"car dealer Leeds\", \"used car [budget]\"",
+    "why": "US-import search examples → UK local used-car search terms."
+  },
+  {
+    "path": "sections[1].after.items[5].en",
+    "expect": "Leads flow into KeyCRM with full UTM tagging",
+    "to": "Leads flow into HubSpot with full UTM tagging",
+    "why": "KeyCRM → HubSpot (UK CRM mapping)."
+  },
+  {
+    "path": "sections[1].before.items[1].en",
+    "expect": "Ukrainian only — losing clients from Russian and English queries",
+    "to": "One language only, with no plan for additional-language queries",
+    "why": "Remove Ukrainian-only / Russian-query note from UK-facing pitch."
+  },
+  {
+    "path": "sections[2].directions.lede.en",
+    "expect": "For the motor-trade business, the website should not just show services. It should calculate the cost, explain the process, remove unnecessary questions and lead the client to the application: for a calculation, car selection, test drive or service. We create a structure for your work model: import of cars from abroad, car dealership business, service station, body repair or sale of cars from a catalogue.",
+    "to": "For a motor-trade business, the website shouldn't just list services. It should calculate the cost, explain the process, answer the obvious questions up front and lead the buyer to an enquiry: for a quote, a car, a test drive or a service slot. We build the structure around your model: a dealership, a service garage, body repair, or selling cars from a catalogue.",
+    "why": "Agency pitch lede; drop 'import of cars from abroad' and 'service station' for UK motor-trade framing."
+  },
+  {
+    "path": "sections[2].directions.replaceItems[0].en",
+    "expect": "Cost calculator with delivery, customs duties and fees",
+    "to": "Cost calculator with finance, part-exchange and fees",
+    "why": "Import duty/delivery cost calculator → UK used-car/finance calculator."
+  },
+  {
+    "path": "sections[2].directions.replaceItems[3].en",
+    "expect": "Pages for countries: USA, EU, Dubai, Japan",
+    "to": "Pages for towns and regions: Manchester, Leeds, Birmingham, Glasgow",
+    "why": "Country-of-import pages → UK local-area landing pages."
+  },
+  {
+    "path": "sections[2].directions.replaceItems[4].en",
+    "expect": "Integration with CRM, logistics or auctions",
+    "to": "Integration with CRM, DMS or auctions",
+    "why": "US-import logistics → UK dealer-management systems."
+  },
+  {
+    "path": "sections[2].directions.replaceLabel.en",
+    "expect": "IMPORTING CARS FROM ABROAD",
+    "to": "SELLING CARS TO ORDER",
+    "why": "Agency category label aimed at UK prospect; drop import-from-abroad framing."
+  },
+  {
+    "path": "sections[2].directions.allowedItems[4].en",
+    "expect": "Integration with CRM or BAS if necessary",
+    "to": "Integration with CRM or Sage if necessary",
+    "why": "BAS (CIS accounting) → Sage (UK)."
+  },
+  {
+    "path": "sections[2].benefitRows[2].heading.en",
+    "expect": "Multi-language SEO",
+    "to": "Local & multi-language SEO",
+    "why": "Reframe the agency multi-language block toward UK local SEO (still keeps multi-language as on-request)."
+  },
+  {
+    "path": "sections[2].benefitRows[2].items[0].en",
+    "expect": "UA + RU + EN, each on its own domain or path",
+    "to": "English-first, with additional languages on their own domain or path",
+    "why": "Drop UA/RU tags from UK-facing pitch; English-first."
+  },
+  {
+    "path": "sections[2].benefitRows[2].items[3].en",
+    "expect": "Landings for \"BMW from USA\", \"Tesla EU\", \"buy car Kyiv\"",
+    "to": "Landing pages for \"used BMW Manchester\", \"car dealer Leeds\", \"MOT near me\"",
+    "why": "US-import + Kyiv search examples → UK local used-car/MOT searches."
+  },
+  {
+    "path": "sections[2].benefitRows[2].mockTags[0].en",
+    "expect": "UA · RU · EN",
+    "to": "EN + more",
+    "why": "Language tag mock → English-first."
+  },
+  {
+    "path": "sections[3].features[2].items[0].en",
+    "expect": "UA / RU / EN / PL — separate URL structure",
+    "to": "English-first — additional languages on request, separate URL structure",
+    "why": "Drop UA/RU/EN/PL claims from UK-facing feature list."
+  },
+  {
+    "path": "sections[3].features[2].items[2].en",
+    "expect": "Pricing localised by currency",
+    "to": "Pricing in GBP, localised by region",
+    "why": "Multi-currency import framing → GBP for UK buyer."
+  },
+  {
+    "path": "sections[3].features[3].items[0].en",
+    "expect": "Copart, IAA, Manheim — lot import",
+    "to": "BCA, Manheim — lot import",
+    "why": "Copart→BCA, IAA→Manheim (UK auctions); keep Manheim."
+  },
+  {
+    "path": "sections[3].features[5].items[0].en",
+    "expect": "200+ real delivery cases",
+    "to": "200+ real cars sold",
+    "why": "US-import 'delivery cases' → UK cars-sold proof."
+  },
+  {
+    "path": "sections[3].features[5].items[2].en",
+    "expect": "Each case — its own SEO page \"BMW from USA 2024\"",
+    "to": "Each case — its own SEO page \"used BMW Manchester 2024\"",
+    "why": "US-import SEO example → UK local used-car example."
+  },
+  {
+    "path": "sections[3].features[5].title.en",
+    "expect": "Delivery gallery + local SEO",
+    "to": "Sold-car gallery + local SEO",
+    "why": "Import 'delivery gallery' → UK cars-sold gallery."
+  },
+  {
+    "path": "sections[3].integrations[0].en",
+    "expect": "Copart",
+    "to": "BCA",
+    "why": "Copart → BCA (UK auction)."
+  },
+  {
+    "path": "sections[3].integrations[1].en",
+    "expect": "IAA",
+    "to": "Manheim",
+    "why": "IAA → Manheim (UK auction)."
+  },
+  {
+    "path": "sections[3].integrations[2].en",
+    "expect": "Manheim",
+    "to": "Pinewood",
+    "why": "IAA already mapped to Manheim; avoid duplicate — use Pinewood (UK DMS)."
+  },
+  {
+    "path": "sections[3].integrations[3].en",
+    "expect": "KeyCRM",
+    "to": "Keyloop",
+    "why": "KeyCRM → Keyloop (UK dealer-management system)."
+  },
+  {
+    "path": "sections[3].integrations[4].en",
+    "expect": "AmoCRM",
+    "to": "HubSpot",
+    "why": "AmoCRM → HubSpot (UK CRM)."
+  },
+  {
+    "path": "sections[3].integrations[5].en",
+    "expect": "Bitrix24",
+    "to": "Pipedrive",
+    "why": "Bitrix24 → Pipedrive (UK CRM)."
+  },
+  {
+    "path": "sections[3].integrations[7].en",
+    "expect": "LiqPay",
+    "to": "GoCardless",
+    "why": "LiqPay → GoCardless (UK payments)."
+  },
+  {
+    "path": "sections[3].integrations[8].en",
+    "expect": "WayForPay",
+    "to": "Worldpay",
+    "why": "WayForPay → Worldpay (UK payments)."
+  },
+  {
+    "path": "sections[3].integrations[9].en",
+    "expect": "Nova Poshta",
+    "to": "Royal Mail",
+    "why": "Nova Poshta → Royal Mail (UK courier)."
+  },
+  {
+    "path": "sections[3].integrationsSub.en",
+    "expect": "The request from the calculator can immediately go to CRM with a full calculation, client contacts and selected car or service. The manager receives a notification in Telegram, the client - a PDF calculation by email, and the team sees the request without manually copying from the form to a spreadsheet or messenger.\nWe connect CRM, payment, delivery, cards, Telegram notifications and other services that are needed specifically for your work model.",
+    "to": "The enquiry from the calculator goes straight into your CRM with the full calculation, the buyer's contacts and the chosen car or service. The manager gets a WhatsApp notification, the buyer gets a PDF quote by email, and the team sees the enquiry without copying from a form into a spreadsheet by hand.\nWe connect CRM, payments, DMS, vehicle data, WhatsApp notifications and any other systems your particular model needs.",
+    "why": "Telegram → WhatsApp; 'delivery' import wording → DMS/vehicle data; tidy British B2B voice."
+  },
+  {
+    "path": "sections[4].rows[5].custom.en",
+    "expect": "Copart · IAA · Manheim",
+    "to": "BCA · Manheim",
+    "why": "Comparison table: Copart→BCA, IAA→Manheim, keep Manheim."
+  },
+  {
+    "path": "sections[5].items[1].question.en",
+    "expect": "How to integrate with Copart / IAA / Manheim auctions?",
+    "to": "How do you integrate with BCA / Manheim auctions?",
+    "why": "FAQ aimed at UK prospect: Copart→BCA, IAA→Manheim."
+  },
+  {
+    "path": "sections[5].items[2].answerEn[0].children[0].text",
+    "expect": "Usually 2–3 languages ​​are enough, depending on the market. For Ukraine, it is worth making a basic Ukrainian version, and connecting additional languages ​​if you work with clients from the EU, the USA or other audiences.\nMultilingualism helps not only to “translate the site”, but also to create separate pages for different markets, requests and advertising campaigns. Each additional language increases the amount of work: texts, SEO, page structure and content verification.",
+    "to": "For most UK motor-trade sites English is enough. We build English-first and add further languages only if you sell to buyers abroad or to specific communities at home.\nExtra languages aren't just \"translating the site\" — they let you build separate pages for different markets, search terms and ad campaigns. Each one adds work: copy, SEO, page structure and content checks.",
+    "why": "FAQ aimed at UK prospect: drop Ukraine/EU/USA framing, lead English-first."
+  },
+  {
+    "path": "sections[5].items[3].answerEn[0].children[0].text",
+    "expect": "Yes, but most often for the motor-trade business it is better not to pay for the car in full online, but to apply, pre-pay or reserve.\nThe client can leave a request for a car, get an estimate, book a lot or make a pre-payment via LiqPay, WayForPay or Stripe. It is usually better to pay for the car in full via bank transfer or contract, because the amounts are large and require separate legal logic.",
+    "to": "Yes, though for most motor-trade businesses it's better not to take the full price online but to enquire, reserve or pay a deposit.\nThe buyer can submit an enquiry, get an estimate, reserve a car or pay a deposit via Stripe, GoCardless or Worldpay. The full balance is usually better paid by bank transfer or under contract, since the amounts are large and need their own legal logic.",
+    "why": "FAQ payment options: LiqPay→GoCardless, WayForPay→Worldpay, keep Stripe; British voice."
+  },
+  {
+    "path": "sections[5].items[4].answerEn[0].children[0].text",
+    "expect": "This requires not one general page, but an SEO structure for specific queries: car brands, countries of delivery, types of services, popular models and cities.\nWe can create landing pages for individual directions: “cars from the USA”, “Tesla from Europe”, “BMW from auction”, “car delivery to Ukraine”, etc. Such pages can be promoted organically in Google and used in advertising to lead the client not to the main one, but immediately to the relevant offer.",
+    "to": "This needs more than one general page: an SEO structure built around specific searches — makes, models, services, towns and regions.\nWe can build landing pages for individual lines: \"used BMW Manchester\", \"car dealer Leeds\", \"BMW from auction\", \"MOT near me\" and so on. These can rank organically in Google and be used in ads to send the buyer straight to the relevant offer, not the home page.",
+    "why": "FAQ SEO examples: US-import + Ukraine geo → UK local used-car/MOT searches."
+  },
+  {
+    "path": "sections[5].items[4].question.en",
+    "expect": "How to rank for specific queries (BMW from USA, Tesla from EU)?",
+    "to": "How do you rank for specific searches (used BMW Manchester, car dealer Leeds)?",
+    "why": "FAQ heading aimed at UK prospect: US-import examples → UK local searches."
+  },
+  {
+    "path": "sections[5].items[5].answerEn[0].children[0].text",
+    "expect": "Written client consent for publication (standard clause in the delivery contract). We provide the template. The case: client photo with car, make / model / year, delivery region, timeline, ballpark cost. Each case — its own SEO page. 200+ cases after 12 months — a powerful trust signal.",
+    "to": "Written customer consent to publish (a standard clause in your sale contract). We provide the template. The case: customer photo with the car, make / model / year, area, timeline, ballpark price. Each case gets its own SEO page. 200+ cases after 12 months is a powerful trust signal.",
+    "why": "Import 'delivery contract / delivery region' → UK used-car sale; British wording."
+  },
+  {
+    "path": "sections[5].items[5].question.en",
+    "expect": "How to publish real delivery cases with client photos?",
+    "to": "How do you publish real sold-car cases with customer photos?",
+    "why": "Import 'delivery cases' → UK cars-sold cases."
+  }
+]

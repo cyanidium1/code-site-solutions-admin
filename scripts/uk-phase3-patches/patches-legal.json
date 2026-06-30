@@ -1,0 +1,176 @@
+[
+  {
+    "path": "hero.deviceTags[1].primary.en",
+    "expect": "Diia.Sign",
+    "to": "DocuSign",
+    "why": "Swap Ukrainian Diia.Sign e-signature for the UK-standard DocuSign."
+  },
+  {
+    "path": "hero.deviceTags[2].primary.en",
+    "expect": "Google · UA",
+    "to": "Google · UK",
+    "why": "Localise the geo tag from Ukraine to the UK market."
+  },
+  {
+    "path": "hero.features[2].en",
+    "expect": "E-signature | Diia.Sign · DocuSign",
+    "to": "E-signature | DocuSign · Adobe Sign",
+    "why": "Drop Ukrainian Diia.Sign; pair DocuSign with a second UK e-signature option."
+  },
+  {
+    "path": "sections[1].after.items[6].en",
+    "expect": "Local SEO: top-3 for \"criminal procedure solicitor Kyiv\"",
+    "to": "Local SEO: top-3 for \"criminal defence solicitor London\"",
+    "why": "Replace the Ukraine-market SEO example with a UK scenario for a UK reader."
+  },
+  {
+    "path": "sections[1].lede.en",
+    "expect": "Oleksandr Sytnykov, a retired justice of the Supreme Court of Ukraine, came to us with a complex task: structure multi-layered content — his judicial practice, academic publications, and signature courses on criminal procedure — and rank for specific queries in two languages on Google.",
+    "to": "Oleksandr Sytnykov, a retired justice of the Supreme Court of Ukraine, came to us with a complex task: structure multi-layered content — his judicial practice, academic publications, and signature courses on criminal procedure — and rank for specific queries on Google.",
+    "why": "Keep the real client's honest credentials but drop the UA/RU two-language SEO framing aimed at a UK buyer."
+  },
+  {
+    "path": "sections[1].meta[2].strong.en",
+    "expect": "UA + RU",
+    "to": "Multilingual",
+    "why": "Drop UA+RU language claim; phrase multilingual capability generically for a UK buyer."
+  },
+  {
+    "path": "sections[1].meta[2].text.en",
+    "expect": "bilingual SEO",
+    "to": "multilingual SEO",
+    "why": "Align with the English-first, generically multilingual framing."
+  },
+  {
+    "path": "sections[1].results[3].label.en",
+    "expect": "search in both languages",
+    "to": "search across languages",
+    "why": "Drop the UA+RU two-language claim; keep it generic for a UK reader."
+  },
+  {
+    "path": "sections[1].results[3].value.en",
+    "expect": "UA + RU",
+    "to": "Multilingual",
+    "why": "Replace UA+RU language tags with a generic multilingual label."
+  },
+  {
+    "path": "sections[2].benefitRows[0].items[0].en",
+    "expect": "\"Protecting business from raider attacks\" — its own page",
+    "to": "\"Defending against unlawful company takeovers\" — its own page",
+    "why": "Replace the CIS \"raider attacks\" concept with a UK legal framing."
+  },
+  {
+    "path": "sections[2].benefitRows[2].items[1].en",
+    "expect": "Payment on the site (Stripe / LiqPay / WayForPay)",
+    "to": "Payment on the site (Stripe / GoCardless)",
+    "why": "Drop Ukrainian LiqPay/WayForPay; use UK payment providers."
+  },
+  {
+    "path": "sections[2].benefitRows[2].items[2].en",
+    "expect": "NDA via Diia.Sign or DocuSign",
+    "to": "NDA via DocuSign or Adobe Sign",
+    "why": "Swap Ukrainian Diia.Sign for UK e-signature options."
+  },
+  {
+    "path": "sections[2].directions.allowedItems[2].en",
+    "expect": "Extended integrations (Clio, MyCase, KeyCRM)",
+    "to": "Extended integrations (Clio, LEAP, HubSpot)",
+    "why": "Keep Clio; swap MyCase for LEAP and Ukrainian KeyCRM for HubSpot."
+  },
+  {
+    "path": "sections[3].features[3].items[1].en",
+    "expect": "On-site payment for consults (Stripe / LiqPay)",
+    "to": "On-site payment for consultations (Stripe / GoCardless)",
+    "why": "Drop Ukrainian LiqPay for a UK payment provider; \"consultations\" reads UK."
+  },
+  {
+    "path": "sections[3].features[3].items[2].en",
+    "expect": "NDA via Diia.Sign or DocuSign",
+    "to": "NDA via DocuSign or Adobe Sign",
+    "why": "Swap Ukrainian Diia.Sign for UK e-signature options."
+  },
+  {
+    "path": "sections[3].integrations[1].en",
+    "expect": "MyCase",
+    "to": "LEAP",
+    "why": "Swap US MyCase for the UK legal practice platform LEAP."
+  },
+  {
+    "path": "sections[3].integrations[2].en",
+    "expect": "LawPay",
+    "to": "Clio Payments",
+    "why": "Swap US LawPay for Clio Payments, available in the UK."
+  },
+  {
+    "path": "sections[3].integrations[3].en",
+    "expect": "KeyCRM",
+    "to": "Pipedrive",
+    "why": "Swap Ukrainian KeyCRM for a UK-available CRM, distinct from HubSpot."
+  },
+  {
+    "path": "sections[3].integrations[4].en",
+    "expect": "AmoCRM",
+    "to": "HubSpot",
+    "why": "Swap CIS AmoCRM for HubSpot."
+  },
+  {
+    "path": "sections[3].integrations[5].en",
+    "expect": "Bitrix24",
+    "to": "Actionstep",
+    "why": "Swap CIS Bitrix24 for a distinct UK legal option (Pipedrive already used above)."
+  },
+  {
+    "path": "sections[3].integrations[6].en",
+    "expect": "Diia.Sign",
+    "to": "Adobe Sign",
+    "why": "Swap Ukrainian Diia.Sign for a UK e-signature option, distinct from DocuSign below."
+  },
+  {
+    "path": "sections[3].integrations[11].en",
+    "expect": "LiqPay",
+    "to": "GoCardless",
+    "why": "Swap Ukrainian LiqPay for a UK payment provider."
+  },
+  {
+    "path": "sections[3].integrationsSub.en",
+    "expect": "Consultation requests land in your CRM. Client contracts go through Diia.Sign or DocuSign. Calendar and Zoom links — automatic. Zero leads lost to email spam.",
+    "to": "Consultation requests land in your CRM. Client contracts go through DocuSign or Adobe Sign. Calendar and Zoom links — automatic. Zero leads lost to email spam.",
+    "why": "Replace Ukrainian Diia.Sign with UK e-signature tools."
+  },
+  {
+    "path": "sections[4].rows[3].custom.en",
+    "expect": "Diia.Sign · DocuSign",
+    "to": "DocuSign · Adobe Sign",
+    "why": "Drop Ukrainian Diia.Sign; pair UK e-signature tools in the comparison row."
+  },
+  {
+    "path": "sections[4].rows[6].custom.en",
+    "expect": "high (GDPR)",
+    "to": "high (UK GDPR)",
+    "why": "Clarify GDPR as UK GDPR for the data security row."
+  },
+  {
+    "path": "sections[4].tiers[0].includes[1].en",
+    "expect": "UA + EN bilingual",
+    "to": "English-first, more languages on request",
+    "why": "Drop the UA+EN default-language claim; lead English-first for a UK buyer."
+  },
+  {
+    "path": "sections[5].items[1].answerEn[0].children[0].text",
+    "expect": "Yes. The solicitor/firm issues an invoice for consultation or service — the client pays by card (Stripe / LiqPay / WayForPay) or via bank. The documentation: public solicitor contract + legal aid agreement. All compliant.",
+    "to": "Yes. The solicitor/firm issues an invoice for consultation or service — the client pays by card (Stripe / GoCardless) or via bank. The documentation: a client care letter and terms of engagement. SRA-compliant.",
+    "why": "Drop Ukrainian payment tools and CIS-style \"public contract/legal aid agreement\"; use UK retainer documents and reference SRA compliance."
+  },
+  {
+    "path": "sections[5].items[3].answerEn[0].children[0].text",
+    "expect": "Clio (international standard), MyCase (for solicitors' offices), KeyCRM, AmoCRM, Bitrix24 (for Ukrainian firms). If you use a different system — we connect via API (£500-1200 depending on complexity).",
+    "to": "Clio (international standard), LEAP and Actionstep (for UK firms), HubSpot, Pipedrive. If you use a different system — we connect via API (£500-1200 depending on complexity).",
+    "why": "Replace US/Ukrainian legal CRMs with UK-available options; keep Clio."
+  },
+  {
+    "path": "sections[5].items[4].answerEn[0].children[0].text",
+    "expect": "GDPR-compliant architecture. SSL required. Data in encrypted databases. Access — 2FA only. We prepare a data processing policy tailored to legal practice. Confidentiality agreement with the client — standard before launch.",
+    "to": "UK GDPR-compliant architecture, in line with ICO guidance. SSL required. Data in encrypted databases. Access — 2FA only. We prepare a data processing policy tailored to SRA-regulated practice. Confidentiality agreement with the client — standard before launch.",
+    "why": "Clarify UK GDPR and add ICO and SRA references on the data-protection compliance answer."
+  }
+]

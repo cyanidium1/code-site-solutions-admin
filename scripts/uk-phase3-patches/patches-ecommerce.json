@@ -1,0 +1,206 @@
+[
+  {
+    "path": "hero.features[1].en",
+    "expect": "Payments | Stripe · LiqPay · WayForPay",
+    "to": "Payments | Stripe · GoCardless · Worldpay",
+    "why": "Swap UA payment gateways (LiqPay→GoCardless, WayForPay→Worldpay); keep Stripe."
+  },
+  {
+    "path": "hero.features[2].en",
+    "expect": "Delivery | Nova Poshta · Ukrposhta · DHL",
+    "to": "Delivery | Royal Mail · DPD · DHL",
+    "why": "Swap UA couriers (Nova Poshta→Royal Mail, Ukrposhta→DPD); keep DHL."
+  },
+  {
+    "path": "hero.features[3].en",
+    "expect": "CRM | KeyCRM · AmoCRM · Bitrix24",
+    "to": "CRM | HubSpot · Pipedrive · Salesforce",
+    "why": "Swap UA/CIS CRMs for UK-relevant CRMs (AmoCRM→HubSpot, Bitrix24→Pipedrive; KeyCRM→Salesforce as distinct UK CRM)."
+  },
+  {
+    "path": "sections[0].reasons[2].textEn[0].children[0].text",
+    "expect": "Client picks Nova Poshta → enters city → 400 unsorted branches drop down → they Ctrl+F to find theirs. On Tilda or WooCommerce that’s normal. ",
+    "to": "Client picks a courier → enters their postcode → a long unsorted list of pickup points drops down → they Ctrl+F to find theirs. On Wix or WooCommerce that’s normal. ",
+    "why": "Reframe Nova Poshta branch-picker to UK courier pickup point and postcode; Tilda→Wix per builder mapping."
+  },
+  {
+    "path": "sections[1].after.items[3].en",
+    "expect": "KeyCRM integration (orders land in CRM directly)",
+    "to": "HubSpot integration (orders land in CRM directly)",
+    "why": "Swap KeyCRM for HubSpot (UK CRM)."
+  },
+  {
+    "path": "sections[1].after.items[4].en",
+    "expect": "Nova Poshta: branch search with geolocation",
+    "to": "Royal Mail: pickup point search with geolocation",
+    "why": "Swap Nova Poshta for Royal Mail; branch→pickup point."
+  },
+  {
+    "path": "sections[1].after.items[5].en",
+    "expect": "LiqPay + WayForPay for card payments",
+    "to": "GoCardless + Worldpay for card payments",
+    "why": "Swap UA payment gateways for UK ones."
+  },
+  {
+    "path": "sections[1].before.items[4].en",
+    "expect": "Nova Poshta integration via a plugin that hung",
+    "to": "Courier integration via a plugin that hung",
+    "why": "Remove Nova Poshta specifics; keep the truthful before-state of a buggy plugin."
+  },
+  {
+    "path": "sections[1].lede.en",
+    "expect": "Ukrainian literary publisher Glimmer came to us. The task: a custom shop with mobile admin (the founder adds books from her phone), a stylish minimalist design, a 2-step checkout basket, and integrations with KeyCRM and Nova Poshta.",
+    "to": "Literary publisher Glimmer came to us. The task: a custom shop with mobile admin (the founder adds books from her phone), a stylish minimalist design, a 2-step checkout basket, and integrations with HubSpot and Royal Mail.",
+    "why": "Keep real client Glimmer and facts; drop \"Ukrainian\" geo noise; swap KeyCRM→HubSpot, Nova Poshta→Royal Mail."
+  },
+  {
+    "path": "sections[2].benefitRows[0].items[0].en",
+    "expect": "Step 1: contact + delivery (Nova Poshta / Ukrposhta / courier)",
+    "to": "Step 1: contact + delivery (Royal Mail / DPD / courier)",
+    "why": "Swap UA couriers for UK ones."
+  },
+  {
+    "path": "sections[2].benefitRows[0].items[1].en",
+    "expect": "Step 2: payment (Stripe / LiqPay / WayForPay) or COD",
+    "to": "Step 2: payment (Stripe / GoCardless / Worldpay) or pay on delivery",
+    "why": "Swap UA payment gateways; COD→pay on delivery, drop UA-courier COD specifics."
+  },
+  {
+    "path": "sections[2].directions.allowedItems[2].en",
+    "expect": "1C/BAS integration for stock sync",
+    "to": "Linnworks integration for stock sync",
+    "why": "1C/BAS→Linnworks for UK stock sync."
+  },
+  {
+    "path": "sections[3].features[2].items[0].en",
+    "expect": "LiqPay, WayForPay, Mono for Ukrainian clients",
+    "to": "GoCardless, Worldpay, Klarna for UK clients",
+    "why": "Swap UA gateways (LiqPay→GoCardless, WayForPay→Worldpay, Mono→Klarna); Ukrainian→UK."
+  },
+  {
+    "path": "sections[3].features[2].items[2].en",
+    "expect": "Cash on delivery via Nova Poshta",
+    "to": "Pay on delivery via courier",
+    "why": "Remove Nova Poshta COD specifics; generic UK pay-on-delivery."
+  },
+  {
+    "path": "sections[3].features[3].items[0].en",
+    "expect": "Nova Poshta: branch search with geolocation",
+    "to": "Royal Mail: pickup point search with geolocation",
+    "why": "Swap Nova Poshta for Royal Mail; branch→pickup point."
+  },
+  {
+    "path": "sections[3].features[3].items[1].en",
+    "expect": "Ukrposhta, Justin, Meest, DHL, Glovo",
+    "to": "DPD, Evri, Parcelforce, DHL, Deliveroo",
+    "why": "Swap UA couriers (Ukrposhta→DPD, Justin→Evri, Meest→Parcelforce, Glovo→Deliveroo); keep DHL."
+  },
+  {
+    "path": "sections[3].features[5].items[0].en",
+    "expect": "Orders flow into KeyCRM / AmoCRM / Bitrix24",
+    "to": "Orders flow into HubSpot / Pipedrive / Salesforce",
+    "why": "Swap UA/CIS CRMs for UK-relevant CRMs."
+  },
+  {
+    "path": "sections[3].integrations[0].en",
+    "expect": "KeyCRM",
+    "to": "HubSpot",
+    "why": "Swap KeyCRM for HubSpot (UK CRM)."
+  },
+  {
+    "path": "sections[3].integrations[1].en",
+    "expect": "AmoCRM",
+    "to": "Pipedrive",
+    "why": "AmoCRM→Pipedrive."
+  },
+  {
+    "path": "sections[3].integrations[2].en",
+    "expect": "Bitrix24",
+    "to": "Salesforce",
+    "why": "Bitrix24→Salesforce (distinct UK CRM, avoids dupe with HubSpot/Pipedrive)."
+  },
+  {
+    "path": "sections[3].integrations[3].en",
+    "expect": "LiqPay",
+    "to": "GoCardless",
+    "why": "LiqPay→GoCardless."
+  },
+  {
+    "path": "sections[3].integrations[4].en",
+    "expect": "WayForPay",
+    "to": "Worldpay",
+    "why": "WayForPay→Worldpay."
+  },
+  {
+    "path": "sections[3].integrations[6].en",
+    "expect": "Mono Pay",
+    "to": "Klarna",
+    "why": "Mono Pay→Klarna (BNPL)."
+  },
+  {
+    "path": "sections[3].integrations[7].en",
+    "expect": "Nova Poshta",
+    "to": "Royal Mail",
+    "why": "Nova Poshta→Royal Mail."
+  },
+  {
+    "path": "sections[3].integrations[8].en",
+    "expect": "Ukrposhta",
+    "to": "DPD",
+    "why": "Ukrposhta→DPD."
+  },
+  {
+    "path": "sections[3].integrationsSub.en",
+    "expect": "Orders flow from site to your CRM. Payments via Stripe / LiqPay. Nova Poshta waybill auto-generated. Client gets an SMS with tracking number. Manager gets a WhatsApp alert. Zero orders lost to email spam.",
+    "to": "Orders flow from site to your CRM. Payments via Stripe / GoCardless. Royal Mail label auto-generated. Client gets an SMS with a tracking number. Manager gets a WhatsApp alert. Zero orders lost to email spam.",
+    "why": "Swap LiqPay→GoCardless, Nova Poshta waybill→Royal Mail label."
+  },
+  {
+    "path": "sections[4].rows[3].param.en",
+    "expect": "Nova Poshta",
+    "to": "Courier integration",
+    "why": "Comparison-table row label: replace Nova Poshta with generic UK courier integration."
+  },
+  {
+    "path": "sections[5].items[0].answerEn[0].children[0].text",
+    "expect": "Shopify is a £30-300/mo subscription = £1,080-10,800 over 3 years. A custom shop costs £5,000-10,000 once. Over 3 years it’s roughly the same — but the code is yours. Plus full customisation: 2-step basket, Nova Poshta integration, Ukrainian-specific payment methods — all weak on Shopify.",
+    "to": "Shopify is a £30-300/mo subscription, so £1,080-10,800 over 3 years. A custom shop costs £5,000-10,000 once. Over 3 years it works out roughly the same, but the code is yours. You also get full customisation: a 2-step basket, native courier integration and the payment methods your buyers expect, all weak on Shopify.",
+    "why": "Drop Nova Poshta + Ukrainian-specific payment framing; reduce em dashes per voice rules."
+  },
+  {
+    "path": "sections[5].items[1].answerEn[0].children[0].text",
+    "expect": "Two options: (1) manual CSV export-import once a day, (2) full auto-sync via 1C/BAS API — stock updates every 15 min. Option 2 is a separate integration at £1,200-2,500. If you have many SKUs with frequent changes — option 2.",
+    "to": "Two options: (1) manual CSV export-import once a day, (2) full auto-sync via the Linnworks API, with stock updating every 15 min. Option 2 is a separate integration at £1,200-2,500. If you have many SKUs that change often, go with option 2.",
+    "why": "1C/BAS→Linnworks for stock sync; reduce em dashes."
+  },
+  {
+    "path": "sections[5].items[1].question.en",
+    "expect": "How does 1C/BAS sync work for inventory?",
+    "to": "How does Linnworks sync work for inventory?",
+    "why": "1C/BAS→Linnworks."
+  },
+  {
+    "path": "sections[5].items[3].answerEn[0].children[0].text",
+    "expect": "Yes. UA + EN — standard in the Pro Plus tier. Each language has its own URL structure and hreflang. Product catalogue is localised via Sanity (each product gets title_uk, title_en, description_uk, description_en). Adding a 3rd language (RU or PL) — £1,500-2,500.",
+    "to": "Yes. English is standard in the Pro Plus tier, with additional languages on request. Each language has its own URL structure and hreflang. The product catalogue is localised via Sanity (each product gets title and description fields per language). Adding a further language is £1,500-2,500.",
+    "why": "Drop UA/RU/PL language claims; English-first with additional languages on request."
+  },
+  {
+    "path": "sections[5].items[4].answerEn[0].children[0].text",
+    "expect": "Stripe is the standard. Supports all major currencies, Visa / Mastercard / Amex, Apple Pay, Google Pay. If you’re a Ukrainian sole proprietor — receive in USD/EUR, convert to UAH at the bank. Or open an EN account at Wise / Revolut Business to receive in the original currency.",
+    "to": "Stripe is the standard. It supports all major currencies, Visa / Mastercard / Amex, Apple Pay and Google Pay. Whether you trade as a sole trader or a limited company, payouts land in your GBP business account, and you can take payment in the buyer’s currency where you need to.",
+    "why": "Remove Ukrainian sole-proprietor USD/EUR→UAH and Wise/Revolut framing; GBP; sole proprietor→sole trader, LLC→limited company."
+  },
+  {
+    "path": "sections[4].heading.en",
+    "expect": "Why a custom shop beats Tilda, Shopify, or WooCommerce",
+    "to": "Why a custom shop beats Wix, Shopify, or WooCommerce",
+    "why": "Tilda->Wix"
+  },
+  {
+    "path": "sections[5].items[2].answerEn[0].children[0].text",
+    "expect": "Next.js on Vercel auto-scaling = tens of thousands of concurrent users without extra cost. A traffic spike for a new collection / Black Friday — no problem. On Tilda or WooCommerce a similar spike often takes the site down.",
+    "to": "Next.js on Vercel auto-scaling = tens of thousands of concurrent users without extra cost. A traffic spike for a new collection / Black Friday — no problem. On Wix or WooCommerce a similar spike often takes the site down.",
+    "why": "Tilda->Wix"
+  }
+]

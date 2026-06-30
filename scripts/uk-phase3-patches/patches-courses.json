@@ -1,0 +1,80 @@
+[
+  {
+    "path": "hero.features[0].en",
+    "expect": "Checkout | Stripe · LiqPay · WayForPay",
+    "to": "Checkout | Stripe · GoCardless · Worldpay",
+    "why": "Swap UA payment tools (LiqPay, WayForPay) for UK equivalents; keep Stripe."
+  },
+  {
+    "path": "sections[1].after.items[2].en",
+    "expect": "Stripe + LiqPay for Ukrainian clients",
+    "to": "Stripe + GoCardless for UK clients",
+    "why": "Swap LiqPay→GoCardless and drop Ukraine framing for a UK buyer."
+  },
+  {
+    "path": "sections[1].lede.en",
+    "expect": "Aleko — a Ukrainian million-follower blogger — came to us. The task: build a selling landing for his course, optimised for cold paid traffic and warm email traffic. Plus Teachable integration for content delivery after purchase.",
+    "to": "Aleko, a million-follower blogger, came to us. The task: build a selling landing for his course, optimised for cold paid traffic and warm email traffic. Plus Teachable integration for content delivery after purchase.",
+    "why": "Keep the real client (honesty rule); drop the \"Ukrainian\" geo tag that's just noise to a UK reader, and the em dashes."
+  },
+  {
+    "path": "sections[2].benefitRows[1].items[1].en",
+    "expect": "Stripe / LiqPay / WayForPay / Mono",
+    "to": "Stripe / GoCardless / Worldpay / Klarna",
+    "why": "Swap UA payment tools for UK equivalents (no dupes); keep Stripe."
+  },
+  {
+    "path": "sections[3].features[1].items[0].en",
+    "expect": "Stripe / LiqPay / WayForPay / Mono",
+    "to": "Stripe / GoCardless / Worldpay / Klarna",
+    "why": "Swap UA payment tools for UK equivalents (no dupes); keep Stripe."
+  },
+  {
+    "path": "sections[3].integrations[5].en",
+    "expect": "LiqPay",
+    "to": "GoCardless",
+    "why": "Swap UA payment tool LiqPay for UK GoCardless."
+  },
+  {
+    "path": "sections[3].integrations[6].en",
+    "expect": "WayForPay",
+    "to": "Worldpay",
+    "why": "Swap UA payment tool WayForPay for UK Worldpay."
+  },
+  {
+    "path": "sections[3].integrationsSub.en",
+    "expect": "Payment via Stripe / LiqPay → auto Teachable account creation → access to content → enrolled in email funnel → lead in CRM. Manager gets WhatsApp alert. Zero purchases lost to technical issues.",
+    "to": "Payment via Stripe / GoCardless → auto Teachable account creation → access to content → enrolled in email funnel → lead in CRM. Manager gets WhatsApp alert. Zero purchases lost to technical issues.",
+    "why": "Swap LiqPay→GoCardless in the integration flow; keep Stripe."
+  },
+  {
+    "path": "sections[3].sub.en",
+    "expect": "Not \"a brochure site about the teacher.\" A landing machine that converts traffic into clients and brings every ad dollar back into the green.",
+    "to": "Not \"a brochure site about the teacher.\" A landing machine that converts traffic into clients and brings every ad pound back into the green.",
+    "why": "Localise currency idiom: \"every ad dollar\" → \"every ad pound\" for a UK buyer."
+  },
+  {
+    "path": "sections[4].tiers[0].includes[1].en",
+    "expect": "UA + EN bilingual",
+    "to": "English-first (additional languages on request)",
+    "why": "Drop UA bilingual claim; lead English-first per style guide §7."
+  },
+  {
+    "path": "sections[5].items[5].answerEn[0].children[0].text",
+    "expect": "Yes. You can set up payments in hryvnia, dollars, or euros depending on your audience and payment system. For the Ukrainian market, we connect LiqPay or WayForPay, for international sales - Stripe. The client can see the price in the desired currency or proceed to payment through a separate page for a specific market. This is convenient if you sell courses, consultations, or digital products for several countries.",
+    "to": "Yes. You can set up payments in GBP, plus EUR or USD if you sell to international students. For UK sales we connect GoCardless or Worldpay; for cross-border card payments, Stripe. The client can see the price in their currency, or pay through a separate page built for a specific market. That's handy if you sell courses, consultations, or digital products across several countries.",
+    "why": "Lead GBP and drop hryvnia; swap LiqPay/WayForPay→GoCardless/Worldpay; drop Ukrainian-market framing; keep Stripe for international cards."
+  },
+  {
+    "path": "sections[4].columns.wix.en",
+    "expect": "Tilda",
+    "to": "Wix",
+    "why": "Tilda unknown in UK"
+  },
+  {
+    "path": "sections[4].heading.en",
+    "expect": "Why a custom landing beats a Teachable, Tilda, or WP template",
+    "to": "Why a custom landing beats a Teachable, Wix, or WP template",
+    "why": "Tilda->Wix"
+  }
+]
