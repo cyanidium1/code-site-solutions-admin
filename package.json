@@ -15,6 +15,7 @@
     "cleanup:calculator-v1": "tsx scripts/cleanup-calculator-v1.ts",
     "backup:calculator": "sanity exec scripts/backup-calculator-docs.ts --with-user-token",
     "migrate:calculator-singleton": "sanity exec scripts/migrate-calculator-to-singleton.ts --with-user-token --",
+    "cleanup:calculator-legacy": "sanity exec scripts/cleanup-calculator-legacy.ts --with-user-token --",
     "reupload:dotted-case-studies": "sanity exec scripts/reupload-dotted-case-studies.ts --with-user-token --",
     "reupload:dotted-options-testimonials": "sanity exec scripts/reupload-dotted-options-testimonials.ts --with-user-token --",
     "reupload:dotted-content-pages": "sanity exec scripts/reupload-dotted-content-pages.ts --with-user-token --",
