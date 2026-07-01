@@ -4,7 +4,7 @@ import {defineArrayMember, defineField, defineType} from 'sanity'
 /**
  * Singleton — curates the case-study slots shown on the homepage Cases
  * section. Bound to the fixed document ID `homepageCases` in
- * structure/index.ts (see also calculatorSettings for the same pattern).
+ * structure/index.ts (see also calculatorConfig for the same pattern).
  *
  * Each *Cases array holds up to 3 references to a published caseStudy.
  * - defaultCases drives the initial render; if empty, the frontend

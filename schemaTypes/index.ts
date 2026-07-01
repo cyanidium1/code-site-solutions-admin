@@ -36,20 +36,7 @@ import {tldrBox} from './blocks/tldrBox'
 import {blogCategoryOption} from './documents/blogCategoryOption'
 import {blogPost} from './documents/blogPost'
 import {budgetBucketOption} from './documents/budgetBucketOption'
-import {calculatorCmsOptions} from './documents/calculatorCmsOptions'
 import {calculatorConfig} from './documents/calculatorConfig'
-import {calculatorContentOptions} from './documents/calculatorContentOptions'
-import {calculatorDesignOptions} from './documents/calculatorDesignOptions'
-import {calculatorFeatureOptions} from './documents/calculatorFeatureOptions'
-import {calculatorLanguageOptions} from './documents/calculatorLanguageOptions'
-import {calculatorMaintenanceOptions} from './documents/calculatorMaintenanceOptions'
-import {calculatorPresets} from './documents/calculatorPresets'
-import {calculatorProductComplexityOptions} from './documents/calculatorProductComplexityOptions'
-import {calculatorProjectTypes} from './documents/calculatorProjectTypes'
-import {calculatorSeoGrowthOptions} from './documents/calculatorSeoGrowthOptions'
-import {calculatorSeoOptions} from './documents/calculatorSeoOptions'
-import {calculatorSettings} from './documents/calculatorSettings'
-import {calculatorTimelineOptions} from './documents/calculatorTimelineOptions'
 import {caseStudy} from './documents/caseStudy'
 import {countryOption} from './documents/countryOption'
 import {homepageCases} from './documents/homepageCases'
@@ -103,23 +90,8 @@ export const schemaTypes = [
   countryOption,
   budgetBucketOption,
   blogCategoryOption,
-  calculatorSettings,
   homepageCases,
 
-  // v3 calculator — single consolidated config singleton
+  // Calculator — single consolidated config singleton
   calculatorConfig,
-
-  // v2 calculator singletons (legacy — removed in Phase 7 after cutover)
-  calculatorProjectTypes,
-  calculatorPresets,
-  calculatorCmsOptions,
-  calculatorSeoOptions,
-  calculatorFeatureOptions,
-  calculatorLanguageOptions,
-  calculatorDesignOptions,
-  calculatorTimelineOptions,
-  calculatorMaintenanceOptions,
-  calculatorSeoGrowthOptions,
-  calculatorContentOptions,
-  calculatorProductComplexityOptions,
 ]
