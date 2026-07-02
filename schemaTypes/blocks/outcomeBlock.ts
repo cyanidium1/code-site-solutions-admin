@@ -110,7 +110,6 @@ export const outcomeBlock = defineType({
               },
               initialValue: 'pages',
             }),
-            defineField({name: 'mockUrl', title: 'URL у мокапі (display)', type: 'string'}),
             defineField({
               name: 'mockTags',
               title: 'Теги у мокапі (для типу «pages»)',
@@ -122,7 +121,7 @@ export const outcomeBlock = defineType({
               name: 'image',
               title: 'Зображення / скріншот (показується замість мокапу)',
               description:
-                'Якщо завантажено — у рамці показується це зображення замість CSS-мокапу.',
+                'Якщо завантажено — показується це зображення замість CSS-мокапу.',
               type: 'imageWithLocalizedAlt',
             }),
           ],

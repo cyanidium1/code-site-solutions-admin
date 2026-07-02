@@ -7,7 +7,6 @@ import {sectionHeaderFields} from '../lib/sectionHeader'
 const beforeAfterFields = (kind: 'до' | 'після') => [
   defineField({name: 'num', title: `Номер версії (display, напр. «v1 · 2022»)`, type: 'string'}),
   defineField({name: 'image', title: `Скріншот «${kind}»`, type: 'imageWithLocalizedAlt'}),
-  defineField({name: 'url', title: 'URL у адресному рядку (display)', type: 'string'}),
   defineField({name: 'alt', title: 'Alt-текст', type: 'localizedString'}),
   defineField({name: 'tagline', title: 'Тagline (під картинкою)', type: 'localizedString'}),
   defineField({
