@@ -3,9 +3,9 @@ import {defineField, defineType} from 'sanity'
 import type {LocalizedStringValue} from '../lib/localized'
 
 /**
- * Перевіряє, що alt.uk заповнено ТІЛЬКИ якщо завантажено зображення.
- * Поки що — warning (не error), щоб існуючі документи без alt не блокували публікацію.
- * План: підвищити до error після ручного аудиту даних. Див. docs/SANITY_CLEANUP_PLAN.md.
+ * alt.uk — error (блокує публікацію; дані бекфілнуто 2026-07),
+ * alt.en — warning. Правила копірайтингу: docs/image-alt-styleguide.md
+ * (workspace docs). Порожні слоти без зображень: docs/missing-images.md.
  */
 export const imageWithLocalizedAlt = defineType({
   name: 'imageWithLocalizedAlt',
@@ -22,16 +22,22 @@ export const imageWithLocalizedAlt = defineType({
       name: 'alt',
       title: 'Alt-текст',
       type: 'localizedString',
-      validation: (rule) =>
+      validation: (rule) => [
         rule
           .custom((alt: LocalizedStringValue | undefined, ctx) => {
             const parent = ctx.parent as {image?: {asset?: unknown}} | undefined
-            const hasImage = Boolean(parent?.image?.asset)
-            if (!hasImage) return true
-            const uk = (alt?.uk ?? '').trim()
-            return Boolean(uk) || 'Заповніть alt UK для accessibility / SEO'
+            if (!parent?.image?.asset) return true
+            return Boolean((alt?.uk ?? '').trim()) || 'Заповніть alt UK — обовʼязково для accessibility / SEO'
+          })
+          .error(),
+        rule
+          .custom((alt: LocalizedStringValue | undefined, ctx) => {
+            const parent = ctx.parent as {image?: {asset?: unknown}} | undefined
+            if (!parent?.image?.asset) return true
+            return Boolean((alt?.en ?? '').trim()) || 'Заповніть alt EN — потрібен для /en сторінок'
           })
           .warning(),
+      ],
     }),
   ],
   preview: {

@@ -30,3 +30,9 @@
 
 # Local dataset backups (large archives + JSON exports)
 backups/
+
+# Alt-text backfill working data (2026-07, docs/image-alt-audit.md)
+scripts/alt-worklist.json
+scripts/alt-proposals/
+scripts/*.out.json
+scripts/*.out.txt

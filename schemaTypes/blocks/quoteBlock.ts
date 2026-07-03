@@ -24,6 +24,7 @@ export const quoteBlock = defineType({
       title: 'Аватар',
       type: 'image',
       options: {hotspot: true},
+      description: 'Alt-текст не потрібен: фронтенд підставляє імʼя автора як alt.',
     }),
     defineField({
       name: 'isReview',
