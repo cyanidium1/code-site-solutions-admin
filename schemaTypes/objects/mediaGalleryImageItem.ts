@@ -60,6 +60,21 @@ export const mediaGalleryImageItem = defineType({
       },
       initialValue: 'center',
     }),
+    defineField({
+      name: 'fit',
+      title: 'Вписування у плитку',
+      description:
+        '"Cover" — кадрує зображення у плитку 16:10. "Contain" — показує зображення повністю без кадрування (для широких скріншотів, напр. Google Search Console).',
+      type: 'string',
+      options: {
+        list: [
+          {title: 'Cover (кадрування)', value: 'cover'},
+          {title: 'Contain (без кадрування)', value: 'contain'},
+        ],
+        layout: 'radio',
+      },
+      initialValue: 'cover',
+    }),
   ],
   preview: {
     select: {media: 'image', caption: 'caption'},
