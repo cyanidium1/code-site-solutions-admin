@@ -38,6 +38,22 @@ export const imageTextBlock = defineType({
       },
       initialValue: 'imageRight',
     }),
+    defineField({
+      name: 'imageFit',
+      title: 'Відображення зображення',
+      description:
+        '"Cover" — кадрує зображення у фіксовану рамку 4:3. "Natural" — показує зображення повністю у власних пропорціях (для широких скріншотів, напр. Google Search Console).',
+      type: 'string',
+      options: {
+        list: [
+          {title: 'Cover (кадрування 4:3)', value: 'cover'},
+          {title: 'Natural (без кадрування)', value: 'natural'},
+        ],
+        layout: 'radio',
+      },
+      initialValue: 'cover',
+      hidden: ({parent}) => parent?.variant === 'centered',
+    }),
     ...sectionHeaderFields(),
     defineField({name: 'body', title: 'Опис (UK)', type: 'richTextSimple'}),
     defineField({name: 'bodyEn', title: 'Description (EN)', type: 'richTextSimple'}),
