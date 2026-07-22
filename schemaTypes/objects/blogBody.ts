@@ -7,7 +7,7 @@ import {optionalHref} from '../lib/validators'
  *
  * Supports: h2/h3, bullet + numbered lists, blockquote, inline links
  * (with newTab flag), strong/em/underline/code marks, plus the custom
- * blocks tldrBox, ctaCallout, blogTable, blogImage.
+ * blocks tldrBox, ctaCallout, blogTable, blogImage, blogVideo.
  *
  * Distinct from `richTextSimple` — that one is intentionally restricted
  * (no headings, no lists, no images) and used for short captions inside
@@ -64,5 +64,6 @@ export const blogBody = defineType({
     defineArrayMember({type: 'ctaCallout'}),
     defineArrayMember({type: 'blogTable'}),
     defineArrayMember({type: 'blogImage'}),
+    defineArrayMember({type: 'blogVideo'}),
   ],
 })

@@ -192,6 +192,20 @@ export const blogPost = defineType({
       group: 'content',
     }),
     defineField({
+      name: 'faqHeading',
+      title: 'Заголовок FAQ-секції (UK, опц.)',
+      description: 'Порожньо → «Часті питання»',
+      type: 'string',
+      group: 'content',
+    }),
+    defineField({
+      name: 'faqHeadingEn',
+      title: 'FAQ section heading (EN, opt.)',
+      description: 'Empty → "FAQ"',
+      type: 'string',
+      group: 'content',
+    }),
+    defineField({
       name: 'faq',
       title: 'FAQ (UK)',
       type: 'array',

@@ -29,6 +29,8 @@ export const BLOG_POST_BY_SLUG_QUERY = /* groq */ `
   coverImage{ src, alt, altEn },
   body,
   bodyEn,
+  faqHeading,
+  faqHeadingEn,
   faq[]{ _key, question, answer },
   faqEn[]{ _key, question, answer },
   metaTitle,
