@@ -15,6 +15,7 @@ import {auditBlock} from './blocks/auditBlock'
 import {beforeAfterBlock} from './blocks/beforeAfterBlock'
 import {blogImage} from './blocks/blogImage'
 import {blogTable} from './blocks/blogTable'
+import {blogVideo} from './blocks/blogVideo'
 import {caseBlock} from './blocks/caseBlock'
 import {comparisonBlock} from './blocks/comparisonBlock'
 import {ctaBlock} from './blocks/ctaBlock'
@@ -61,6 +62,7 @@ export const schemaTypes = [
   ctaCallout,
   blogTable,
   blogImage,
+  blogVideo,
   blogBody,
 
   // Embedded blocks (industry/case sections)

@@ -5,7 +5,16 @@ import {defineField, defineType} from 'sanity'
  * In-article CTA callout. Used both mid-article and at the end.
  * Visually mirrors the homepage CtaBanner condensed for inline body
  * use. Secondary CTA is optional (typically a Telegram link).
+ *
+ * The primary button either navigates (`ctaMode: 'link'`, needs ctaHref)
+ * or opens the shared lead modal (`'modal'` — standard заявка form,
+ * `'modalDemo'` — trimmed "тестовий доступ до адмін-панелі" form).
  */
+
+type CtaCalloutParent = {ctaMode?: string; ctaSecondaryLabel?: string}
+
+const isModalMode = (mode?: string) => mode === 'modal' || mode === 'modalDemo'
+
 export const ctaCallout = defineType({
   name: 'ctaCallout',
   title: 'CTA-блок (всередині статті)',
@@ -36,10 +45,41 @@ export const ctaCallout = defineType({
       validation: (rule) => rule.required(),
     }),
     defineField({
+      name: 'ctaMode',
+      title: 'Дія основної кнопки',
+      type: 'string',
+      options: {
+        list: [
+          {title: 'Посилання (URL)', value: 'link'},
+          {title: 'Модальна форма — заявка', value: 'modal'},
+          {title: 'Модальна форма — тестовий доступ до адмін-панелі', value: 'modalDemo'},
+        ],
+        layout: 'radio',
+      },
+      initialValue: 'link',
+    }),
+    defineField({
       name: 'ctaHref',
       title: 'URL основної кнопки',
       type: 'string',
-      validation: (rule) => rule.required(),
+      hidden: ({parent}) => isModalMode((parent as CtaCalloutParent | undefined)?.ctaMode),
+      validation: (rule) =>
+        rule.custom((href, context) => {
+          const mode = (context.parent as CtaCalloutParent | undefined)?.ctaMode ?? 'link'
+          if (mode === 'link' && !href?.trim()) {
+            return 'URL обовʼязковий для кнопки-посилання'
+          }
+          return true
+        }),
+    }),
+    defineField({
+      name: 'leadSource',
+      title: 'Source заявки (аналітика)',
+      description:
+        'Позначка джерела у повідомленні про лід, напр. blog-cms-demo. Порожньо → blog-cta.',
+      type: 'string',
+      hidden: ({parent}) =>
+        !isModalMode((parent as CtaCalloutParent | undefined)?.ctaMode),
     }),
     defineField({
       name: 'ctaSecondaryLabel',
