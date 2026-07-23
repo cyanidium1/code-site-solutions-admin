@@ -26,6 +26,12 @@ export const BLOG_POST_BY_SLUG_QUERY = /* groq */ `
   publishedAt,
   lede,
   ledeEn,
+  "cover": cover{
+    "asset": image.asset->{ _id, url, metadata { lqip, dimensions, isOpaque } },
+    "crop": image.crop,
+    "hotspot": image.hotspot,
+    alt ${LOCALIZED_STRING}
+  },
   coverImage{ src, alt, altEn },
   body,
   bodyEn,

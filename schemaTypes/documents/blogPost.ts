@@ -154,13 +154,22 @@ export const blogPost = defineType({
       rows: 3,
     }),
     defineField({
-      name: 'coverImage',
+      name: 'cover',
       title: 'Обкладинка',
+      type: 'imageWithLocalizedAlt',
+      group: 'content',
+      description:
+        'Основна обкладинка — зображення зберігається в Sanity (завантажуйте прямо сюди). ' +
+        'Показується у hero статті, картках блогу та og:image (якщо не задано окремий OG image).',
+    }),
+    defineField({
+      name: 'coverImage',
+      title: 'Обкладинка (legacy — шлях у репо)',
       type: 'object',
       group: 'content',
       description:
-        'Шлях під /public у frontend-репо (напр. /blog/cover-*.webp) + alt. ' +
-        'Зберігаємо як рядок, а не Sanity-asset, бо ці обкладинки кладуться в репо.',
+        'Застаріле: шлях під /public у frontend-репо (напр. /blog/cover-*.webp) + alt. ' +
+        'Використовується лише якщо поле «Обкладинка» вище порожнє. Для нових статей — завантажуйте зображення в «Обкладинка».',
       fields: [
         defineField({
           name: 'src',
