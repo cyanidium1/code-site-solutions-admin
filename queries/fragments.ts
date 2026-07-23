@@ -60,6 +60,12 @@ export const BLOG_POST_REF = /* groq */ `{
   publishedAt,
   lede,
   ledeEn,
+  "cover": cover{
+    "asset": image.asset->{ _id, url, metadata { lqip, dimensions, isOpaque } },
+    "crop": image.crop,
+    "hotspot": image.hotspot,
+    alt ${LOCALIZED_STRING}
+  },
   coverImage{ src, alt, altEn },
   "category": category->{ "slug": slug.current, name ${LOCALIZED_STRING}, color },
   status
