@@ -12,13 +12,8 @@ export const richTextBlock = defineType({
     ...sectionHeaderFields(),
     defineField({
       name: 'content',
-      title: 'Контент (UK)',
-      type: 'richTextSimple',
-    }),
-    defineField({
-      name: 'contentEn',
-      title: 'Content (EN)',
-      type: 'richTextSimple',
+      title: 'Контент',
+      type: 'localizedRichText',
     }),
   ],
   preview: {
