@@ -5,6 +5,9 @@ import {ctaAction} from './objects/ctaAction'
 import {imageWithLocalizedAlt} from './objects/imageWithLocalizedAlt'
 import {localizedString} from './objects/localizedString'
 import {localizedText} from './objects/localizedText'
+import {localizedRichText} from './objects/localizedRichText'
+import {localizedBlogBody} from './objects/localizedBlogBody'
+import {localizedSlug} from './objects/localizedSlug'
 import {mediaGalleryImageItem} from './objects/mediaGalleryImageItem'
 import {metric} from './objects/metric'
 import {richTextSimple} from './objects/richTextSimple'
@@ -49,6 +52,8 @@ export const schemaTypes = [
   // Reusable objects (registered first — referenced by blocks/documents)
   localizedString,
   localizedText,
+  localizedRichText,
+  localizedSlug,
   imageWithLocalizedAlt,
   ctaAction,
   metric,
@@ -64,6 +69,7 @@ export const schemaTypes = [
   blogImage,
   blogVideo,
   blogBody,
+  localizedBlogBody,
 
   // Embedded blocks (industry/case sections)
   imageTextBlock,

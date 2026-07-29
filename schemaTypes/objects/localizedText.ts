@@ -1,9 +1,12 @@
 import {defineField, defineType} from 'sanity'
 
+import {LocalizedPasteTranslationsInput} from '../../components/LocalizedPasteTranslationsInput'
+
 export const localizedText = defineType({
   name: 'localizedText',
   title: 'Довгий текст (UK / RU / EN)',
   type: 'object',
+  components: {input: LocalizedPasteTranslationsInput},
   fields: [
     defineField({name: 'uk', title: 'Українська', type: 'text', rows: 4}),
     defineField({name: 'ru', title: 'Русский', type: 'text', rows: 4}),
