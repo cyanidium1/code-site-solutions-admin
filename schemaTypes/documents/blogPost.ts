@@ -1,11 +1,23 @@
 import {ComposeSparklesIcon} from '@sanity/icons'
 import {defineArrayMember, defineField, defineType} from 'sanity'
 
+import type {LocalizedStringValue} from '../lib/localized'
+
 type BlogPostDoc = {
   status?: 'draft' | 'published'
-  metaTitle?: string
-  metaDescription?: string
   publishedAt?: string
+}
+
+/** Published-only requirement on the UK member of a localized field. */
+function requiredUkWhenPublished(message: string) {
+  return (rule: import('sanity').Rule) =>
+    rule.custom((value: LocalizedStringValue | undefined, ctx) => {
+      const doc = ctx.document as BlogPostDoc | undefined
+      if (doc?.status === 'published' && !(value?.uk ?? '').trim()) {
+        return message
+      }
+      return true
+    })
 }
 
 export const blogPost = defineType({
@@ -24,38 +36,24 @@ export const blogPost = defineType({
     defineField({
       name: 'title',
       title: 'Заголовок (H1)',
-      type: 'string',
+      type: 'localizedString',
       group: 'basic',
-      validation: (rule) => rule.required(),
+      description: 'EN порожній → стаття не зʼявляється на /en/blog.',
+      validation: (rule) =>
+        rule.custom((value: LocalizedStringValue | undefined) =>
+          (value?.uk ?? '').trim() ? true : 'Заповніть заголовок UK',
+        ),
     }),
     defineField({
-      name: 'slug',
-      title: 'Slug (UK)',
-      type: 'slug',
+      name: 'slugs',
+      title: 'Slug (UK / EN)',
+      type: 'localizedSlug',
       group: 'basic',
-      options: {
-        source: 'title',
-        maxLength: 96,
-      },
-      validation: (rule) => rule.required(),
-    }),
-    defineField({
-      name: 'titleEn',
-      title: 'Title (EN)',
-      type: 'string',
-      group: 'basic',
-      description: 'Sprint 2BC: EN translation. Leave empty to hide from /en/blog.',
-    }),
-    defineField({
-      name: 'slugEn',
-      title: 'Slug (EN)',
-      type: 'slug',
-      group: 'basic',
-      options: {
-        source: 'titleEn',
-        maxLength: 96,
-      },
-      description: 'Separate from the UK slug — different URLs per locale.',
+      description: 'Окремі slug-и на локаль — різні URL (/blog/<uk> та /en/blog/<en>).',
+      validation: (rule) =>
+        rule.custom((value?: {uk?: {current?: string}}) =>
+          (value?.uk?.current ?? '').trim() ? true : 'Заповніть slug UK',
+        ),
     }),
     defineField({
       name: 'status',
@@ -128,30 +126,16 @@ export const blogPost = defineType({
     /* ─── Content ──────────────────────────────────────────────────────── */
     defineField({
       name: 'eyebrow',
-      title: 'Eyebrow (UK, під hero)',
-      type: 'string',
+      title: 'Eyebrow (під hero)',
+      type: 'localizedString',
       group: 'content',
       description: 'Напр. "Бюджет · 9 хвилин читання"',
     }),
     defineField({
-      name: 'eyebrowEn',
-      title: 'Eyebrow (EN)',
-      type: 'string',
-      group: 'content',
-    }),
-    defineField({
       name: 'lede',
-      title: 'Lede (UK, 1-2 речення)',
-      type: 'text',
+      title: 'Lede (1-2 речення)',
+      type: 'localizedText',
       group: 'content',
-      rows: 3,
-    }),
-    defineField({
-      name: 'ledeEn',
-      title: 'Lede (EN, 1-2 sentences)',
-      type: 'text',
-      group: 'content',
-      rows: 3,
     }),
     defineField({
       name: 'cover',
@@ -190,33 +174,20 @@ export const blogPost = defineType({
     }),
     defineField({
       name: 'body',
-      title: 'Текст статті (UK)',
-      type: 'blogBody',
-      group: 'content',
-    }),
-    defineField({
-      name: 'bodyEn',
-      title: 'Body (EN)',
-      type: 'blogBody',
+      title: 'Текст статті',
+      type: 'localizedBlogBody',
       group: 'content',
     }),
     defineField({
       name: 'faqHeading',
-      title: 'Заголовок FAQ-секції (UK, опц.)',
-      description: 'Порожньо → «Часті питання»',
-      type: 'string',
-      group: 'content',
-    }),
-    defineField({
-      name: 'faqHeadingEn',
-      title: 'FAQ section heading (EN, opt.)',
-      description: 'Empty → "FAQ"',
-      type: 'string',
+      title: 'Заголовок FAQ-секції (опц.)',
+      description: 'Порожньо → «Часті питання» / "FAQ"',
+      type: 'localizedString',
       group: 'content',
     }),
     defineField({
       name: 'faq',
-      title: 'FAQ (UK)',
+      title: 'FAQ',
       type: 'array',
       group: 'content',
       of: [
@@ -227,52 +198,26 @@ export const blogPost = defineType({
             defineField({
               name: 'question',
               title: 'Питання',
-              type: 'string',
-              validation: (rule) => rule.required(),
+              type: 'localizedString',
+              validation: (rule) =>
+                rule.custom((value: LocalizedStringValue | undefined) =>
+                  (value?.uk ?? '').trim() ? true : 'Заповніть питання UK',
+                ),
             }),
             defineField({
               name: 'answer',
               title: 'Відповідь',
-              type: 'text',
-              rows: 4,
-              validation: (rule) => rule.required(),
+              type: 'localizedText',
+              validation: (rule) =>
+                rule.custom((value: LocalizedStringValue | undefined) =>
+                  (value?.uk ?? '').trim() ? true : 'Заповніть відповідь UK',
+                ),
             }),
           ],
           preview: {
-            select: {question: 'question'},
+            select: {question: 'question.uk'},
             prepare({question}) {
               return {title: question || 'Питання'}
-            },
-          },
-        }),
-      ],
-    }),
-    defineField({
-      name: 'faqEn',
-      title: 'FAQ (EN)',
-      type: 'array',
-      group: 'content',
-      of: [
-        defineArrayMember({
-          type: 'object',
-          name: 'blogFaqItemEn',
-          fields: [
-            defineField({
-              name: 'question',
-              title: 'Question',
-              type: 'string',
-            }),
-            defineField({
-              name: 'answer',
-              title: 'Answer',
-              type: 'text',
-              rows: 4,
-            }),
-          ],
-          preview: {
-            select: {question: 'question'},
-            prepare({question}) {
-              return {title: question || 'Question'}
             },
           },
         }),
@@ -282,45 +227,17 @@ export const blogPost = defineType({
     /* ─── SEO ──────────────────────────────────────────────────────────── */
     defineField({
       name: 'metaTitle',
-      title: 'Meta title (UK)',
-      type: 'string',
+      title: 'Meta title',
+      type: 'localizedString',
       group: 'seo',
-      validation: (rule) =>
-        rule.custom((value, ctx) => {
-          const doc = ctx.document as BlogPostDoc | undefined
-          if (doc?.status === 'published' && !value) {
-            return 'Опубліковані пости мають мати meta title'
-          }
-          return true
-        }),
-    }),
-    defineField({
-      name: 'metaTitleEn',
-      title: 'Meta title (EN)',
-      type: 'string',
-      group: 'seo',
+      validation: requiredUkWhenPublished('Опубліковані пости мають мати meta title UK'),
     }),
     defineField({
       name: 'metaDescription',
-      title: 'Meta description (UK)',
-      type: 'text',
+      title: 'Meta description',
+      type: 'localizedText',
       group: 'seo',
-      rows: 3,
-      validation: (rule) =>
-        rule.custom((value, ctx) => {
-          const doc = ctx.document as BlogPostDoc | undefined
-          if (doc?.status === 'published' && !value) {
-            return 'Опубліковані пости мають мати meta description'
-          }
-          return true
-        }),
-    }),
-    defineField({
-      name: 'metaDescriptionEn',
-      title: 'Meta description (EN)',
-      type: 'text',
-      group: 'seo',
-      rows: 3,
+      validation: requiredUkWhenPublished('Опубліковані пости мають мати meta description UK'),
     }),
     defineField({
       name: 'ogImage',
@@ -338,7 +255,7 @@ export const blogPost = defineType({
       group: 'related',
       of: [defineArrayMember({type: 'string'})],
       validation: (rule) => rule.max(3),
-      description: 'До 3 slug-ів. Резолвимо у frontend під час запиту.',
+      description: 'До 3 UK-slug-ів. Резолвимо у frontend під час запиту.',
     }),
   ],
   orderings: [
@@ -349,7 +266,7 @@ export const blogPost = defineType({
     },
   ],
   preview: {
-    select: {title: 'title', media: 'coverImage', status: 'status', publishedAt: 'publishedAt'},
+    select: {title: 'title.uk', media: 'coverImage', status: 'status', publishedAt: 'publishedAt'},
     prepare({title, media, status, publishedAt}) {
       const date = publishedAt ? String(publishedAt).slice(0, 10) : null
       return {

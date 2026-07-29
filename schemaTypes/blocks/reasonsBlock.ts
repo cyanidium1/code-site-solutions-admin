@@ -32,8 +32,7 @@ export const reasonsBlock = defineType({
             defineField({name: 'number', title: 'Номер (display, напр. «01»)', type: 'string'}),
             defineField({name: 'tag', title: 'Тег', type: 'localizedString'}),
             defineField({name: 'title', title: 'Заголовок', type: 'localizedText'}),
-            defineField({name: 'text', title: 'Опис (UK)', type: 'richTextSimple'}),
-            defineField({name: 'textEn', title: 'Description (EN)', type: 'richTextSimple'}),
+            defineField({name: 'text', title: 'Опис', type: 'localizedRichText'}),
             defineField({
               name: 'stat',
               title: 'Статистика (опціонально)',

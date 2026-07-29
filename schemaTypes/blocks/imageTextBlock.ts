@@ -55,8 +55,7 @@ export const imageTextBlock = defineType({
       hidden: ({parent}) => parent?.variant === 'centered',
     }),
     ...sectionHeaderFields(),
-    defineField({name: 'body', title: 'Опис (UK)', type: 'richTextSimple'}),
-    defineField({name: 'bodyEn', title: 'Description (EN)', type: 'richTextSimple'}),
+    defineField({name: 'body', title: 'Опис', type: 'localizedRichText'}),
     defineField({
       name: 'bulletList',
       title: 'Bullet-список (для варіанта side-with-list)',

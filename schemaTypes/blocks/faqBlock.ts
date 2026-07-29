@@ -31,13 +31,8 @@ export const faqBlock = defineType({
             }),
             defineField({
               name: 'answer',
-              title: 'Відповідь (UK)',
-              type: 'richTextSimple',
-            }),
-            defineField({
-              name: 'answerEn',
-              title: 'Answer (EN)',
-              type: 'richTextSimple',
+              title: 'Відповідь',
+              type: 'localizedRichText',
             }),
           ],
           preview: {
