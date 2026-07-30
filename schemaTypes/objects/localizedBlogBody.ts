@@ -14,5 +14,6 @@ export const localizedBlogBody = defineType({
   fields: [
     defineField({name: 'uk', title: 'Українська', type: 'blogBody'}),
     defineField({name: 'en', title: 'English', type: 'blogBody'}),
+    defineField({name: 'ru', title: 'Русский', type: 'blogBody'}),
   ],
 })

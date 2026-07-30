@@ -37,6 +37,13 @@ export const imageWithLocalizedAlt = defineType({
             return Boolean((alt?.en ?? '').trim()) || 'Заповніть alt EN — потрібен для /en сторінок'
           })
           .warning(),
+        rule
+          .custom((alt: LocalizedStringValue | undefined, ctx) => {
+            const parent = ctx.parent as {image?: {asset?: unknown}} | undefined
+            if (!parent?.image?.asset) return true
+            return Boolean((alt?.ru ?? '').trim()) || 'Заповніть alt RU — потрібен для /ru сторінок'
+          })
+          .warning(),
       ],
     }),
   ],
