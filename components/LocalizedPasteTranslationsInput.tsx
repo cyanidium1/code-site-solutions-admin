@@ -28,6 +28,7 @@ const SCALAR_LOCALE_TYPES = new Set(['localizedString', 'localizedText'])
 const LOCALE_PREVIEW_LABEL: Record<string, string> = {
   uk: 'UK',
   en: 'EN',
+  ru: 'RU',
 }
 
 /** Max locale lines in collapsed preview before "+N more" */
@@ -111,7 +112,7 @@ Text`}</Code>
       </Text>
       <Code size={1} language="text">{`{"en":"Hello","uk":"Привіт"}`}</Code>
       <Text muted size={1}>
-        Locales: uk, en (aliases: UA→uk, ENG→en). CSV not supported.
+        Locales: uk, en, ru (aliases: UA→uk, ENG→en). CSV not supported.
       </Text>
     </Stack>
   </Box>

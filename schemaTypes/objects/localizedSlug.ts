@@ -30,5 +30,14 @@ export const localizedSlug = defineType({
         source: (doc) => pickLocalizedFirst((doc as {title?: unknown}).title, ['en']),
       },
     }),
+    defineField({
+      name: 'ru',
+      title: 'Русский',
+      type: 'slug',
+      options: {
+        maxLength: 96,
+        source: (doc) => pickLocalizedFirst((doc as {title?: unknown}).title, ['ru']),
+      },
+    }),
   ],
 })

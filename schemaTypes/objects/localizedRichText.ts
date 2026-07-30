@@ -15,5 +15,6 @@ export const localizedRichText = defineType({
   fields: [
     defineField({name: 'uk', title: 'Українська', type: 'richTextSimple'}),
     defineField({name: 'en', title: 'English', type: 'richTextSimple'}),
+    defineField({name: 'ru', title: 'Русский', type: 'richTextSimple'}),
   ],
 })

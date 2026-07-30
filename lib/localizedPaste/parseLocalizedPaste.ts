@@ -25,7 +25,7 @@ function detectFormat(trimmed: string): 'json' | 'separator' | 'label' | null {
   if (trimmed.startsWith('{')) return 'json'
   const sepLine = /^\s*---\s*.+?\s*---\s*$/m
   if (sepLine.test(trimmed)) return 'separator'
-  const labelLine = /^\s*(EN|UK|UA|ENG|UKR)\s*:/im
+  const labelLine = /^\s*(EN|UK|UA|ENG|UKR|RU|RUS)\s*:/im
   if (labelLine.test(trimmed)) return 'label'
   return null
 }
@@ -64,7 +64,7 @@ function parseJson(raw: string): ParseLocalizedPasteResult {
       ok: false,
       error:
         unknownJsonKeys.length > 0
-          ? `No recognized locale keys. Unknown keys: ${unknownJsonKeys.join(', ')}. Use en, uk (aliases: ua→uk, eng→en).`
+          ? `No recognized locale keys. Unknown keys: ${unknownJsonKeys.join(', ')}. Use en, uk, ru (aliases: ua→uk, eng→en).`
           : 'No non-empty locale values found in JSON.',
     }
   }
@@ -125,7 +125,7 @@ function parseSeparator(raw: string): ParseLocalizedPasteResult {
 }
 
 /** EN: or EN: text on same line */
-const LABEL_START = /^\s*(EN|UK|UA|ENG|UKR)\s*:\s*(.*)$/i
+const LABEL_START = /^\s*(EN|UK|UA|ENG|UKR|RU|RUS)\s*:\s*(.*)$/i
 
 function parseLabel(raw: string): ParseLocalizedPasteResult {
   const lines = raw.split(/\r?\n/)

@@ -4,12 +4,10 @@
  * Adding a locale: extend PROJECT_LOCALE_IDS + normalizeLocaleToken + the
  * schema objects, in one commit (see workspace docs/adding-a-locale.md).
  *
- * The legacy `ru` field is intentionally NOT listed: editors don't author
- * Russian, so paste/copy tooling ignores it.
  */
-export type ProjectLocaleId = 'uk' | 'en'
+export type ProjectLocaleId = 'uk' | 'en' | 'ru'
 
-export const PROJECT_LOCALE_IDS: readonly ProjectLocaleId[] = ['uk', 'en']
+export const PROJECT_LOCALE_IDS: readonly ProjectLocaleId[] = ['uk', 'en', 'ru']
 
 /** Primary authoring locale — drives the "Copy UK to all" convenience button. */
 export const PRIMARY_LOCALE_ID: ProjectLocaleId = 'uk'
@@ -24,5 +22,6 @@ export function normalizeLocaleToken(raw: string): ProjectLocaleId | undefined {
   if (!t) return undefined
   if (t === 'en' || t === 'eng') return 'en'
   if (t === 'uk' || t === 'ua' || t === 'ukr') return 'uk'
+  if (t === 'ru' || t === 'rus') return 'ru'
   return undefined
 }
