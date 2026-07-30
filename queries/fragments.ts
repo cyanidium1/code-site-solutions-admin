@@ -48,18 +48,17 @@ export const CTA_ACTION = /* groq */ `{
 }`
 
 // blogPost reference projection — used by relatedPosts on industryPage
-// and caseStudy. Coalesce-tolerant: reads both the legacy En-suffix flat
-// fields and the localized objects (slugs.*/title.*/lede.*) introduced by
-// the 2026-07 locale generalization.
+// and caseStudy. Flattens the localized objects (slugs.*/title.*/lede.*)
+// to per-locale keys.
 export const BLOG_POST_REF = /* groq */ `{
   _id,
-  "slug": coalesce(slugs.uk.current, slug.current),
-  "slugEn": coalesce(slugs.en.current, slugEn.current),
-  "title": coalesce(title.uk, title),
-  "titleEn": coalesce(title.en, titleEn),
+  "slug": slugs.uk.current,
+  "slugEn": slugs.en.current,
+  "title": title.uk,
+  "titleEn": title.en,
   publishedAt,
-  "lede": coalesce(lede.uk, lede),
-  "ledeEn": coalesce(lede.en, ledeEn),
+  "lede": lede.uk,
+  "ledeEn": lede.en,
   "cover": cover{
     "asset": image.asset->{ _id, url, metadata { lqip, dimensions, isOpaque } },
     "crop": image.crop,
