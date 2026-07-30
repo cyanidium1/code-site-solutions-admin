@@ -48,17 +48,14 @@ export const CTA_ACTION = /* groq */ `{
 }`
 
 // blogPost reference projection — used by relatedPosts on industryPage
-// and caseStudy. Flattens the localized objects (slugs.*/title.*/lede.*)
-// to per-locale keys.
+// and caseStudy. Localized objects (slugs/title/lede) pass through whole;
+// renderers pick per locale.
 export const BLOG_POST_REF = /* groq */ `{
   _id,
-  "slug": slugs.uk.current,
-  "slugEn": slugs.en.current,
-  "title": title.uk,
-  "titleEn": title.en,
+  slugs,
+  title,
   publishedAt,
-  "lede": lede.uk,
-  "ledeEn": lede.en,
+  lede,
   "cover": cover{
     "asset": image.asset->{ _id, url, metadata { lqip, dimensions, isOpaque } },
     "crop": image.crop,
