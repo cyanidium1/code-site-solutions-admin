@@ -1,0 +1,2402 @@
+{
+  "_createdAt": "2026-06-04T17:36:59Z",
+  "_id": "lOTgaDd8FU4wgJ8F4KCGuB",
+  "_rev": "22uPhQi95aN0jC0OXiqAgs",
+  "_system": {
+    "base": {
+      "id": "lOTgaDd8FU4wgJ8F4KCGuB",
+      "rev": "n3kbNYBoL1jFrKaax9yxtb"
+    }
+  },
+  "_type": "industryPage",
+  "_updatedAt": "2026-07-30T18:58:38Z",
+  "hero": {
+    "ctaPrimary": {
+      "en": "Discuss my project",
+      "ru": "Обсудить мой проект",
+      "uk": "Обговорити мій проєкт"
+    },
+    "ctaSecondary": {
+      "en": "See finance case studies",
+      "ru": "Посмотреть фин-кейсы",
+      "uk": "Подивитися фін-кейси"
+    },
+    "deviceMockup": {
+      "alt": {
+        "en": "Finance firm website",
+        "ru": "Сайт финансовой фирмы",
+        "uk": "Сайт фінансової фірми"
+      },
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-7b274bd2cec6a3b48567dec4c7fb36aa0f95b547-1198x1133-png",
+          "_type": "reference"
+        }
+      }
+    },
+    "deviceTags": [
+      {
+        "_key": "fin-dt-4",
+        "kind": "default",
+        "primary": {
+          "en": "Calculator",
+          "ru": "Калькулятор",
+          "uk": "Калькулятор"
+        }
+      },
+      {
+        "_key": "fin-dt-5",
+        "kind": "default",
+        "primary": {
+          "en": "Cabinet",
+          "ru": "Cabinet",
+          "uk": "Cabinet"
+        }
+      },
+      {
+        "_key": "fin-dt-6",
+        "kind": "good",
+        "mini": "96",
+        "primary": {
+          "en": "Lighthouse",
+          "ru": "Lighthouse",
+          "uk": "Lighthouse"
+        }
+      }
+    ],
+    "eyebrow": {
+      "en": "WEBSITES FOR FINANCE & ACCOUNTING",
+      "ru": "САЙТЫ ДЛЯ ФИНАНСОВОЙ ОТРАСЛИ",
+      "uk": "САЙТИ ДЛЯ ФІНАНСОВОЇ ГАЛУЗІ"
+    },
+    "features": [
+      {
+        "_key": "v5FOIhYlayfgccE88t59xo",
+        "en": "Calculators | service pricing",
+        "ru": "Калькуляторы | стоимости услуг",
+        "uk": "Калькулятори | вартості послуг"
+      },
+      {
+        "_key": "v5FOIhYlayfgccE88t5A2Y",
+        "en": "Service packages | uncomplicated rates",
+        "ru": "Пакеты услуг | тарифы без путаницы",
+        "uk": "Пакети послуг | тарифи без плутанини"
+      },
+      {
+        "_key": "v5FOIhYlayfgccE88t5A7I",
+        "en": "Consultation form | Applications from the site",
+        "ru": "Форма консультации | заявки с сайта",
+        "uk": "Форма консультації | заявки з сайту"
+      },
+      {
+        "_key": "v5FOIhYlayfgccE88t5AC2",
+        "en": "Expert blog | Content for trust and SEO",
+        "ru": "Экспертный блог | контент для доверия и SEO",
+        "uk": "Експертний блог | контент для довіри та SEO"
+      }
+    ],
+    "h1Num": "40+",
+    "h1NumLabel": {
+      "en": "applications\nper month",
+      "ru": "заявок\nв месяц",
+      "uk": "заявок\nна місяць"
+    },
+    "heading": {
+      "en": "A website for a financial company that *explains services and provides applications*",
+      "ru": "Сайт для финансовой компании, который *объясняет услуги и приводит заявки*",
+      "uk": "Сайт для фінансової компанії, який *пояснює послуги і приводить заявки*"
+    },
+    "lede": {
+      "en": "We develop websites for accounting, financial, and consulting companies, where it is important to quickly build trust, explain complex services in simple words, and lead the user to an application.",
+      "ru": "Разрабатываем сайты для бухгалтерских, финансовых и консалтинговых компаний, где важно быстро сформировать доверие, объяснить сложные услуги простыми словами и привести пользователя к заявке.",
+      "uk": "Розробляємо сайти для бухгалтерських, фінансових і консалтингових компаній, де важливо швидко сформувати довіру, пояснити складні послуги простими словами та привести користувача до заявки."
+    },
+    "stats": [
+      {
+        "_key": "fin-st-1",
+        "label": {
+          "en": "so that the client understands the cost faster",
+          "ru": "чтобы клиент быстрее понимал стоимость",
+          "uk": "щоб клієнт швидше розумів вартість"
+        },
+        "value": {
+          "en": "Service calculators",
+          "ru": "Калькуляторы услуг",
+          "uk": "Калькулятори послуг"
+        }
+      },
+      {
+        "_key": "fin-st-2",
+        "label": {
+          "en": "services, cases, figures, FAQ and application form",
+          "ru": "услуги, кейсы, цифры, FAQ и форма заявки",
+          "uk": "послуги, кейси, цифри, FAQ і форма заявки"
+        },
+        "value": {
+          "en": "A structure that can be trusted",
+          "ru": "Структура под доверие",
+          "uk": "Структура під довіру"
+        }
+      },
+      {
+        "_key": "fin-st-3",
+        "label": {
+          "en": "from structure to site launch",
+          "ru": "прирост\nконверсии",
+          "uk": "приріст\nконверсії"
+        },
+        "value": {
+          "en": "4–8 weeks",
+          "ru": "4–8 недель",
+          "uk": "4–8 тижнів"
+        }
+      }
+    ],
+    "tickerItems": [
+      {
+        "_key": "v5FOIhYlayfgccE88t5AGm",
+        "en": "Accounting firms",
+        "ru": "Бухгалтерские фирмы",
+        "uk": "Бухгалтерські фірми"
+      },
+      {
+        "_key": "v5FOIhYlayfgccE88t5ALW",
+        "en": "Tax consultants",
+        "ru": "Налоговые консультанты",
+        "uk": "Податкові консультанти"
+      },
+      {
+        "_key": "v5FOIhYlayfgccE88t5AQG",
+        "en": "Financial advisors",
+        "ru": "Финансовые советники",
+        "uk": "Фінансові радники"
+      },
+      {
+        "_key": "v5FOIhYlayfgccE88t5AV0",
+        "en": "Trading services",
+        "ru": "Трейдинг-сервисы",
+        "uk": "Трейдинг-сервіси"
+      },
+      {
+        "_key": "v5FOIhYlayfgccE88t5AZk",
+        "en": "Investment brokers",
+        "ru": "Инвестиционные брокеры",
+        "uk": "Інвестиційні брокери"
+      },
+      {
+        "_key": "v5FOIhYlayfgccE88t5AeU",
+        "en": "Financial services",
+        "ru": "Financial leagues",
+        "uk": "Financial leagues"
+      },
+      {
+        "_key": "v5FOIhYlayfgccE88t5AjE",
+        "en": "Audit",
+        "ru": "Аудит",
+        "uk": "Аудит"
+      },
+      {
+        "_key": "v5FOIhYlayfgccE88t5Any",
+        "en": "Financial analytics",
+        "ru": "Фин-аналитика",
+        "uk": "Фін-аналітика"
+      },
+      {
+        "_key": "v5FOIhYlayfgccE88t5Asi",
+        "en": "Compliance monitoring",
+        "ru": "Фин-мониторинг",
+        "uk": "Фін-моніторинг"
+      },
+      {
+        "_key": "v5FOIhYlayfgccE88t5AxS",
+        "en": "Insurance",
+        "ru": "Insurance",
+        "uk": "Insurance"
+      },
+      {
+        "_key": "v5FOIhYlayfgccE88t5B2C",
+        "en": "Fintech startups",
+        "ru": "Fintech-стартапы",
+        "uk": "Fintech-стартапи"
+      }
+    ]
+  },
+  "order": 4,
+  "sections": [
+    {
+      "_key": "fin-sec-7",
+      "_type": "reasonsBlock",
+      "eyebrow": {
+        "en": "DIAGNOSIS · 3 REASONS",
+        "ru": "ДИАГНОСТИКА · 3 ПРИЧИНЫ",
+        "uk": "ДІАГНОСТИКА · 3 ПРИЧИНИ"
+      },
+      "footCta": {
+        "label": {
+          "en": "Audit my site",
+          "ru": "Проверить мой сайт",
+          "uk": "Перевірити мій сайт"
+        },
+        "type": "custom"
+      },
+      "footCtaLabel": {
+        "en": "Audit my site",
+        "ru": "Проверить мой сайт",
+        "uk": "Перевірити мій сайт"
+      },
+      "footText": {
+        "en": "We fix *all three* in 4-8 weeks.",
+        "ru": "Исправляем *все три* за 4-8 недель.",
+        "uk": "Виправляємо *всі три* за 4-8 тижнів."
+      },
+      "heading": {
+        "en": "3 reasons your finance site\n*doesn’t convert*",
+        "ru": "3 причины, почему сайт фин-фирмы\n*не конвертит*",
+        "uk": "3 причини, чому сайт фін-фірми\n*не конвертить*"
+      },
+      "metaRows": [
+        {
+          "_key": "v5FOIhYlayfgccE88t52vY",
+          "en": "audit of 40+ finance sites · 2024–25",
+          "ru": "анализ 40+ фин-сайтов · 2024–25",
+          "uk": "аналіз 40+ фін-сайтів · 2024–25"
+        }
+      ],
+      "reasons": [
+        {
+          "_key": "fin-r-8",
+          "number": "01",
+          "stat": {
+            "label": {
+              "en": "higher conversion on custom-design sites vs templates",
+              "ru": "выше конверсия у сайтов с кастомным дизайном против шаблонов",
+              "uk": "вища конверсія у сайтів з кастомним дизайном проти шаблонів"
+            },
+            "value": "×3"
+          },
+          "tag": {
+            "en": "TRUST",
+            "ru": "TRUST",
+            "uk": "TRUST"
+          },
+          "text": {
+            "en": [
+              {
+                "_key": "fin-b-16",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-13",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In finance, design equals trust. The client is going to trust you with money — and they see a 2018 WordPress template with stock photos of \"people in suits shaking hands.\" "
+                  },
+                  {
+                    "_key": "fin-s-14",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "They go to a competitor"
+                  },
+                  {
+                    "_key": "fin-s-15",
+                    "_type": "span",
+                    "marks": [],
+                    "text": " who looks like a real business."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "2ff5f299bb1e4602a2e60405182b8441",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6ef75573fa7445aca3476d792f0b1bcf",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "В финансовой отрасли дизайн = доверие. Клиент доверяет вам деньги — и видит шаблонный WordPress-сайт 2018 года со stock-фото \"людей в костюмах пожимают руки\". Уходит к конкуренту, который выглядит как настоящий бизнес."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "fin-b-12",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "У фінансовій галузі дизайн = довіра. Клієнт довіряє вам грошима — і бачить шаблонний WordPress-сайт 2018 року з stock-фото \"людей у костюмах потискують руки\". "
+                  },
+                  {
+                    "_key": "fin-s-10",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Йде до конкурента"
+                  },
+                  {
+                    "_key": "fin-s-11",
+                    "_type": "span",
+                    "marks": [],
+                    "text": ", який виглядає як справжній бізнес."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "title": {
+            "en": "The site looks like a £50 Wix template",
+            "ru": "Сайт выглядит как шаблон Tilda за $50",
+            "uk": "Сайт виглядає як шаблон Tilda за $50"
+          }
+        },
+        {
+          "_key": "fin-r-17",
+          "number": "02",
+          "stat": {
+            "label": {
+              "en": "higher conversion with transparent pricing + calculator",
+              "ru": "выше конверсия с прозрачным прайсом + калькулятором",
+              "uk": "вища конверсія з прозорим прайсом + калькулятором"
+            },
+            "value": "×2.4"
+          },
+          "tag": {
+            "en": "TRANSPARENCY",
+            "ru": "TRANSPARENCY",
+            "uk": "TRANSPARENCY"
+          },
+          "text": {
+            "en": [
+              {
+                "_key": "fin-b-25",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-22",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Bookkeeping \"from £100\" or \"depends on volume\" — and the client goes to a competitor with a calculator that shows the exact price in 60 seconds. "
+                  },
+                  {
+                    "_key": "fin-s-23",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Transparency sells"
+                  },
+                  {
+                    "_key": "fin-s-24",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "f29d7103920b4fd3befe82330aadb389",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "c46f15f346e34cc79cee627bc2da5916",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Бухгалтерия \"от 3000 грн\" или \"зависит от объёма\" — и клиент уходит к конкуренту с калькулятором, который показывает точную цену за 60 секунд. Прозрачность продаёт."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "fin-b-21",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-18",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Бухгалтерія \"від 3000 грн\" або \"залежить від обсягу\" — і клієнт іде до конкурента з калькулятором, який показує точну ціну за 60 секунд. "
+                  },
+                  {
+                    "_key": "fin-s-19",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Прозорість продає"
+                  },
+                  {
+                    "_key": "fin-s-20",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "title": {
+            "en": "Pricing \"on request\" — clients drop off",
+            "ru": "Цены «под запрос» — клиенты отсеиваются",
+            "uk": "Ціни «під запит» — клієнти відсіюються"
+          }
+        },
+        {
+          "_key": "fin-r-26",
+          "number": "03",
+          "stat": {
+            "label": {
+              "en": "applications without a normal CTA, form, and clear next step",
+              "ru": "заявок без нормального CTA, формы и понятного следующего шага",
+              "uk": "заявок без нормального CTA, форми та зрозумілого наступного кроку"
+            },
+            "value": "0"
+          },
+          "tag": {
+            "en": "CREDIBILITY",
+            "ru": "CREDIBILITY",
+            "uk": "CREDIBILITY"
+          },
+          "text": {
+            "en": [
+              {
+                "_key": "fin-b-34",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-31",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "The client has read about accounting support, looked at the services, but doesn’t understand what to do next: order a consultation, get a quote, or write directly. If the website doesn’t have clear buttons, forms, and a simple application script, a warm client will simply leave."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "c59cfd2f1cfc4c9e9572a27c69e9c19b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "83b1df3c6cdc4743bf899fc87e638a5f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Клиент прочитал про бухгалтерское сопровождение, посмотрел услуги, но не понимает, что делать дальше: заказать консультацию, получить расчёт или написать напрямую. Если на сайте нет чётких кнопок, форм и простого сценария обращения — тёплый клиент просто уходит."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "6da5243f37ad",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ff9ba4ffe918",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Клієнт прочитав про бухгалтерський супровід, подивився послуги, але не розуміє, що робити далі: замовити консультацію, отримати розрахунок чи написати напряму. Якщо на сайті немає чітких кнопок, форм і простого сценарію звернення — теплий клієнт просто йде."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "title": {
+            "en": "THERE IS NO CLEAR PATH TO APPLICATION",
+            "ru": "НЕТ ПОНЯТНОГО ПУТИ К ЗАЯВКЕ",
+            "uk": "НЕМАЄ ЗРОЗУМІЛОГО ШЛЯХУ ДО ЗАЯВКИ"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "fin-sec-35",
+      "_type": "caseBlock",
+      "after": {
+        "foot": {
+          "en": "Result: CPL £7.50 (×4.2 improvement), conversion 4.6%, ROAS turned positive in month two.",
+          "ru": "Результат: CPL $7.50 (×4.2 улучшение), конверсия 4.6%, ROAS перешёл в плюс на второй месяц.",
+          "uk": "Результат: CPL $7.50 (×4.2 покращення), конверсія 4.6%, ROAS перейшов у плюс на другий місяць."
+        },
+        "heading": {
+          "en": "✓ ×4.2 conversion on the same traffic",
+          "ru": "✓ Конверсия ×4.2 на том же трафике",
+          "uk": "✓ Конверсія ×4.2 на тому ж трафіку"
+        },
+        "image": {
+          "alt": {
+            "en": "FinLiga site after redesign",
+            "ru": "Сайт FinLiga после редизайна",
+            "uk": "Сайт FinLiga після редизайну"
+          },
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-dd217e54da6a1550da859aff5899e85021c6cdaf-3040x2250-png",
+              "_type": "reference"
+            }
+          }
+        },
+        "items": [
+          {
+            "_key": "v5FOIhYlayfgccE88t53XU",
+            "en": "Lighthouse Performance 96, LCP 0.9 seconds",
+            "ru": "Lighthouse Performance 96, LCP 0.9 секунды",
+            "uk": "Lighthouse Performance 96, LCP 0.9 секунди"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t53cE",
+            "en": "Mobile-first design built for cold paid traffic",
+            "ru": "Mobile-first дизайн, спроектированный под холодный трафик из рекламы",
+            "uk": "Mobile-first дизайн, спроектований під холодний трафік з реклами"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t53li",
+            "en": "Progressive lead form (3 steps, doesn’t scare with length)",
+            "ru": "Лид-форма прогрессивная (3 шага, не пугает клиента объёмом)",
+            "uk": "Лід-форма прогресивна (3 кроки, не лякає клієнта обсягом)"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t53qS",
+            "en": "CRM integration (Pipedrive) + WhatsApp alerts to the manager",
+            "ru": "Интеграция с CRM (KeyCRM) + Telegram-уведомления менеджеру",
+            "uk": "Інтеграція з CRM (KeyCRM) + Telegram-сповіщення менеджеру"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t53vC",
+            "en": "UTM params + Google Tag Manager + Meta Pixel done right",
+            "ru": "UTM-параметры + Google Tag Manager + Meta Pixel правильно",
+            "uk": "UTM-параметри + Google Tag Manager + Meta Pixel правильно"
+          }
+        ],
+        "num": "FINLIGA · v2 · Next.js 2024",
+        "tagline": {
+          "_type": "localizedString",
+          "en": "A site that brings in clients",
+          "ru": "Сайт, который приводит клиентов",
+          "uk": "Сайт, що приводить клієнтів"
+        }
+      },
+      "before": {
+        "foot": {
+          "en": "Result: CPL £32, conversion 1.1%, ROAS underwater.",
+          "ru": "Результат: CPL $32, конверсия 1.1%, ROAS не выходил в плюс.",
+          "uk": "Результат: CPL $32, конверсія 1.1%, ROAS не виходив у плюс."
+        },
+        "heading": {
+          "en": "× WordPress that didn’t convert expensive traffic",
+          "ru": "× WordPress, который не конвертил дорогой трафик",
+          "uk": "× WordPress, який не конвертив дорогий трафік"
+        },
+        "image": {
+          "alt": {
+            "en": "FinLiga site before redesign",
+            "ru": "Сайт FinLiga до редизайна",
+            "uk": "Сайт FinLiga до редизайну"
+          },
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-ee56931bd2881307ef0c5084968733630ff24b00-1361x907-png",
+              "_type": "reference"
+            }
+          }
+        },
+        "items": [
+          {
+            "_key": "v5FOIhYlayfgccE88t530I",
+            "en": "Lighthouse Performance 38, LCP 4.7 seconds",
+            "ru": "Lighthouse Performance 38, LCP 4.7 секунды",
+            "uk": "Lighthouse Performance 38, LCP 4.7 секунди"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t5352",
+            "en": "Paid traffic arrived and left within 6 seconds",
+            "ru": "Рекламный трафик прилетал и уходил через 6 секунд",
+            "uk": "Рекламний трафік прилітав і йшов через 6 секунд"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t539m",
+            "en": "18 paid plugins, 3 of which regularly broke the site",
+            "ru": "18 платных плагинов, из которых 3 регулярно ломали сайт",
+            "uk": "18 платних плагінів, з яких 3 регулярно ламали сайт"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t53EW",
+            "en": "Lead form via stock Contact Form 7, data buried in email spam",
+            "ru": "Лид-форма через стандартный Contact Form 7, данные в email-спам",
+            "uk": "Лід-форма через стандартний Contact Form 7, дані в email-спам"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t53JG",
+            "en": "Zero UTM tracking to understand what actually converts",
+            "ru": "Никакого UTM-трекинга для понимания, откуда конкретно конвертят",
+            "uk": "Жодних UTM-трекінгу для розуміння, звідки конкретно конвертять"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t53O0",
+            "en": "Overloaded admin, the marketer was scared to change anything",
+            "ru": "Админка перегружена, маркетолог боялся что-то менять",
+            "uk": "Адмінка перевантажена, маркетолог боявся щось змінювати"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t53Sk",
+            "en": "Mobile UX a disaster: 67% of users closed the site in 8 seconds",
+            "ru": "Mobile UX — катастрофа: 67% пользователей закрывали сайт за 8 секунд",
+            "uk": "Mobile UX — катастрофа: 67% користувачів закривали сайт за 8 секунд"
+          }
+        ],
+        "num": "FINLIGA · v1 · WordPress 2023",
+        "tagline": {
+          "_type": "localizedString",
+          "en": "A site that doesn't convert",
+          "ru": "Сайт, который не продаёт",
+          "uk": "Сайт, що не продає"
+        }
+      },
+      "cta": {
+        "_type": "ctaAction",
+        "label": {
+          "_type": "localizedString",
+          "en": "See finance case studies",
+          "ru": "Посмотреть кейсы в финансах",
+          "uk": "Подивитися кейси у фінансах"
+        },
+        "type": "custom"
+      },
+      "ctaLabel": {
+        "_type": "localizedString",
+        "en": "See finance case studies",
+        "ru": "Посмотреть кейсы в финансах",
+        "uk": "Подивитися кейси у фінансах"
+      },
+      "ctaText": {
+        "_type": "localizedText",
+        "en": "Want **the same kind of result**? See how we do it.",
+        "ru": "Хотите **такой же результат**? Посмотрите, как мы это делаем.",
+        "uk": "Хочете **такий самий результат**? Подивіться, як ми це робимо."
+      },
+      "eyebrow": {
+        "en": "REAL CASE",
+        "ru": "РЕАЛЬНЫЙ КЕЙС",
+        "uk": "РЕАЛЬНИЙ КЕЙС"
+      },
+      "eyebrowEm": {
+        "en": "FINLIGA",
+        "ru": "FINLIGA",
+        "uk": "FINLIGA"
+      },
+      "heading": {
+        "en": "Before / After — a real client case",
+        "ru": "До / После на примере реального клиента",
+        "uk": "До / Після на прикладі реального клієнта"
+      },
+      "lede": {
+        "en": "A marketer running ads to FinLiga — which provides accounting outsourcing, legal services, and financial management for businesses — came to us. The site was on WordPress, paid traffic was arriving, but conversion was in the basement. The task: rebuild from scratch on Next.js, preserve SEO, lift conversion.",
+        "ru": "К нам обратился рекламщик, который вёл трафик на сайт FinLiga — она предоставляет бухгалтерский аутсорсинг, юридические услуги и финансовое управление для бизнеса. Сайт был на WordPress, дорогой трафик приходил, но конверсия была в подвале. Задача — переделать сайт с нуля на Next.js, сохранить SEO, поднять конверсию.",
+        "uk": "До нас звернувся рекламщик, який вів трафік на сайт FinLiga — яка надає бухгалтерський аутсорсинг, юридичні послуги та фінансове управління для бізнесу. Сайт був на WordPress, дорогий трафік приходив, але конверсія була в підвалі. Завдання — переробити сайт з нуля на Next.js, зберегти SEO, підняти конверсію."
+      },
+      "meta": [
+        {
+          "_key": "fin-cm-36",
+          "strong": {
+            "en": "6 weeks",
+            "ru": "6 недель",
+            "uk": "6 тижнів"
+          },
+          "text": {
+            "en": "brief to launch",
+            "ru": "от брифа до релиза",
+            "uk": "від брифу до релізу"
+          }
+        },
+        {
+          "_key": "fin-cm-37",
+          "strong": {
+            "en": "WP → Next.js",
+            "ru": "WP → Next.js",
+            "uk": "WP → Next.js"
+          },
+          "text": {
+            "en": "full migration",
+            "ru": "полная миграция",
+            "uk": "повна міграція"
+          }
+        },
+        {
+          "_key": "fin-cm-38",
+          "strong": {
+            "en": "×4.2",
+            "ru": "×4.2",
+            "uk": "×4.2"
+          },
+          "text": {
+            "en": "conversion uplift",
+            "ru": "прирост конверсии",
+            "uk": "приріст конверсії"
+          }
+        }
+      ],
+      "results": [
+        {
+          "_key": "fin-rs-39",
+          "label": {
+            "en": "conversion uplift on same traffic",
+            "ru": "прирост конверсии на том же трафике",
+            "uk": "приріст конверсії на тому ж трафіку"
+          },
+          "tag": {
+            "en": "CONVERSION",
+            "ru": "CONVERSION",
+            "uk": "CONVERSION"
+          },
+          "value": {
+            "en": "×4.2",
+            "ru": "×4.2",
+            "uk": "×4.2"
+          }
+        },
+        {
+          "_key": "fin-rs-40",
+          "label": {
+            "en": "LCP (was 4.7s)",
+            "ru": "LCP (было 4.7s)",
+            "uk": "LCP (було 4.7s)"
+          },
+          "tag": {
+            "en": "PERFORMANCE",
+            "ru": "PERFORMANCE",
+            "uk": "PERFORMANCE"
+          },
+          "value": {
+            "en": "0.9s",
+            "ru": "0.9s",
+            "uk": "0.9s"
+          }
+        },
+        {
+          "_key": "fin-rs-41",
+          "label": {
+            "en": "CPL (was £32)",
+            "ru": "стоимость заявки (было $32)",
+            "uk": "вартість заявки (було $32)"
+          },
+          "tag": {
+            "en": "CPL",
+            "ru": "CPL",
+            "uk": "CPL"
+          },
+          "value": {
+            "en": "£7.50",
+            "ru": "$7.50",
+            "uk": "$7.50"
+          }
+        },
+        {
+          "_key": "fin-rs-42",
+          "label": {
+            "en": "Performance score (was 38)",
+            "ru": "Performance (было 38)",
+            "uk": "Performance (було 38)"
+          },
+          "tag": {
+            "en": "LIGHTHOUSE",
+            "ru": "LIGHTHOUSE",
+            "uk": "LIGHTHOUSE"
+          },
+          "value": {
+            "en": "96",
+            "ru": "96",
+            "uk": "96"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "fin-sec-43",
+      "_type": "outcomeBlock",
+      "benefitRows": [
+        {
+          "_key": "fin-br-44",
+          "heading": {
+            "en": "Service pricing calculator",
+            "ru": "Калькулятор стоимости услуг",
+            "uk": "Калькулятор вартості послуг"
+          },
+          "image": {
+            "_type": "imageWithLocalizedAlt",
+            "alt": {
+              "_type": "localizedString",
+              "en": "Finance League service cost calculator with sliders for employees, monthly operations and ownership form",
+              "ru": "Калькулятор стоимости услуг Finance League с ползунками количества сотрудников и операций",
+              "uk": "Калькулятор вартості послуг Finance League з повзунками кількості працівників і операцій"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8fa1b26cbc6085e36bfb8bb8f552564c8996e48c-3040x2250-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "v5FOIhYlayfgccE88t54q6",
+              "en": "Client picks business type, revenue, headcount",
+              "ru": "Клиент выбирает тип бизнеса, оборот, количество сотрудников",
+              "uk": "Клієнт обирає тип бізнесу, оборот, кількість працівників"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t54uq",
+              "en": "Sees exact monthly service cost",
+              "ru": "Видит точную стоимость обслуживания в месяц",
+              "uk": "Бачить точну вартість обслуговування на місяць"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t54za",
+              "en": "Leaves email — gets detailed pricing PDF",
+              "ru": "Оставляет email — приходит детальный прайс в PDF",
+              "uk": "Залишає email — приходить детальний прайс у PDF"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t554K",
+              "en": "You receive a lead with budget already known",
+              "ru": "Вы получаете лид уже с известным бюджетом",
+              "uk": "Ви отримуєте лід уже з відомим бюджетом"
+            }
+          ],
+          "mockTags": [
+            {
+              "_key": "v5FOIhYlayfgccE88t54gc",
+              "en": "Calculator",
+              "ru": "Калькулятор",
+              "uk": "Калькулятор"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t54lM",
+              "en": "PDF pricing",
+              "ru": "PDF-прайс",
+              "uk": "PDF-прайс"
+            }
+          ],
+          "mockType": "pages"
+        },
+        {
+          "_key": "fin-br-45",
+          "heading": {
+            "en": "Premium responsive design across every screen, with animations",
+            "ru": "Крутой адаптив под все экраны и фирменные анимации",
+            "uk": "Крутий адаптив під всі екрани і фірмові анімації"
+          },
+          "image": {
+            "_type": "imageWithLocalizedAlt",
+            "alt": {
+              "_type": "localizedString",
+              "en": "Finance League website on three phones showing mobile views of the homepage, menu and enquiry form",
+              "ru": "Сайт Finance League на трёх телефонах: главная, меню и форма заявки в мобильной версии",
+              "uk": "Сайт Finance League на трьох телефонах: головна, меню і форма заявки в мобільній версії"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-04474f97d0e7189b07112616ce284f6a11d2d0f7-3070x2250-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "v5FOIhYlayfgccE88t55IY",
+              "en": "Layout adapts from a 4K monitor down to a phone — no awkward horizontal scrolls",
+              "ru": "Layout сам перестраивается от 4K-монитора до телефона — без лишних горизонтальных скроллов",
+              "uk": "Layout сам перебудовується від 4K-монітора до телефона — без зайвих горизонтальних скролів"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t55NI",
+              "en": "Scroll-triggered animations, hover states, smooth section transitions",
+              "ru": "Скролл-анимации, hover-состояния, плавные переходы между секциями",
+              "uk": "Скрол-анімації, hover-стани, плавні переходи між секціями"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t55S2",
+              "en": "Mobile-first: 67% of finance audience opens from a phone — designed for that first",
+              "ru": "Mobile-first: 67% финансовой аудитории заходит с телефона — дизайн оптимизирован именно под неё",
+              "uk": "Mobile-first: 67% фінансової аудиторії заходить з телефону — дизайн оптимізовано саме під неї"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t55Wm",
+              "en": "95+ mobile Performance — animations don’t kill speed",
+              "ru": "Performance 95+ на mobile — анимации не убивают скорость",
+              "uk": "Performance 95+ на mobile — анімації не вбивають швидкість"
+            }
+          ],
+          "mockTags": [
+            {
+              "_key": "v5FOIhYlayfgccE88t5594",
+              "en": "4K → Mobile",
+              "ru": "4K → Mobile",
+              "uk": "4K → Mobile"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t55Do",
+              "en": "Animations",
+              "ru": "Animations",
+              "uk": "Animations"
+            }
+          ],
+          "mockType": "pages"
+        },
+        {
+          "_key": "fin-br-46",
+          "heading": {
+            "en": "Marketing-driven structure: leads in WhatsApp within seconds",
+            "ru": "Маркетинговая структура: заявка в Telegram за секунды",
+            "uk": "Маркетингова структура: заявка в Telegram за секунди"
+          },
+          "image": {
+            "_type": "imageWithLocalizedAlt",
+            "alt": {
+              "_type": "localizedString",
+              "en": "Finance League consultation section with a short name-and-phone form that sends an enquiry in seconds",
+              "ru": "Секция консультации Finance League с короткой формой — только имя и телефон, заявка за секунды",
+              "uk": "Секція консультації Finance League з короткою формою — лише ім'я і телефон, заявка за секунди"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-cac9b1ff1c0b8777bdd8c5c5c2ccc0b60cc143ea-3040x2250-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "v5FOIhYlayfgccE88t55bW",
+              "en": "Every form pipes into a funnel: leads land in your WhatsApp or Slack instantly",
+              "ru": "Каждая форма обёрнута в воронку: лид падает в ваш Telegram или Slack мгновенно",
+              "uk": "Кожна форма обернена у воронку: лід падає у ваш Telegram або Slack миттєво"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t55gG",
+              "en": "Managers see leads in mobile messenger",
+              "ru": "Менеджер видит заявку в мобильном мессенджере",
+              "uk": "Менеджер бачить заявку в мобільному месенджері"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t55l0",
+              "en": "Multilingualism: one site serves different audiences",
+              "ru": "Мультиязычность: один сайт обслуживает разную аудиторию",
+              "uk": "Мультимовність: один сайт обслуговує різну аудиторію"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t55pk",
+              "en": "CTAs structured by funnel stage: cold → warm → hot",
+              "ru": "CTA структурированы под этапы воронки: cold → warm → hot",
+              "uk": "CTA структуровано під етапи воронки: cold → warm → hot"
+            }
+          ],
+          "mockType": "booking"
+        }
+      ],
+      "benefitsHeading": {
+        "en": "How it shows up on the site",
+        "ru": "Как это работает на сайте",
+        "uk": "Як це працює на сайті"
+      },
+      "directions": {
+        "allowedItems": [
+          {
+            "_key": "v5FOIhYlayfgccE88t544g",
+            "en": "separate pages for service areas",
+            "ru": "отдельные страницы под направления услуг",
+            "uk": "окремі сторінки під напрями послуг"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t549Q",
+            "en": "explanations of complex services in simple language",
+            "ru": "объяснение сложных услуг простым языком",
+            "uk": "пояснення складних послуг простою мовою"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t54EA",
+            "en": "cases, figures or examples of client tasks",
+            "ru": "кейсы, цифры или примеры задач клиентов",
+            "uk": "кейси, цифри або приклади задач клієнтів"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t54Iu",
+            "en": "consultation requests without unnecessary transitions",
+            "ru": "заявки на консультацию без лишних переходов",
+            "uk": "заявки на консультацію без зайвих переходів"
+          },
+          {
+            "_key": "eb0ccd11b7d5",
+            "_type": "localizedString",
+            "en": "blog or articles for SEO promotion",
+            "ru": "блог или статьи для SEO-продвижения",
+            "uk": "блог або статті для SEO-просування"
+          }
+        ],
+        "allowedLabel": {
+          "en": "FINANCIAL AND TAX CONSULTING",
+          "ru": "ФИНАНСОВЫЙ И НАЛОГОВЫЙ КОНСАЛТИНГ",
+          "uk": "ФІНАНСОВИЙ ТА ПОДАТКОВИЙ КОНСАЛТИНГ"
+        },
+        "lede": {
+          "en": "It’s hard to sell financial services with a pretty picture. The client needs to quickly understand what you do, how much it might cost, why they can trust you, and how to submit an application.",
+          "ru": "Финансовые услуги сложно продавать через красивую картинку. Клиенту нужно быстро понять, что вы делаете, сколько это может стоить, почему вам можно доверять и как оставить заявку.",
+          "uk": "Фінансові послуги складно продавати через красиву картинку. Клієнту потрібно швидко зрозуміти, що ви робите, скільки це може коштувати, чому вам можна довіряти і як залишити заявку."
+        },
+        "replaceItems": [
+          {
+            "_key": "v5FOIhYlayfgccE88t54Ne",
+            "en": "clear structure of services for sole traders, limited companies and businesses",
+            "ru": "понятная структура услуг для ФОП, ООО и бизнеса",
+            "uk": "зрозуміла структура послуг для ФОП, ТОВ і бізнесу"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t54SO",
+            "en": "calculator or cost packages",
+            "ru": "калькулятор или пакеты стоимости",
+            "uk": "калькулятор або пакети вартості"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t54X8",
+            "en": "consultation application form",
+            "ru": "форма заявки на консультацию",
+            "uk": "форма заявки на консультацію"
+          },
+          {
+            "_key": "v5FOIhYlayfgccE88t54bs",
+            "en": "trust blocks: experience, team, work process",
+            "ru": "блоки доверия: опыт, команда, процесс работы",
+            "uk": "блоки довіри: досвід, команда, процес роботи"
+          },
+          {
+            "_key": "344b4ae13348",
+            "_type": "localizedString",
+            "en": "FAQ for typical client objections",
+            "ru": "FAQ для типичных возражений клиента",
+            "uk": "FAQ для типових заперечень клієнта"
+          }
+        ],
+        "replaceLabel": {
+          "en": "ACCOUNTING OUTSOURCING",
+          "ru": "БУХГАЛТЕРСКИЙ АУТСОРСИНГ",
+          "uk": "БУХГАЛТЕРСЬКИЙ АУТСОРСИНГ"
+        },
+        "title": {
+          "en": "WE WORK WITH FINANCIAL COMPANIES WHERE TRUST IS IMPORTANT",
+          "ru": "РАБОТАЕМ С ФИНАНСОВЫМИ КОМПАНИЯМИ, ГДЕ ВАЖНО ДОВЕРИЕ",
+          "uk": "ПРАЦЮЄМО З ФІНАНСОВИМИ КОМПАНІЯМИ, ДЕ ВАЖЛИВА ДОВІРА"
+        }
+      },
+      "recap": {
+        "text": {
+          "en": "Your site should convert expensive traffic, not waste it.",
+          "ru": "Ваш сайт должен конвертить дорогой трафик, а не сливать его.",
+          "uk": "Ваш сайт має конвертити дорогий трафік, а не зливати його."
+        }
+      }
+    },
+    {
+      "_key": "fin-sec-47",
+      "_type": "servicesBlock",
+      "features": [
+        {
+          "_key": "fin-sf-48",
+          "image": {
+            "alt": {
+              "_type": "localizedString",
+              "en": "Finance League service cost calculator with an instant monthly cost estimate",
+              "ru": "Калькулятор стоимости услуг Finance League с мгновенным расчётом стоимости за месяц",
+              "uk": "Калькулятор вартості послуг Finance League з миттєвим розрахунком вартості за місяць"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-149fefc60c434e944a6fbc275e743781b4c7765f-1244x829-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "v5FOIhYlayfgccE88t55uU",
+              "en": "Transparent pricing — no \"on request\"",
+              "ru": "Прозрачный прайс — без «под запрос»",
+              "uk": "Прозорий прайс — без «під запит»"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t55zE",
+              "en": "3-5 parameters (revenue, business type, headcount)",
+              "ru": "3-5 параметров (оборот, тип бизнеса, количество сотрудников)",
+              "uk": "3-5 параметрів (оборот, тип бізнесу, кількість працівників)"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t563y",
+              "en": "PDF export",
+              "ru": "Экспорт в PDF",
+              "uk": "Експорт у PDF"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t568i",
+              "en": "CRM integration",
+              "ru": "Интеграция с CRM",
+              "uk": "Інтеграція з CRM"
+            }
+          ],
+          "title": {
+            "en": "Service pricing calculator",
+            "ru": "Калькулятор стоимости услуг",
+            "uk": "Калькулятор вартості послуг"
+          }
+        },
+        {
+          "_key": "fin-sf-49",
+          "image": {
+            "alt": {
+              "_type": "localizedString",
+              "en": "Finance League page designs across desktop and mobile, including menu and service sections",
+              "ru": "Дизайн страниц Finance League для десктопа и мобильного: меню и разделы услуг",
+              "uk": "Дизайн сторінок Finance League для десктопа і мобільного: меню і розділи послуг"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fe3645501cc8847e2f01f2bc8b2500d1bda727ae-1181x787-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "v5FOIhYlayfgccE88t56DS",
+              "en": "Email or SMS login",
+              "ru": "Авторизация через email или SMS",
+              "uk": "Авторизація через email або SMS"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t56IC",
+              "en": "Document upload (invoices, receipts)",
+              "ru": "Загрузка документов (инвойсы, чеки)",
+              "uk": "Завантаження документів (інвойси, чеки)"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t56Mw",
+              "en": "Real-time work status",
+              "ru": "Статус работы в реальном времени",
+              "uk": "Статус роботи в реальному часі"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t56Rg",
+              "en": "Contract and report archive",
+              "ru": "Архив договоров и отчётов",
+              "uk": "Архів договорів і звітів"
+            }
+          ],
+          "title": {
+            "en": "Client portal",
+            "ru": "Личный кабинет клиента",
+            "uk": "Особистий кабінет клієнта"
+          }
+        },
+        {
+          "_key": "fin-sf-50",
+          "image": {
+            "alt": {
+              "_type": "localizedString",
+              "en": "Four-stage cooperation section on the Finance League site, from express audit to a dedicated accountant",
+              "ru": "Секция с четырьмя этапами сотрудничества на сайте Finance League: от экспресс-аудита до закрепления бухгалтера",
+              "uk": "Секція з чотирма етапами співпраці на сайті Finance League: від експрес-аудиту до закріплення бухгалтера"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d2db89a90de2de003f613d833873a800b79ef690-1351x901-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "v5FOIhYlayfgccE88t56WQ",
+              "en": "Concrete numbers: optimisation, savings, revenue",
+              "ru": "Конкретные цифры: оптимизация, сэкономлено, оборот",
+              "uk": "Конкретні цифри: оптимізація, зекономлено, оборот"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t56bA",
+              "en": "Client anonymisation (NDA-friendly)",
+              "ru": "Анонимизация клиента (NDA-friendly)",
+              "uk": "Анонімізація клієнта (NDA-friendly)"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t56fu",
+              "en": "Filter by industry + service type",
+              "ru": "Фильтр по отрасли + типу услуги",
+              "uk": "Фільтр за галуззю + типом послуги"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t56ke",
+              "en": "SEO-tuned for \"accountant for [industry]\"",
+              "ru": "SEO-оптимизация под «бухгалтер для [отрасль]»",
+              "uk": "SEO-оптимізація під «бухгалтер для [галузь]»"
+            }
+          ],
+          "title": {
+            "en": "Case studies",
+            "ru": "Каталог кейсов",
+            "uk": "Каталог кейсів"
+          }
+        },
+        {
+          "_key": "fin-sf-51",
+          "items": [
+            {
+              "_key": "v5FOIhYlayfgccE88t56pO",
+              "en": "Stripe / GoCardless / Worldpay",
+              "ru": "Stripe / LiqPay / WayForPay",
+              "uk": "Stripe / LiqPay / WayForPay"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t56u8",
+              "en": "Recurring billing for monthly retainers",
+              "ru": "Регулярное выставление счетов для абонентского обслуживания",
+              "uk": "Регулярне виставлення рахунків для абонентського обслуговування"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t56ys",
+              "en": "Auto-invoicing via Xero",
+              "ru": "Инвойсы автоматически через MEDoc",
+              "uk": "Інвойси автоматично через MEDoc"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t573c",
+              "en": "24-hour pre-charge reminders",
+              "ru": "Напоминание за 24 часа до списания",
+              "uk": "Нагадування 24 години до списання"
+            }
+          ],
+          "title": {
+            "en": "Payments and subscriptions",
+            "ru": "Оплата и подписки",
+            "uk": "Оплата і підписки"
+          }
+        },
+        {
+          "_key": "fin-sf-52",
+          "items": [
+            {
+              "_key": "v5FOIhYlayfgccE88t578M",
+              "en": "Progressive form (3 steps, doesn’t intimidate)",
+              "ru": "Прогрессивная форма (3 шага, не пугает)",
+              "uk": "Прогресивна форма (3 кроки, не лякає)"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t57D6",
+              "en": "UTM params passed to CRM",
+              "ru": "UTM-параметры передаются в CRM",
+              "uk": "UTM-параметри передаються в CRM"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t57Hq",
+              "en": "WhatsApp alerts to manager",
+              "ru": "Telegram-уведомления менеджеру",
+              "uk": "Telegram-сповіщення менеджеру"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t57Ma",
+              "en": "Lead routing by request type",
+              "ru": "Распределение лидов по типу запроса",
+              "uk": "Розподіл лідів за типом запиту"
+            }
+          ],
+          "title": {
+            "en": "Lead forms + CRM",
+            "ru": "Лид-формы + CRM",
+            "uk": "Лід-форми + CRM"
+          }
+        },
+        {
+          "_key": "fin-sf-53",
+          "items": [
+            {
+              "_key": "v5FOIhYlayfgccE88t57RK",
+              "en": "SSL required, encrypted databases",
+              "ru": "SSL обязателен, данные в зашифрованных базах",
+              "uk": "SSL обовʼязковий, дані в зашифрованих базах"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t57W4",
+              "en": "GDPR-ready: cookie consent, data processing policy",
+              "ru": "GDPR-ready: cookie consent, data processing policy",
+              "uk": "GDPR-ready: cookie consent, data processing policy"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t57ao",
+              "en": "2FA on admin and client portals",
+              "ru": "2FA для админки и клиентских кабинетов",
+              "uk": "2FA для адмінки і клієнтських кабінетів"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t57fY",
+              "en": "Regular security audits",
+              "ru": "Регулярные security audits",
+              "uk": "Регулярні security audits"
+            }
+          ],
+          "title": {
+            "en": "Compliance and data security",
+            "ru": "Compliance и безопасность данных",
+            "uk": "Compliance і безпека даних"
+          }
+        }
+      ],
+      "heading": {
+        "en": "What we build for finance firms",
+        "ru": "Что мы строим для фин-фирм",
+        "uk": "Що ми будуємо для фін-фірм"
+      },
+      "integrations": [
+        {
+          "_key": "v5FOIhYlayfgccE88t57kI",
+          "en": "Sage",
+          "ru": "MEDoc",
+          "uk": "MEDoc"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t57p2",
+          "en": "FreeAgent",
+          "ru": "1C / BAS",
+          "uk": "1C / BAS"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t57tm",
+          "en": "Xero",
+          "ru": "Xero",
+          "uk": "Xero"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t57yW",
+          "en": "QuickBooks",
+          "ru": "QuickBooks",
+          "uk": "QuickBooks"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t583G",
+          "en": "Pipedrive",
+          "ru": "KeyCRM",
+          "uk": "KeyCRM"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t5880",
+          "en": "Salesforce",
+          "ru": "AmoCRM",
+          "uk": "AmoCRM"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t58Ck",
+          "en": "HMRC Making Tax Digital",
+          "ru": "Bitrix24",
+          "uk": "Bitrix24"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t58HU",
+          "en": "HubSpot",
+          "ru": "HubSpot",
+          "uk": "HubSpot"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t58ME",
+          "en": "Stripe",
+          "ru": "Stripe",
+          "uk": "Stripe"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t58Qy",
+          "en": "GoCardless",
+          "ru": "LiqPay",
+          "uk": "LiqPay"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t58Vi",
+          "en": "Worldpay",
+          "ru": "WayForPay",
+          "uk": "WayForPay"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t58aS",
+          "en": "WhatsApp",
+          "ru": "Telegram",
+          "uk": "Telegram"
+        }
+      ],
+      "integrationsHeading": {
+        "en": "We connect accounting and payment systems",
+        "ru": "Подключаем учётные и платёжные системы",
+        "uk": "Підключаємо облікові і платіжні системи"
+      },
+      "integrationsSub": {
+        "en": "Leads from the calculator land in your CRM with full UTM tagging. Subscription payments flow Stripe → auto-invoice via Xero → entry in your accounting system. The manager gets a WhatsApp alert. Zero leads lost to email spam.",
+        "ru": "Лид из калькулятора сразу идёт в вашу CRM с UTM-разметкой. Платёж по подписке — в Stripe → автоматический инвойс через MEDoc → запись в вашу учётную систему. Менеджер получает уведомление в Telegram. Никаких потерянных лидов из-за email-спама.",
+        "uk": "Лід з калькулятора одразу йде у вашу CRM з UTM-розміткою. Платіж з підписки — у Stripe → автоматичний інвойс через MEDoc → запис у вашу облікову систему. Менеджер отримує сповіщення в Telegram. Жодних втрачених лідів через email-спам."
+      },
+      "sub": {
+        "en": "Not \"a corporate site with a blog.\" Tools that bring paying clients and convert expensive traffic.",
+        "ru": "Не «корпоративный сайт с блогом». Инструменты, которые приводят платёжеспособных клиентов и конвертят дорогой трафик.",
+        "uk": "Не «корпоративний сайт з блогом». Інструменти, які приводять платоспроможних клієнтів і конвертять дорогий трафік."
+      },
+      "testimonial": {
+        "authorInitials": "MF",
+        "authorName": "Команда FinLiga",
+        "authorRole": {
+          "en": "accounting and financial support for business",
+          "ru": "бухгалтерское и финансовое сопровождение бизнеса",
+          "uk": "бухгалтерський та фінансовий супровід бізнесу"
+        },
+        "quote": {
+          "en": "After the redesign, the site has become much easier to show to clients. It looks more professional, the services have become clearer, and the calculator immediately closes the question of “how much can it cost.”",
+          "ru": "После редизайна сайт стало намного легче показывать клиентам. Он выглядит профессиональнее, услуги стали понятнее, а калькулятор сразу закрывает вопрос “сколько это может стоить”.",
+          "uk": "Після редизайну сайт стало набагато легше показувати клієнтам. Він виглядає професійніше, послуги стали зрозумілішими, а калькулятор одразу закриває питання “скільки це може коштувати”."
+        },
+        "rating": 5,
+        "reviewDate": "2026-06-04"
+      },
+      "testimonialEyebrow": {
+        "en": "CLIENT TESTIMONIAL",
+        "ru": "ОТЗЫВ КЛИЕНТА",
+        "uk": "ВІДГУК КЛІЄНТА"
+      }
+    },
+    {
+      "_key": "fin-sec-54",
+      "_type": "comparisonBlock",
+      "contact": {
+        "briefPlaceholder": {
+          "en": "What kind of site you need, what your goals are",
+          "ru": "Какой сайт нужен, какие цели",
+          "uk": "Який сайт потрібен, які цілі"
+        },
+        "channelPlaceholder": {
+          "en": "WhatsApp, phone, or email",
+          "ru": "Telegram, телефон или email",
+          "uk": "Telegram, телефон або email"
+        },
+        "foot": {
+          "en": "Or message us on WhatsApp — @fedirdev",
+          "ru": "Или сразу пишите в Telegram — @fedirdev",
+          "uk": "Або одразу пишіть у Telegram — @fedirdev"
+        },
+        "heading": {
+          "en": "Discuss your project",
+          "ru": "Обсудить проект",
+          "uk": "Обговорити проєкт"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "ru": "Как к вам обращаться",
+          "uk": "Як до вас звертатися"
+        },
+        "sub": {
+          "en": "Tell us briefly about your project — we’ll reply on WhatsApp within 1–2 hours during business hours.",
+          "ru": "Расскажите коротко о вашем проекте — ответим в Telegram в течение 1–2 часов в рабочее время.",
+          "uk": "Розкажіть коротко про ваш проєкт — відповімо в Telegram протягом 1–2 годин у робочий час."
+        },
+        "submitLabel": {
+          "en": "Send — we’ll reply within 1–2 hours",
+          "ru": "Отправить — ответим за 1–2 часа",
+          "uk": "Надіслати — відповімо за 1–2 години"
+        }
+      },
+      "ghostCta": {
+        "label": {
+          "en": "WordPress comparison →",
+          "ru": "Сравнение с WordPress →",
+          "uk": "Порівняння з WordPress →"
+        },
+        "type": "custom"
+      },
+      "heading": {
+        "en": "Why a custom-coded finance site beats a WordPress or Wix template",
+        "ru": "Почему кодовый сайт для финансовой компании лучше WordPress или Wix",
+        "uk": "Чому кодовий сайт для фінансової компанії кращий за WordPress або Wix"
+      },
+      "pricingHeading": {
+        "en": "Pricing for a finance firm website",
+        "ru": "Сколько стоит сайт фин-фирмы",
+        "uk": "Скільки коштує сайт фін-фірми"
+      },
+      "primaryCta": {
+        "label": {
+          "en": "Detailed page builder comparison →",
+          "ru": "Подробное сравнение конструкторов →",
+          "uk": "Детальне порівняння конструкторів →"
+        },
+        "type": "custom"
+      },
+      "rows": [
+        {
+          "_key": "fin-cr-55",
+          "custom": {
+            "en": "< 1 sec",
+            "ru": "< 1 сек",
+            "uk": "< 1 сек"
+          },
+          "param": {
+            "en": "Mobile speed",
+            "ru": "Скорость на mobile",
+            "uk": "Швидкість на mobile"
+          },
+          "wix": {
+            "en": "2-4 sec",
+            "ru": "2-4 сек",
+            "uk": "2-4 сек"
+          },
+          "wp": {
+            "en": "3-5 sec",
+            "ru": "3-5 сек",
+            "uk": "3-5 сек"
+          }
+        },
+        {
+          "_key": "fin-cr-56",
+          "custom": {
+            "en": "custom",
+            "ru": "кастомный",
+            "uk": "кастомний"
+          },
+          "param": {
+            "en": "Pricing calculator",
+            "ru": "Калькулятор стоимости",
+            "uk": "Калькулятор вартості"
+          },
+          "wix": {
+            "en": "Apps add-on",
+            "ru": "Apps add-on",
+            "uk": "Apps add-on"
+          },
+          "wp": {
+            "en": "plugin (buggy)",
+            "ru": "плагин (баги)",
+            "uk": "плагін (баги)"
+          }
+        },
+        {
+          "_key": "fin-cr-57",
+          "custom": {
+            "en": "full",
+            "ru": "полный",
+            "uk": "повний"
+          },
+          "param": {
+            "en": "Client portal",
+            "ru": "Личный кабинет",
+            "uk": "Особистий кабінет"
+          },
+          "wix": {
+            "en": "basic",
+            "ru": "базовый",
+            "uk": "базовий"
+          },
+          "wp": {
+            "en": "WooCommerce plugin",
+            "ru": "плагин WooCommerce",
+            "uk": "плагін WooCommerce"
+          }
+        },
+        {
+          "_key": "fin-cr-58",
+          "custom": {
+            "en": "via API",
+            "ru": "через API",
+            "uk": "через API"
+          },
+          "param": {
+            "en": "Xero / Sage integration",
+            "ru": "Интеграция с MEDoc / 1С",
+            "uk": "Інтеграція з MEDoc / 1С"
+          },
+          "wix": {
+            "en": "none",
+            "ru": "нет",
+            "uk": "немає"
+          },
+          "wp": {
+            "en": "manual CSV",
+            "ru": "вручную CSV",
+            "uk": "вручну CSV"
+          }
+        },
+        {
+          "_key": "fin-cr-59",
+          "custom": {
+            "en": "built-in",
+            "ru": "встроено",
+            "uk": "вбудовано"
+          },
+          "param": {
+            "en": "UTM segmentation",
+            "ru": "UTM-сегментация",
+            "uk": "UTM-сегментація"
+          },
+          "wix": {
+            "en": "basic",
+            "ru": "базовая",
+            "uk": "базова"
+          },
+          "wp": {
+            "en": "plugin",
+            "ru": "плагин",
+            "uk": "плагін"
+          }
+        },
+        {
+          "_key": "fin-cr-60",
+          "custom": {
+            "en": "Stripe / GoCardless",
+            "ru": "Stripe / LiqPay",
+            "uk": "Stripe / LiqPay"
+          },
+          "param": {
+            "en": "Recurring billing",
+            "ru": "Recurring billing",
+            "uk": "Recurring billing"
+          },
+          "wix": {
+            "en": "via integration",
+            "ru": "через интеграцию",
+            "uk": "через інтеграцію"
+          },
+          "wp": {
+            "en": "WC + Stripe",
+            "ru": "WooCommerce + Stripe",
+            "uk": "WooCommerce + Stripe"
+          }
+        },
+        {
+          "_key": "fin-cr-61",
+          "custom": {
+            "en": "high (GDPR + 2FA)",
+            "ru": "высокий (GDPR + 2FA)",
+            "uk": "високий (GDPR + 2FA)"
+          },
+          "param": {
+            "en": "Data security",
+            "ru": "Защита данных",
+            "uk": "Захист даних"
+          },
+          "wix": {
+            "en": "medium",
+            "ru": "средний",
+            "uk": "середній"
+          },
+          "wp": {
+            "en": "low",
+            "ru": "низкий",
+            "uk": "низький"
+          }
+        },
+        {
+          "_key": "fin-cr-62",
+          "custom": {
+            "en": "£4,500-7,500",
+            "ru": "$4.5-7.5k",
+            "uk": "$4.5-7.5k"
+          },
+          "param": {
+            "en": "3-year price",
+            "ru": "Стоимость за 3 года",
+            "uk": "Вартість за 3 роки"
+          },
+          "wix": {
+            "en": "£3,000-6,000",
+            "ru": "$3-6k",
+            "uk": "$3-6k"
+          },
+          "wp": {
+            "en": "£4,500-8,000",
+            "ru": "$4.5-8k",
+            "uk": "$4.5-8k"
+          }
+        }
+      ],
+      "tableCtaGhost": {
+        "en": "WordPress comparison →",
+        "ru": "Сравнение с WordPress →",
+        "uk": "Порівняння з WordPress →"
+      },
+      "tableCtaPrimary": {
+        "en": "Detailed page builder comparison →",
+        "ru": "Подробное сравнение конструкторов →",
+        "uk": "Детальне порівняння конструкторів →"
+      },
+      "tiers": [
+        {
+          "_key": "fin-tier-63",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "_type": "localizedString",
+            "en": "More details",
+            "ru": "Подробнее",
+            "uk": "Детальніше"
+          },
+          "includes": [
+            {
+              "_key": "v5FOIhYlayfgccE88t58fC",
+              "en": "Industry-ready structure",
+              "ru": "Готовая структура под вашу отрасль",
+              "uk": "Готова структура під вашу галузь"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t58jw",
+              "en": "Multilingualism",
+              "ru": "Мультиязычность",
+              "uk": "Мультимовність"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t58og",
+              "en": "Base integrations (CRM + payments)",
+              "ru": "Базовые интеграции (CRM + платежи)",
+              "uk": "Базові інтеграції (CRM + платежі)"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t58tQ",
+              "en": "Sanity CMS for filling out cases and a blog",
+              "ru": "Sanity CMS для заполнения кейсов и блога",
+              "uk": "Sanity CMS для заповнення кейсів та блогу"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "ru": "Что входит",
+            "uk": "Що входить"
+          },
+          "isPopular": false,
+          "price": {
+            "en": "£3,500",
+            "ru": "$3 500",
+            "uk": "$3 500"
+          },
+          "title": {
+            "en": "Industry Pro",
+            "ru": "Industry Pro",
+            "uk": "Industry Pro"
+          },
+          "weeks": {
+            "en": "4-6 weeks",
+            "ru": "4–6 недель",
+            "uk": "4–6 тижнів"
+          }
+        },
+        {
+          "_key": "fin-tier-64",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "_type": "localizedString",
+            "en": "More details",
+            "ru": "Подробнее",
+            "uk": "Детальніше"
+          },
+          "includes": [
+            {
+              "_key": "v5FOIhYlayfgccE88t58yA",
+              "en": "Everything in Industry Pro",
+              "ru": "Всё из Industry Pro",
+              "uk": "Все з Industry Pro"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t592u",
+              "en": "Deep integrations (3-5 systems)",
+              "ru": "Сложные интеграции (3–5 систем)",
+              "uk": "Складні інтеграції (3–5 систем)"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t597e",
+              "en": "Multi-language / multi-currency",
+              "ru": "Multi-language / multi-currency",
+              "uk": "Multi-language / multi-currency"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t59CO",
+              "en": "Dedicated landings per market / service",
+              "ru": "Отдельные лендинги под рынок / услугу",
+              "uk": "Окремі лендинги під ринок / послугу"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "ru": "Что входит",
+            "uk": "Що входить"
+          },
+          "isPopular": true,
+          "popularLabel": {
+            "en": "Popular",
+            "ru": "Популярный",
+            "uk": "Популярний"
+          },
+          "price": {
+            "en": "£6,500",
+            "ru": "$6 500",
+            "uk": "$6 500"
+          },
+          "title": {
+            "en": "Pro Plus",
+            "ru": "Pro Plus",
+            "uk": "Pro Plus"
+          },
+          "weeks": {
+            "en": "6-10 weeks",
+            "ru": "6–10 недель",
+            "uk": "6–10 тижнів"
+          }
+        },
+        {
+          "_key": "fin-tier-65",
+          "ctaGhost": true,
+          "ctaLabel": {
+            "_type": "localizedString",
+            "en": "More details",
+            "ru": "Подробнее",
+            "uk": "Детальніше"
+          },
+          "includes": [
+            {
+              "_key": "v5FOIhYlayfgccE88t59H8",
+              "en": "Everything in Pro Plus",
+              "ru": "Всё из Pro Plus",
+              "uk": "Все з Pro Plus"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t59Ls",
+              "en": "Custom business logic",
+              "ru": "Уникальная бизнес-логика",
+              "uk": "Унікальна бізнес-логіка"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t59Qc",
+              "en": "Custom platform / SaaS",
+              "ru": "Собственная платформа / SaaS",
+              "uk": "Власна платформа / SaaS"
+            },
+            {
+              "_key": "v5FOIhYlayfgccE88t59VM",
+              "en": "Programmatic landings (100+)",
+              "ru": "Программные landing pages (100+)",
+              "uk": "Програмні landing pages (100+)"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "ru": "Что входит",
+            "uk": "Що входить"
+          },
+          "isPopular": false,
+          "price": {
+            "en": "from £12,000",
+            "ru": "от $12 000",
+            "uk": "від $12 000"
+          },
+          "title": {
+            "en": "Custom",
+            "ru": "Custom",
+            "uk": "Custom"
+          },
+          "weeks": {
+            "en": "10+ weeks",
+            "ru": "10+ недель",
+            "uk": "10+ тижнів"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "fin-sec-66",
+      "_type": "faqBlock",
+      "heading": {
+        "en": "FAQ",
+        "ru": "Частые вопросы",
+        "uk": "Часті питання"
+      },
+      "items": [
+        {
+          "_key": "fin-fq-67",
+          "answer": {
+            "en": [
+              {
+                "_key": "fin-b-71",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-70",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Yes. Stripe and GoCardless for cards and Direct Debit, Worldpay where you need it. Recurring billing works out of the box: client pays once, then auto-monthly. 24-hour pre-charge reminders, self-serve pause."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "1ac4670c5b7f400ab3d633e9978fda0f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "4e6e6e59f685463fa6ea8f2f0fa789ae",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да. Stripe для международных клиентов, LiqPay или WayForPay для украинских. Recurring billing работает \"из коробки\": клиент оплачивает раз — дальше автоматически ежемесячно. Reminders за 24 часа до списания, возможность приостановить подписку без техподдержки."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "fin-b-69",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-68",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так. Stripe для міжнародних клієнтів, LiqPay або WayForPay для українських. Recurring billing працює \"з коробки\": клієнт оплачує раз — далі автоматично щомісяця. Reminders за 24 години до списання, можливість призупинити підписку без техпідтримки."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "Can I accept subscription (recurring) payments?",
+            "ru": "Могу ли я принимать оплату подписок (recurring billing)?",
+            "uk": "Чи можу я приймати оплату підписок (recurring billing)?"
+          }
+        },
+        {
+          "_key": "fin-fq-72",
+          "answer": {
+            "en": [
+              {
+                "_key": "fin-b-76",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-75",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Xero, Sage, QuickBooks, FreeAgent, plus HMRC Making Tax Digital. API integration: £500-1200 depending on complexity. If you use a different system, we connect."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "c33f9cd9f08544b0b26531402722a125",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d88957f512054aae9a6a07fde3dc1731",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "MEDoc, 1С/BAS, ifin (для украинских клиентов). Xero, QuickBooks, FreshBooks (для международных). Интеграция через API: $500-1200 в зависимости от сложности. Если у вас своя система — подключаем."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "fin-b-74",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-73",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "MEDoc, 1С/BAS, ifin (для українських клієнтів). Xero, QuickBooks, FreshBooks (для міжнародних). Інтеграція через API: $500-1200 залежно від складності. Якщо у вас своя система — підключаємо."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "Which accounting systems do you support?",
+            "ru": "Какие учётные системы поддерживаете?",
+            "uk": "Які облікові системи підтримуєте?"
+          }
+        },
+        {
+          "_key": "fin-fq-77",
+          "answer": {
+            "en": [
+              {
+                "_key": "fin-b-81",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-80",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "GDPR-compliant architecture. SSL required. AES-256 encrypted databases. 2FA access. Regular security audits. PCI DSS for card data: we use Stripe and GoCardless, so no card numbers are stored locally."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "7a73cf48d14f4913a133f05ebd92ff22",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1b86dfbd64ce481ba53617df8077f17e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "GDPR-compliant архитектура. SSL обязателен. Данные в зашифрованных базах (AES-256). Доступ через 2FA. Регулярные security audits. PCI DSS для работы с карточными данными — используем Stripe / LiqPay (не храним номера карт у нас)."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "fin-b-79",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-78",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "GDPR-compliant архітектура. SSL обовʼязковий. Дані в зашифрованих базах (AES-256). Доступ через 2FA. Регулярні security audits. PCI DSS для роботи з картковими даними — використовуємо Stripe / LiqPay (не зберігаємо номери карт у нас)."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "How is client financial data protected?",
+            "ru": "Как защищены финансовые данные клиентов?",
+            "uk": "Як захищені фінансові дані клієнтів?"
+          }
+        },
+        {
+          "_key": "fin-fq-82",
+          "answer": {
+            "en": [
+              {
+                "_key": "fin-b-86",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-85",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "UTM params from ads land in CRM with every lead. The report shows: which campaign, ad, audience produced the lead. The marketer updates UTMs on landings in 30 seconds via Sanity. GA4 + Meta Pixel + GTM integration."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "b9b6463bdd4549628553fb29ac303604",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9418e86b6c294de0abea148de7596b73",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "UTM-параметры из рекламы автоматически попадают в CRM с каждым лидом. В отчёте вы видите: какая кампания, объявление, аудитория дала лид. Маркетолог меняет UTM на лендингах за 30 секунд через Sanity. Интеграция с GA4 + Meta Pixel + GTM."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "fin-b-84",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-83",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "UTM-параметри з реклами автоматично потрапляють у CRM з кожним лідом. У звіті ви бачите: яка кампанія, оголошення, аудиторія дала лід. Маркетолог змінює UTM на лендингах за 30 секунд через Sanity. Інтеграція з GA4 + Meta Pixel + GTM."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "How is UTM segmentation set up for ad campaigns?",
+            "ru": "Как настроить UTM-сегментацию для рекламы?",
+            "uk": "Як налаштувати UTM-сегментацію для реклами?"
+          }
+        },
+        {
+          "_key": "fin-fq-87",
+          "answer": {
+            "en": [
+              {
+                "_key": "fin-b-91",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-90",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Yes. Xero integration or Stripe Invoicing generates invoices after payment, whether you're a sole trader or a limited company. PDF with your legal name, address and VAT number. The client gets it by email and via the client portal."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "85daf988ff0e42d7955a35e24d627e35",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5772901be3a5408d82d0ba840bc29b72",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да. Интеграция с MEDoc (для украинских ФОП / ООО) или Stripe Invoicing (международных) генерирует инвойсы после оплаты. PDF с вашим юр-адресом, реквизитами, ЕГРПОУ. Клиент получает на email + имеет доступ через личный кабинет."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "fin-b-89",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-88",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так. Інтеграція з MEDoc (для українських ФОП / ТОВ) або Stripe Invoicing (міжнародних) генерує інвойси після оплати. PDF з вашою юр-адресою, реквізитами, ЄДРПОУ. Клієнт отримує на email + має доступ через особистий кабінет."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "Can invoices be issued from the site automatically?",
+            "ru": "Можно ли выставлять инвойсы с сайта автоматически?",
+            "uk": "Чи можна виставляти інвойси з сайту автоматично?"
+          }
+        },
+        {
+          "_key": "fin-fq-92",
+          "answer": {
+            "en": [
+              {
+                "_key": "fin-b-96",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-95",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Anonymisation: business type (no name), revenue (range), what was optimised, how much was saved. Zero personal data. Before publishing — written client consent for the anonymised case. We help draft the consent template."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "a3f7fd25487e43c7a704bc01a69e1ea6",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "05559c80cda44412aca376def668aada",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Анонимизация: тип бизнеса (без имени), оборот (диапазон), что оптимизировали, сколько сэкономили. Никаких персональных данных. Перед публикацией — письменное согласие клиента на анонимизированный кейс. Шаблон согласия помогаем составить."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "fin-b-94",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fin-s-93",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Анонімізація: тип бізнесу (без імені), оборот (діапазон), що оптимізували, скільки зекономили. Жодних персональних даних. Перед публікацією — письмова згода клієнта на анонімізований кейс. Шаблон згоди допомагаємо скласти."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "I can’t publish real client cases — it would breach NDA. What then?",
+            "ru": "Я не хочу публиковать реальные кейсы клиентов — нарушу NDA. Что тогда?",
+            "uk": "Я не хочу публікувати реальні кейси клієнтів — порушу NDA. Що тоді?"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "fin-sec-97",
+      "_type": "auditBlock",
+      "disclaim": {
+        "en": "No obligation. Useful even if you choose a different vendor.",
+        "ru": "Без обязательств. Полезно, даже если решите работать с другим подрядчиком.",
+        "uk": "Без зобовʼязань. Корисно, навіть якщо вирішите працювати з іншим підрядником."
+      },
+      "heading": {
+        "en": "Free audit of your finance firm website",
+        "ru": "Бесплатный аудит сайта вашей фин-фирмы",
+        "uk": "Безкоштовний аудит сайту вашої фін-фірми"
+      },
+      "inputs": {
+        "contactPlaceholder": {
+          "en": "Email or WhatsApp",
+          "ru": "Email или Telegram",
+          "uk": "Email або Telegram"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "ru": "Ваше имя",
+          "uk": "Ваше імʼя"
+        },
+        "phonePlaceholder": {
+          "en": "Phone (optional)",
+          "ru": "Телефон (опционально)",
+          "uk": "Телефон (опціонально)"
+        },
+        "urlPlaceholder": {
+          "en": "Link to your site",
+          "ru": "Ссылка на ваш сайт",
+          "uk": "Посилання на ваш сайт"
+        }
+      },
+      "list": [
+        {
+          "_key": "v5FOIhYlayfgccE88t59a6",
+          "en": "Conversion analysis: 10-15 client drop-off points",
+          "ru": "Анализ конверсии: 10-15 точек потери клиентов",
+          "uk": "Аналіз конверсії: 10-15 точок втрати клієнтів"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t59eq",
+          "en": "SEO audit targeting finance queries in your region",
+          "ru": "SEO-аудит под фин-запросы вашего региона",
+          "uk": "SEO-аудит під фін-запити вашого регіону"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t59ja",
+          "en": "Mobile UX audit (67% of finance traffic is mobile)",
+          "ru": "Mobile UX-аудит (67% фин-трафика — mobile)",
+          "uk": "Mobile UX-аудит (67% фін-трафіку — mobile)"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t59oK",
+          "en": "Compliance audit: GDPR + financial data protection",
+          "ru": "Аудит compliance: GDPR + защита фин-данных",
+          "uk": "Аудит compliance: GDPR + захист фін-даних"
+        },
+        {
+          "_key": "v5FOIhYlayfgccE88t59t4",
+          "en": "Prioritised improvement plan + budget estimate",
+          "ru": "План улучшений с приоритетами + ориентировочный бюджет",
+          "uk": "План покращень з пріоритетами + орієнтовний бюджет"
+        }
+      ],
+      "sub": {
+        "en": "Drop a link to your current site. Detailed PDF report within 3 business days.",
+        "ru": "Оставьте ссылку на ваш текущий сайт. В течение 3 рабочих дней — детальный отчёт в PDF.",
+        "uk": "Залиште посилання на ваш поточний сайт. Протягом 3 робочих днів — детальний звіт у PDF."
+      },
+      "submitLabel": {
+        "en": "Get my free audit",
+        "ru": "Получить бесплатный аудит",
+        "uk": "Отримати безкоштовний аудит"
+      }
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "➤ Custom websites for UK accountants, IFAs & mortgage brokers ✔️ Client portal integration ✔️ GDPR compliant ✔️ Fixed price ✔️ Launched in 4 weeks ➡ Get a free quote.",
+      "ru": "➤ Кастомные сайты для бухгалтеров, финансовых консультантов и кредитных брокеров ✔️ Интеграция клиентского портала ✔️ Защита персональных данных ✔️ Фикс-цена ✔️ Запуск за 4 недели ➡ Получите бесплатный просчёт.",
+      "uk": "➤ Кастомні сайти для бухгалтерів, фінансових консультантів і кредитних брокерів ✔️ Інтеграція клієнтського порталу ✔️ Захист персональних даних ✔️ Фікс-ціна ✔️ Запуск за 4 тижні ➡ Отримайте безкоштовний прорахунок."
+    },
+    "title": {
+      "en": "ᐈ Accountant & Financial Advisor Website Design UK | Code-Site.Art",
+      "ru": "ᐈ Создание сайтов для бухгалтеров и финансовых консультантов | Code-Site.Art",
+      "uk": "ᐈ Створення сайтів для бухгалтерів і фінансових консультантів | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "finance"
+  },
+  "status": "published",
+  "title": {
+    "en": "Websites for finance & accounting firms",
+    "ru": "Сайты для финансовых и бухгалтерских фирм",
+    "uk": "Сайти для фінансових і бухгалтерських фірм"
+  }
+}

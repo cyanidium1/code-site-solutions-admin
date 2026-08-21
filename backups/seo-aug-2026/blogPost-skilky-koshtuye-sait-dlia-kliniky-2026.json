@@ -1,0 +1,1545 @@
+{
+  "_id": "691506aa-d76b-492c-b85d-62cc492db317",
+  "body": {
+    "en": [
+      {
+        "_key": "cw03c",
+        "_type": "tldrBox",
+        "items": [
+          "A clinic website in the UK costs **£3,500 to £12,000+** in 2026. The number tracks systems, not design.",
+          "**Core clinic website:** from £3,500 (up to 8 pages, online booking, practitioner directory, price list) — 4 weeks",
+          "**Extended:** from £6,500 (+ blog and SEO pages, insurance integration, clinic CRM) — 6 weeks",
+          "**Multi-site group:** from £12,000 (multi-location structure, full CRM integration, multilingual) — 8–10 weeks",
+          "A one-page brochure site without booking — from £800, but for a clinic it's a stopgap",
+          "At Code-Site.Art the sum is fixed in the contract before work starts."
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "cw03d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03e",
+            "_type": "span",
+            "marks": [],
+            "text": "Why a clinic website costs more than “just a website”"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw03f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03g",
+            "_type": "span",
+            "marks": [],
+            "text": "A practice owner googling “how much does a website cost” sees numbers from £300 to £15,000 — with nothing explaining the gap. The difference isn't design. A clinic website is four systems a regular corporate site doesn't have."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw03j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03h",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "1. Online booking that actually works. "
+          },
+          {
+            "_key": "cw03i",
+            "_type": "span",
+            "marks": [],
+            "text": "A large share of booking calls land outside opening hours — and go nowhere. A “leave your number” form doesn't fix it: younger patients don't want phone calls at all. Working online booking means picking a service, a practitioner and a time slot in 2 clicks, an SMS confirmation for the patient and a notification for reception. In the quote, that's an integration with your practice management system or CRM — £200 to £500 each."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw03m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03k",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "2. A practitioner directory with schedules. "
+          },
+          {
+            "_key": "cw03l",
+            "_type": "span",
+            "marks": [],
+            "text": "Patients don't book “the clinic” — they book a person. Cards with photos, credentials, specialisms and a live schedule are a separate data structure in the CMS, one your practice manager updates without a developer."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw03p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03n",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "3. A transparent price list that's easy to update. "
+          },
+          {
+            "_key": "cw03o",
+            "_type": "span",
+            "marks": [],
+            "text": "Clinics that hide prices lose patients at the comparison stage: opacity reads as “expensive”. A structured price list managed from the CMS — your marketer updates fees in 2 minutes."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw03s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03q",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "4. Compliance. "
+          },
+          {
+            "_key": "cw03r",
+            "_type": "span",
+            "marks": [],
+            "text": "CQC expectations, GMC/GDC advertising guidance, UK GDPR consent for patient data. Not a checkbox — incorrectly handled medical websites draw real regulatory attention."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw03t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03u",
+            "_type": "span",
+            "marks": [],
+            "text": "Everything else — design, build quality, speed, local SEO — is the same as any good website. But those four systems add £1,500–3,000 versus a regular corporate site. That's why a “£500 website” and a clinic website are different products."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw03v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03w",
+            "_type": "span",
+            "marks": [],
+            "text": "A core clinic website quote: £3,500 line by line"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw03x",
+        "_type": "blogTable",
+        "headers": [
+          "Line item",
+          "What's in it",
+          "Share of quote"
+        ],
+        "rows": [
+          {
+            "_key": "cw03y",
+            "_type": "blogTableRow",
+            "cells": [
+              "Structure & copy",
+              "brief, competitor analysis in your area, launch copywriting",
+              "~15%"
+            ]
+          },
+          {
+            "_key": "cw03z",
+            "_type": "blogTableRow",
+            "cells": [
+              "Design",
+              "a custom layout for your clinic, 2 rounds of revisions",
+              "~20%"
+            ]
+          },
+          {
+            "_key": "cw040",
+            "_type": "blogTableRow",
+            "cells": [
+              "Build",
+              "frontend, CMS (Sanity), load time under 1.5s",
+              "~30%"
+            ]
+          },
+          {
+            "_key": "cw041",
+            "_type": "blogTableRow",
+            "cells": [
+              "Online booking",
+              "booking form + integration with your CRM / practice system",
+              "~15%"
+            ]
+          },
+          {
+            "_key": "cw042",
+            "_type": "blogTableRow",
+            "cells": [
+              "Practitioner directory & price list",
+              "CMS-managed data structures",
+              "~10%"
+            ]
+          },
+          {
+            "_key": "cw043",
+            "_type": "blogTableRow",
+            "cells": [
+              "SEO & launch",
+              "local SEO for “dentist + area”, MedicalOrganization schema, Google Business Profile, analytics",
+              "~10%"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "cw044",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw045",
+            "_type": "span",
+            "marks": [],
+            "text": "Plus a year of warranty: fixes, updates and advice are in the price, not a separate invoice."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "en00h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "en00d",
+            "_type": "span",
+            "marks": [],
+            "text": "For a solo practice at the start, an "
+          },
+          {
+            "_key": "en00f",
+            "_type": "span",
+            "marks": [
+              "en00e"
+            ],
+            "text": "£800 landing page"
+          },
+          {
+            "_key": "en00g",
+            "_type": "span",
+            "marks": [],
+            "text": " may be enough — a separate format that grows into a full site later without a rebuild."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "en00e",
+            "_type": "link",
+            "href": "/en/landing",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "cw046",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw047",
+            "_type": "span",
+            "marks": [],
+            "text": "Where you can save — and where you can't"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw04a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw048",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "You can save on: "
+          },
+          {
+            "_key": "cw049",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw04b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw04c",
+            "_type": "span",
+            "marks": [],
+            "text": "Photography — launch with good stock and phone shots, add a professional shoot later"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw04d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw04e",
+            "_type": "span",
+            "marks": [],
+            "text": "A blog — the core site works without one; blog and SEO pages come after the main funnel works"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw04f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw04g",
+            "_type": "span",
+            "marks": [],
+            "text": "Languages — if 95% of your patients speak English, a second language can wait"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw04j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw04h",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "You can't save on: "
+          },
+          {
+            "_key": "cw04i",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw04k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw04l",
+            "_type": "span",
+            "marks": [],
+            "text": "Online booking — without it the site stays a brochure that doesn't take load off the phone line"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw04m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw04n",
+            "_type": "span",
+            "marks": [],
+            "text": "Mobile — 70%+ of clinic traffic is on phones"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw04o",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw04p",
+            "_type": "span",
+            "marks": [],
+            "text": "The price list — “call for prices” means the patient left to compare and didn't come back"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw04q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw04r",
+            "_type": "span",
+            "marks": [],
+            "text": "Compliance — regulatory follow-up costs more than an hour of a solicitor's time"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw04s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw04t",
+            "_type": "span",
+            "marks": [],
+            "text": "A real example: Efedra Clinic, Odesa"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw04y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw04v",
+            "_type": "span",
+            "marks": [],
+            "text": "A clinic with two arms — dentistry and aesthetic medicine — came to us with an old site that produced no enquiries. We rebuilt the structure around the two arms, added online booking and a CMS the team manages themselves. Six months on: 1,460 Google visits versus 340 in the previous half-year, impressions up from 1,820 to 13,000, and 3.2× more enquiries. Full breakdown — "
+          },
+          {
+            "_key": "cw04w",
+            "_type": "span",
+            "marks": [
+              "cw04u"
+            ],
+            "text": "in the Efedra case study"
+          },
+          {
+            "_key": "cw04x",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "cw04u",
+            "_type": "link",
+            "href": "/en/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "en00c",
+        "_type": "blogImage",
+        "alt": "Google Search Console report for the Efedra clinic website: growth from 340 to 1,460 clicks in 6 months",
+        "asset": {
+          "_ref": "image-069db3eb09c671f0c05d24e83203744402b348f1-1882x877-jpg",
+          "_type": "reference"
+        },
+        "caption": "A real client GSC report: Google clicks up 4× in half a year"
+      },
+      {
+        "_key": "cw04z",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/calculator",
+        "ctaLabel": "Calculate the price",
+        "ctaSecondaryHref": "/en/sites-for/medicine",
+        "ctaSecondaryLabel": "Get a site teardown",
+        "eyebrow": "Calculator",
+        "heading": "Want a number for your clinic?",
+        "sub": "The calculator prices your project in 60 seconds — full breakdown, no email gate, no sales call. Or send us your current site: within 24 hours you'll get a free teardown."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "cw01o",
+        "_type": "tldrBox",
+        "items": [
+          "Сайт клиники в 2026 стоит **от $3,500 до $12,000+**. Цифра зависит от систем, а не от дизайна.",
+          "**Базовый сайт клиники:** от $3,500 (до 8 страниц, онлайн-запись, каталог врачей, прайс) — 4 недели",
+          "**Расширенный:** от $6,500 (+ блог и SEO-страницы, ДМС-интеграция, медицинская CRM) — 6 недель",
+          "**Сеть клиник:** от $12,000 (мультифилиальность, полная CRM-интеграция, мультиязычность) — 8–10 недель",
+          "Лендинг-визитка без записи и каталога — от $800, но для клиники это временное решение",
+          "В Code-Site.Art сумма фиксируется в договоре до старта работ."
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "cw01p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01q",
+            "_type": "span",
+            "marks": [],
+            "text": "Почему сайт клиники стоит дороже, чем «просто сайт»"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw01r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01s",
+            "_type": "span",
+            "marks": [],
+            "text": "Владелец клиники, который гуглит «сколько стоит сайт», видит цифры от $300 до $15,000 — и не видит, чем они отличаются. Разница не в дизайне. Сайт клиники — это четыре системы, которых нет в обычном корпоративном сайте."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw01v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01t",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "1. Онлайн-запись, которая реально работает. "
+          },
+          {
+            "_key": "cw01u",
+            "_type": "span",
+            "marks": [],
+            "text": "60% звонков в клиники приходятся на нерабочее время — и теряются. Форма «оставьте номер, мы перезвоним» не спасает: молодая аудитория вообще не хочет звонить. Рабочая онлайн-запись — это выбор услуги, врача и времени за 2 клика, SMS-подтверждение пациенту и уведомление администратору. В смете это интеграция с вашей медицинской системой: Helsi, Medesk, Dental4Windows, KeyCRM — от $200 до $500 за каждую."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw01y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01w",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "2. Каталог врачей с расписанием. "
+          },
+          {
+            "_key": "cw01x",
+            "_type": "span",
+            "marks": [],
+            "text": "Пациент записывается не «в клинику», а к конкретному врачу. Карточки с фото, регалиями, специализацией и реальным расписанием — это отдельная структура данных в админке, которую ваш администратор обновляет сам, без разработчика."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw021",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01z",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "3. Прозрачный прайс, который легко обновлять. "
+          },
+          {
+            "_key": "cw020",
+            "_type": "span",
+            "marks": [],
+            "text": "Клиники без цен на сайте теряют пациентов на этапе сравнения: непрозрачность читается как «дорого». Структурированный прайс-лист с управлением из админки — маркетолог меняет цены за 2 минуты."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw024",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw022",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "4. Юридическая корректность. "
+          },
+          {
+            "_key": "cw023",
+            "_type": "span",
+            "marks": [],
+            "text": "Требования к рекламе медуслуг, согласие на обработку персональных данных, GDPR для клиник с иностранными пациентами. Это не «галочка» — за некорректное оформление медицинского сайта приходят реальные предписания."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw025",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw026",
+            "_type": "span",
+            "marks": [],
+            "text": "Остальное — дизайн, вёрстка, скорость, локальное SEO — такое же, как у любого качественного сайта. Но эти четыре системы добавляют к смете $1,500–3,000 по сравнению с обычным корпоративным сайтом. Поэтому «сайт от $500» и «сайт для клиники» — разные продукты."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw027",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw028",
+            "_type": "span",
+            "marks": [],
+            "text": "Смета базового сайта клиники: $3,500 постатейно"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw029",
+        "_type": "blogTable",
+        "headers": [
+          "Статья",
+          "Что входит",
+          "Доля сметы"
+        ],
+        "rows": [
+          {
+            "_key": "cw02a",
+            "_type": "blogTableRow",
+            "cells": [
+              "Структура и тексты",
+              "бриф, анализ конкурентов в вашем районе, стартовый копирайтинг",
+              "~15%"
+            ]
+          },
+          {
+            "_key": "cw02b",
+            "_type": "blogTableRow",
+            "cells": [
+              "Дизайн",
+              "кастомный макет под вашу клинику, 2 раунда правок",
+              "~20%"
+            ]
+          },
+          {
+            "_key": "cw02c",
+            "_type": "blogTableRow",
+            "cells": [
+              "Разработка",
+              "вёрстка, админка (Sanity), скорость <1,5 с",
+              "~30%"
+            ]
+          },
+          {
+            "_key": "cw02d",
+            "_type": "blogTableRow",
+            "cells": [
+              "Онлайн-запись",
+              "форма записи + интеграция с вашей CRM / медсистемой",
+              "~15%"
+            ]
+          },
+          {
+            "_key": "cw02e",
+            "_type": "blogTableRow",
+            "cells": [
+              "Каталог врачей и прайс",
+              "структуры данных, управляемые из админки",
+              "~10%"
+            ]
+          },
+          {
+            "_key": "cw02f",
+            "_type": "blogTableRow",
+            "cells": [
+              "SEO и запуск",
+              "локальное SEO под «стоматолог + район», Schema.org MedicalOrganization, Google Business Profile, аналитика",
+              "~10%"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "cw02g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02h",
+            "_type": "span",
+            "marks": [],
+            "text": "Плюс год гарантии: исправления, обновления, консультации — уже в цене, не отдельным счётом."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "en00b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "en007",
+            "_type": "span",
+            "marks": [],
+            "text": "Для частного кабинета на старте может хватить "
+          },
+          {
+            "_key": "en009",
+            "_type": "span",
+            "marks": [
+              "en008"
+            ],
+            "text": "лендинга за $800"
+          },
+          {
+            "_key": "en00a",
+            "_type": "span",
+            "marks": [],
+            "text": " — отдельный формат, который позже дорастает до полного сайта без переделки."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "en008",
+            "_type": "link",
+            "href": "/ru/landing",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "cw02i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02j",
+            "_type": "span",
+            "marks": [],
+            "text": "На чём можно экономить — и на чём нельзя"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw02m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02k",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Можно: "
+          },
+          {
+            "_key": "cw02l",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw02n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02o",
+            "_type": "span",
+            "marks": [],
+            "text": "Фотосъёмка — стартуем с качественным стоком и фото с телефона, профессиональную съёмку добавляете позже"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw02p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02q",
+            "_type": "span",
+            "marks": [],
+            "text": "Блог — базовый сайт работает без него; блог и SEO-страницы докупаются, когда основной поток налажен"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw02r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02s",
+            "_type": "span",
+            "marks": [],
+            "text": "Мультиязычность — если 95% пациентов говорят на одном языке, второй язык может подождать"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw02v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02t",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Нельзя: "
+          },
+          {
+            "_key": "cw02u",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw02w",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02x",
+            "_type": "span",
+            "marks": [],
+            "text": "Онлайн-запись — без неё сайт остаётся визиткой, которая не снимает нагрузку с телефона"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw02y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02z",
+            "_type": "span",
+            "marks": [],
+            "text": "Мобильная версия — 70%+ трафика клиник идёт с телефонов"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw030",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw031",
+            "_type": "span",
+            "marks": [],
+            "text": "Прайс — «цены по телефону» значит, что пациент ушёл сравнивать к конкуренту и не вернулся"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw032",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw033",
+            "_type": "span",
+            "marks": [],
+            "text": "Юридическая корректность — предписания дороже часа работы юриста"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw034",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw035",
+            "_type": "span",
+            "marks": [],
+            "text": "Реальный пример: клиника «Эфедра», Одесса"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw03a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw037",
+            "_type": "span",
+            "marks": [],
+            "text": "Клиника с двумя направлениями — стоматология и эстетическая медицина — пришла со старым сайтом, который не приносил заявок. Мы переработали структуру под два направления, добавили онлайн-запись и управляемую админку. Через 6 месяцев: 1,460 переходов из Google против 340 за предыдущие полгода, показы выросли с 1,820 до 13,000, заявок — в 3,2 раза больше. Полный разбор — "
+          },
+          {
+            "_key": "cw038",
+            "_type": "span",
+            "marks": [
+              "cw036"
+            ],
+            "text": "в кейсе «Эфедра»"
+          },
+          {
+            "_key": "cw039",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "cw036",
+            "_type": "link",
+            "href": "/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "en006",
+        "_type": "blogImage",
+        "alt": "Отчёт Google Search Console сайта клиники «Эфедра»: рост с 340 до 1 460 переходов за 6 месяцев",
+        "asset": {
+          "_ref": "image-069db3eb09c671f0c05d24e83203744402b348f1-1882x877-jpg",
+          "_type": "reference"
+        },
+        "caption": "Реальный отчёт GSC клиента: переходы из Google выросли в 4 раза за полгода"
+      },
+      {
+        "_key": "cw03b",
+        "_type": "ctaCallout",
+        "ctaHref": "/calculator",
+        "ctaLabel": "Рассчитать цену",
+        "ctaSecondaryHref": "/ru/sites-for/medicine",
+        "ctaSecondaryLabel": "Получить разбор сайта",
+        "eyebrow": "Калькулятор",
+        "heading": "Хотите цифру под вашу клинику?",
+        "sub": "Калькулятор за 60 секунд посчитает вилку под ваш проект — с разбивкой, без email и разговора с менеджером. Или пришлите ссылку на текущий сайт: за 24 часа вернём бесплатный разбор."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "cw000",
+        "_type": "tldrBox",
+        "items": [
+          "Сайт клініки у 2026 коштує **від $3,500 до $12,000+**. Цифра залежить від систем, а не від дизайну.",
+          "**Базовий сайт клініки:** від $3,500 (до 8 сторінок, онлайн-запис, каталог лікарів, прайс) — 4 тижні",
+          "**Розширений:** від $6,500 (+ блог і SEO-сторінки, ДМС-інтеграція, медична CRM) — 6 тижнів",
+          "**Мережа клінік:** від $12,000 (багатофіліальність, повна CRM-інтеграція, багатомовність) — 8–10 тижнів",
+          "Лендінг-візитка без запису й каталогу — від $800, але для клініки це тимчасове рішення",
+          "У Code-Site.Art сума фіксується в договорі до старту робіт."
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "cw001",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw002",
+            "_type": "span",
+            "marks": [],
+            "text": "Чому сайт клініки коштує дорожче за «просто сайт»"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw003",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw004",
+            "_type": "span",
+            "marks": [],
+            "text": "Власник клініки, який гуглить «скільки коштує сайт», бачить цифри від $300 до $15,000 — і не бачить, чим вони відрізняються. Різниця не в дизайні. Сайт клініки — це чотири системи, яких немає у звичайному корпоративному сайті."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw007",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw005",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "1. Онлайн-запис, який реально працює. "
+          },
+          {
+            "_key": "cw006",
+            "_type": "span",
+            "marks": [],
+            "text": "60% дзвінків у клініки припадають на неробочий час — і губляться. Форма «залиште номер, ми передзвонимо» не рятує: молода аудиторія не хоче дзвінків взагалі. Робочий онлайн-запис — це вибір послуги, лікаря і часу за 2 кліки, SMS-підтвердження пацієнту і сповіщення адміністратору. У кошторисі це інтеграція з вашою медичною системою: Helsi, Medesk, Dental4Windows, KeyCRM — від $200 до $500 за кожну."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw00a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw008",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "2. Каталог лікарів із розкладом. "
+          },
+          {
+            "_key": "cw009",
+            "_type": "span",
+            "marks": [],
+            "text": "Пацієнт записується не «в клініку», а до конкретного лікаря. Картки з фото, регаліями, спеціалізацією і реальним розкладом — це окрема структура даних в адмінці, яку ваш адміністратор оновлює сам, без розробника."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw00d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw00b",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "3. Прозорий прайс, який легко оновлювати. "
+          },
+          {
+            "_key": "cw00c",
+            "_type": "span",
+            "marks": [],
+            "text": "Клініки без цін на сайті втрачають пацієнтів на етапі порівняння: непрозорість читається як «дорого». Структурований прайс-лист із керуванням з адмінки — маркетолог змінює ціни за 2 хвилини."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw00g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw00e",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "4. Юридична коректність. "
+          },
+          {
+            "_key": "cw00f",
+            "_type": "span",
+            "marks": [],
+            "text": "Вимоги МОЗ до реклами медпослуг, згода на обробку персональних даних, GDPR для клінік з іноземними пацієнтами. Це не «галочка» — за некоректне оформлення медичного сайту прилітають реальні приписи."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw00h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw00i",
+            "_type": "span",
+            "marks": [],
+            "text": "Решта — дизайн, верстка, швидкість, локальне SEO — така сама, як у будь-якого якісного сайту. Але ці чотири системи додають до кошторису $1,500–3,000 порівняно зі звичайним корпоративним сайтом. Тому «сайт від $500» і «сайт для клініки» — різні продукти."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw00j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw00k",
+            "_type": "span",
+            "marks": [],
+            "text": "Кошторис базового сайту клініки: $3,500 постатейно"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw00l",
+        "_type": "blogTable",
+        "headers": [
+          "Стаття",
+          "Що входить",
+          "Частка кошторису"
+        ],
+        "rows": [
+          {
+            "_key": "cw00m",
+            "_type": "blogTableRow",
+            "cells": [
+              "Структура і тексти",
+              "бриф, аналіз конкурентів у вашому районі, стартовий копірайтинг",
+              "~15%"
+            ]
+          },
+          {
+            "_key": "cw00n",
+            "_type": "blogTableRow",
+            "cells": [
+              "Дизайн",
+              "кастомний макет під вашу клініку, 2 раунди правок",
+              "~20%"
+            ]
+          },
+          {
+            "_key": "cw00o",
+            "_type": "blogTableRow",
+            "cells": [
+              "Розробка",
+              "верстка, адмінка (Sanity), швидкість <1,5 с",
+              "~30%"
+            ]
+          },
+          {
+            "_key": "cw00p",
+            "_type": "blogTableRow",
+            "cells": [
+              "Онлайн-запис",
+              "форма запису + інтеграція з вашою CRM / медсистемою",
+              "~15%"
+            ]
+          },
+          {
+            "_key": "cw00q",
+            "_type": "blogTableRow",
+            "cells": [
+              "Каталог лікарів і прайс",
+              "структури даних, керовані з адмінки",
+              "~10%"
+            ]
+          },
+          {
+            "_key": "cw00r",
+            "_type": "blogTableRow",
+            "cells": [
+              "SEO і запуск",
+              "локальне SEO під «стоматолог + район», Schema.org MedicalOrganization, Google Business Profile, аналітика",
+              "~10%"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "cw00s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw00t",
+            "_type": "span",
+            "marks": [],
+            "text": "Плюс рік гарантії: виправлення, оновлення, консультації — вже в ціні, не окремим рахунком."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "en005",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "en001",
+            "_type": "span",
+            "marks": [],
+            "text": "Для приватного кабінету на старті може вистачити "
+          },
+          {
+            "_key": "en003",
+            "_type": "span",
+            "marks": [
+              "en002"
+            ],
+            "text": "лендінга за $800"
+          },
+          {
+            "_key": "en004",
+            "_type": "span",
+            "marks": [],
+            "text": " — окремий формат, який пізніше доростає до повного сайту без переробки."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "en002",
+            "_type": "link",
+            "href": "/landing",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "cw00u",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw00v",
+            "_type": "span",
+            "marks": [],
+            "text": "На чому можна економити — і на чому не можна"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw00y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw00w",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Можна: "
+          },
+          {
+            "_key": "cw00x",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw00z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw010",
+            "_type": "span",
+            "marks": [],
+            "text": "Фотозйомка — стартуємо з якісним стоком і фото з телефона, професійну зйомку додаєте пізніше"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw011",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw012",
+            "_type": "span",
+            "marks": [],
+            "text": "Блог — базовий сайт працює без нього; блог і SEO-сторінки докуповуються, коли основний потік налагоджено"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw013",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw014",
+            "_type": "span",
+            "marks": [],
+            "text": "Багатомовність — якщо 95% пацієнтів україномовні, друга мова може почекати"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw017",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw015",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Не можна: "
+          },
+          {
+            "_key": "cw016",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw018",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw019",
+            "_type": "span",
+            "marks": [],
+            "text": "Онлайн-запис — без нього сайт залишається візиткою, яка не знімає навантаження з телефона"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw01a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01b",
+            "_type": "span",
+            "marks": [],
+            "text": "Мобільна версія — 70%+ трафіку клінік іде з телефонів"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw01c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01d",
+            "_type": "span",
+            "marks": [],
+            "text": "Прайс — «ціни за телефоном» означає, що пацієнт пішов порівнювати до конкурента і не повернувся"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw01e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01f",
+            "_type": "span",
+            "marks": [],
+            "text": "Юридична коректність — приписи МОЗ дорожчі за годину роботи юриста"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw01g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01h",
+            "_type": "span",
+            "marks": [],
+            "text": "Реальний приклад: клініка «Ефедра», Одеса"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw01m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01j",
+            "_type": "span",
+            "marks": [],
+            "text": "Клініка з двома напрямками — стоматологія і естетична медицина — прийшла зі старим сайтом, який не приносив заявок. Ми переробили структуру під два напрямки, додали онлайн-запис і керовану адмінку. Через 6 місяців: 1,460 переходів із Google проти 340 за попередні пів року, покази зросли з 1,820 до 13,000, заявок — у 3,2 раза більше. Повний розбір — "
+          },
+          {
+            "_key": "cw01k",
+            "_type": "span",
+            "marks": [
+              "cw01i"
+            ],
+            "text": "у кейсі «Ефедра»"
+          },
+          {
+            "_key": "cw01l",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "cw01i",
+            "_type": "link",
+            "href": "/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "en000",
+        "_type": "blogImage",
+        "alt": "Звіт Google Search Console сайту клініки «Ефедра»: зростання з 340 до 1 460 переходів за 6 місяців",
+        "asset": {
+          "_ref": "image-069db3eb09c671f0c05d24e83203744402b348f1-1882x877-jpg",
+          "_type": "reference"
+        },
+        "caption": "Реальний звіт GSC клієнта: переходи з Google виросли в 4 рази за пів року"
+      },
+      {
+        "_key": "cw01n",
+        "_type": "ctaCallout",
+        "ctaHref": "/calculator",
+        "ctaLabel": "Розрахувати ціну",
+        "ctaSecondaryHref": "/sites-for/medicine",
+        "ctaSecondaryLabel": "Отримати розбір сайту",
+        "eyebrow": "Калькулятор",
+        "heading": "Хочете цифру під вашу клініку?",
+        "sub": "Калькулятор за 60 секунд порахує вилку під ваш проєкт — з розбивкою, без email і розмови з менеджером. Або надішліть посилання на поточний сайт: за 24 години повернемо безкоштовний розбір."
+      }
+    ]
+  },
+  "slug": "skilky-koshtuye-sait-dlia-kliniky-2026"
+}

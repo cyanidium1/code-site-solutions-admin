@@ -1,0 +1,37 @@
+{
+  "_id": "f5eb3ad4-86b9-4923-97ae-4c513ff93264",
+  "lede": {
+    "en": "A practice, a clinic and a hospital all ask for \"a website\" — but mean three different tools with budgets from £800 to £12,000+. Here's which format is yours and how not to overpay.",
+    "ru": "Кабинет, клиника и больница просят «сайт» — но имеют в виду три разных инструмента с бюджетами от $800 до $12,000+. Разбираем, какой формат ваш и как не переплатить.",
+    "uk": "Кабінет, клініка і лікарня просять «сайт» — але мають на увазі три різні інструменти з бюджетами від $800 до $12,000+. Розбираємо, який формат ваш і як не переплатити."
+  },
+  "metaDescription": {
+    "en": "➤ A practice needs a landing from £800, a clinic a site from £3,500, a hospital from £12,000 ✔️ A format comparison table ✔️ How not to overbuy ➡ The breakdown.",
+    "ru": "➤ Кабинет — лендинг от $800, клиника — сайт от $3,500, больница — от $12,000 ✔️ Сравнительная таблица форматов ✔️ Как не купить лишнее ➡ Разбор.",
+    "uk": "➤ Кабінет — лендінг від $800, клініка — сайт від $3,500, лікарня — від $12,000 ✔️ Порівняльна таблиця форматів ✔️ Як не купити зайве ➡ Розбір."
+  },
+  "metaTitle": {
+    "en": "Hospital vs Private-Practice Website: Formats & Prices | Code-Site.Art",
+    "ru": "Сайт для больницы vs частного кабинета: форматы и цены | Code-Site.Art",
+    "uk": "Сайт для лікарні vs приватного кабінету: формати і ціни | Code-Site.Art"
+  },
+  "slugs": {
+    "en": {
+      "_type": "slug",
+      "current": "hospital-vs-private-practice-website"
+    },
+    "ru": {
+      "_type": "slug",
+      "current": "sayt-dlya-bolnicy-vs-chastnyy-kabinet"
+    },
+    "uk": {
+      "_type": "slug",
+      "current": "sait-dlia-likarni-vs-pryvatnyi-kabinet"
+    }
+  },
+  "title": {
+    "en": "A Hospital Website and a Private-Practice Website Are Different Products",
+    "ru": "Сайт для больницы и сайт для частного кабинета — это разные продукты",
+    "uk": "Сайт для лікарні і сайт для приватного кабінету — це різні продукти"
+  }
+}

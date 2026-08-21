@@ -1,0 +1,37 @@
+{
+  "_id": "5ce54be0-e777-4111-858c-7b31e06406d6",
+  "lede": {
+    "en": "\"Make it dark, it's stylish\" is not an argument. Code-Site.Art's lead designer explains who gains sales from dark, who gains trust from light — and why a toggle costs more than it seems.",
+    "ru": "«Сделайте тёмную, это стильно» — не аргумент. Лид-дизайнер Code-Site.Art объясняет, кому тёмная тема добавляет продаж, кому светлая — доверия, и почему переключатель стоит дороже, чем кажется.",
+    "uk": "«Зробіть темну, це стильно» — не аргумент. Лід-дизайнерка Code-Site.Art пояснює, кому темна тема додає продажів, кому світла — довіри, і чому перемикач коштує дорожче, ніж здається."
+  },
+  "metaDescription": {
+    "en": "➤ Dark for tech and premium, light for trust and healthcare ✔️ 50+ audiences, long-form text, WCAG contrast ✔️ 4 questions to choose ➡ A lead designer's take.",
+    "ru": "➤ Тёмная тема — техно и премиум, светлая — доверие и медицина ✔️ Аудитория 50+, длинные тексты, контраст WCAG ✔️ 4 вопроса для выбора ➡ Разбор лид-дизайнера.",
+    "uk": "➤ Темна тема — техно і преміум, світла — довіра і медицина ✔️ Аудиторія 50+, довгі тексти, контраст WCAG ✔️ 4 питання для вибору ➡ Розбір лід-дизайнерки."
+  },
+  "metaTitle": {
+    "en": "Dark vs Light Website Theme: What a Business Should Pick | Code-Site.Art",
+    "ru": "Тёмная или светлая тема сайта: что выбрать бизнесу | Code-Site.Art",
+    "uk": "Темна чи світла тема сайту: що обрати бізнесу | Code-Site.Art"
+  },
+  "slugs": {
+    "en": {
+      "_type": "slug",
+      "current": "dark-vs-light-website-theme"
+    },
+    "ru": {
+      "_type": "slug",
+      "current": "tyomnaya-ili-svetlaya-tema-sayta"
+    },
+    "uk": {
+      "_type": "slug",
+      "current": "temna-chy-svitla-tema-saitu"
+    }
+  },
+  "title": {
+    "en": "Dark or Light Theme for a Business Website: When Each One Sells",
+    "ru": "Тёмная или светлая тема для бизнес-сайта: когда какая продаёт",
+    "uk": "Темна чи світла тема для бізнес-сайту: коли яка продає"
+  }
+}

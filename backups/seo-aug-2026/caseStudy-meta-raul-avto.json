@@ -1,0 +1,27 @@
+{
+  "_id": "f04e8b4d-3da4-4cd6-b47f-55b62b77da21",
+  "metricsLine": {
+    "_type": "localizedString",
+    "en": "1 cost calculator · 3 languages: UA, RU, EN · 5+ enquiry entry points · SEO structure for search",
+    "ru": "1 калькулятор стоимости · 3 языка: UA, RU, EN · 5+ точек входа в заявку · SEO-структура под поиск",
+    "uk": "1 калькулятор вартості · 3 мови: UA, RU, EN · 5+ точок входу в заявку · SEO-структура під пошук"
+  },
+  "seo": {
+    "description": {
+      "en": "➤ US car delivery service ✔️ Import & customs support ✔️ Trust-building structure ✔️ Clear CTA conversion ➡ See the full case study.",
+      "ru": "Raul Avto — компания, которая помогает клиентам покупать, доставлять и растаможивать автомобили из США.\nМы разработали сайт, который объясняет сложную услугу простым языком, формирует доверие к компании и приводит пользователя к заявке через понятную структуру, калькулятор стоимости и SEO-ориентированный контент.",
+      "uk": "Raul Avto — компанія, яка допомагає клієнтам купувати, доставляти та розмитнювати автомобілі зі США.\nМи розробили сайт, який пояснює складну послугу простою мовою, формує довіру до компанії та приводить користувача до заявки через зрозумілу структуру, калькулятор вартості та SEO-орієнтований контент."
+    },
+    "title": {
+      "en": "ᐈ Raul Avto — Car Import & Delivery Website Case Study | Code-Site.Art",
+      "ru": "Raul Avto — сайт для компании по доставке авто из США",
+      "uk": "Raul Avto — сайт для компанії з доставки авто зі США"
+    }
+  },
+  "slug": "raul-avto",
+  "title": {
+    "en": "Raul Avto",
+    "ru": "Raul Avto",
+    "uk": "Raul Avto"
+  }
+}

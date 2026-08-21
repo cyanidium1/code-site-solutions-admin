@@ -1,0 +1,1674 @@
+{
+  "_id": "545055df-57c5-4936-80aa-af8f0b818f42",
+  "body": {
+    "en": [
+      {
+        "_key": "mt08a",
+        "_type": "tldrBox",
+        "items": [
+          "Patients decide whether to trust a clinic within the **first 5 seconds** on its website.",
+          "Trust is built by **real photos**, a calm palette, a visible booking button, transparent prices",
+          "Trust is killed by stock smiles, carousels, aggressive popups, small grey text",
+          "Speed is design too: a beautiful but slow site loses patients",
+          "Our case: the Efedra clinic redesign delivered **3.2× more enquiries**"
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "mt08b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt08c",
+            "_type": "span",
+            "marks": [],
+            "text": "The 5 seconds that decide everything"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt08d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt08e",
+            "_type": "span",
+            "marks": [],
+            "text": "A patient opens 3–5 clinic websites in a row and compares. A few seconds each. In that time they don't read copy — they read signals. Tidy or not. Real people or stock. Obvious where to click, or not. Design is the first trust filter, and it does its work before the patient learns anything about your practitioners."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt08f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt08g",
+            "_type": "span",
+            "marks": [],
+            "text": "What builds trust"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt08j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt08h",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Real photos of practitioners and rooms. "
+          },
+          {
+            "_key": "mt08i",
+            "_type": "span",
+            "marks": [],
+            "text": "Stock reads instantly and works against you: \"if they hide their own doctors — what else are they hiding?\" Even tidy phone photos beat perfect stock."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt08m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt08k",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "A calm palette with one accent. "
+          },
+          {
+            "_key": "mt08l",
+            "_type": "span",
+            "marks": [],
+            "text": "Healthcare is light and air. One accent colour — for the booking button and key actions, no more."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt08p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt08n",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "A booking button on every screen. "
+          },
+          {
+            "_key": "mt08o",
+            "_type": "span",
+            "marks": [],
+            "text": "Patient ready on screen three? Button's right there. Scrolled to the price list? Button's right there. Don't make them hunt."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt08s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt08q",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Typography for a 60+ audience. "
+          },
+          {
+            "_key": "mt08r",
+            "_type": "span",
+            "marks": [],
+            "text": "At least 16px body text and high contrast. If a grandmother can't read the price list, you've lost her — and the daughter who opened the site for her."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt08v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt08t",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "The price list as a design element. "
+          },
+          {
+            "_key": "mt08u",
+            "_type": "span",
+            "marks": [],
+            "text": "Not a PDF download, not \"call for prices\" — a tidy table that's easy to scroll on a phone."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt08w",
+        "_type": "blogImage",
+        "alt": "A designer working on a medical website layout",
+        "asset": {
+          "_ref": "image-3b348e18590ad06854d7d624c981346c3bb02279-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "A medical site layout: a trust palette and a visible booking button — before the first pixel of code"
+      },
+      {
+        "_key": "mt08x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt08y",
+            "_type": "span",
+            "marks": [],
+            "text": "What scares patients off"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt08z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt090",
+            "_type": "span",
+            "marks": [],
+            "text": "Stock models in white coats with perfect smiles"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt091",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt092",
+            "_type": "span",
+            "marks": [],
+            "text": "Full-screen carousels that rotate on their own"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt093",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt094",
+            "_type": "span",
+            "marks": [],
+            "text": "\"Sale! Discount!\" popups in the first 3 seconds — this is healthcare, not a clearance"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt095",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt096",
+            "_type": "span",
+            "marks": [],
+            "text": "Small light-grey text on white"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt097",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt098",
+            "_type": "span",
+            "marks": [],
+            "text": "A booking button you have to hunt for in a menu"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt099",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt09a",
+            "_type": "span",
+            "marks": [],
+            "text": "Teardown: the Efedra redesign"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt09f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt09b",
+            "_type": "span",
+            "marks": [],
+            "text": "An Odesa clinic came to us with an old site: confusing structure, dated design, buttons nobody noticed. We rebuilt everything around its two arms — dentistry and aesthetic medicine — with separate lead forms for each. The result: 3.2× more enquiries. Full breakdown — "
+          },
+          {
+            "_key": "mt09d",
+            "_type": "span",
+            "marks": [
+              "mt09c"
+            ],
+            "text": "in the case study"
+          },
+          {
+            "_key": "mt09e",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "mt09c",
+            "_type": "link",
+            "href": "/en/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "mt09g",
+        "_type": "blogImage",
+        "alt": "The Efedra clinic website after the redesign",
+        "asset": {
+          "_ref": "image-0f9f63b7b74b1dbef84b9097aabceb69f206475e-2896x2172-png",
+          "_type": "reference"
+        },
+        "caption": "Efedra after the redesign: two arms, separate lead forms, 3.2× more enquiries"
+      },
+      {
+        "_key": "mt09h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt09i",
+            "_type": "span",
+            "marks": [],
+            "text": "Speed is design too"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt09j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt09k",
+            "_type": "span",
+            "marks": [],
+            "text": "The most beautiful layout doesn't work if it takes 5 seconds to load: the patient is already back in the search results. That's why our design ships with engineering: animations that don't lag, images optimised for mobile, Lighthouse 90+. Beautiful means fast, too."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt09l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt09m",
+            "_type": "span",
+            "marks": [],
+            "text": "Score your own site: 10 questions"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt09n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt09o",
+            "_type": "span",
+            "marks": [],
+            "text": "Does the site show real photos of your team?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt09p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt09q",
+            "_type": "span",
+            "marks": [],
+            "text": "Is the booking button visible on every screen?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt09r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt09s",
+            "_type": "span",
+            "marks": [],
+            "text": "Does the price list open without PDFs or phone calls?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt09t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt09u",
+            "_type": "span",
+            "marks": [],
+            "text": "Is the body text readable on a phone without zooming?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt09v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt09w",
+            "_type": "span",
+            "marks": [],
+            "text": "Does the site load in under 2 seconds?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt09x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt09y",
+            "_type": "span",
+            "marks": [],
+            "text": "Is it clear within 5 seconds what clinic this is and where?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt09z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0a0",
+            "_type": "span",
+            "marks": [],
+            "text": "Are there photos of the rooms and equipment?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0a1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0a2",
+            "_type": "span",
+            "marks": [],
+            "text": "Do the reviews look real, with names?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0a3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0a4",
+            "_type": "span",
+            "marks": [],
+            "text": "No auto-carousels or aggressive popups?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0a5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0a6",
+            "_type": "span",
+            "marks": [],
+            "text": "Has the design gone unchanged for 5+ years? If so — it's time."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0a7",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0a8",
+            "_type": "span",
+            "marks": [],
+            "text": "Fewer than 7 \"yes\" answers — your site is handing patients to competitors before the first call."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0a9",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/contacts",
+        "ctaLabel": "Get the teardown",
+        "ctaSecondaryHref": "/en/sites-for/medicine",
+        "ctaSecondaryLabel": "Clinic solutions",
+        "eyebrow": "Design teardown",
+        "heading": "Want a designer's eye on your site?",
+        "sub": "Send the link — within 24 hours you'll get a teardown: what in the design works against you and what it costs to fix."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "mt06a",
+        "_type": "tldrBox",
+        "items": [
+          "Пациент решает, доверять ли клинике, за **первые 5 секунд** на сайте.",
+          "Доверие строят: **реальные фото**, спокойная палитра, заметная кнопка записи, прозрачный прайс",
+          "Отпугивают: стоковые улыбки, карусели, агрессивные попапы, мелкий серый текст",
+          "Скорость — тоже дизайн: красивый, но медленный сайт теряет пациентов",
+          "Наш кейс: редизайн клиники Efedra дал **×3.2 заявок**"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "mt06b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt06c",
+            "_type": "span",
+            "marks": [],
+            "text": "5 секунд, которые решают всё"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt06d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt06e",
+            "_type": "span",
+            "marks": [],
+            "text": "Пациент открывает 3–5 сайтов клиник подряд и сравнивает. На каждый — несколько секунд. За это время он не читает тексты: он считывает сигналы. Аккуратно или нет. Живые люди или сток. Понятно, куда нажимать, или нет. Дизайн — это первый фильтр доверия, и он работает до того, как пациент узнает о ваших врачах."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt06f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt06g",
+            "_type": "span",
+            "marks": [],
+            "text": "Что строит доверие"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt06j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt06h",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Реальные фото врачей и кабинетов. "
+          },
+          {
+            "_key": "mt06i",
+            "_type": "span",
+            "marks": [],
+            "text": "Сток считывается мгновенно и работает в минус: «если они прячут своих врачей — что ещё они прячут?» Даже фото с телефона, снятые аккуратно, работают лучше идеального стока."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt06m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt06k",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Спокойная палитра с одним акцентом. "
+          },
+          {
+            "_key": "mt06l",
+            "_type": "span",
+            "marks": [],
+            "text": "Медицина — это свет и воздух. Один акцентный цвет — для кнопки записи и ключевых действий, не больше."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt06p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt06n",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Кнопка записи на каждом экране. "
+          },
+          {
+            "_key": "mt06o",
+            "_type": "span",
+            "marks": [],
+            "text": "Пациент созрел на третьем экране? Кнопка рядом. Долистал до прайса? Кнопка рядом. Не заставляйте искать."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt06s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt06q",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Типографика для аудитории 60+. "
+          },
+          {
+            "_key": "mt06r",
+            "_type": "span",
+            "marks": [],
+            "text": "Минимум 16px для основного текста, высокий контраст. Если бабушка не может прочитать прайс — вы потеряли и её, и её дочь, которая ей этот сайт открыла."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt06v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt06t",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Прайс как элемент дизайна. "
+          },
+          {
+            "_key": "mt06u",
+            "_type": "span",
+            "marks": [],
+            "text": "Не PDF на скачивание и не «цены по телефону», а аккуратная таблица, которую легко листать с телефона."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt06w",
+        "_type": "blogImage",
+        "alt": "Дизайнер работает над макетом медицинского сайта",
+        "asset": {
+          "_ref": "image-3b348e18590ad06854d7d624c981346c3bb02279-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Макет медицинского сайта: палитра доверия и заметная кнопка записи — до того, как появится первый пиксель кода"
+      },
+      {
+        "_key": "mt06x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt06y",
+            "_type": "span",
+            "marks": [],
+            "text": "Что отпугивает"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt06z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt070",
+            "_type": "span",
+            "marks": [],
+            "text": "Стоковые модели в белых халатах с идеальными улыбками"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt071",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt072",
+            "_type": "span",
+            "marks": [],
+            "text": "Карусели на весь экран, которые листаются сами"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt073",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt074",
+            "_type": "span",
+            "marks": [],
+            "text": "Попапы «Акция! Скидка!» в первые 3 секунды — это медицина, а не распродажа"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt075",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt076",
+            "_type": "span",
+            "marks": [],
+            "text": "Мелкий светло-серый текст на белом"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt077",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt078",
+            "_type": "span",
+            "marks": [],
+            "text": "Кнопка записи, которую нужно искать в меню"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt079",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt07a",
+            "_type": "span",
+            "marks": [],
+            "text": "Разбор: редизайн Efedra"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt07f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt07b",
+            "_type": "span",
+            "marks": [],
+            "text": "Клиника из Одессы пришла со старым сайтом: запутанная структура, устаревший дизайн, «слепые» кнопки. Мы переработали всё вокруг двух направлений — стоматологии и эстетической медицины — с отдельными лид-формами под каждое. Результат: в 3,2 раза больше заявок. Полный разбор — "
+          },
+          {
+            "_key": "mt07d",
+            "_type": "span",
+            "marks": [
+              "mt07c"
+            ],
+            "text": "в кейсе"
+          },
+          {
+            "_key": "mt07e",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "mt07c",
+            "_type": "link",
+            "href": "/ru/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "mt07g",
+        "_type": "blogImage",
+        "alt": "Сайт клиники Efedra после редизайна",
+        "asset": {
+          "_ref": "image-0f9f63b7b74b1dbef84b9097aabceb69f206475e-2896x2172-png",
+          "_type": "reference"
+        },
+        "caption": "Efedra после редизайна: два направления, отдельные лид-формы, ×3.2 заявок"
+      },
+      {
+        "_key": "mt07h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt07i",
+            "_type": "span",
+            "marks": [],
+            "text": "Скорость — это тоже дизайн"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt07j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt07k",
+            "_type": "span",
+            "marks": [],
+            "text": "Самый красивый макет не работает, если грузится 5 секунд: пациент уже вернулся в выдачу. Поэтому дизайн у нас идёт в паре с инженерией: анимации, которые не тормозят, изображения, оптимизированные под мобильный, Lighthouse 90+. Красиво — это когда ещё и быстро."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt07l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt07m",
+            "_type": "span",
+            "marks": [],
+            "text": "Оцените свой сайт: 10 вопросов"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt07n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt07o",
+            "_type": "span",
+            "marks": [],
+            "text": "На сайте реальные фото вашей команды?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt07p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt07q",
+            "_type": "span",
+            "marks": [],
+            "text": "Кнопку записи видно на каждом экране?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt07r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt07s",
+            "_type": "span",
+            "marks": [],
+            "text": "Прайс открывается без PDF и звонков?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt07t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt07u",
+            "_type": "span",
+            "marks": [],
+            "text": "Основной текст читается с телефона без зума?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt07v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt07w",
+            "_type": "span",
+            "marks": [],
+            "text": "Сайт открывается быстрее чем за 2 секунды?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt07x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt07y",
+            "_type": "span",
+            "marks": [],
+            "text": "Понятно за 5 секунд, что это за клиника и где она?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt07z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt080",
+            "_type": "span",
+            "marks": [],
+            "text": "Есть фото кабинетов и оборудования?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt081",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt082",
+            "_type": "span",
+            "marks": [],
+            "text": "Отзывы выглядят настоящими, с именами?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt083",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt084",
+            "_type": "span",
+            "marks": [],
+            "text": "Нет авто-каруселей и агрессивных попапов?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt085",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt086",
+            "_type": "span",
+            "marks": [],
+            "text": "Дизайн не менялся больше 5 лет? Если да — пора."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt087",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt088",
+            "_type": "span",
+            "marks": [],
+            "text": "Меньше 7 «да» — ваш сайт сливает пациентов конкурентам ещё до первого звонка."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt089",
+        "_type": "ctaCallout",
+        "ctaHref": "/ru/contacts",
+        "ctaLabel": "Получить разбор",
+        "ctaSecondaryHref": "/ru/sites-for/medicine",
+        "ctaSecondaryLabel": "Решения для клиник",
+        "eyebrow": "Дизайн-разбор",
+        "heading": "Хотите взгляд дизайнера на ваш сайт?",
+        "sub": "Пришлите ссылку — за 24 часа вернём разбор: что в дизайне работает против вас и сколько стоит исправить."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "mt04a",
+        "_type": "tldrBox",
+        "items": [
+          "Пацієнт вирішує, чи довіряти клініці, за **перші 5 секунд** на сайті.",
+          "Довіру будують: **реальні фото**, спокійна палітра, помітна кнопка запису, прозорий прайс",
+          "Відлякують: стокові усмішки, каруселі, агресивні попапи, дрібний сірий текст",
+          "Швидкість — теж дизайн: гарний, але повільний сайт втрачає пацієнтів",
+          "Наш кейс: редизайн клініки Efedra дав **×3.2 заявок**"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "mt04b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt04c",
+            "_type": "span",
+            "marks": [],
+            "text": "5 секунд, які вирішують усе"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt04d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt04e",
+            "_type": "span",
+            "marks": [],
+            "text": "Пацієнт відкриває 3–5 сайтів клінік поспіль і порівнює. На кожен — кілька секунд. За цей час він не читає тексти: він зчитує сигнали. Охайно чи ні. Живі люди чи сток. Зрозуміло, куди тиснути, чи ні. Дизайн — це перший фільтр довіри, і він працює до того, як пацієнт дізнається про ваших лікарів."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt04f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt04g",
+            "_type": "span",
+            "marks": [],
+            "text": "Що будує довіру"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt04j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt04h",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Реальні фото лікарів і кабінетів. "
+          },
+          {
+            "_key": "mt04i",
+            "_type": "span",
+            "marks": [],
+            "text": "Сток зчитується миттєво і працює в мінус: «якщо вони ховають своїх лікарів — що ще вони ховають?» Навіть фото з телефона, зняті охайно, працюють краще за ідеальний сток."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt04m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt04k",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Спокійна палітра з одним акцентом. "
+          },
+          {
+            "_key": "mt04l",
+            "_type": "span",
+            "marks": [],
+            "text": "Медицина — це світло і повітря. Один акцентний колір — для кнопки запису і ключових дій, не більше."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt04p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt04n",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Кнопка запису на кожному екрані. "
+          },
+          {
+            "_key": "mt04o",
+            "_type": "span",
+            "marks": [],
+            "text": "Пацієнт дозрів на третьому екрані? Кнопка поруч. Догортав до прайсу? Кнопка поруч. Не змушуйте шукати."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt04s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt04q",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Типографіка для аудиторії 60+. "
+          },
+          {
+            "_key": "mt04r",
+            "_type": "span",
+            "marks": [],
+            "text": "Мінімум 16px для основного тексту, високий контраст. Якщо бабуся не може прочитати прайс — ви втратили і її, і її доньку, яка їй цей сайт відкрила."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt04v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt04t",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Прайс як елемент дизайну. "
+          },
+          {
+            "_key": "mt04u",
+            "_type": "span",
+            "marks": [],
+            "text": "Не PDF на завантаження і не «ціни за телефоном», а охайна таблиця, яку легко гортати з телефона."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt04w",
+        "_type": "blogImage",
+        "alt": "Дизайнер працює над макетом медичного сайту",
+        "asset": {
+          "_ref": "image-3b348e18590ad06854d7d624c981346c3bb02279-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Макет медичного сайту: палітра довіри і помітна кнопка запису — до того, як зʼявиться перший піксель коду"
+      },
+      {
+        "_key": "mt04x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt04y",
+            "_type": "span",
+            "marks": [],
+            "text": "Що відлякує"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt04z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt050",
+            "_type": "span",
+            "marks": [],
+            "text": "Стокові моделі в білих халатах з ідеальними усмішками"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt051",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt052",
+            "_type": "span",
+            "marks": [],
+            "text": "Каруселі на весь екран, які гортаються самі"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt053",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt054",
+            "_type": "span",
+            "marks": [],
+            "text": "Попапи «Акція! Знижка!» в перші 3 секунди — це медицина, а не розпродаж"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt055",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt056",
+            "_type": "span",
+            "marks": [],
+            "text": "Дрібний світло-сірий текст на білому"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt057",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt058",
+            "_type": "span",
+            "marks": [],
+            "text": "Кнопка запису, яку треба шукати в меню"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt059",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt05a",
+            "_type": "span",
+            "marks": [],
+            "text": "Розбір: редизайн Efedra"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt05f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt05b",
+            "_type": "span",
+            "marks": [],
+            "text": "Клініка з Одеси прийшла зі старим сайтом: заплутана структура, застарілий дизайн, «сліпі» кнопки. Ми переробили все навколо двох напрямів — стоматології та естетичної медицини — з окремими лід-формами під кожен. Результат: у 3,2 раза більше заявок. Повний розбір — "
+          },
+          {
+            "_key": "mt05d",
+            "_type": "span",
+            "marks": [
+              "mt05c"
+            ],
+            "text": "у кейсі"
+          },
+          {
+            "_key": "mt05e",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "mt05c",
+            "_type": "link",
+            "href": "/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "mt05g",
+        "_type": "blogImage",
+        "alt": "Сайт клініки Efedra після редизайну",
+        "asset": {
+          "_ref": "image-0f9f63b7b74b1dbef84b9097aabceb69f206475e-2896x2172-png",
+          "_type": "reference"
+        },
+        "caption": "Efedra після редизайну: два напрями, окремі лід-форми, ×3.2 заявок"
+      },
+      {
+        "_key": "mt05h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt05i",
+            "_type": "span",
+            "marks": [],
+            "text": "Швидкість — це теж дизайн"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt05j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt05k",
+            "_type": "span",
+            "marks": [],
+            "text": "Найкрасивіший макет не працює, якщо вантажиться 5 секунд: пацієнт уже повернувся у видачу. Тому дизайн у нас іде в парі з інженерією: анімації, які не гальмують, зображення, оптимізовані під мобільний, Lighthouse 90+. Красиво — це коли ще і швидко."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt05l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt05m",
+            "_type": "span",
+            "marks": [],
+            "text": "Оцініть свій сайт: 10 питань"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt05n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt05o",
+            "_type": "span",
+            "marks": [],
+            "text": "На сайті реальні фото вашої команди?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt05p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt05q",
+            "_type": "span",
+            "marks": [],
+            "text": "Кнопку запису видно на кожному екрані?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt05r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt05s",
+            "_type": "span",
+            "marks": [],
+            "text": "Прайс відкривається без PDF і дзвінків?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt05t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt05u",
+            "_type": "span",
+            "marks": [],
+            "text": "Основний текст читається з телефона без зуму?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt05v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt05w",
+            "_type": "span",
+            "marks": [],
+            "text": "Сайт відкривається швидше ніж за 2 секунди?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt05x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt05y",
+            "_type": "span",
+            "marks": [],
+            "text": "Зрозуміло за 5 секунд, яка це клініка і де вона?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt05z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt060",
+            "_type": "span",
+            "marks": [],
+            "text": "Є фото кабінетів і обладнання?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt061",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt062",
+            "_type": "span",
+            "marks": [],
+            "text": "Відгуки виглядають справжніми, з іменами?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt063",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt064",
+            "_type": "span",
+            "marks": [],
+            "text": "Немає авто-каруселей і агресивних попапів?"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt065",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt066",
+            "_type": "span",
+            "marks": [],
+            "text": "Дизайн не змінювався понад 5 років? Якщо так — час."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt067",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt068",
+            "_type": "span",
+            "marks": [],
+            "text": "Менш ніж 7 «так» — ваш сайт зливає пацієнтів конкурентам іще до першого дзвінка."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt069",
+        "_type": "ctaCallout",
+        "ctaHref": "/contacts",
+        "ctaLabel": "Отримати розбір",
+        "ctaSecondaryHref": "/sites-for/medicine",
+        "ctaSecondaryLabel": "Рішення для клінік",
+        "eyebrow": "Дизайн-розбір",
+        "heading": "Хочете погляд дизайнера на ваш сайт?",
+        "sub": "Надішліть посилання — за 24 години повернемо розбір: що в дизайні працює проти вас і скільки коштує виправити."
+      }
+    ]
+  },
+  "slug": "dyzain-saitu-medychnoho-tsentru"
+}

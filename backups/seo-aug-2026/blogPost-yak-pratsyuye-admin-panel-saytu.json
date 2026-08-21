@@ -1,0 +1,4038 @@
+{
+  "_id": "b5728991-81b4-4240-8729-8c8798481123",
+  "body": {
+    "en": [
+      {
+        "_key": "cmsen-1",
+        "_type": "tldrBox",
+        "items": [
+          "The admin panel is a private area for managing your site content — **no coding needed**",
+          "Edit copy, photos, prices, services and articles yourself — **from a computer or phone**",
+          "You cannot break the design: you only work with pre-configured fields",
+          "Drafts: visitors see nothing until you press publish",
+          "Several team members can have access — each to their own sections"
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "cmsen-3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-2",
+            "_type": "span",
+            "marks": [],
+            "text": "We set every site up with a friendly admin panel built on Sanity. It runs in the browser on desktop and mobile, needs no coding knowledge, and is configured specifically for your site."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-4",
+            "_type": "span",
+            "marks": [],
+            "text": "See the admin panel in action"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cmsen-7",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-6",
+            "_type": "span",
+            "marks": [],
+            "text": "In the video we walk through the admin panel interface and show how to update your site content yourself."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-8",
+        "_type": "blogVideo",
+        "title": "How the website admin panel works — video walkthrough"
+      },
+      {
+        "_key": "cmsen-a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-9",
+            "_type": "span",
+            "marks": [],
+            "text": "In the video you'll see:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-b",
+            "_type": "span",
+            "marks": [],
+            "text": "how to sign in to the admin panel;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-d",
+            "_type": "span",
+            "marks": [],
+            "text": "where the site pages and sections live;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-f",
+            "_type": "span",
+            "marks": [],
+            "text": "how to change copy and photos;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-h",
+            "_type": "span",
+            "marks": [],
+            "text": "how to add new content;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-j",
+            "_type": "span",
+            "marks": [],
+            "text": "how to save and publish changes."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-l",
+        "_type": "ctaCallout",
+        "ctaLabel": "Get demo access",
+        "ctaMode": "modalDemo",
+        "eyebrow": "Try it yourself",
+        "heading": "Want to try it yourself?",
+        "leadSource": "blog-cms-demo-en",
+        "sub": "Get access to a demo admin panel and see how easy it is to work with. Open the sections, change some content and see the whole editing flow from the inside."
+      },
+      {
+        "_key": "cmsen-n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-m",
+            "_type": "span",
+            "marks": [],
+            "text": "What an admin panel is"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cmsen-p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-o",
+            "_type": "span",
+            "marks": [],
+            "text": "The admin panel is a separate, private area for managing your website. Regular visitors never see it. Only the site owner — and any team members they invite — can access it."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-q",
+            "_type": "span",
+            "marks": [],
+            "text": "Inside, everything is organised into clear sections. For example:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-s",
+            "_type": "span",
+            "marks": [],
+            "text": "pages;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-u",
+            "_type": "span",
+            "marks": [],
+            "text": "services;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-w",
+            "_type": "span",
+            "marks": [],
+            "text": "products;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-y",
+            "_type": "span",
+            "marks": [],
+            "text": "projects;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-11",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-10",
+            "_type": "span",
+            "marks": [],
+            "text": "articles;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-13",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-12",
+            "_type": "span",
+            "marks": [],
+            "text": "team members;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-15",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-14",
+            "_type": "span",
+            "marks": [],
+            "text": "reviews;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-17",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-16",
+            "_type": "span",
+            "marks": [],
+            "text": "contact details."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-19",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-18",
+            "_type": "span",
+            "marks": [],
+            "text": "The exact list depends on how your site is structured. We don't add features for the sake of it — the admin panel contains only what you actually need to run your site."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-1b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-1a",
+            "_type": "span",
+            "marks": [],
+            "text": "What you can change yourself"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cmsen-1d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-1c",
+            "_type": "span",
+            "marks": [],
+            "text": "The admin panel lets you manage all the core content of your site:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-1f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-1e",
+            "_type": "span",
+            "marks": [],
+            "text": "edit headings and copy;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-1h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-1g",
+            "_type": "span",
+            "marks": [],
+            "text": "upload and replace photos;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-1j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-1i",
+            "_type": "span",
+            "marks": [],
+            "text": "add new services or products;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-1l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-1k",
+            "_type": "span",
+            "marks": [],
+            "text": "update prices;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-1n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-1m",
+            "_type": "span",
+            "marks": [],
+            "text": "publish projects and case studies;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-1p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-1o",
+            "_type": "span",
+            "marks": [],
+            "text": "add blog articles;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-1r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-1q",
+            "_type": "span",
+            "marks": [],
+            "text": "change phone numbers, addresses and other contact details;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-1t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-1s",
+            "_type": "span",
+            "marks": [],
+            "text": "add team members and reviews;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-1v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-1u",
+            "_type": "span",
+            "marks": [],
+            "text": "fill in SEO titles and page descriptions;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-1x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-1w",
+            "_type": "span",
+            "marks": [],
+            "text": "create new pages from ready-made templates."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-1z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-1y",
+            "_type": "span",
+            "marks": [],
+            "text": "Before development starts, we agree exactly which information you'll need to update, and set up the right sections and fields for it."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-21",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-20",
+            "_type": "span",
+            "marks": [],
+            "text": "Manage your site from your phone"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cmsen-23",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-22",
+            "_type": "span",
+            "marks": [],
+            "text": "You don't need to be at a computer to work with the admin panel. It works just as well on a smartphone, in a regular browser."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-25",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-24",
+            "_type": "span",
+            "marks": [],
+            "text": "Straight from your phone you can:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-27",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-26",
+            "_type": "span",
+            "marks": [],
+            "text": "change a copy line or a price;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-29",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-28",
+            "_type": "span",
+            "marks": [],
+            "text": "add a photo from your gallery;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-2b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-2a",
+            "_type": "span",
+            "marks": [],
+            "text": "publish a news item, article or project;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-2d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-2c",
+            "_type": "span",
+            "marks": [],
+            "text": "update contact details;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-2f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-2e",
+            "_type": "span",
+            "marks": [],
+            "text": "quickly fix a mistake on a page;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-2h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-2g",
+            "_type": "span",
+            "marks": [],
+            "text": "save content as a draft or publish it straight away."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-2j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-2i",
+            "_type": "span",
+            "marks": [],
+            "text": "There's no separate app to install. Just open the admin panel link and sign in to your account."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-2l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-2k",
+            "_type": "span",
+            "marks": [],
+            "text": "It's especially handy when something on the site needs an urgent update and there's no computer around."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-2n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-2m",
+            "_type": "span",
+            "marks": [],
+            "text": "How editing works"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cmsen-2p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-2o",
+            "_type": "span",
+            "marks": [],
+            "text": "Working with the admin panel comes down to a few simple steps:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-2r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-2q",
+            "_type": "span",
+            "marks": [],
+            "text": "You sign in with your account."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-2t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-2s",
+            "_type": "span",
+            "marks": [],
+            "text": "You open the section or page you need."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-2v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-2u",
+            "_type": "span",
+            "marks": [],
+            "text": "You change the copy, photo or other information."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-2x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-2w",
+            "_type": "span",
+            "marks": [],
+            "text": "You review your changes."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-2z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-2y",
+            "_type": "span",
+            "marks": [],
+            "text": "You press publish."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-31",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-30",
+            "_type": "span",
+            "marks": [],
+            "text": "Once published, the updated information appears on the site. No extra software, no digging through code, no sending every small edit to a developer."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-33",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-32",
+            "_type": "span",
+            "marks": [],
+            "text": "Example: adding a new service"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cmsen-35",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-34",
+            "_type": "span",
+            "marks": [],
+            "text": "Say your company launches a new service."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-37",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-36",
+            "_type": "span",
+            "marks": [],
+            "text": "You open the Services section, create a new entry and fill in the prepared fields:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-39",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-38",
+            "_type": "span",
+            "marks": [],
+            "text": "service name;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-3b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-3a",
+            "_type": "span",
+            "marks": [],
+            "text": "short description;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-3d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-3c",
+            "_type": "span",
+            "marks": [],
+            "text": "main copy;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-3f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-3e",
+            "_type": "span",
+            "marks": [],
+            "text": "photo;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-3h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-3g",
+            "_type": "span",
+            "marks": [],
+            "text": "price, if it's shown on the site;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-3j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-3i",
+            "_type": "span",
+            "marks": [],
+            "text": "SEO title and description."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-3l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-3k",
+            "_type": "span",
+            "marks": [],
+            "text": "After publishing, the new service automatically appears in the right section of the site, styled exactly like every other page."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-3n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-3m",
+            "_type": "span",
+            "marks": [],
+            "text": "Can you accidentally break the design?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cmsen-3p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-3o",
+            "_type": "span",
+            "marks": [],
+            "text": "No. The admin panel lets you change content, but not the design or the technical structure of the site."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-3r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-3q",
+            "_type": "span",
+            "marks": [],
+            "text": "You only ever work with pre-configured fields. You can swap a heading, a paragraph or a photo — but you can't accidentally delete the menu, change the fonts or knock the layout out of place."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-3t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-3s",
+            "_type": "span",
+            "marks": [],
+            "text": "New content is styled automatically to match the site design. You never have to set colours, spacing or font sizes yourself."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-3v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-3u",
+            "_type": "span",
+            "marks": [],
+            "text": "Drafts and publishing"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cmsen-3x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-3w",
+            "_type": "span",
+            "marks": [],
+            "text": "Changes can be saved as a draft first. That's useful when the content isn't ready yet, or a colleague needs to review it."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-3z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-3y",
+            "_type": "span",
+            "marks": [],
+            "text": "Until you publish, visitors see none of your changes — so an unfinished text or a wrong price never slips onto the site."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-41",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-40",
+            "_type": "span",
+            "marks": [],
+            "text": "When the content is ready, one click on publish puts it live."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-43",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-42",
+            "_type": "span",
+            "marks": [],
+            "text": "Access for your team"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cmsen-45",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-44",
+            "_type": "span",
+            "marks": [],
+            "text": "If needed, several team members can have admin panel access. A manager can add new projects, while a marketer publishes articles."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-47",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-46",
+            "_type": "span",
+            "marks": [],
+            "text": "Only the people you've invited can get in. Outsiders can't sign in or change anything on your site."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-49",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-48",
+            "_type": "span",
+            "marks": [],
+            "text": "The number of users, their roles and any restrictions depend on what your project needs."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-4b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-4a",
+            "_type": "span",
+            "marks": [],
+            "text": "Do you need to install anything?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cmsen-4d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-4c",
+            "_type": "span",
+            "marks": [],
+            "text": "No. The admin panel is connected while the site is being built and works entirely online."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-4f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-4e",
+            "_type": "span",
+            "marks": [],
+            "text": "To sign in, you simply:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-4h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-4g",
+            "_type": "span",
+            "marks": [],
+            "text": "open your admin panel link;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-4j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-4i",
+            "_type": "span",
+            "marks": [],
+            "text": "log in;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-4l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-4k",
+            "_type": "span",
+            "marks": [],
+            "text": "pick the section you need;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-4n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-4m",
+            "_type": "span",
+            "marks": [],
+            "text": "make and publish your changes."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-4p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-4o",
+            "_type": "span",
+            "marks": [],
+            "text": "The admin panel works in a regular browser on a computer, tablet or phone."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-4r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-4q",
+            "_type": "span",
+            "marks": [],
+            "text": "We'll show you how everything works"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cmsen-4t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-4s",
+            "_type": "span",
+            "marks": [],
+            "text": "When development wraps up, we hand over the admin panel access and walk you through using it."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-4v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-4u",
+            "_type": "span",
+            "marks": [],
+            "text": "You get a clear system configured for your site — no dozens of mystery features, just the sections and fields you need."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-4x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cmsen-4w",
+            "_type": "span",
+            "marks": [],
+            "text": "If you later need a new content type or extra admin panel capabilities, that can be added separately."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cmsen-4y",
+        "_type": "ctaCallout",
+        "ctaLabel": "Discuss your website project",
+        "ctaMode": "modal",
+        "heading": "Run your site without depending on a developer",
+        "leadSource": "blog-cms-final-en",
+        "sub": "A website should stay up to date after launch. That's why we build not just a set of static pages, but a tool your team can use every day. You update the content from a computer or phone, while the design and structure of the site stay clean and intact."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "cms-1",
+        "_type": "tldrBox",
+        "items": [
+          "Админ-панель — отдельный закрытый раздел для управления контентом сайта, **без знания кода**",
+          "Редактируете тексты, фото, цены, услуги и статьи самостоятельно — **с компьютера или телефона**",
+          "Сломать дизайн невозможно: вы работаете только с заранее подготовленными полями",
+          "Черновики: посетители не видят изменений, пока вы их не опубликуете",
+          "Доступ можно дать нескольким сотрудникам — каждому к своему разделу"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "cms-3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2",
+            "_type": "span",
+            "marks": [],
+            "text": "Для управления сайтом мы подключаем удобную админ-панель на базе Sanity. Она работает через браузер на компьютере и телефоне, не требует знания кода и настраивается именно под ваш сайт."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4",
+            "_type": "span",
+            "marks": [],
+            "text": "Посмотрите, как работает админ-панель"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-7",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-6",
+            "_type": "span",
+            "marks": [],
+            "text": "В видео мы показываем интерфейс админ-панели и объясняем, как самостоятельно обновлять информацию на сайте."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-8",
+        "_type": "blogVideo",
+        "title": "Как работает админ-панель сайта — видео-обзор"
+      },
+      {
+        "_key": "cms-a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-9",
+            "_type": "span",
+            "marks": [],
+            "text": "В видео вы увидите:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-b",
+            "_type": "span",
+            "marks": [],
+            "text": "как войти в админ-панель;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-d",
+            "_type": "span",
+            "marks": [],
+            "text": "где находятся страницы и разделы сайта;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-f",
+            "_type": "span",
+            "marks": [],
+            "text": "как менять тексты и фотографии;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-h",
+            "_type": "span",
+            "marks": [],
+            "text": "как добавлять новые материалы;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-j",
+            "_type": "span",
+            "marks": [],
+            "text": "как сохранять и публиковать изменения."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-l",
+        "_type": "ctaCallout",
+        "ctaLabel": "Получить тестовый доступ",
+        "ctaMode": "modalDemo",
+        "eyebrow": "Попробуйте сами",
+        "heading": "Хотите попробовать самостоятельно?",
+        "leadSource": "blog-cms-demo",
+        "sub": "Получите доступ к тестовой админ-панели и проверьте, насколько просто в ней работать. Вы сможете открыть разные разделы, изменить информацию и увидеть весь процесс управления сайтом изнутри."
+      },
+      {
+        "_key": "cms-n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-m",
+            "_type": "span",
+            "marks": [],
+            "text": "Что такое админ-панель"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-o",
+            "_type": "span",
+            "marks": [],
+            "text": "Админ-панель — это отдельный закрытый раздел для управления сайтом. Обычные посетители его не видят. Доступ получает только владелец сайта и сотрудники, которым он его предоставил."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-q",
+            "_type": "span",
+            "marks": [],
+            "text": "Внутри всё разделено на понятные категории. Например:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-s",
+            "_type": "span",
+            "marks": [],
+            "text": "страницы;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-u",
+            "_type": "span",
+            "marks": [],
+            "text": "услуги;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-w",
+            "_type": "span",
+            "marks": [],
+            "text": "товары;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-y",
+            "_type": "span",
+            "marks": [],
+            "text": "проекты;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-11",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-10",
+            "_type": "span",
+            "marks": [],
+            "text": "статьи;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-13",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-12",
+            "_type": "span",
+            "marks": [],
+            "text": "сотрудники;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-15",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-14",
+            "_type": "span",
+            "marks": [],
+            "text": "отзывы;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-17",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-16",
+            "_type": "span",
+            "marks": [],
+            "text": "контактная информация."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-19",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-18",
+            "_type": "span",
+            "marks": [],
+            "text": "Точный перечень разделов зависит от структуры конкретного сайта. Мы не добавляем лишних функций — в админ-панели будет только то, что действительно нужно для работы с вашим сайтом."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1a",
+            "_type": "span",
+            "marks": [],
+            "text": "Что можно менять самостоятельно"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-1d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1c",
+            "_type": "span",
+            "marks": [],
+            "text": "Через админ-панель можно управлять основным контентом сайта:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1e",
+            "_type": "span",
+            "marks": [],
+            "text": "редактировать заголовки и тексты;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1g",
+            "_type": "span",
+            "marks": [],
+            "text": "загружать и заменять фотографии;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1i",
+            "_type": "span",
+            "marks": [],
+            "text": "добавлять новые услуги или товары;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1k",
+            "_type": "span",
+            "marks": [],
+            "text": "обновлять цены;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1m",
+            "_type": "span",
+            "marks": [],
+            "text": "публиковать проекты и кейсы;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1o",
+            "_type": "span",
+            "marks": [],
+            "text": "добавлять статьи в блог;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1q",
+            "_type": "span",
+            "marks": [],
+            "text": "менять номера телефонов, адреса и другие контакты;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1s",
+            "_type": "span",
+            "marks": [],
+            "text": "добавлять сотрудников и отзывы;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1u",
+            "_type": "span",
+            "marks": [],
+            "text": "заполнять SEO-заголовки и описания страниц;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1w",
+            "_type": "span",
+            "marks": [],
+            "text": "создавать новые страницы по готовым шаблонам."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1y",
+            "_type": "span",
+            "marks": [],
+            "text": "Перед началом разработки мы определяем, какую именно информацию нужно будет обновлять, и настраиваем под неё соответствующие разделы и поля."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-21",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-20",
+            "_type": "span",
+            "marks": [],
+            "text": "Управляйте сайтом даже с телефона"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-23",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-22",
+            "_type": "span",
+            "marks": [],
+            "text": "Для работы с админ-панелью не обязательно быть за компьютером. Она удобно работает и на смартфоне через обычный браузер."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-25",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-24",
+            "_type": "span",
+            "marks": [],
+            "text": "Прямо с телефона вы можете:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-27",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-26",
+            "_type": "span",
+            "marks": [],
+            "text": "изменить текст или цену;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-29",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-28",
+            "_type": "span",
+            "marks": [],
+            "text": "добавить фотографию из галереи;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2a",
+            "_type": "span",
+            "marks": [],
+            "text": "опубликовать новость, статью или проект;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2c",
+            "_type": "span",
+            "marks": [],
+            "text": "обновить контактную информацию;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2e",
+            "_type": "span",
+            "marks": [],
+            "text": "быстро исправить ошибку на странице;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2g",
+            "_type": "span",
+            "marks": [],
+            "text": "сохранить материал как черновик или сразу его опубликовать."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2i",
+            "_type": "span",
+            "marks": [],
+            "text": "Не нужно скачивать отдельное приложение. Достаточно открыть ссылку на админ-панель и войти в свой аккаунт."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2k",
+            "_type": "span",
+            "marks": [],
+            "text": "Это особенно удобно, когда нужно срочно обновить информацию на сайте, а компьютера нет рядом."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2m",
+            "_type": "span",
+            "marks": [],
+            "text": "Как происходит редактирование сайта"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-2p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2o",
+            "_type": "span",
+            "marks": [],
+            "text": "Работа с админ-панелью состоит из нескольких простых шагов:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2q",
+            "_type": "span",
+            "marks": [],
+            "text": "Вы входите в систему под своим аккаунтом."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2s",
+            "_type": "span",
+            "marks": [],
+            "text": "Выбираете нужный раздел или страницу."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2u",
+            "_type": "span",
+            "marks": [],
+            "text": "Меняете текст, фотографию или другую информацию."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2w",
+            "_type": "span",
+            "marks": [],
+            "text": "Проверяете внесённые изменения."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2y",
+            "_type": "span",
+            "marks": [],
+            "text": "Нажимаете кнопку публикации."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-31",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-30",
+            "_type": "span",
+            "marks": [],
+            "text": "После публикации обновлённая информация появляется на сайте. Не нужно устанавливать дополнительные программы, разбираться в коде или передавать каждую правку разработчику."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-33",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-32",
+            "_type": "span",
+            "marks": [],
+            "text": "Пример: как добавить новую услугу"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-35",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-34",
+            "_type": "span",
+            "marks": [],
+            "text": "Предположим, у вашей компании появилась новая услуга."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-37",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-36",
+            "_type": "span",
+            "marks": [],
+            "text": "Вам достаточно открыть раздел «Услуги», создать новую запись и заполнить подготовленные поля:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-39",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-38",
+            "_type": "span",
+            "marks": [],
+            "text": "название услуги;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3a",
+            "_type": "span",
+            "marks": [],
+            "text": "краткое описание;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3c",
+            "_type": "span",
+            "marks": [],
+            "text": "основной текст;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3e",
+            "_type": "span",
+            "marks": [],
+            "text": "фотография;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3g",
+            "_type": "span",
+            "marks": [],
+            "text": "стоимость, если она отображается на сайте;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3i",
+            "_type": "span",
+            "marks": [],
+            "text": "SEO-заголовок и описание."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3k",
+            "_type": "span",
+            "marks": [],
+            "text": "После публикации новая услуга автоматически появится в соответствующем разделе сайта и будет иметь такой же дизайн, как и другие страницы."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3m",
+            "_type": "span",
+            "marks": [],
+            "text": "Можно ли случайно сломать дизайн сайта"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-3p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3o",
+            "_type": "span",
+            "marks": [],
+            "text": "Нет. Админ-панель позволяет менять контент, но не дизайн и техническую структуру сайта."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3q",
+            "_type": "span",
+            "marks": [],
+            "text": "Вы работаете только с заранее подготовленными полями. Например, можете заменить заголовок, текст или фотографию, но не сможете случайно удалить меню, изменить шрифты или нарушить расположение блоков."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3s",
+            "_type": "span",
+            "marks": [],
+            "text": "Новые материалы автоматически оформляются в соответствии с дизайном сайта. Вам не нужно самостоятельно настраивать цвета, отступы или размеры текста."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3u",
+            "_type": "span",
+            "marks": [],
+            "text": "Черновики и публикация"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-3x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3w",
+            "_type": "span",
+            "marks": [],
+            "text": "Изменения можно сначала сохранить как черновик. Это удобно, если материал ещё не готов или его должен проверить другой сотрудник."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3y",
+            "_type": "span",
+            "marks": [],
+            "text": "Пока вы не опубликуете запись, посетители сайта не увидят внесённых изменений. Так вы не разместите незавершённый текст или неправильную информацию."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-41",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-40",
+            "_type": "span",
+            "marks": [],
+            "text": "Когда материал будет готов, достаточно нажать кнопку публикации — и изменения появятся на сайте."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-43",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-42",
+            "_type": "span",
+            "marks": [],
+            "text": "Доступ для сотрудников"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-45",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-44",
+            "_type": "span",
+            "marks": [],
+            "text": "При необходимости доступ к админ-панели можно предоставить нескольким сотрудникам. Например, менеджер сможет добавлять новые проекты, а маркетолог — публиковать статьи."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-47",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-46",
+            "_type": "span",
+            "marks": [],
+            "text": "Доступ получают только определённые пользователи. Посторонние люди не смогут войти в админ-панель и изменить информацию на сайте."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-49",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-48",
+            "_type": "span",
+            "marks": [],
+            "text": "Количество пользователей, их роли и возможные ограничения зависят от потребностей конкретного проекта."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4a",
+            "_type": "span",
+            "marks": [],
+            "text": "Нужно ли что-то устанавливать"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-4d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4c",
+            "_type": "span",
+            "marks": [],
+            "text": "Нет. Админ-панель подключается к сайту во время разработки и работает онлайн."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4e",
+            "_type": "span",
+            "marks": [],
+            "text": "Для входа достаточно:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4g",
+            "_type": "span",
+            "marks": [],
+            "text": "открыть специальную ссылку;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4i",
+            "_type": "span",
+            "marks": [],
+            "text": "авторизоваться;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4k",
+            "_type": "span",
+            "marks": [],
+            "text": "выбрать нужный раздел;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4m",
+            "_type": "span",
+            "marks": [],
+            "text": "внести и опубликовать изменения."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4o",
+            "_type": "span",
+            "marks": [],
+            "text": "Работать с админ-панелью можно через обычный браузер на компьютере, планшете или телефоне."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4q",
+            "_type": "span",
+            "marks": [],
+            "text": "Мы покажем, как всё работает"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-4t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4s",
+            "_type": "span",
+            "marks": [],
+            "text": "После завершения разработки мы передаём вам доступ к админ-панели и показываем, как ею пользоваться."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4u",
+            "_type": "span",
+            "marks": [],
+            "text": "Вы получите понятную систему, настроенную именно под ваш сайт. В ней не будет десятков непонятных функций — только нужные разделы и поля."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4w",
+            "_type": "span",
+            "marks": [],
+            "text": "Если со временем понадобится добавить новый тип контента или расширить возможности админ-панели, это можно будет реализовать отдельно."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4y",
+        "_type": "ctaCallout",
+        "ctaLabel": "Обсудить разработку сайта",
+        "ctaMode": "modal",
+        "heading": "Управляйте сайтом без постоянной помощи разработчика",
+        "leadSource": "blog-cms-final",
+        "sub": "Сайт должен оставаться актуальным и после запуска. Поэтому мы создаём не просто набор статических страниц, а удобный инструмент, которым ваша команда сможет пользоваться каждый день. Вы самостоятельно обновляете информацию с компьютера или телефона, а дизайн и структура сайта остаются целостными и аккуратными."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "cms-1",
+        "_type": "tldrBox",
+        "items": [
+          "Адмін-панель — окремий закритий розділ для керування контентом сайту, **без знання коду**",
+          "Редагуєте тексти, фото, ціни, послуги і статті самостійно — **з компʼютера або телефона**",
+          "Зламати дизайн неможливо: ви працюєте лише із заздалегідь підготовленими полями",
+          "Чернетки: відвідувачі не бачать змін, поки ви їх не опублікуєте",
+          "Доступ можна надати кільком співробітникам — кожному до свого розділу"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "cms-3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2",
+            "_type": "span",
+            "marks": [],
+            "text": "Для керування сайтом ми підключаємо зручну адмін-панель на базі Sanity. Вона працює через браузер на компʼютері та телефоні, не потребує знання коду й налаштовується саме під ваш сайт."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4",
+            "_type": "span",
+            "marks": [],
+            "text": "Подивіться, як працює адмін-панель"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-7",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-6",
+            "_type": "span",
+            "marks": [],
+            "text": "У відео ми показуємо інтерфейс адмін-панелі та пояснюємо, як самостійно оновлювати інформацію на сайті."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-8",
+        "_type": "blogVideo",
+        "title": "Як працює адмін-панель сайту — відео-огляд"
+      },
+      {
+        "_key": "cms-a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-9",
+            "_type": "span",
+            "marks": [],
+            "text": "У відео ви побачите:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-b",
+            "_type": "span",
+            "marks": [],
+            "text": "як увійти до адмін-панелі;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-d",
+            "_type": "span",
+            "marks": [],
+            "text": "де знаходяться сторінки та розділи сайту;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-f",
+            "_type": "span",
+            "marks": [],
+            "text": "як змінювати тексти й фотографії;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-h",
+            "_type": "span",
+            "marks": [],
+            "text": "як додавати нові матеріали;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-j",
+            "_type": "span",
+            "marks": [],
+            "text": "як зберігати та публікувати зміни."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-l",
+        "_type": "ctaCallout",
+        "ctaLabel": "Отримати тестовий доступ",
+        "ctaMode": "modalDemo",
+        "eyebrow": "Спробуйте самі",
+        "heading": "Хочете спробувати самостійно?",
+        "leadSource": "blog-cms-demo",
+        "sub": "Отримайте доступ до тестової адмін-панелі та перевірте, наскільки просто в ній працювати. Ви зможете відкрити різні розділи, змінити інформацію та побачити весь процес керування сайтом зсередини."
+      },
+      {
+        "_key": "cms-n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-m",
+            "_type": "span",
+            "marks": [],
+            "text": "Що таке адмін-панель"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-o",
+            "_type": "span",
+            "marks": [],
+            "text": "Адмін-панель — це окремий закритий розділ для керування сайтом. Звичайні відвідувачі його не бачать. Доступ отримує лише власник сайту та співробітники, яким він його надав."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-q",
+            "_type": "span",
+            "marks": [],
+            "text": "Усередині все розділено на зрозумілі категорії. Наприклад:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-s",
+            "_type": "span",
+            "marks": [],
+            "text": "сторінки;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-u",
+            "_type": "span",
+            "marks": [],
+            "text": "послуги;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-w",
+            "_type": "span",
+            "marks": [],
+            "text": "товари;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-y",
+            "_type": "span",
+            "marks": [],
+            "text": "проєкти;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-11",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-10",
+            "_type": "span",
+            "marks": [],
+            "text": "статті;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-13",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-12",
+            "_type": "span",
+            "marks": [],
+            "text": "співробітники;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-15",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-14",
+            "_type": "span",
+            "marks": [],
+            "text": "відгуки;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-17",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-16",
+            "_type": "span",
+            "marks": [],
+            "text": "контактна інформація."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-19",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-18",
+            "_type": "span",
+            "marks": [],
+            "text": "Точний перелік розділів залежить від структури конкретного сайту. Ми не додаємо зайвих функцій — в адмін-панелі буде лише те, що дійсно потрібно для роботи з вашим сайтом."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1a",
+            "_type": "span",
+            "marks": [],
+            "text": "Що можна змінювати самостійно"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-1d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1c",
+            "_type": "span",
+            "marks": [],
+            "text": "Через адмін-панель можна керувати основним контентом сайту:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1e",
+            "_type": "span",
+            "marks": [],
+            "text": "редагувати заголовки та тексти;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1g",
+            "_type": "span",
+            "marks": [],
+            "text": "завантажувати й замінювати фотографії;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1i",
+            "_type": "span",
+            "marks": [],
+            "text": "додавати нові послуги або товари;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1k",
+            "_type": "span",
+            "marks": [],
+            "text": "оновлювати ціни;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1m",
+            "_type": "span",
+            "marks": [],
+            "text": "публікувати проєкти та кейси;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1o",
+            "_type": "span",
+            "marks": [],
+            "text": "додавати статті до блогу;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1q",
+            "_type": "span",
+            "marks": [],
+            "text": "змінювати номери телефонів, адреси та інші контакти;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1s",
+            "_type": "span",
+            "marks": [],
+            "text": "додавати співробітників і відгуки;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1u",
+            "_type": "span",
+            "marks": [],
+            "text": "заповнювати SEO-заголовки й описи сторінок;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1w",
+            "_type": "span",
+            "marks": [],
+            "text": "створювати нові сторінки за готовими шаблонами."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-1z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-1y",
+            "_type": "span",
+            "marks": [],
+            "text": "Перед початком розробки ми визначаємо, яку саме інформацію потрібно буде оновлювати, і налаштовуємо під неї відповідні розділи та поля."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-21",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-20",
+            "_type": "span",
+            "marks": [],
+            "text": "Керуйте сайтом навіть із телефона"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-23",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-22",
+            "_type": "span",
+            "marks": [],
+            "text": "Для роботи з адмін-панеллю не обовʼязково бути за компʼютером. Вона зручно працює і на смартфоні через звичайний браузер."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-25",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-24",
+            "_type": "span",
+            "marks": [],
+            "text": "Прямо з телефона ви можете:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-27",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-26",
+            "_type": "span",
+            "marks": [],
+            "text": "змінити текст або ціну;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-29",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-28",
+            "_type": "span",
+            "marks": [],
+            "text": "додати фотографію з галереї;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2a",
+            "_type": "span",
+            "marks": [],
+            "text": "опублікувати новину, статтю чи проєкт;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2c",
+            "_type": "span",
+            "marks": [],
+            "text": "оновити контактну інформацію;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2e",
+            "_type": "span",
+            "marks": [],
+            "text": "швидко виправити помилку на сторінці;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2g",
+            "_type": "span",
+            "marks": [],
+            "text": "зберегти матеріал як чернетку або одразу його опублікувати."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2i",
+            "_type": "span",
+            "marks": [],
+            "text": "Не потрібно завантажувати окремий застосунок. Достатньо відкрити посилання на адмін-панель та увійти у свій обліковий запис."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2k",
+            "_type": "span",
+            "marks": [],
+            "text": "Це особливо зручно, коли потрібно терміново оновити інформацію на сайті, а компʼютера немає поруч."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2m",
+            "_type": "span",
+            "marks": [],
+            "text": "Як відбувається редагування сайту"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-2p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2o",
+            "_type": "span",
+            "marks": [],
+            "text": "Робота з адмін-панеллю складається з кількох простих кроків:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2q",
+            "_type": "span",
+            "marks": [],
+            "text": "Ви входите до системи під своїм обліковим записом."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2s",
+            "_type": "span",
+            "marks": [],
+            "text": "Обираєте потрібний розділ або сторінку."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2u",
+            "_type": "span",
+            "marks": [],
+            "text": "Змінюєте текст, фотографію чи іншу інформацію."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2w",
+            "_type": "span",
+            "marks": [],
+            "text": "Перевіряєте внесені зміни."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-2z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-2y",
+            "_type": "span",
+            "marks": [],
+            "text": "Натискаєте кнопку публікації."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-31",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-30",
+            "_type": "span",
+            "marks": [],
+            "text": "Після публікації оновлена інформація зʼявляється на сайті. Не потрібно встановлювати додаткові програми, розбиратися в коді чи передавати кожну правку розробнику."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-33",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-32",
+            "_type": "span",
+            "marks": [],
+            "text": "Приклад: як додати нову послугу"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-35",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-34",
+            "_type": "span",
+            "marks": [],
+            "text": "Припустімо, у вашої компанії зʼявилася нова послуга."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-37",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-36",
+            "_type": "span",
+            "marks": [],
+            "text": "Вам достатньо відкрити розділ «Послуги», створити новий запис і заповнити підготовлені поля:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-39",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-38",
+            "_type": "span",
+            "marks": [],
+            "text": "назва послуги;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3a",
+            "_type": "span",
+            "marks": [],
+            "text": "короткий опис;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3c",
+            "_type": "span",
+            "marks": [],
+            "text": "основний текст;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3e",
+            "_type": "span",
+            "marks": [],
+            "text": "фотографія;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3g",
+            "_type": "span",
+            "marks": [],
+            "text": "вартість, якщо вона відображається на сайті;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3i",
+            "_type": "span",
+            "marks": [],
+            "text": "SEO-заголовок та опис."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3k",
+            "_type": "span",
+            "marks": [],
+            "text": "Після публікації нова послуга автоматично зʼявиться у відповідному розділі сайту та матиме такий самий дизайн, як і інші сторінки."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3m",
+            "_type": "span",
+            "marks": [],
+            "text": "Чи можна випадково зламати дизайн сайту"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-3p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3o",
+            "_type": "span",
+            "marks": [],
+            "text": "Ні. Адмін-панель дозволяє змінювати контент, але не дизайн і технічну структуру сайту."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3q",
+            "_type": "span",
+            "marks": [],
+            "text": "Ви працюєте лише із заздалегідь підготовленими полями. Наприклад, можете замінити заголовок, текст або фотографію, але не зможете випадково видалити меню, змінити шрифти чи порушити розташування блоків."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3s",
+            "_type": "span",
+            "marks": [],
+            "text": "Нові матеріали автоматично оформлюються відповідно до дизайну сайту. Вам не потрібно самостійно налаштовувати кольори, відступи або розміри тексту."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3u",
+            "_type": "span",
+            "marks": [],
+            "text": "Чернетки та публікація"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-3x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3w",
+            "_type": "span",
+            "marks": [],
+            "text": "Зміни можна спочатку зберегти як чернетку. Це зручно, якщо матеріал ще не готовий або його має перевірити інший співробітник."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-3z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-3y",
+            "_type": "span",
+            "marks": [],
+            "text": "Поки ви не опублікуєте запис, відвідувачі сайту не побачать внесених змін. Так ви не розмістите незавершений текст або неправильну інформацію."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-41",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-40",
+            "_type": "span",
+            "marks": [],
+            "text": "Коли матеріал буде готовий, достатньо натиснути кнопку публікації — і зміни зʼявляться на сайті."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-43",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-42",
+            "_type": "span",
+            "marks": [],
+            "text": "Доступ для співробітників"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-45",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-44",
+            "_type": "span",
+            "marks": [],
+            "text": "За потреби доступ до адмін-панелі можна надати кільком співробітникам. Наприклад, менеджер зможе додавати нові проєкти, а маркетолог — публікувати статті."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-47",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-46",
+            "_type": "span",
+            "marks": [],
+            "text": "Доступ отримують лише визначені користувачі. Сторонні люди не зможуть увійти до адмін-панелі та змінити інформацію на сайті."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-49",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-48",
+            "_type": "span",
+            "marks": [],
+            "text": "Кількість користувачів, їхні ролі та можливі обмеження залежать від потреб конкретного проєкту."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4a",
+            "_type": "span",
+            "marks": [],
+            "text": "Чи потрібно щось встановлювати"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-4d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4c",
+            "_type": "span",
+            "marks": [],
+            "text": "Ні. Адмін-панель підключається до сайту під час розробки та працює онлайн."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4e",
+            "_type": "span",
+            "marks": [],
+            "text": "Для входу достатньо:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4g",
+            "_type": "span",
+            "marks": [],
+            "text": "відкрити спеціальне посилання;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4i",
+            "_type": "span",
+            "marks": [],
+            "text": "авторизуватися;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4k",
+            "_type": "span",
+            "marks": [],
+            "text": "обрати потрібний розділ;"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4m",
+            "_type": "span",
+            "marks": [],
+            "text": "внести та опублікувати зміни."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4o",
+            "_type": "span",
+            "marks": [],
+            "text": "Працювати з адмін-панеллю можна через звичайний браузер на компʼютері, планшеті або телефоні."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4q",
+            "_type": "span",
+            "marks": [],
+            "text": "Ми покажемо, як усе працює"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cms-4t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4s",
+            "_type": "span",
+            "marks": [],
+            "text": "Після завершення розробки ми передаємо вам доступ до адмін-панелі та показуємо, як нею користуватися."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4u",
+            "_type": "span",
+            "marks": [],
+            "text": "Ви отримаєте зрозумілу систему, налаштовану саме під ваш сайт. У ній не буде десятків незрозумілих функцій — лише потрібні розділи та поля."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cms-4w",
+            "_type": "span",
+            "marks": [],
+            "text": "Якщо згодом знадобиться додати новий тип контенту або розширити можливості адмін-панелі, це можна буде реалізувати окремо."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cms-4y",
+        "_type": "ctaCallout",
+        "ctaLabel": "Обговорити розробку сайту",
+        "ctaMode": "modal",
+        "heading": "Керуйте сайтом без постійної допомоги розробника",
+        "leadSource": "blog-cms-final",
+        "sub": "Сайт має залишатися актуальним і після запуску. Тому ми створюємо не просто набір статичних сторінок, а зручний інструмент, яким ваша команда зможе користуватися щодня. Ви самостійно оновлюєте інформацію з компʼютера або телефона, а дизайн і структура сайту залишаються цілісними та акуратними."
+      }
+    ]
+  },
+  "slug": "yak-pratsyuye-admin-panel-saytu"
+}

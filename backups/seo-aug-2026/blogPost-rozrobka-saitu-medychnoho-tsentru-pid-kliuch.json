@@ -1,0 +1,1161 @@
+{
+  "_id": "b0a6ca40-e2fd-45c8-a3ad-5c5748e54e5b",
+  "body": {
+    "en": [
+      {
+        "_key": "mt02s",
+        "_type": "tldrBox",
+        "items": [
+          "A turnkey clinic website takes **4 weeks** from brief to launch, from **£3,500**.",
+          "**Week 1:** brief & structure · **2:** design · **3:** build & integrations · **4:** content, tests, launch",
+          "Your involvement — about **5 hours** across the whole project",
+          "We write the copy, utility pages are included, the price is fixed in the contract",
+          "Online booking with a practice-system integration is in the base package"
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "mt02t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt02u",
+            "_type": "span",
+            "marks": [],
+            "text": "What \"turnkey\" actually means"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt02v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt02w",
+            "_type": "span",
+            "marks": [],
+            "text": "\"Turnkey\" is a worn-out word, so here it is literally. The price includes everything a working site needs: structure and copy, design, build, online booking, a practitioner directory, a price list, a CMS, domain, hosting, launch and a year of support. Not included: photography (we start with your photos and quality stock) and advertising. You don't write a spec or hunt for references — that's our job."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt02x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt02y",
+            "_type": "span",
+            "marks": [],
+            "text": "Week 1: brief and structure"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt02z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt030",
+            "_type": "span",
+            "marks": [],
+            "text": "It starts with a 30-minute call: your clinic's arms, who your patients are, where enquiries come from today. Then we analyse 3–5 competitor clinics in your area and build the page map: home, services, practitioners, prices, contact — up to 8 pages in the base package. You get the structure to sign off. Your involvement: 1–2 hours."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt031",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt032",
+            "_type": "span",
+            "marks": [],
+            "text": "Week 2: design"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt033",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt034",
+            "_type": "span",
+            "marks": [],
+            "text": "The designer builds the home page and a typical service page layout. Medical specifics: a calm palette, real photos instead of stock, a prominent booking button on every screen, typography a 60+ audience can read. Two rounds of revisions included. Your involvement: about an hour of feedback."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt035",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt036",
+            "_type": "span",
+            "marks": [],
+            "text": "Week 3: build and integrations"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt037",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt038",
+            "_type": "span",
+            "marks": [],
+            "text": "The build, the CMS, and the thing that matters most for a clinic — online booking: service, practitioner and time slot in 2 clicks, an SMS confirmation for the patient, a notification for reception. We connect your practice management system or CRM. Load time — under 1.5 seconds on mobile. Your involvement: 0 hours."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt039",
+        "_type": "blogImage",
+        "alt": "A clinic receptionist handling an online booking at a computer",
+        "asset": {
+          "_ref": "image-f989d5d232a698cf880ad8b10b45bfcb87f738d5-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Online booking takes the load off the reception phone — enquiries arrive even at night"
+      },
+      {
+        "_key": "mt03a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt03b",
+            "_type": "span",
+            "marks": [],
+            "text": "Week 4: content, tests, launch"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt03c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt03d",
+            "_type": "span",
+            "marks": [],
+            "text": "We write the page copy (launch copywriting is included), load the price list and practitioners into the CMS, test booking and forms, and wire up Google Analytics and Search Console. The finale is a one-hour training session: after it, your practice manager updates fees and adds practitioners from a phone. Your involvement: 1–2 hours."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt03e",
+        "_type": "blogTable",
+        "headers": [
+          "Week",
+          "What we do",
+          "Your involvement"
+        ],
+        "rows": [
+          {
+            "_key": "mt03f",
+            "_type": "blogTableRow",
+            "cells": [
+              "1. Brief & structure",
+              "competitor analysis, page map",
+              "1–2 hrs"
+            ]
+          },
+          {
+            "_key": "mt03g",
+            "_type": "blogTableRow",
+            "cells": [
+              "2. Design",
+              "layouts, 2 rounds of revisions",
+              "~1 hr"
+            ]
+          },
+          {
+            "_key": "mt03h",
+            "_type": "blogTableRow",
+            "cells": [
+              "3. Build",
+              "frontend, CMS, online booking, integrations",
+              "0 hrs"
+            ]
+          },
+          {
+            "_key": "mt03i",
+            "_type": "blogTableRow",
+            "cells": [
+              "4. Launch",
+              "copy, content load, tests, analytics, training",
+              "1–2 hrs"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "mt03j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt03k",
+            "_type": "span",
+            "marks": [],
+            "text": "What we'll need from you"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt03l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt03m",
+            "_type": "span",
+            "marks": [],
+            "text": "A logo if you have one (if not, we work with a text mark)"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt03n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt03o",
+            "_type": "span",
+            "marks": [],
+            "text": "Your price list in any form — even an Excel table"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt03p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt03q",
+            "_type": "span",
+            "marks": [],
+            "text": "The practitioner list: names, specialisms; phone photos will do"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt03r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt03s",
+            "_type": "span",
+            "marks": [],
+            "text": "Domain access, or the go-ahead to register a new one"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt03t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt03u",
+            "_type": "span",
+            "marks": [],
+            "text": "About 5 hours of your time for calls and feedback"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt03v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt03w",
+            "_type": "span",
+            "marks": [],
+            "text": "What it costs"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt044",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt03x",
+            "_type": "span",
+            "marks": [],
+            "text": "A core clinic website is from £3,500 in 4 weeks: up to 8 pages, online booking, a practitioner directory, a price list. Extended, with a blog and clinic CRM — from £6,500. Multi-site groups — from £12,000. We broke the full quote down line by line "
+          },
+          {
+            "_key": "mt03z",
+            "_type": "span",
+            "marks": [
+              "mt03y"
+            ],
+            "text": "in a separate pricing article"
+          },
+          {
+            "_key": "mt040",
+            "_type": "span",
+            "marks": [],
+            "text": ", and everything about clinic solutions is on the "
+          },
+          {
+            "_key": "mt042",
+            "_type": "span",
+            "marks": [
+              "mt041"
+            ],
+            "text": "healthcare page"
+          },
+          {
+            "_key": "mt043",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "mt03y",
+            "_type": "link",
+            "href": "/en/blog/clinic-website-cost-uk-2026",
+            "newTab": false
+          },
+          {
+            "_key": "mt041",
+            "_type": "link",
+            "href": "/en/sites-for/medicine",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "mt045",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/sites-for/medicine",
+        "ctaLabel": "Get the teardown",
+        "ctaSecondaryHref": "/en/calculator",
+        "ctaSecondaryLabel": "Price a website",
+        "eyebrow": "Free teardown",
+        "heading": "Already have a clinic website? Send it — we'll tear it down in 24 hours",
+        "sub": "A list of the mistakes losing you patients, a speed and SEO report, and a ballpark cost to fix it. No obligations."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "mt01e",
+        "_type": "tldrBox",
+        "items": [
+          "Сайт медицинского центра под ключ — **4 недели** от брифа до запуска, от **$3,500**.",
+          "**Неделя 1:** бриф и структура · **2:** дизайн · **3:** разработка и интеграции · **4:** контент, тесты, запуск",
+          "Ваше участие — около **5 часов** за весь проект",
+          "Тексты пишем мы, служебные страницы включены, цена фиксируется в договоре",
+          "Онлайн-запись с интеграцией Helsi / Medesk / Dental4Windows — в базовом пакете"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "mt01f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt01g",
+            "_type": "span",
+            "marks": [],
+            "text": "Что значит «под ключ» на самом деле"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt01h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt01i",
+            "_type": "span",
+            "marks": [],
+            "text": "«Под ключ» — заезженная фраза, поэтому разложим буквально. В цену входит всё, что нужно для рабочего сайта: структура и тексты, дизайн, вёрстка, онлайн-запись, каталог врачей, прайс, админка, домен, хостинг, запуск и год поддержки. Не входит: фотосъёмка (стартуем с ваших фото и качественного стока) и реклама. Вы не пишете ТЗ и не ищете референсы — это наша работа."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt01j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt01k",
+            "_type": "span",
+            "marks": [],
+            "text": "Неделя 1: бриф и структура"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt01l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt01m",
+            "_type": "span",
+            "marks": [],
+            "text": "Всё начинается с 30-минутного звонка: направления клиники, кто ваши пациенты, откуда сейчас приходят заявки. Дальше мы анализируем 3–5 клиник-конкурентов в вашем районе и строим карту страниц: главная, услуги, врачи, прайс, контакты — до 8 страниц в базовом пакете. Вы получаете структуру на согласование. Ваше участие: 1–2 часа."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt01n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt01o",
+            "_type": "span",
+            "marks": [],
+            "text": "Неделя 2: дизайн"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt01p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt01q",
+            "_type": "span",
+            "marks": [],
+            "text": "Дизайнер собирает макет главной и типовой страницы услуги. Медицинская специфика: спокойная палитра, реальные фото вместо стока, заметная кнопка записи на каждом экране, шрифты, которые читает аудитория 60+. Два раунда правок включены. Ваше участие: около часа на фидбек."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt01r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt01s",
+            "_type": "span",
+            "marks": [],
+            "text": "Неделя 3: разработка и интеграции"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt01t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt01u",
+            "_type": "span",
+            "marks": [],
+            "text": "Вёрстка, админка Sanity и самое важное для клиники — онлайн-запись: выбор услуги, врача и времени за 2 клика, SMS-подтверждение пациенту, уведомление администратору. Подключаем вашу систему: Helsi, Medesk, Dental4Windows или KeyCRM. Скорость — до 1,5 секунды на мобильном. Ваше участие: 0 часов."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt01v",
+        "_type": "blogImage",
+        "alt": "Администратор клиники принимает онлайн-запись пациента за компьютером",
+        "asset": {
+          "_ref": "image-f989d5d232a698cf880ad8b10b45bfcb87f738d5-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Онлайн-запись снимает нагрузку с телефона рецепции — заявки приходят даже ночью"
+      },
+      {
+        "_key": "mt01w",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt01x",
+            "_type": "span",
+            "marks": [],
+            "text": "Неделя 4: контент, тесты, запуск"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt01y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt01z",
+            "_type": "span",
+            "marks": [],
+            "text": "Мы пишем тексты страниц (стартовый копирайтинг включён), заносим прайс и врачей в админку, тестируем запись и формы, подключаем Google Analytics и Search Console. Финал — час обучения: после него ваш администратор меняет цены и добавляет врачей самостоятельно, с телефона. Ваше участие: 1–2 часа."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt020",
+        "_type": "blogTable",
+        "headers": [
+          "Неделя",
+          "Что делаем мы",
+          "Ваше участие"
+        ],
+        "rows": [
+          {
+            "_key": "mt021",
+            "_type": "blogTableRow",
+            "cells": [
+              "1. Бриф и структура",
+              "анализ конкурентов, карта страниц",
+              "1–2 ч"
+            ]
+          },
+          {
+            "_key": "mt022",
+            "_type": "blogTableRow",
+            "cells": [
+              "2. Дизайн",
+              "макеты, 2 раунда правок",
+              "~1 ч"
+            ]
+          },
+          {
+            "_key": "mt023",
+            "_type": "blogTableRow",
+            "cells": [
+              "3. Разработка",
+              "вёрстка, админка, онлайн-запись, интеграции",
+              "0 ч"
+            ]
+          },
+          {
+            "_key": "mt024",
+            "_type": "blogTableRow",
+            "cells": [
+              "4. Запуск",
+              "тексты, наполнение, тесты, аналитика, обучение",
+              "1–2 ч"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "mt025",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt026",
+            "_type": "span",
+            "marks": [],
+            "text": "Что понадобится от вас"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt027",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt028",
+            "_type": "span",
+            "marks": [],
+            "text": "Логотип, если есть (нет — работаем с текстовым вариантом)"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt029",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt02a",
+            "_type": "span",
+            "marks": [],
+            "text": "Прайс услуг в любом виде — хоть таблица в Excel"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt02b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt02c",
+            "_type": "span",
+            "marks": [],
+            "text": "Список врачей: имена, специализации, фото с телефона подойдут"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt02d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt02e",
+            "_type": "span",
+            "marks": [],
+            "text": "Доступ к домену или согласие, чтобы мы зарегистрировали новый"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt02f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt02g",
+            "_type": "span",
+            "marks": [],
+            "text": "Около 5 часов времени на звонки и фидбек"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt02h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt02i",
+            "_type": "span",
+            "marks": [],
+            "text": "Сколько это стоит"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt02q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt02j",
+            "_type": "span",
+            "marks": [],
+            "text": "Базовый сайт клиники — от $3,500 за 4 недели: до 8 страниц, онлайн-запись, каталог врачей, прайс. Расширенный с блогом и медицинской CRM — от $6,500. Сеть клиник — от $12,000. Полную смету постатейно мы разобрали "
+          },
+          {
+            "_key": "mt02l",
+            "_type": "span",
+            "marks": [
+              "mt02k"
+            ],
+            "text": "в отдельной статье о ценах"
+          },
+          {
+            "_key": "mt02m",
+            "_type": "span",
+            "marks": [],
+            "text": ", а всё о решениях для клиник — на "
+          },
+          {
+            "_key": "mt02o",
+            "_type": "span",
+            "marks": [
+              "mt02n"
+            ],
+            "text": "странице медицины"
+          },
+          {
+            "_key": "mt02p",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "mt02k",
+            "_type": "link",
+            "href": "/ru/blog/skolko-stoit-sayt-dlya-kliniki-2026",
+            "newTab": false
+          },
+          {
+            "_key": "mt02n",
+            "_type": "link",
+            "href": "/ru/sites-for/medicine",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "mt02r",
+        "_type": "ctaCallout",
+        "ctaHref": "/ru/sites-for/medicine",
+        "ctaLabel": "Получить разбор",
+        "ctaSecondaryHref": "/ru/calculator",
+        "ctaSecondaryLabel": "Посчитать стоимость",
+        "eyebrow": "Бесплатный разбор",
+        "heading": "Есть сайт клиники? Пришлите — разберём за 24 часа",
+        "sub": "Список ошибок, из-за которых клиника теряет пациентов, отчёт по скорости и SEO и ориентировочная стоимость исправления. Без обязательств."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "mt000",
+        "_type": "tldrBox",
+        "items": [
+          "Сайт медичного центру під ключ — **4 тижні** від брифу до запуску, від **$3,500**.",
+          "**Тиждень 1:** бриф і структура · **2:** дизайн · **3:** розробка й інтеграції · **4:** контент, тести, запуск",
+          "Ваша участь — близько **5 годин** за весь проєкт",
+          "Тексти пишемо ми, службові сторінки включені, ціна фіксується в договорі",
+          "Онлайн-запис з інтеграцією Helsi / Medesk / Dental4Windows — у базовому пакеті"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "mt001",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt002",
+            "_type": "span",
+            "marks": [],
+            "text": "Що означає «під ключ» насправді"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt003",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt004",
+            "_type": "span",
+            "marks": [],
+            "text": "«Під ключ» — заїжджена фраза, тому розкладемо буквально. У ціну входить все, що потрібно для робочого сайту: структура і тексти, дизайн, верстка, онлайн-запис, каталог лікарів, прайс, адмінка, домен, хостинг, запуск і рік підтримки. Не входить: фотозйомка (стартуємо з ваших фото і якісного стоку) і реклама. Ви не пишете ТЗ і не шукаєте референси — це наша робота."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt005",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt006",
+            "_type": "span",
+            "marks": [],
+            "text": "Тиждень 1: бриф і структура"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt007",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt008",
+            "_type": "span",
+            "marks": [],
+            "text": "Все починається з 30-хвилинного дзвінка: напрями клініки, хто ваші пацієнти, звідки зараз приходять заявки. Далі ми аналізуємо 3–5 клінік-конкурентів у вашому районі й будуємо карту сторінок: головна, послуги, лікарі, прайс, контакти — до 8 сторінок у базовому пакеті. Ви отримуєте структуру на погодження. Ваша участь: 1–2 години."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt009",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt00a",
+            "_type": "span",
+            "marks": [],
+            "text": "Тиждень 2: дизайн"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt00b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt00c",
+            "_type": "span",
+            "marks": [],
+            "text": "Дизайнер збирає макет головної і типової сторінки послуги. Медична специфіка: спокійна палітра, реальні фото замість стоку, помітна кнопка запису на кожному екрані, шрифти, які читає аудиторія 60+. Два раунди правок включені. Ваша участь: близько години на фідбек."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt00d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt00e",
+            "_type": "span",
+            "marks": [],
+            "text": "Тиждень 3: розробка та інтеграції"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt00f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt00g",
+            "_type": "span",
+            "marks": [],
+            "text": "Верстка, адмінка Sanity і найважливіше для клініки — онлайн-запис: вибір послуги, лікаря і часу за 2 кліки, SMS-підтвердження пацієнту, сповіщення адміністратору. Підключаємо вашу систему: Helsi, Medesk, Dental4Windows або KeyCRM. Швидкість — до 1,5 секунди на мобільному. Ваша участь: 0 годин."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt00h",
+        "_type": "blogImage",
+        "alt": "Адміністратор клініки приймає онлайн-запис пацієнта за компʼютером",
+        "asset": {
+          "_ref": "image-f989d5d232a698cf880ad8b10b45bfcb87f738d5-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Онлайн-запис знімає навантаження з телефона рецепції — заявки приходять навіть уночі"
+      },
+      {
+        "_key": "mt00i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt00j",
+            "_type": "span",
+            "marks": [],
+            "text": "Тиждень 4: контент, тести, запуск"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt00k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt00l",
+            "_type": "span",
+            "marks": [],
+            "text": "Ми пишемо тексти сторінок (стартовий копірайтинг включено), заносимо прайс і лікарів в адмінку, тестуємо запис і форми, підключаємо Google Analytics і Search Console. Фінал — година навчання: після неї ваш адміністратор змінює ціни й додає лікарів самостійно, з телефона. Ваша участь: 1–2 години."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt00m",
+        "_type": "blogTable",
+        "headers": [
+          "Тиждень",
+          "Що робимо ми",
+          "Ваша участь"
+        ],
+        "rows": [
+          {
+            "_key": "mt00n",
+            "_type": "blogTableRow",
+            "cells": [
+              "1. Бриф і структура",
+              "аналіз конкурентів, карта сторінок",
+              "1–2 год"
+            ]
+          },
+          {
+            "_key": "mt00o",
+            "_type": "blogTableRow",
+            "cells": [
+              "2. Дизайн",
+              "макети, 2 раунди правок",
+              "~1 год"
+            ]
+          },
+          {
+            "_key": "mt00p",
+            "_type": "blogTableRow",
+            "cells": [
+              "3. Розробка",
+              "верстка, адмінка, онлайн-запис, інтеграції",
+              "0 год"
+            ]
+          },
+          {
+            "_key": "mt00q",
+            "_type": "blogTableRow",
+            "cells": [
+              "4. Запуск",
+              "тексти, наповнення, тести, аналітика, навчання",
+              "1–2 год"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "mt00r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt00s",
+            "_type": "span",
+            "marks": [],
+            "text": "Що знадобиться від вас"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt00t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt00u",
+            "_type": "span",
+            "marks": [],
+            "text": "Логотип, якщо є (немає — працюємо з текстовим варіантом)"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt00v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt00w",
+            "_type": "span",
+            "marks": [],
+            "text": "Прайс послуг у будь-якому вигляді — хоч таблиця в Excel"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt00x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt00y",
+            "_type": "span",
+            "marks": [],
+            "text": "Список лікарів: імена, спеціалізації, фото з телефона підійдуть"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt00z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt010",
+            "_type": "span",
+            "marks": [],
+            "text": "Доступ до домену або згода, щоб ми зареєстрували новий"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt011",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt012",
+            "_type": "span",
+            "marks": [],
+            "text": "Близько 5 годин часу на дзвінки і фідбек"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt013",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt014",
+            "_type": "span",
+            "marks": [],
+            "text": "Скільки це коштує"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt01c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt015",
+            "_type": "span",
+            "marks": [],
+            "text": "Базовий сайт клініки — від $3,500 за 4 тижні: до 8 сторінок, онлайн-запис, каталог лікарів, прайс. Розширений із блогом і медичною CRM — від $6,500. Мережа клінік — від $12,000. Повний кошторис постатейно ми розібрали "
+          },
+          {
+            "_key": "mt017",
+            "_type": "span",
+            "marks": [
+              "mt016"
+            ],
+            "text": "в окремій статті про ціни"
+          },
+          {
+            "_key": "mt018",
+            "_type": "span",
+            "marks": [],
+            "text": ", а все про рішення для клінік — на "
+          },
+          {
+            "_key": "mt01a",
+            "_type": "span",
+            "marks": [
+              "mt019"
+            ],
+            "text": "сторінці медицини"
+          },
+          {
+            "_key": "mt01b",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "mt016",
+            "_type": "link",
+            "href": "/blog/skilky-koshtuye-sait-dlia-kliniky-2026",
+            "newTab": false
+          },
+          {
+            "_key": "mt019",
+            "_type": "link",
+            "href": "/sites-for/medicine",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "mt01d",
+        "_type": "ctaCallout",
+        "ctaHref": "/sites-for/medicine",
+        "ctaLabel": "Отримати розбір",
+        "ctaSecondaryHref": "/calculator",
+        "ctaSecondaryLabel": "Порахувати вартість",
+        "eyebrow": "Безкоштовний розбір",
+        "heading": "Маєте сайт клініки? Надішліть — розберемо за 24 години",
+        "sub": "Список помилок, через які клініка втрачає пацієнтів, звіт зі швидкості й SEO та орієнтовна вартість виправлення. Без зобовʼязань."
+      }
+    ]
+  },
+  "slug": "rozrobka-saitu-medychnoho-tsentru-pid-kliuch"
+}

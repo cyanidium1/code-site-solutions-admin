@@ -1,0 +1,1014 @@
+{
+  "_id": "f5eb3ad4-86b9-4923-97ae-4c513ff93264",
+  "body": {
+    "en": [
+      {
+        "_key": "t302c",
+        "_type": "tldrBox",
+        "items": [
+          "A hospital website and a private-practice website are **different products** with different budgets.",
+          "**Solo practice:** a landing page from £800 · **Clinic:** a full site from £3,500 · **Hospital/group:** from £12,000",
+          "The classic mistake: buying \"room to grow\" you won't use — or a brochure where you needed a system",
+          "The architecture scales: starting small and growing is a normal path"
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "t302d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t302e",
+            "_type": "span",
+            "marks": [],
+            "text": "Why \"a medical website\" is three different jobs"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t302f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t302g",
+            "_type": "span",
+            "marks": [],
+            "text": "A solo dentist, a 10-practitioner clinic and a hospital with departments all ask for \"a website\" — but mean three different tools. A practice needs to be found and booked. A clinic needs to route patients across services and practitioners. A hospital needs to carry departmental structure, schedules and load. Buy the wrong format and you either overpay for the unused — or hit the ceiling in six months."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t302h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t302i",
+            "_type": "span",
+            "marks": [],
+            "text": "A solo practice: a landing page from £800"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t302j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t302k",
+            "_type": "span",
+            "marks": [],
+            "text": "One practitioner, a few services, one patient flow. A landing page is enough: who you are, what you treat, prices, reviews, a booking form. No CMS or directory — there's nothing to fill them with. It's the fastest start: 1–2 weeks and you can be found and booked. When a second practitioner and a dozen services arrive, you grow into a full site without a rebuild."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t302l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t302m",
+            "_type": "span",
+            "marks": [],
+            "text": "A clinic: a full website from £3,500"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t302n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t302o",
+            "_type": "span",
+            "marks": [],
+            "text": "Several practitioners, dozens of services, two or three arms. A system works here: a page per service (your SEO entry points), a practitioner directory with schedules, online booking integrated with your practice system, a CMS-managed price list. The extended format from £6,500 adds a blog, insurance integration and a clinic CRM."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t302p",
+        "_type": "blogImage",
+        "alt": "A clinician with a smartphone at a clinic",
+        "asset": {
+          "_ref": "image-289eed171553ffa71d101c3871d24a1b8bd2eff1-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Patients book from their phones — your website's format should match the size of the practice, not the ambition"
+      },
+      {
+        "_key": "t302q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t302r",
+            "_type": "span",
+            "marks": [],
+            "text": "A hospital or group: from £12,000"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t302s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t302t",
+            "_type": "span",
+            "marks": [],
+            "text": "A multi-location structure: each site has its own practitioners, schedules and phones under one brand and standard. Add complex integrations (EPR, labs), multilingual support and an SLA. This isn't \"a website\" anymore — it's infrastructure, and it's designed accordingly, starting with an architectural session."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t302u",
+        "_type": "blogTable",
+        "headers": [
+          "Format",
+          "For whom",
+          "What's inside",
+          "Price",
+          "Timeline"
+        ],
+        "rows": [
+          {
+            "_key": "t302v",
+            "_type": "blogTableRow",
+            "cells": [
+              "Landing page",
+              "solo practice, 1 practitioner",
+              "services, prices, reviews, booking form",
+              "from £800",
+              "1–2 weeks"
+            ]
+          },
+          {
+            "_key": "t302w",
+            "_type": "blogTableRow",
+            "cells": [
+              "Full website",
+              "clinic, 3–15 practitioners",
+              "service pages, practitioner directory, online booking, CMS",
+              "from £3,500",
+              "4 weeks"
+            ]
+          },
+          {
+            "_key": "t302x",
+            "_type": "blogTableRow",
+            "cells": [
+              "Extended",
+              "a clinic doing marketing",
+              "+ blog, insurance integration, clinic CRM",
+              "from £6,500",
+              "6 weeks"
+            ]
+          },
+          {
+            "_key": "t302y",
+            "_type": "blogTableRow",
+            "cells": [
+              "Group / hospital",
+              "multiple sites, departments",
+              "multi-location, EPR integrations, multilingual, SLA",
+              "from £12,000",
+              "8–10 weeks"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "t302z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3030",
+            "_type": "span",
+            "marks": [],
+            "text": "How to pick the right format"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t3031",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3032",
+            "_type": "span",
+            "marks": [],
+            "text": "Choose for today's patient flow, not the dream — the architecture grows with you"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3033",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3034",
+            "_type": "span",
+            "marks": [],
+            "text": "Torn between a landing page and a site? Start with the landing page and keep the budget difference"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3035",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3036",
+            "_type": "span",
+            "marks": [],
+            "text": "Two or more locations? Multi-location structure from day one — retrofitting costs more"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3037",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3038",
+            "_type": "span",
+            "marks": [],
+            "text": "The only thing worth buying \"for growth\" is fast code and clean architecture"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t303g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3039",
+            "_type": "span",
+            "marks": [],
+            "text": "We broke a clinic website's budget down line by line "
+          },
+          {
+            "_key": "t303b",
+            "_type": "span",
+            "marks": [
+              "t303a"
+            ],
+            "text": "in the pricing article"
+          },
+          {
+            "_key": "t303c",
+            "_type": "span",
+            "marks": [],
+            "text": ", and the step-by-step process "
+          },
+          {
+            "_key": "t303e",
+            "_type": "span",
+            "marks": [
+              "t303d"
+            ],
+            "text": "in the 4-week development breakdown"
+          },
+          {
+            "_key": "t303f",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t303a",
+            "_type": "link",
+            "href": "/en/blog/clinic-website-cost-uk-2026",
+            "newTab": false
+          },
+          {
+            "_key": "t303d",
+            "_type": "link",
+            "href": "/en/blog/clinic-website-development-process",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t303h",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/calculator",
+        "ctaLabel": "Open the calculator",
+        "ctaSecondaryHref": "/en/sites-for/medicine",
+        "ctaSecondaryLabel": "Healthcare solutions",
+        "eyebrow": "Format check",
+        "heading": "Not sure which format is yours?",
+        "sub": "Tell us about your practice or clinic — on a 30-minute call we'll say honestly what not to overpay for. Or price it yourself in 60 seconds."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "t3016",
+        "_type": "tldrBox",
+        "items": [
+          "«Сайт для больницы» и «сайт для частного кабинета» — **разные продукты** с разными бюджетами.",
+          "**Кабинет:** лендинг от $800 · **Клиника:** полный сайт от $3,500 · **Больница/сеть:** от $12,000",
+          "Главная ошибка — покупать формат «на вырост» или, наоборот, визитку вместо системы",
+          "Архитектура масштабируется: начать с малого и дорасти — нормальный путь"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "t3017",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3018",
+            "_type": "span",
+            "marks": [],
+            "text": "Почему «сайт для медицины» — это три разные задачи"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t3019",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t301a",
+            "_type": "span",
+            "marks": [],
+            "text": "Частный стоматолог, клиника на 10 врачей и больница с отделениями просят «сайт» — но имеют в виду три разных инструмента. Кабинету нужно, чтобы его нашли и записались. Клинике — развести потоки по услугам и врачам. Больнице — выдержать структуру отделений, расписания и нагрузку. Если купить не свой формат, вы либо переплатите за лишнее, либо упрётесь в потолок через полгода."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t301b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t301c",
+            "_type": "span",
+            "marks": [],
+            "text": "Частный кабинет: лендинг от $800"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t301d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t301e",
+            "_type": "span",
+            "marks": [],
+            "text": "Один врач, несколько услуг, один поток пациентов. Достаточно лендинга: кто вы, что лечите, цены, отзывы, форма записи. Без админки и каталога — их нечем наполнять. Это самый быстрый старт: 1–2 недели, и вас можно найти и записаться. Когда появится второй врач и десяток услуг — дорастёте без переделки."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t301f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t301g",
+            "_type": "span",
+            "marks": [],
+            "text": "Клиника: полный сайт от $3,500"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t301h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t301i",
+            "_type": "span",
+            "marks": [],
+            "text": "Несколько врачей, десятки услуг, два-три направления. Здесь работает система: страница под каждую услугу (это и SEO-точки входа), каталог врачей с расписаниями, онлайн-запись с интеграцией в медсистему, прайс, управляемый из админки. Расширенный формат от $6,500 добавляет блог, ДМС-интеграцию и медицинскую CRM."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t301j",
+        "_type": "blogImage",
+        "alt": "Врач со смартфоном в клинике",
+        "asset": {
+          "_ref": "image-289eed171553ffa71d101c3871d24a1b8bd2eff1-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Пациенты записываются с телефона — формат сайта должен соответствовать размеру практики, а не амбициям"
+      },
+      {
+        "_key": "t301k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t301l",
+            "_type": "span",
+            "marks": [],
+            "text": "Больница и сеть: от $12,000"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t301m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t301n",
+            "_type": "span",
+            "marks": [],
+            "text": "Мультифилиальная структура: у каждой локации свои врачи, расписания и телефоны, но бренд и стандарты общие. Добавляются сложные интеграции (МИС, лаборатории), мультиязычность, SLA-поддержка. Это уже не «сайт», а часть инфраструктуры — и проектируется соответственно, с архитектурной сессией на старте."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t301o",
+        "_type": "blogTable",
+        "headers": [
+          "Формат",
+          "Кому",
+          "Что внутри",
+          "Цена",
+          "Срок"
+        ],
+        "rows": [
+          {
+            "_key": "t301p",
+            "_type": "blogTableRow",
+            "cells": [
+              "Лендинг",
+              "частный кабинет, 1 врач",
+              "услуги, цены, отзывы, форма записи",
+              "от $800",
+              "1–2 недели"
+            ]
+          },
+          {
+            "_key": "t301q",
+            "_type": "blogTableRow",
+            "cells": [
+              "Полный сайт",
+              "клиника, 3–15 врачей",
+              "страницы услуг, каталог врачей, онлайн-запись, админка",
+              "от $3,500",
+              "4 недели"
+            ]
+          },
+          {
+            "_key": "t301r",
+            "_type": "blogTableRow",
+            "cells": [
+              "Расширенный",
+              "клиника с маркетингом",
+              "+ блог, ДМС, медицинская CRM",
+              "от $6,500",
+              "6 недель"
+            ]
+          },
+          {
+            "_key": "t301s",
+            "_type": "blogTableRow",
+            "cells": [
+              "Сеть / больница",
+              "несколько филиалов, отделения",
+              "мультилокации, МИС-интеграции, мультиязычность, SLA",
+              "от $12,000",
+              "8–10 недель"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "t301t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t301u",
+            "_type": "span",
+            "marks": [],
+            "text": "Как не ошибиться с форматом"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t301v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t301w",
+            "_type": "span",
+            "marks": [],
+            "text": "Выбирайте под сегодняшний поток пациентов, а не под мечту — архитектура дорастёт вместе с вами"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t301x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t301y",
+            "_type": "span",
+            "marks": [],
+            "text": "Если сомневаетесь между лендингом и сайтом — начните с лендинга: разницу в бюджете сохраните"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t301z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3020",
+            "_type": "span",
+            "marks": [],
+            "text": "Если у вас 2+ локации — мультилокационная структура сразу: переделывать потом дороже"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3021",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3022",
+            "_type": "span",
+            "marks": [],
+            "text": "«На вырост» покупают только одно: быстрый код и чистую архитектуру"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t302a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3023",
+            "_type": "span",
+            "marks": [],
+            "text": "Смету клинического сайта постатейно мы разбирали "
+          },
+          {
+            "_key": "t3025",
+            "_type": "span",
+            "marks": [
+              "t3024"
+            ],
+            "text": "в статье о ценах"
+          },
+          {
+            "_key": "t3026",
+            "_type": "span",
+            "marks": [],
+            "text": ", а пошаговый процесс — "
+          },
+          {
+            "_key": "t3028",
+            "_type": "span",
+            "marks": [
+              "t3027"
+            ],
+            "text": "в разборе 4 недель разработки"
+          },
+          {
+            "_key": "t3029",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t3024",
+            "_type": "link",
+            "href": "/ru/blog/skolko-stoit-sayt-dlya-kliniki-2026",
+            "newTab": false
+          },
+          {
+            "_key": "t3027",
+            "_type": "link",
+            "href": "/ru/blog/razrabotka-sayta-medicinskogo-centra-pod-klyuch",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t302b",
+        "_type": "ctaCallout",
+        "ctaHref": "/ru/calculator",
+        "ctaLabel": "Посчитать в калькуляторе",
+        "ctaSecondaryHref": "/ru/sites-for/medicine",
+        "ctaSecondaryLabel": "Решения для медицины",
+        "eyebrow": "Подбор формата",
+        "heading": "Не уверены, какой формат ваш?",
+        "sub": "Расскажите о кабинете или клинике — на 30-мин звонке честно скажем, за что не стоит переплачивать. Или посчитайте сами за 60 секунд."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "t3000",
+        "_type": "tldrBox",
+        "items": [
+          "«Сайт для лікарні» і «сайт для приватного кабінету» — **різні продукти** з різними бюджетами.",
+          "**Кабінет:** лендінг від $800 · **Клініка:** повний сайт від $3,500 · **Лікарня/мережа:** від $12,000",
+          "Головна помилка — купувати формат «на виріст» або, навпаки, візитку замість системи",
+          "Архітектура масштабується: почати з малого і дорости — нормальний шлях"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "t3001",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3002",
+            "_type": "span",
+            "marks": [],
+            "text": "Чому «сайт для медицини» — це три різні задачі"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t3003",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3004",
+            "_type": "span",
+            "marks": [],
+            "text": "Приватний стоматолог, клініка на 10 лікарів і лікарня з відділеннями просять «сайт» — але мають на увазі три різні інструменти. Кабінету треба, щоб його знайшли і записались. Клініці — розвести потоки по послугах і лікарях. Лікарні — витримати структуру відділень, розклади і навантаження. Якщо купити не свій формат, ви або переплатите за зайве, або впретесь у стелю через пів року."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3005",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3006",
+            "_type": "span",
+            "marks": [],
+            "text": "Приватний кабінет: лендінг від $800"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t3007",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3008",
+            "_type": "span",
+            "marks": [],
+            "text": "Один лікар, кілька послуг, один потік пацієнтів. Досить лендінга: хто ви, що лікуєте, ціни, відгуки, форма запису. Без адмінки і каталогу — їх нема чим наповнювати. Це найшвидший старт: 1–2 тижні, і вас можна знайти й записатись. Коли зʼявиться другий лікар і десяток послуг — доростете без переробки."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3009",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t300a",
+            "_type": "span",
+            "marks": [],
+            "text": "Клініка: повний сайт від $3,500"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t300b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t300c",
+            "_type": "span",
+            "marks": [],
+            "text": "Кілька лікарів, десятки послуг, два-три напрями. Тут працює система: сторінка під кожну послугу (це і SEO-точки входу), каталог лікарів із розкладами, онлайн-запис з інтеграцією в медсистему, прайс, керований з адмінки. Розширений формат від $6,500 додає блог, ДМС-інтеграцію і медичну CRM."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t300d",
+        "_type": "blogImage",
+        "alt": "Лікарка зі смартфоном у клініці",
+        "asset": {
+          "_ref": "image-289eed171553ffa71d101c3871d24a1b8bd2eff1-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Пацієнти записуються з телефона — формат сайту має відповідати розміру практики, а не амбіціям"
+      },
+      {
+        "_key": "t300e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t300f",
+            "_type": "span",
+            "marks": [],
+            "text": "Лікарня і мережа: від $12,000"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t300g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t300h",
+            "_type": "span",
+            "marks": [],
+            "text": "Багатофіліальна структура: у кожної локації свої лікарі, розклади і телефони, але бренд і стандарти спільні. Додаються складні інтеграції (МІС, лабораторії), багатомовність, SLA-підтримка. Це вже не «сайт», а частина інфраструктури — і проєктується відповідно, з архітектурною сесією на старті."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t300i",
+        "_type": "blogTable",
+        "headers": [
+          "Формат",
+          "Кому",
+          "Що всередині",
+          "Ціна",
+          "Термін"
+        ],
+        "rows": [
+          {
+            "_key": "t300j",
+            "_type": "blogTableRow",
+            "cells": [
+              "Лендінг",
+              "приватний кабінет, 1 лікар",
+              "послуги, ціни, відгуки, форма запису",
+              "від $800",
+              "1–2 тижні"
+            ]
+          },
+          {
+            "_key": "t300k",
+            "_type": "blogTableRow",
+            "cells": [
+              "Повний сайт",
+              "клініка, 3–15 лікарів",
+              "сторінки послуг, каталог лікарів, онлайн-запис, адмінка",
+              "від $3,500",
+              "4 тижні"
+            ]
+          },
+          {
+            "_key": "t300l",
+            "_type": "blogTableRow",
+            "cells": [
+              "Розширений",
+              "клініка з маркетингом",
+              "+ блог, ДМС, медична CRM",
+              "від $6,500",
+              "6 тижнів"
+            ]
+          },
+          {
+            "_key": "t300m",
+            "_type": "blogTableRow",
+            "cells": [
+              "Мережа / лікарня",
+              "кілька філій, відділення",
+              "мультилокації, МІС-інтеграції, багатомовність, SLA",
+              "від $12,000",
+              "8–10 тижнів"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "t300n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t300o",
+            "_type": "span",
+            "marks": [],
+            "text": "Як не помилитись із форматом"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t300p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t300q",
+            "_type": "span",
+            "marks": [],
+            "text": "Обирайте під сьогоднішній потік пацієнтів, а не під мрію — архітектура доросте разом із вами"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t300r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t300s",
+            "_type": "span",
+            "marks": [],
+            "text": "Якщо сумніваєтесь між лендінгом і сайтом — почніть із лендінга: різницю в бюджеті збережете"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t300t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t300u",
+            "_type": "span",
+            "marks": [],
+            "text": "Якщо у вас 2+ локації — мультилокаційна структура одразу: переробляти потім дорожче"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t300v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t300w",
+            "_type": "span",
+            "marks": [],
+            "text": "«На виріст» купують тільки одне: швидкий код і чисту архітектуру"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3014",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t300x",
+            "_type": "span",
+            "marks": [],
+            "text": "Кошторис клінічного сайту постатейно ми розбирали "
+          },
+          {
+            "_key": "t300z",
+            "_type": "span",
+            "marks": [
+              "t300y"
+            ],
+            "text": "в статті про ціни"
+          },
+          {
+            "_key": "t3010",
+            "_type": "span",
+            "marks": [],
+            "text": ", а покроковий процес — "
+          },
+          {
+            "_key": "t3012",
+            "_type": "span",
+            "marks": [
+              "t3011"
+            ],
+            "text": "у розборі 4 тижнів розробки"
+          },
+          {
+            "_key": "t3013",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t300y",
+            "_type": "link",
+            "href": "/blog/skilky-koshtuye-sait-dlia-kliniky-2026",
+            "newTab": false
+          },
+          {
+            "_key": "t3011",
+            "_type": "link",
+            "href": "/blog/rozrobka-saitu-medychnoho-tsentru-pid-kliuch",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t3015",
+        "_type": "ctaCallout",
+        "ctaHref": "/calculator",
+        "ctaLabel": "Порахувати в калькуляторі",
+        "ctaSecondaryHref": "/sites-for/medicine",
+        "ctaSecondaryLabel": "Рішення для медицини",
+        "eyebrow": "Підбір формату",
+        "heading": "Не впевнені, який формат ваш?",
+        "sub": "Розкажіть про кабінет чи клініку — на 30-хв дзвінку чесно скажемо, за що не варто переплачувати. Або порахуйте самі за 60 секунд."
+      }
+    ]
+  },
+  "slug": "sait-dlia-likarni-vs-pryvatnyi-kabinet"
+}

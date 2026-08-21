@@ -1,0 +1,37 @@
+{
+  "_id": "545055df-57c5-4936-80aa-af8f0b818f42",
+  "lede": {
+    "en": "Patients decide whether to trust a clinic within their first 5 seconds on the site. Code-Site.Art's lead designer breaks down which design decisions build trust — and which work for your competitors.",
+    "ru": "Пациент решает, доверять ли клинике, за первые 5 секунд на сайте. Лид-дизайнер Code-Site.Art разбирает, какие дизайн-решения строят доверие, а какие работают на конкурентов.",
+    "uk": "Пацієнт вирішує, чи довіряти клініці, за перші 5 секунд на сайті. Лід-дизайнерка Code-Site.Art розбирає, які дизайн-рішення будують довіру, а які працюють на конкурентів."
+  },
+  "metaDescription": {
+    "en": "➤ Medical website design decides in 5 seconds ✔️ 5 trust techniques, 5 anti-patterns, a 10-question checklist ✔️ Case: 3.2× enquiries after a redesign ➡ A lead designer's teardown.",
+    "ru": "➤ Дизайн медицинского сайта решает за 5 секунд ✔️ 5 приёмов доверия, 5 анти-паттернов, чек-лист из 10 вопросов ✔️ Кейс: ×3.2 заявок после редизайна ➡ Разбор лид-дизайнера.",
+    "uk": "➤ Дизайн медичного сайту вирішує за 5 секунд ✔️ 5 прийомів довіри, 5 анти-патернів, чек-лист із 10 питань ✔️ Кейс: ×3.2 заявок після редизайну ➡ Розбір лід-дизайнерки."
+  },
+  "metaTitle": {
+    "en": "Medical Website Design: The Rules of Trust | Code-Site.Art",
+    "ru": "Дизайн сайта медицинского центра: правила доверия | Code-Site.Art",
+    "uk": "Дизайн сайту медичного центру: правила довіри | Code-Site.Art"
+  },
+  "slugs": {
+    "en": {
+      "_type": "slug",
+      "current": "medical-website-design-trust"
+    },
+    "ru": {
+      "_type": "slug",
+      "current": "dizayn-sayta-medicinskogo-centra"
+    },
+    "uk": {
+      "_type": "slug",
+      "current": "dyzain-saitu-medychnoho-tsentru"
+    }
+  },
+  "title": {
+    "en": "Medical Website Design: What Builds Trust — and What Quietly Loses Patients",
+    "ru": "Дизайн сайта медицинского центра: что вызывает доверие, а что тихо сливает пациентов",
+    "uk": "Дизайн сайту медичного центру: що викликає довіру, а що тихо зливає пацієнтів"
+  }
+}

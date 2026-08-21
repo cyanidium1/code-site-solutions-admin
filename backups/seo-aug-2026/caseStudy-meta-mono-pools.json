@@ -1,0 +1,26 @@
+{
+  "_id": "a2b52844-f284-4114-8a4d-61204b18b498",
+  "metricsLine": {
+    "en": "Top-1 / Top-2 Google for target queries · ~2 months from launch to search-ranking results · 6 sections: catalogue, delivery, blog, projects, about, CTA · 0 paid plugins — custom code on Next.js",
+    "ru": "Top-1 / Top-2 Google по целевым запросам · ~2 месяца от запуска до позиций в поиске · 6 разделов: каталог, доставка, блог, проекты, о компании, CTA · 0 платных плагинов — custom code на Next.js",
+    "uk": "Top-1 / Top-2 Google по цільових запитах · ~2 місяці від запуску до позицій у пошуку · 6 розділів: каталог, доставка, блог, проєкти, про компанію, CTA · 0 платних плагінів — custom code на Next.js"
+  },
+  "seo": {
+    "description": {
+      "en": "➤ Pool manufacturer website ✔️ Top-1/Top-2 Google results ✔️ Rankings in ~2 months ✔️ Custom Next.js · 0 paid plugins ➡ See the full case study.",
+      "ru": "Как мы переделали сайт производителя композитных бассейнов. Top-1 / Top-2 Google по целевым запросам · ~2 месяца от запуска до позиций в поиске · 6 разделов: каталог, доставка, блог, проекты, о компании, CTA · 0 платных плагинов — custom code на Next.js",
+      "uk": "Як ми переробили сайт виробника композитних басейнів. Top-1 / Top-2 Google по цільових запитах · ~2 місяці від запуску до позицій у пошуку · 6 розділів: каталог, доставка, блог, проєкти, про компанію, CTA · 0 платних плагінів — custom code на Next.js"
+    },
+    "title": {
+      "en": "ᐈ Mono Pools — Composite Pool Manufacturer Website Case Study | Code-Site.Art",
+      "ru": "Mono Pools - сайт для производителя композитных бассейнов в Украине",
+      "uk": "Mono Pools - сайт для виробника композитних басейнів в Україні"
+    }
+  },
+  "slug": "mono-pools",
+  "title": {
+    "en": "Mono Pools",
+    "ru": "Mono Pools",
+    "uk": "Mono Pools"
+  }
+}

@@ -1,0 +1,2469 @@
+{
+  "_createdAt": "2026-06-04T17:37:00Z",
+  "_id": "DHIwRDN3sEoI638qoYRwQ9",
+  "_rev": "rral33DaC726OcYjRUZcpX",
+  "_system": {
+    "base": {
+      "id": "DHIwRDN3sEoI638qoYRwQ9",
+      "rev": "lam0QrU1I74uWM1Y3jGyBh"
+    }
+  },
+  "_type": "industryPage",
+  "_updatedAt": "2026-08-15T19:29:40Z",
+  "hero": {
+    "ctaPrimary": {
+      "en": "Discuss my project",
+      "ru": "Обсудить мой проект",
+      "uk": "Обговорити мій проєкт"
+    },
+    "ctaSecondary": {
+      "en": "See legal case studies",
+      "ru": "Посмотреть юр-кейсы",
+      "uk": "Подивитися юр-кейси"
+    },
+    "deviceMockup": {
+      "_type": "imageWithLocalizedAlt",
+      "alt": {
+        "_type": "localizedString",
+        "en": "Oleksandr Sytnykov legal consulting website shown on laptop and phone",
+        "ru": "Сайт юридического консалтинга Александра Ситникова на ноутбуке и телефоне",
+        "uk": "Сайт юридичного консалтингу Олександра Ситникова на ноутбуці і телефоні"
+      },
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-1c066b9b2bc621972de7a8b0a1fa6d63e2c21a67-1201x1133-png",
+          "_type": "reference"
+        }
+      }
+    },
+    "deviceTags": [
+      {
+        "_key": "leg-dt-4",
+        "kind": "default",
+        "primary": {
+          "en": "Calendly · Zoom",
+          "ru": "Calendly · Zoom",
+          "uk": "Calendly · Zoom"
+        }
+      },
+      {
+        "_key": "leg-dt-5",
+        "kind": "default",
+        "primary": {
+          "en": "DocuSign",
+          "ru": "Diia.Sign",
+          "uk": "Diia.Sign"
+        }
+      },
+      {
+        "_key": "leg-dt-6",
+        "kind": "good",
+        "mini": "Top-3",
+        "primary": {
+          "en": "Google · UK",
+          "ru": "Google · UA",
+          "uk": "Google · UA"
+        }
+      }
+    ],
+    "eyebrow": {
+      "en": "WEBSITES FOR LEGAL",
+      "ru": "САЙТЫ ДЛЯ ЮРИДИЧЕСКОЙ ОТРАСЛИ",
+      "uk": "САЙТИ ДЛЯ ЮРИДИЧНОЇ ГАЛУЗІ"
+    },
+    "features": [
+      {
+        "_key": "z4CtSEe3d2bzDASWmszxc7",
+        "en": "Structured content | per practice area",
+        "ru": "Структурированный контент | под каждую практику",
+        "uk": "Структурований контент | під кожну практику"
+      },
+      {
+        "_key": "z4CtSEe3d2bzDASWmszxgy",
+        "en": "Online consults | Calendly · Zoom",
+        "ru": "Онлайн-консультации | Calendly · Zoom",
+        "uk": "Онлайн-консультації | Calendly · Zoom"
+      },
+      {
+        "_key": "z4CtSEe3d2bzDASWmszxlp",
+        "en": "E-signature | DocuSign · Adobe Sign",
+        "ru": "E-signature | Diia.Sign · DocuSign",
+        "uk": "E-signature | Diia.Sign · DocuSign"
+      },
+      {
+        "_key": "z4CtSEe3d2bzDASWmszxqg",
+        "en": "Local SEO | by city and area",
+        "ru": "Локальное SEO | под город и отрасль",
+        "uk": "Локальне SEO | під місто і галузь"
+      }
+    ],
+    "h1Num": "20+",
+    "h1NumLabel": {
+      "en": "clients\nper month",
+      "ru": "клиентов\nв месяц",
+      "uk": "клієнтів\nна місяць"
+    },
+    "heading": {
+      "en": "A law firm that *gets inquiries*",
+      "ru": "Юридическая фирма, в которую *обращаются*",
+      "uk": "Юридична фірма, до якої *звертаються*"
+    },
+    "lede": {
+      "en": "A law firm site built around the client, not the solicitor. No more than 5 hours of your time: we write the copy, you legal-review it in 1 hour. Live in 4-8 weeks, and clients find you via Google for *specific queries*.",
+      "ru": "Сайт юр-фирмы, где структуру и контент строили вокруг клиента, а не юриста. Без вашего участия больше чем 5 часов: тексты пишем мы, юридическую редактуру делаете за 1 час. Запуск за 4–8 недель — и клиенты находят вас через Google по *конкретным запросам*.",
+      "uk": "Сайт юр-фірми, де структуру і контент будували навколо клієнта, а не юриста. Без вашої участі більше ніж 5 годин: тексти пишемо ми, юридичну редактуру робите за 1 годину. Запуск за 4–8 тижнів — і клієнти знаходять вас через Google по *конкретних запитах*."
+    },
+    "stats": [
+      {
+        "_key": "leg-st-1",
+        "label": {
+          "en": "application form, consultation, enrolment",
+          "ru": "форма заявки, консультация, запись на обучение",
+          "uk": "форма заявки, консультація, запис на навчання"
+        },
+        "value": {
+          "en": "3 conversion points",
+          "ru": "3 точки конверсии",
+          "uk": "3 точки конверсії"
+        }
+      },
+      {
+        "_key": "leg-st-2",
+        "label": {
+          "en": "client\nrating",
+          "ru": "оценка\nклиентов",
+          "uk": "оцінка\nклієнтів"
+        },
+        "value": {
+          "en": "4.9/5",
+          "ru": "4.9/5",
+          "uk": "4.9/5"
+        }
+      },
+      {
+        "_key": "leg-st-3",
+        "label": {
+          "en": "more applications",
+          "ru": "больше заявок",
+          "uk": "більше заявок"
+        },
+        "value": {
+          "en": "×3.2",
+          "ru": "×3.2",
+          "uk": "×3.2"
+        }
+      }
+    ],
+    "tickerItems": [
+      {
+        "_key": "z4CtSEe3d2bzDASWmszwki",
+        "en": "Corporate law",
+        "ru": "Корпоративное право",
+        "uk": "Корпоративне право"
+      },
+      {
+        "_key": "z4CtSEe3d2bzDASWmszwpZ",
+        "en": "Family law",
+        "ru": "Семейное право",
+        "uk": "Сімейне право"
+      },
+      {
+        "_key": "z4CtSEe3d2bzDASWmszwuQ",
+        "en": "Criminal law",
+        "ru": "Уголовное право",
+        "uk": "Кримінальне право"
+      },
+      {
+        "_key": "z4CtSEe3d2bzDASWmszwzH",
+        "en": "Tax law",
+        "ru": "Налоговое право",
+        "uk": "Податкове право"
+      },
+      {
+        "_key": "z4CtSEe3d2bzDASWmszx48",
+        "en": "Property",
+        "ru": "Недвижимость",
+        "uk": "Нерухомість"
+      },
+      {
+        "_key": "z4CtSEe3d2bzDASWmszx8z",
+        "en": "IP",
+        "ru": "Интеллектуальная собственность",
+        "uk": "Інтелектуальна власність"
+      },
+      {
+        "_key": "z4CtSEe3d2bzDASWmszxDq",
+        "en": "Immigration",
+        "ru": "Иммиграционное",
+        "uk": "Імміграційне"
+      },
+      {
+        "_key": "z4CtSEe3d2bzDASWmszxIh",
+        "en": "Labour",
+        "ru": "Трудовое",
+        "uk": "Трудове"
+      },
+      {
+        "_key": "z4CtSEe3d2bzDASWmszxNY",
+        "en": "Consumer protection",
+        "ru": "Защита прав потребителей",
+        "uk": "Споживчий захист"
+      },
+      {
+        "_key": "z4CtSEe3d2bzDASWmszxSP",
+        "en": "Solicitors' offices",
+        "ru": "Адвокатские бюро",
+        "uk": "Адвокатські бюро"
+      },
+      {
+        "_key": "z4CtSEe3d2bzDASWmszxXG",
+        "en": "Sole practitioners",
+        "ru": "Частные юристы",
+        "uk": "Приватні юристи"
+      }
+    ]
+  },
+  "order": 3,
+  "sections": [
+    {
+      "_key": "leg-sec-7",
+      "_type": "reasonsBlock",
+      "eyebrow": {
+        "en": "DIAGNOSIS · 3 REASONS",
+        "ru": "ДИАГНОСТИКА · 3 ПРИЧИНЫ",
+        "uk": "ДІАГНОСТИКА · 3 ПРИЧИНИ"
+      },
+      "footCta": {
+        "label": {
+          "en": "Audit my site",
+          "ru": "Проверить мой сайт",
+          "uk": "Перевірити мій сайт"
+        },
+        "type": "custom"
+      },
+      "footCtaLabel": {
+        "en": "Audit my site",
+        "ru": "Проверить мой сайт",
+        "uk": "Перевірити мій сайт"
+      },
+      "footText": {
+        "en": "We fix *all three* in 4-8 weeks.",
+        "ru": "Исправляем *все три* за 4-8 недель.",
+        "uk": "Виправляємо *всі три* за 4-8 тижнів."
+      },
+      "heading": {
+        "en": "3 reasons clients *don’t reach out* through your site",
+        "ru": "3 причины, почему клиенты\n*не обращаются* через ваш сайт",
+        "uk": "3 причини, чому клієнти\n*не звертаються* через ваш сайт"
+      },
+      "metaRows": [
+        {
+          "_key": "z4CtSEe3d2bzDASWmszxvX",
+          "en": "audit of 30+ legal sites · 2024–25",
+          "ru": "анализ 30+ юридических сайтов · 2024–25",
+          "uk": "аналіз 30+ юридичних сайтів · 2024–25"
+        }
+      ],
+      "reasons": [
+        {
+          "_key": "leg-r-8",
+          "number": "01",
+          "stat": {
+            "label": {
+              "en": "average time on a legal site without structured practice pages",
+              "ru": "среднее время на юридическом сайте без структурированных практик",
+              "uk": "середній час на юридичному сайті без структурованих практик"
+            },
+            "value": "8s"
+          },
+          "tag": {
+            "en": "STRUCTURE",
+            "ru": "STRUCTURE",
+            "uk": "STRUCTURE"
+          },
+          "text": {
+            "en": [
+              {
+                "_key": "leg-b-16",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-13",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "The homepage is \"About me, my experience, my credentials.\" The client arrived with a \"tax dispute\" problem — and can’t tell if you handle tax disputes. "
+                  },
+                  {
+                    "_key": "leg-s-14",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Closes the site in 8 seconds"
+                  },
+                  {
+                    "_key": "leg-s-15",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "c1fb49f1e3014477b00d6b770bc1cd17",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a9ff9e5666e94ffc870cad60937ac6d6",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Главная страница — «Обо мне, мой опыт, мои регалии». Клиент пришёл с проблемой «спор с налоговой» — и не может найти, берётесь ли вы за налоговые споры. Закрывает сайт за 8 секунд."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "leg-b-12",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Головна сторінка — «Про мене, мій досвід, мої регалії». Клієнт прийшов з проблемою «спір з податковою» — і не може знайти, чи ви беретеся за податкові спори. "
+                  },
+                  {
+                    "_key": "leg-s-10",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Закриває сайт за 8 секунд"
+                  },
+                  {
+                    "_key": "leg-s-11",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "title": {
+            "en": "Built around the solicitor, not the client",
+            "ru": "Сайт построен вокруг юриста, а не клиента",
+            "uk": "Сайт побудований навколо юриста, а не клієнта"
+          }
+        },
+        {
+          "_key": "leg-r-17",
+          "number": "02",
+          "stat": {
+            "label": {
+              "en": "higher conversion on legal sites with real cases and amounts",
+              "ru": "выше конверсия у юр-сайтов с реальными кейсами и суммами",
+              "uk": "вища конверсія у юр-сайтів з реальними кейсами і сумами"
+            },
+            "value": "×4"
+          },
+          "tag": {
+            "en": "CREDIBILITY",
+            "ru": "CREDIBILITY",
+            "uk": "CREDIBILITY"
+          },
+          "text": {
+            "en": [
+              {
+                "_key": "leg-b-25",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-22",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "The site has a suit-and-tie photo, a quote about \"individual approach,\" a university diploma. Not a single concrete case: what dispute, what amount, what court level. "
+                  },
+                  {
+                    "_key": "leg-s-23",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Without those, the client doesn’t pick you"
+                  },
+                  {
+                    "_key": "leg-s-24",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "296a433e64f045c98cf8d920ea67dc0b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fd4e5f7142b042ffaec28aee880f5ac6",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "На сайте — фото в костюме, цитата про «индивидуальный подход», диплом КНУ. Ни одного конкретного кейса: какой спор решили, на какой сумме, в какой инстанции. Без этого клиент выбирает не вас."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "leg-b-21",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-18",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "На сайті — фото в костюмі, цитата про «індивідуальний підхід», диплом КНУ. Жодного конкретного кейсу: який спір вирішили, на якій сумі, в якій інстанції. "
+                  },
+                  {
+                    "_key": "leg-s-19",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Без цього клієнт вибирає не вас"
+                  },
+                  {
+                    "_key": "leg-s-20",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "title": {
+            "en": "\"Solicitor with 20 years of experience\" — empty words",
+            "ru": "Текст «адвокат с 20-летним опытом» — пустые слова",
+            "uk": "Текст «адвокат з 20 років досвіду» — порожні слова"
+          }
+        },
+        {
+          "_key": "leg-r-26",
+          "number": "03",
+          "stat": {
+            "label": {
+              "en": "average Google position for most legal sites",
+              "ru": "позиция в Google для большинства юр-сайтов",
+              "uk": "позиція в Google для більшості юр-сайтів"
+            },
+            "value": "top-50"
+          },
+          "tag": {
+            "en": "VISIBILITY",
+            "ru": "VISIBILITY",
+            "uk": "VISIBILITY"
+          },
+          "text": {
+            "en": [
+              {
+                "_key": "leg-b-34",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-31",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "A single \"services\" page listing 15 practice areas. Each area gets 2-3 lines of text. "
+                  },
+                  {
+                    "_key": "leg-s-32",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "A competitor with 30 dedicated landings"
+                  },
+                  {
+                    "_key": "leg-s-33",
+                    "_type": "span",
+                    "marks": [],
+                    "text": " per specific query takes all the traffic."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "e9371b622d9c489985a6a70759ab453d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "12b74cb553da4abbb4590b9bb04db18e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Одна общая страница «услуги» с перечнем 15 практик. Каждая практика — 2-3 строки текста. Конкурент с 30 отдельными страницами-лендингами по конкретным запросам забирает весь трафик."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "leg-b-30",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-27",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Одна загальна сторінка «послуги» з переліком 15 практик. Кожна практика — 2-3 рядки тексту. "
+                  },
+                  {
+                    "_key": "leg-s-28",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Конкурент з 30 окремими сторінками-лендингами"
+                  },
+                  {
+                    "_key": "leg-s-29",
+                    "_type": "span",
+                    "marks": [],
+                    "text": " по конкретних запитах забирає весь трафік."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "title": {
+            "en": "Site doesn’t rank for \"solicitor + speciality + city\"",
+            "ru": "Сайт не индексируется по запросу «адвокат + специализация + город»",
+            "uk": "Сайт не індексується по запиту «адвокат + спеціалізація + місто»"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "leg-sec-35",
+      "_type": "caseBlock",
+      "after": {
+        "foot": {
+          "en": "Result: 20+ consultations per month, separate course funnel (steady 12-18 sales/month).",
+          "ru": "Результат: 20+ консультаций в месяц, отдельная воронка под курсы (стабильно 12-18 продаж/месяц).",
+          "uk": "Результат: 20+ консультацій на місяць, окрема воронка під курси (стабільно 12-18 продажів/місяць)."
+        },
+        "heading": {
+          "en": "✓ Structure for 3 visitor types",
+          "ru": "✓ Структура под 3 типа посетителей",
+          "uk": "✓ Структура під 3 типи відвідувачів"
+        },
+        "image": {
+          "_type": "imageWithLocalizedAlt",
+          "alt": {
+            "_type": "localizedString",
+            "en": "Sytnykov's new homepage with the lawyer's portrait, course call-to-action and experience stats",
+            "ru": "Новая главная страница сайта Сытникова с портретом адвоката, кнопкой курса и статистикой опыта",
+            "uk": "Нова головна сторінка сайту Ситникова з портретом адвоката, кнопкою курсу і статистикою досвіду"
+          },
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-253fc858d01876d0b169b887b438a4d123979657-2560x1998-png",
+              "_type": "reference"
+            }
+          }
+        },
+        "items": [
+          {
+            "_key": "z4CtSEe3d2bzDASWmszy0O",
+            "en": "Dedicated section for clients (consultations, cases)",
+            "ru": "Отдельный раздел для клиентов (юр-консультации, кейсы)",
+            "uk": "Окремий розділ для клієнтів (юр-консультації, кейси)"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszy5F",
+            "en": "Dedicated section for academia (publications with tags, citation counts)",
+            "ru": "Отдельный — для академического сообщества (публикации с тегами, цитируемость)",
+            "uk": "Окремий — для академічної спільноти (публікації з тегами, цитованість)"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszyA6",
+            "en": "Dedicated section for students and specialists (courses with syllabus, reviews, payments)",
+            "ru": "Отдельный — для студентов и специалистов (курсы с программой, отзывами, оплатой)",
+            "uk": "Окремий — для студентів і фахівців (курси з програмою, відгуками, оплатою)"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszyEx",
+            "en": "Bilingual with separate URL structure per language",
+            "ru": "Bilingual с собственной URL-структурой для каждого языка",
+            "uk": "Bilingual з власною URL-структурою для кожної мови"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszyJo",
+            "en": "Automatic table of contents in long texts",
+            "ru": "Table of contents автоматический в длинных текстах",
+            "uk": "Table of contents автоматичний у довгих текстах"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszyOf",
+            "en": "Schema.org Person + ProfessionalService + Course",
+            "ru": "Schema.org Person + ProfessionalService + Course",
+            "uk": "Schema.org Person + ProfessionalService + Course"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszyTW",
+            "en": "Local SEO: top-3 for \"criminal defence solicitor London\"",
+            "ru": "Локальное SEO: топ-3 по «адвокат уголовно-процессуальное право Киев»",
+            "uk": "Локальне SEO: топ-3 по «адвокат кримінально-процесуальне право Київ»"
+          }
+        ],
+        "num": "SYTNYKOV · v2 · 2024",
+        "tagline": {
+          "_type": "localizedString",
+          "en": "A site that brings in clients",
+          "ru": "Сайт, который приводит клиентов",
+          "uk": "Сайт, що приводить клієнтів"
+        }
+      },
+      "before": {
+        "foot": {
+          "en": "Result: 1-2 inquiries per month, mostly via direct referrals.",
+          "ru": "Результат: 1-2 запроса в месяц, преимущественно через прямые рекомендации.",
+          "uk": "Результат: 1-2 запиту на місяць, переважно через прямі рекомендації."
+        },
+        "heading": {
+          "en": "× Chaotic WordPress with 15 categories",
+          "ru": "× Хаотичный WordPress с 15-ю категориями",
+          "uk": "× Хаотичний WordPress з 15-ма категоріями"
+        },
+        "items": [
+          {
+            "_key": "z4CtSEe3d2bzDASWmszyYN",
+            "en": "Bio, credentials, awards spread across 6 disconnected pages",
+            "ru": "Биография, регалии, награды — на 6 отдельных страницах без связей",
+            "uk": "Біографія, регалії, нагороди — на 6 окремих сторінках без зв’язків"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszydE",
+            "en": "80+ academic articles dumped into a single category",
+            "ru": "Научные публикации свалены в одну категорию по 80+ статей",
+            "uk": "Наукові публікації звалені в одну категорію по 80+ статей"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszyi5",
+            "en": "Courses didn’t surface in search — hidden behind a \"training\" filter",
+            "ru": "Курсы не выходили в поиск — прятались за фильтром «обучение»",
+            "uk": "Курси не виходили в пошук — ховалися за фільтром «навчання»"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszymw",
+            "en": "Multi-language via a plugin that broke regularly",
+            "ru": "Многоязычность через плагин, который периодически ломался",
+            "uk": "Багатомовність через плагін, який періодично ламався"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszyrn",
+            "en": "No fragment navigation, no table of contents in long articles",
+            "ru": "Не было fragment-навигации, не было table of contents в длинных статьях",
+            "uk": "Не було fragment-навігації, не було table of contents у довгих статтях"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszywe",
+            "en": "Zero SEO: one meta description for the entire site",
+            "ru": "SEO ноль: одна meta description на весь сайт",
+            "uk": "SEO нуль: одна meta description на весь сайт"
+          }
+        ],
+        "num": "SYTNYKOV · v1 · 2023",
+        "tagline": {
+          "_type": "localizedString",
+          "en": "A site that doesn't convert",
+          "ru": "Сайт, который не продаёт",
+          "uk": "Сайт, що не продає"
+        }
+      },
+      "cta": {
+        "_type": "ctaAction",
+        "label": {
+          "_type": "localizedString",
+          "en": "See legal case studies",
+          "ru": "Посмотреть кейсы юр-фирм",
+          "uk": "Подивитися кейси юр-фірм"
+        }
+      },
+      "ctaText": {
+        "_type": "localizedText",
+        "en": "Want **the same kind of result**? See how we do it.",
+        "ru": "Хотите **такой же результат**? Посмотрите, как мы это делаем.",
+        "uk": "Хочете **такий самий результат**? Подивіться, як ми це робимо."
+      },
+      "eyebrow": {
+        "en": "REAL CASE",
+        "ru": "РЕАЛЬНЫЙ КЕЙС",
+        "uk": "РЕАЛЬНИЙ КЕЙС"
+      },
+      "eyebrowEm": {
+        "en": "SYTNYKOV",
+        "ru": "SYTNYKOV",
+        "uk": "SYTNYKOV"
+      },
+      "heading": {
+        "en": "The result, from a *real* client case",
+        "ru": "Результат на примере *реального* клиента",
+        "uk": "Результат на прикладі *реального* клієнта"
+      },
+      "lede": {
+        "en": "Oleksandr Sytnykov, a retired justice of the Supreme Court of Ukraine, came to us with a complex task: structure multi-layered content — his judicial practice, academic publications, and signature courses on criminal procedure — and rank for specific queries on Google.",
+        "ru": "К нам обратился отставной судья Верховного Суда Украины Сытников Александр. Задача была сложная: структурировать многоплановый контент — судебную практику, научные публикации, авторские курсы по уголовно-процессуальному праву — и вывести всё это в Google по конкретным запросам на двух языках.",
+        "uk": "До нас звернувся відставний суддя Верховного Суду України Ситников Олександр. Завдання було складне: структурувати багатоплановий контент — судову практику, наукові публікації, авторські курси з кримінально-процесуального права — і вивести все це в Google по конкретних запитах двома мовами."
+      },
+      "meta": [
+        {
+          "_key": "leg-cm-36",
+          "strong": {
+            "en": "8 weeks",
+            "ru": "8 недель",
+            "uk": "8 тижнів"
+          },
+          "text": {
+            "en": "brief to launch",
+            "ru": "от брифа до релиза",
+            "uk": "від брифу до релізу"
+          }
+        },
+        {
+          "_key": "leg-cm-37",
+          "strong": {
+            "en": "3 sections",
+            "ru": "3 раздела",
+            "uk": "3 розділи"
+          },
+          "text": {
+            "en": "practice + publications + courses",
+            "ru": "практика + публикации + курсы",
+            "uk": "практика + публікації + курси"
+          }
+        },
+        {
+          "_key": "leg-cm-38",
+          "strong": {
+            "en": "Multilingual",
+            "ru": "UA + RU",
+            "uk": "UA + RU"
+          },
+          "text": {
+            "en": "multilingual SEO",
+            "ru": "bilingual SEO",
+            "uk": "bilingual SEO"
+          }
+        }
+      ],
+      "results": [
+        {
+          "_key": "leg-rs-39",
+          "label": {
+            "en": "inquiry growth via the site",
+            "ru": "рост запросов через сайт",
+            "uk": "зростання запитів через сайт"
+          },
+          "tag": {
+            "en": "INQUIRIES",
+            "ru": "INQUIRIES",
+            "uk": "INQUIRIES"
+          },
+          "value": {
+            "en": "×10",
+            "ru": "×10",
+            "uk": "×10"
+          }
+        },
+        {
+          "_key": "leg-rs-40",
+          "label": {
+            "en": "organic traffic",
+            "ru": "органического трафика",
+            "uk": "органічного трафіку"
+          },
+          "tag": {
+            "en": "SEO · 12 MO",
+            "ru": "SEO · 12 МЕС",
+            "uk": "SEO · 12 МІС"
+          },
+          "value": {
+            "en": "×8",
+            "ru": "×8",
+            "uk": "×8"
+          }
+        },
+        {
+          "_key": "leg-rs-41",
+          "label": {
+            "en": "jurisprudence, analytics and consulting",
+            "ru": "судебная практика, аналитика и консалтинг",
+            "uk": "судова практика, аналітика та консалтинг"
+          },
+          "tag": {
+            "en": "AREAS",
+            "ru": "AREAS",
+            "uk": "AREAS"
+          },
+          "value": {
+            "en": "3 areas",
+            "ru": "3 направления",
+            "uk": "3 напрями"
+          }
+        },
+        {
+          "_key": "leg-rs-42",
+          "label": {
+            "en": "search across languages",
+            "ru": "поиск на обоих языках",
+            "uk": "пошук в обох мовах"
+          },
+          "tag": {
+            "en": "BILINGUAL",
+            "ru": "BILINGUAL",
+            "uk": "BILINGUAL"
+          },
+          "value": {
+            "en": "Multilingual",
+            "ru": "UA + RU",
+            "uk": "UA + RU"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "leg-sec-43",
+      "_type": "outcomeBlock",
+      "benefitRows": [
+        {
+          "_key": "leg-br-44",
+          "feature": "FEATURE · 01 / 03",
+          "heading": {
+            "en": "Dedicated landings per practice area",
+            "ru": "Отдельные лендинги под каждую практику",
+            "uk": "Окремі лендинги під кожну практику"
+          },
+          "image": {
+            "_type": "imageWithLocalizedAlt",
+            "alt": {
+              "_type": "localizedString",
+              "en": "Two phones with separate Sytnykov landing pages for legal consultations and training programmes",
+              "ru": "Два телефона с отдельными лендингами сайта Сытникова: юридические консультации и учебные программы",
+              "uk": "Два телефони з окремими лендингами сайту Ситникова: юридичні консультації і навчальні програми"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-62c4f428bffbc5bfe724a85b352b0adf4be96de5-3162x2372-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "z4CtSEe3d2bzDASWmszzeL",
+              "en": "\"Defending against unlawful company takeovers\" — its own page",
+              "ru": "\"Защита бизнеса от рейдерства\" — отдельная страница",
+              "uk": "\"Захист бізнесу від рейдерства\" — окрема сторінка"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmszzjC",
+              "en": "\"Inheritance abroad\" — its own page",
+              "ru": "\"Наследство за границей\" — отдельная страница",
+              "uk": "\"Спадщина за кордоном\" — окрема сторінка"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmszzo3",
+              "en": "Each page tuned to its own keyword",
+              "ru": "Каждая страница под свой ключевой запрос",
+              "uk": "Кожна сторінка під свій ключовий запит"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmszzsu",
+              "en": "Separate consultation form per practice",
+              "ru": "Отдельная форма консультации под каждое направление",
+              "uk": "Окрема форма консультації під кожен напрямок"
+            }
+          ],
+          "mockTags": [
+            {
+              "_key": "z4CtSEe3d2bzDASWmszzxl",
+              "en": "Corporate",
+              "ru": "Корпоративное",
+              "uk": "Корпоративне"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt002c",
+              "en": "Family",
+              "ru": "Семейное",
+              "uk": "Сімейне"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt007T",
+              "en": "Tax",
+              "ru": "Налоговое",
+              "uk": "Податкове"
+            }
+          ],
+          "mockType": "pages"
+        },
+        {
+          "_key": "leg-br-45",
+          "feature": "FEATURE · 02 / 03",
+          "heading": {
+            "en": "Real cases with amounts and court levels",
+            "ru": "Реальные кейсы с суммами и инстанциями",
+            "uk": "Реальні кейси з сумами і інстанціями"
+          },
+          "image": {
+            "_type": "imageWithLocalizedAlt",
+            "alt": {
+              "_type": "localizedString",
+              "en": "Sytnykov website on a tablet with a call to resolve legal issues and book a consultation",
+              "ru": "Сайт Сытникова на планшете с призывом не откладывать юридические вопросы и записаться на консультацию",
+              "uk": "Сайт Ситникова на планшеті із закликом не відкладати юридичні питання і записатися на консультацію"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b87b1159cffd0d02168d385ca64de85d8184e98b-3162x2372-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "z4CtSEe3d2bzDASWmt00CK",
+              "en": "Dispute type, amount, duration, outcome",
+              "ru": "Тип спора, сумма, длительность, результат",
+              "uk": "Тип спору, сума, тривалість, результат"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt00HB",
+              "en": "Client anonymisation (otherwise — confidentiality breach)",
+              "ru": "Анонимизация клиента (иначе — нарушение тайны)",
+              "uk": "Анонімізація клієнта (інакше — порушення тайни)"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt00M2",
+              "en": "Filter by area + court level",
+              "ru": "Фильтр по отрасли + инстанции",
+              "uk": "Фільтр за галуззю + інстанцією"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt00Qt",
+              "en": "\"Similar case?\" lead form at the bottom",
+              "ru": "Лид-форма \"похожий кейс?\" внизу",
+              "uk": "Лід-форма \"схожий кейс?\" внизу"
+            }
+          ],
+          "mockTags": [
+            {
+              "_key": "z4CtSEe3d2bzDASWmt00Vk",
+              "en": "Case",
+              "ru": "Кейс",
+              "uk": "Кейс"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt00ab",
+              "en": "Amount",
+              "ru": "Сумма",
+              "uk": "Сума"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt00fS",
+              "en": "Outcome",
+              "ru": "Результат",
+              "uk": "Результат"
+            }
+          ],
+          "mockType": "pages"
+        },
+        {
+          "_key": "leg-br-46",
+          "feature": "FEATURE · 03 / 03",
+          "heading": {
+            "en": "Online consults via Calendly",
+            "ru": "Онлайн-консультации через Calendly",
+            "uk": "Онлайн-консультації через Calendly"
+          },
+          "image": {
+            "_type": "imageWithLocalizedAlt",
+            "alt": {
+              "_type": "localizedString",
+              "en": "Course purchase form on the Sytnykov site on a phone, with the amount due and a payment button",
+              "ru": "Форма покупки курса на сайте Сытникова на телефоне с суммой к оплате и кнопкой оплаты",
+              "uk": "Форма придбання курсу на сайті Ситникова на телефоні з сумою до сплати і кнопкою оплати"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-375dc06a12bdf7b3c2cc407366233e07e81cac34-3162x2372-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "z4CtSEe3d2bzDASWmt00kJ",
+              "en": "Client picks consultation type, time, format",
+              "ru": "Клиент выбирает тип консультации, время, формат",
+              "uk": "Клієнт обирає тип консультації, час, формат"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt00pA",
+              "en": "Payment on the site (Stripe / GoCardless)",
+              "ru": "Оплата на сайте (Stripe / LiqPay / WayForPay)",
+              "uk": "Оплата на сайті (Stripe / LiqPay / WayForPay)"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt00u1",
+              "en": "NDA via DocuSign or Adobe Sign",
+              "ru": "Договор о конфиденциальности через Diia.Sign",
+              "uk": "Договір про конфіденційність через Diia.Sign"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt00ys",
+              "en": "Zoom link sent automatically",
+              "ru": "Zoom-ссылка автоматически",
+              "uk": "Zoom-лінк автоматично"
+            }
+          ],
+          "mockType": "booking"
+        }
+      ],
+      "benefitsHeading": {
+        "_type": "localizedText",
+        "en": "How it shows up *on the site*",
+        "ru": "Как это работает *на сайте*",
+        "uk": "Як це працює *на сайті*"
+      },
+      "directions": {
+        "allowedItems": [
+          {
+            "_key": "z4CtSEe3d2bzDASWmszz1V",
+            "en": "5-15 practice areas, multiple solicitors, case studies",
+            "ru": "5-15 практик, несколько юристов, кейс-стади",
+            "uk": "5-15 практик, кілька юристів, кейс-стаді"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszz6M",
+            "en": "Separate catalogues for solicitors, cases, articles, news",
+            "ru": "Отдельные каталоги юристов, кейсов, статей, новостей",
+            "uk": "Окремі каталоги юристів, кейсів, статей, новин"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszzBD",
+            "en": "Extended integrations (Clio, LEAP, HubSpot)",
+            "ru": "Расширенные интеграции (Clio, MyCase, KeyCRM)",
+            "uk": "Розширені інтеграції (Clio, MyCase, KeyCRM)"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszzG4",
+            "en": "Pro Plus tier fits",
+            "ru": "Расширенный пакет — Pro Plus",
+            "uk": "Розширений пакет — Pro Plus"
+          }
+        ],
+        "allowedLabel": {
+          "en": "Law firm / solicitor office",
+          "ru": "Юр-фирма / адвокатское бюро",
+          "uk": "Юр-фірма / адвокатське бюро"
+        },
+        "lede": {
+          "en": "The approach differs for a solo solicitor and a multi-partner firm. The pricing tiers below cover both scenarios.",
+          "ru": "Подход отличается для соло-адвоката и фирмы с несколькими партнёрами. Тарифы ниже — под оба сценария.",
+          "uk": "Підхід відрізняється для соло-адвоката і фірми з кількома партнерами. Тарифи нижче — під обидва сценарії."
+        },
+        "replaceItems": [
+          {
+            "_key": "z4CtSEe3d2bzDASWmszzKv",
+            "en": "1-3 practice areas, personal brand",
+            "ru": "1-3 практики, личный бренд",
+            "uk": "1-3 практики, особистий бренд"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszzPm",
+            "en": "Landings per key practice + blog",
+            "ru": "Лендинги под ключевые практики + блог",
+            "uk": "Лендинги під ключові практики + блог"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszzUd",
+            "en": "Calendly for online consults",
+            "ru": "Calendly для онлайн-консультаций",
+            "uk": "Calendly для онлайн-консультацій"
+          },
+          {
+            "_key": "z4CtSEe3d2bzDASWmszzZU",
+            "en": "Industry Pro tier fits",
+            "ru": "Базовый пакет — Industry Pro",
+            "uk": "Базовий пакет — Industry Pro"
+          }
+        ],
+        "replaceLabel": {
+          "en": "Solo solicitor / private solicitor",
+          "ru": "Частный юрист / адвокат",
+          "uk": "Приватний юрист / адвокат"
+        },
+        "title": {
+          "en": "We work with law firms of every format",
+          "ru": "Работаем с юр-фирмами любого формата",
+          "uk": "Працюємо з юр-фірмами будь-якого формату"
+        }
+      },
+      "recap": {
+        "text": {
+          "en": "Your site should sell your expertise, not describe it.",
+          "ru": "Ваш сайт должен продавать ваш опыт, а не описывать его.",
+          "uk": "Ваш сайт має продавати ваш досвід, а не описувати його."
+        }
+      }
+    },
+    {
+      "_key": "leg-sec-47",
+      "_type": "servicesBlock",
+      "features": [
+        {
+          "_key": "leg-sf-48",
+          "items": [
+            {
+              "_key": "z4CtSEe3d2bzDASWmt013j",
+              "en": "Each practice — its own SEO-tuned page",
+              "ru": "Каждая практика — отдельная страница с SEO",
+              "uk": "Кожна практика — окрема сторінка з SEO"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt018a",
+              "en": "Description, typical cases, consultation pricing",
+              "ru": "Описание, типичные кейсы, цена за консультацию",
+              "uk": "Опис, типові кейси, ціна за консультацію"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt01DR",
+              "en": "Linked to specific solicitors",
+              "ru": "Привязка к конкретным юристам фирмы",
+              "uk": "Прив’язка до конкретних юристів фірми"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt01II",
+              "en": "Client filter \"find my issue\"",
+              "ru": "Фильтр для клиента \"найти свою задачу\"",
+              "uk": "Фільтр для клієнта \"знайти свою задачу\""
+            }
+          ],
+          "title": {
+            "en": "Practice area catalogue",
+            "ru": "Каталог практик",
+            "uk": "Каталог практик"
+          }
+        },
+        {
+          "_key": "leg-sf-49",
+          "items": [
+            {
+              "_key": "z4CtSEe3d2bzDASWmt01N9",
+              "en": "Photo, education, credentials, speciality",
+              "ru": "Фото, образование, регалии, специализация",
+              "uk": "Фото, освіта, регалії, спеціалізація"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt01S0",
+              "en": "List of real cases the solicitor handled",
+              "ru": "Список реальных кейсов с участием юриста",
+              "uk": "Список реальних кейсів за участю юриста"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt01Wr",
+              "en": "Publications, talks, citation counts",
+              "ru": "Публикации, выступления, цитируемость",
+              "uk": "Публікації, виступи, цитованість"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt01bi",
+              "en": "Calendly for booking a consultation",
+              "ru": "Calendly для бронирования консультации",
+              "uk": "Calendly для бронювання консультації"
+            }
+          ],
+          "title": {
+            "en": "Solicitor profiles",
+            "ru": "Профили юристов",
+            "uk": "Профілі юристів"
+          }
+        },
+        {
+          "_key": "leg-sf-50",
+          "items": [
+            {
+              "_key": "z4CtSEe3d2bzDASWmt01gZ",
+              "en": "Anonymised cases with amounts and court levels",
+              "ru": "Анонимизированные кейсы с суммами и инстанциями",
+              "uk": "Анонімізовані кейси з сумами і інстанціями"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt01lQ",
+              "en": "Filter by area + dispute type",
+              "ru": "Фильтр по отрасли + типу спора",
+              "uk": "Фільтр за галуззю + типом спору"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt01qH",
+              "en": "Schema.org LegalService markup",
+              "ru": "Schema.org LegalService разметка",
+              "uk": "Schema.org LegalService розмітка"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt01v8",
+              "en": "Cross-linked to the relevant practice",
+              "ru": "Cross-link на соответствующую практику",
+              "uk": "Cross-link на відповідну практику"
+            }
+          ],
+          "title": {
+            "en": "Case study catalogue",
+            "ru": "Каталог кейсов",
+            "uk": "Каталог кейсів"
+          }
+        },
+        {
+          "_key": "leg-sf-51",
+          "items": [
+            {
+              "_key": "z4CtSEe3d2bzDASWmt01zz",
+              "en": "Calendly or custom booking form",
+              "ru": "Calendly или собственная форма бронирования",
+              "uk": "Calendly або власна форма бронювання"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt024q",
+              "en": "On-site payment for consultations (Stripe / GoCardless)",
+              "ru": "Оплата консультации на сайте (Stripe / LiqPay)",
+              "uk": "Оплата консультації на сайті (Stripe / LiqPay)"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt029h",
+              "en": "NDA via DocuSign or Adobe Sign",
+              "ru": "NDA через Diia.Sign или DocuSign",
+              "uk": "NDA через Diia.Sign або DocuSign"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt02EY",
+              "en": "Zoom / Google Meet integration",
+              "ru": "Интеграция с Zoom / Google Meet",
+              "uk": "Інтеграція з Zoom / Google Meet"
+            }
+          ],
+          "title": {
+            "en": "Online consultations",
+            "ru": "Онлайн-консультации",
+            "uk": "Онлайн-консультації"
+          }
+        },
+        {
+          "_key": "leg-sf-52",
+          "items": [
+            {
+              "_key": "z4CtSEe3d2bzDASWmt02JP",
+              "en": "SEO articles targeting client queries",
+              "ru": "SEO-статьи под ключевые запросы аудитории",
+              "uk": "SEO-статті під ключові запити аудиторії"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt02OG",
+              "en": "\"Legal news\" section with auto RSS",
+              "ru": "Раздел \"юридические новости\" с автоматическим RSS",
+              "uk": "Розділ \"юридичні новини\" з автоматичним RSS"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt02T7",
+              "en": "Academic publications with tags + citation counts",
+              "ru": "Академические публикации с тегами + цитируемость",
+              "uk": "Академічні публікації з тегами + цитованість"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt02Xy",
+              "en": "PDF export (on demand)",
+              "ru": "Экспорт в PDF (по запросу)",
+              "uk": "Експорт у PDF (на запит)"
+            }
+          ],
+          "title": {
+            "en": "Blog and publications",
+            "ru": "Блог и публикации",
+            "uk": "Блог і публікації"
+          }
+        },
+        {
+          "_key": "leg-sf-53",
+          "items": [
+            {
+              "_key": "z4CtSEe3d2bzDASWmt02cp",
+              "en": "Top of Google for \"solicitor + practice + city\"",
+              "ru": "Сайт выходит в топ Google по «адвокат + практика + город»",
+              "uk": "Сайт виходить у топ Google по «адвокат + практика + місто»"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt02hg",
+              "en": "Schema.org LegalService + Solicitor markup",
+              "ru": "Schema.org LegalService + Attorney разметка",
+              "uk": "Schema.org LegalService + Attorney розмітка"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt02mX",
+              "en": "Google Business Profile setup",
+              "ru": "Google Business Profile настраиваем",
+              "uk": "Google Business Profile налаштовуємо"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt02rO",
+              "en": "5+ city / district landings",
+              "ru": "5+ страниц-лендингов под города / районы",
+              "uk": "5+ сторінок-лендингів під міста / районі"
+            }
+          ],
+          "title": {
+            "en": "Local SEO",
+            "ru": "Локальное SEO",
+            "uk": "Локальне SEO"
+          }
+        }
+      ],
+      "heading": {
+        "en": "What we build for law firms",
+        "ru": "Что мы строим для юр-фирм",
+        "uk": "Що ми будуємо для юр-фірм"
+      },
+      "integrations": [
+        {
+          "_key": "z4CtSEe3d2bzDASWmt02wF",
+          "en": "Clio",
+          "ru": "Clio",
+          "uk": "Clio"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt0316",
+          "en": "LEAP",
+          "ru": "MyCase",
+          "uk": "MyCase"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt035x",
+          "en": "Clio Payments",
+          "ru": "LawPay",
+          "uk": "LawPay"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt03Ao",
+          "en": "Pipedrive",
+          "ru": "KeyCRM",
+          "uk": "KeyCRM"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt03Ff",
+          "en": "HubSpot",
+          "ru": "AmoCRM",
+          "uk": "AmoCRM"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt03KW",
+          "en": "Actionstep",
+          "ru": "Bitrix24",
+          "uk": "Bitrix24"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt03PN",
+          "en": "Adobe Sign",
+          "ru": "Diia.Sign",
+          "uk": "Diia.Sign"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt03UE",
+          "en": "DocuSign",
+          "ru": "DocuSign",
+          "uk": "DocuSign"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt03Z5",
+          "en": "Calendly",
+          "ru": "Calendly",
+          "uk": "Calendly"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt03dw",
+          "en": "Zoom",
+          "ru": "Zoom",
+          "uk": "Zoom"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt03in",
+          "en": "Stripe",
+          "ru": "Stripe",
+          "uk": "Stripe"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt03ne",
+          "en": "GoCardless",
+          "ru": "LiqPay",
+          "uk": "LiqPay"
+        }
+      ],
+      "integrationsHeading": {
+        "en": "We connect every legal industry tool",
+        "ru": "Подключаем все профильные системы",
+        "uk": "Підключаємо всі профільні системи"
+      },
+      "integrationsSub": {
+        "en": "Consultation requests land in your CRM. Client contracts go through DocuSign or Adobe Sign. Calendar and Zoom links — automatic. Zero leads lost to email spam.",
+        "ru": "Заявка из формы консультации приходит в вашу CRM. Договор клиенту — через Diia.Sign или DocuSign. Календарь и Zoom-ссылка — автоматически. Никаких потерянных лидов из-за email-спама.",
+        "uk": "Заявка з форми консультації приходить у вашу CRM. Договір клієнту — через Diia.Sign або DocuSign. Календар і Zoom-лінк — автоматично. Жодних втрачених лідів через email-спам."
+      },
+      "sub": {
+        "en": "Not a template \"solicitor brochure site.\" Every project is built around your firm, your practice areas, and your client base.",
+        "ru": "Не шаблонный «сайт-визитка адвоката». Каждый проект — под конкретную фирму, практики и клиентскую базу.",
+        "uk": "Не шаблонний «сайт-візитка адвоката». Кожен проєкт — під конкретну фірму, практики і клієнтську базу."
+      },
+      "testimonial": {
+        "authorInitials": "ОС",
+        "authorName": "Олександр Ситников / Oleksandr Sytnykov",
+        "authorRole": {
+          "en": "Retired Justice, Supreme Court of Ukraine",
+          "ru": "Отставной судья Верховного Суда Украины",
+          "uk": "Відставний суддя Верховного Суду України"
+        },
+        "quote": {
+          "en": "Six months after launch I got more clients than in the previous two years combined. The separate course funnel became a business of its own.",
+          "ru": "За 6 месяцев после запуска сайта я получил больше клиентов, чем за предыдущие 2 года. Отдельная воронка под курсы стала отдельным бизнесом.",
+          "uk": "За 6 місяців після запуску сайту я отримав більше клієнтів, ніж за попередні 2 роки. Окрема воронка під курси стала окремим бізнесом."
+        },
+        "rating": 5,
+        "reviewDate": "2026-06-04"
+      },
+      "testimonialEyebrow": {
+        "en": "CLIENT TESTIMONIAL",
+        "ru": "ОТЗЫВ КЛИЕНТА",
+        "uk": "ВІДГУК КЛІЄНТА"
+      }
+    },
+    {
+      "_key": "leg-sec-54",
+      "_type": "comparisonBlock",
+      "contact": {
+        "briefPlaceholder": {
+          "en": "What kind of site you need, what your goals are",
+          "ru": "Какой сайт нужен, какие цели",
+          "uk": "Який сайт потрібен, які цілі"
+        },
+        "channelPlaceholder": {
+          "en": "WhatsApp, phone, or email",
+          "ru": "Telegram, телефон или email",
+          "uk": "Telegram, телефон або email"
+        },
+        "foot": {
+          "en": "Or message us on WhatsApp — @fedirdev",
+          "ru": "Или сразу пишите в Telegram — @fedirdev",
+          "uk": "Або одразу пишіть у Telegram — @fedirdev"
+        },
+        "heading": {
+          "en": "Discuss your project",
+          "ru": "Обсудить проект",
+          "uk": "Обговорити проєкт"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "ru": "Как к вам обращаться",
+          "uk": "Як до вас звертатися"
+        },
+        "sub": {
+          "en": "Tell us briefly about your project — we’ll reply on WhatsApp within 1–2 hours during business hours.",
+          "ru": "Расскажите коротко о вашем проекте — ответим в Telegram в течение 1–2 часов в рабочее время.",
+          "uk": "Розкажіть коротко про ваш проєкт — відповімо в Telegram протягом 1–2 годин у робочий час."
+        },
+        "submitLabel": {
+          "en": "Send — we’ll reply within 1–2 hours",
+          "ru": "Отправить — ответим за 1–2 часа",
+          "uk": "Надіслати — відповімо за 1–2 години"
+        }
+      },
+      "ghostCta": {
+        "label": {
+          "en": "WordPress comparison →",
+          "ru": "Сравнение с WordPress →",
+          "uk": "Порівняння з WordPress →"
+        },
+        "type": "custom"
+      },
+      "heading": {
+        "en": "Why a custom-coded legal site beats a WordPress or Wix template",
+        "ru": "Чем кодовый сайт лучше шаблонной юр-фирмы на WordPress или Wix",
+        "uk": "Чим кодовий сайт кращий за шаблонну юр-фірму на WordPress або Wix"
+      },
+      "pricingHeading": {
+        "en": "Pricing for a law firm website",
+        "ru": "Сколько стоит сайт юр-фирмы",
+        "uk": "Скільки коштує сайт юр-фірми"
+      },
+      "primaryCta": {
+        "label": {
+          "en": "Detailed page builder comparison →",
+          "ru": "Подробное сравнение конструкторов →",
+          "uk": "Детальне порівняння конструкторів →"
+        },
+        "type": "custom"
+      },
+      "rows": [
+        {
+          "_key": "leg-cr-55",
+          "custom": {
+            "en": "one per practice",
+            "ru": "отдельная под каждую",
+            "uk": "окрема під кожну"
+          },
+          "param": {
+            "en": "Practice landings",
+            "ru": "Лендинги под практики",
+            "uk": "Лендинги під практики"
+          },
+          "wix": {
+            "en": "single page",
+            "ru": "общая страница",
+            "uk": "загальна сторінка"
+          },
+          "wp": {
+            "en": "single page",
+            "ru": "общая страница",
+            "uk": "загальна сторінка"
+          }
+        },
+        {
+          "_key": "leg-cr-56",
+          "custom": {
+            "en": "with filters + Schema.org",
+            "ru": "с фильтрами + Schema.org",
+            "uk": "з фільтрами + Schema.org"
+          },
+          "param": {
+            "en": "Case catalogue",
+            "ru": "Каталог кейсов",
+            "uk": "Каталог кейсів"
+          },
+          "wix": {
+            "en": "basic gallery",
+            "ru": "базовая галерея",
+            "uk": "базова галерея"
+          },
+          "wp": {
+            "en": "plugin",
+            "ru": "плагин",
+            "uk": "плагін"
+          }
+        },
+        {
+          "_key": "leg-cr-57",
+          "custom": {
+            "en": "built-in + payment",
+            "ru": "встроено + оплата",
+            "uk": "вбудовано + оплата"
+          },
+          "param": {
+            "en": "Online consults",
+            "ru": "Онлайн-консультации",
+            "uk": "Онлайн-консультації"
+          },
+          "wix": {
+            "en": "Calendly embed",
+            "ru": "Calendly embed",
+            "uk": "Calendly embed"
+          },
+          "wp": {
+            "en": "Calendly embed",
+            "ru": "Calendly embed",
+            "uk": "Calendly embed"
+          }
+        },
+        {
+          "_key": "leg-cr-58",
+          "custom": {
+            "en": "DocuSign · Adobe Sign",
+            "ru": "Diia.Sign · DocuSign",
+            "uk": "Diia.Sign · DocuSign"
+          },
+          "param": {
+            "en": "E-signature",
+            "ru": "E-signature",
+            "uk": "E-signature"
+          },
+          "wix": {
+            "en": "via integration",
+            "ru": "через интеграцию",
+            "uk": "через інтеграцію"
+          },
+          "wp": {
+            "en": "via integration",
+            "ru": "через интеграцию",
+            "uk": "через інтеграцію"
+          }
+        },
+        {
+          "_key": "leg-cr-59",
+          "custom": {
+            "en": "full structure",
+            "ru": "полная структура",
+            "uk": "повна структура"
+          },
+          "param": {
+            "en": "Bilingual SEO",
+            "ru": "Bilingual SEO",
+            "uk": "Bilingual SEO"
+          },
+          "wix": {
+            "en": "basic built-in",
+            "ru": "встроено базово",
+            "uk": "вбудовано базово"
+          },
+          "wp": {
+            "en": "WPML plugin",
+            "ru": "плагин WPML",
+            "uk": "плагін WPML"
+          }
+        },
+        {
+          "_key": "leg-cr-60",
+          "custom": {
+            "en": "< 1 sec",
+            "ru": "< 1 сек",
+            "uk": "< 1 сек"
+          },
+          "param": {
+            "en": "Load speed",
+            "ru": "Скорость загрузки",
+            "uk": "Швидкість завантаження"
+          },
+          "wix": {
+            "en": "3-5 sec",
+            "ru": "3-5 сек",
+            "uk": "3-5 сек"
+          },
+          "wp": {
+            "en": "4-7 sec",
+            "ru": "4-7 сек",
+            "uk": "4-7 сек"
+          }
+        },
+        {
+          "_key": "leg-cr-61",
+          "custom": {
+            "en": "high (UK GDPR)",
+            "ru": "высокий (GDPR)",
+            "uk": "високий (GDPR)"
+          },
+          "param": {
+            "en": "Client data security",
+            "ru": "Защита данных клиентов",
+            "uk": "Захист даних клієнтів"
+          },
+          "wix": {
+            "en": "medium",
+            "ru": "средний",
+            "uk": "середній"
+          },
+          "wp": {
+            "en": "low",
+            "ru": "низкий",
+            "uk": "низький"
+          }
+        },
+        {
+          "_key": "leg-cr-62",
+          "custom": {
+            "en": "your GitHub",
+            "ru": "ваш GitHub",
+            "uk": "ваш GitHub"
+          },
+          "param": {
+            "en": "Code ownership",
+            "ru": "Собственность на код",
+            "uk": "Власність на код"
+          },
+          "wix": {
+            "en": "vendor lock",
+            "ru": "vendor lock",
+            "uk": "vendor lock"
+          },
+          "wp": {
+            "en": "WP plugins",
+            "ru": "плагины WP",
+            "uk": "плагіни WP"
+          }
+        },
+        {
+          "_key": "7f32777199aa",
+          "_type": "comparisonRow",
+          "custom": {
+            "_type": "localizedString",
+            "en": "£4,000–6,000",
+            "ru": "$4–6k",
+            "uk": "$4–6k"
+          },
+          "param": {
+            "_type": "localizedString",
+            "en": "3-year cost",
+            "ru": "Цена за 3 года",
+            "uk": "Ціна за 3 роки"
+          },
+          "wix": {
+            "_type": "localizedString",
+            "en": "£5,000–7,000",
+            "ru": "$5–7k",
+            "uk": "$5–7k"
+          },
+          "wp": {
+            "_type": "localizedString",
+            "en": "£6,000–10,000",
+            "ru": "$6–10k",
+            "uk": "$6–10k"
+          }
+        }
+      ],
+      "tableCtaGhost": {
+        "en": "WordPress comparison →",
+        "ru": "Сравнение с WordPress →",
+        "uk": "Порівняння з WordPress →"
+      },
+      "tableCtaPrimary": {
+        "en": "Detailed page builder comparison →",
+        "ru": "Подробное сравнение конструкторов →",
+        "uk": "Детальне порівняння конструкторів →"
+      },
+      "tiers": [
+        {
+          "_key": "leg-tier-63",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "_type": "localizedString",
+            "en": "More details",
+            "ru": "Подробнее",
+            "uk": "Детальніше"
+          },
+          "includes": [
+            {
+              "_key": "z4CtSEe3d2bzDASWmt03sV",
+              "en": "Industry-ready structure",
+              "ru": "Готовая структура под вашу отрасль",
+              "uk": "Готова структура під вашу галузь"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt03xM",
+              "en": "English-first, more languages on request",
+              "ru": "UA + EN билингвал",
+              "uk": "UA + EN білінгвал"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt042D",
+              "en": "Base integrations (CRM + payments)",
+              "ru": "Базовые интеграции (CRM + платежи)",
+              "uk": "Базові інтеграції (CRM + платежі)"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt0474",
+              "en": "Sanity CMS for self-serve edits",
+              "ru": "Sanity CMS для самостоятельных правок",
+              "uk": "Sanity CMS для самостійних правок"
+            },
+            {
+              "_key": "f6e0f83ba31d",
+              "_type": "localizedString",
+              "en": "Dedicated landings per market / service",
+              "ru": "Отдельные лендинги под рынок / услугу",
+              "uk": "Окремі лендинги під ринок / послугу"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "ru": "Что входит",
+            "uk": "Що входить"
+          },
+          "isPopular": false,
+          "price": {
+            "en": "£3,500",
+            "ru": "$3 500",
+            "uk": "$3 500"
+          },
+          "title": {
+            "en": "Industry Pro",
+            "ru": "Industry Pro",
+            "uk": "Industry Pro"
+          },
+          "weeks": {
+            "en": "4-6 weeks",
+            "ru": "4–6 недель",
+            "uk": "4–6 тижнів"
+          }
+        },
+        {
+          "_key": "leg-tier-64",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "_type": "localizedString",
+            "en": "More details",
+            "ru": "Подробнее",
+            "uk": "Детальніше"
+          },
+          "includes": [
+            {
+              "_key": "z4CtSEe3d2bzDASWmt04Bv",
+              "en": "Everything in Industry Pro",
+              "ru": "Всё из Industry Pro",
+              "uk": "Все з Industry Pro"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt04Gm",
+              "en": "Deep integrations (3-5 systems)",
+              "ru": "Сложные интеграции (3–5 систем)",
+              "uk": "Складні інтеграції (3–5 систем)"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt04Ld",
+              "en": "Multi-language / multi-currency",
+              "ru": "Multi-language / multi-currency",
+              "uk": "Multi-language / multi-currency"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt04QU",
+              "en": "Dedicated landings per market / service",
+              "ru": "Отдельные лендинги под рынок / услугу",
+              "uk": "Окремі лендинги під ринок / послугу"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "ru": "Что входит",
+            "uk": "Що входить"
+          },
+          "isPopular": true,
+          "popularLabel": {
+            "en": "Popular",
+            "ru": "Популярный",
+            "uk": "Популярний"
+          },
+          "price": {
+            "en": "£6,500",
+            "ru": "$6 500",
+            "uk": "$6 500"
+          },
+          "title": {
+            "en": "Pro Plus",
+            "ru": "Pro Plus",
+            "uk": "Pro Plus"
+          },
+          "weeks": {
+            "en": "6-10 weeks",
+            "ru": "6–10 недель",
+            "uk": "6–10 тижнів"
+          }
+        },
+        {
+          "_key": "leg-tier-65",
+          "ctaGhost": true,
+          "ctaLabel": {
+            "_type": "localizedString",
+            "en": "More details",
+            "ru": "Подробнее",
+            "uk": "Детальніше"
+          },
+          "includes": [
+            {
+              "_key": "z4CtSEe3d2bzDASWmt04VL",
+              "en": "Everything in Pro Plus",
+              "ru": "Всё из Pro Plus",
+              "uk": "Все з Pro Plus"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt04aC",
+              "en": "Custom business logic",
+              "ru": "Уникальная бизнес-логика",
+              "uk": "Унікальна бізнес-логіка"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt04f3",
+              "en": "Custom platform / SaaS",
+              "ru": "Собственная платформа / SaaS",
+              "uk": "Власна платформа / SaaS"
+            },
+            {
+              "_key": "z4CtSEe3d2bzDASWmt04ju",
+              "en": "Programmatic landings (100+)",
+              "ru": "Программные landing pages (100+)",
+              "uk": "Програмні landing pages (100+)"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "ru": "Что входит",
+            "uk": "Що входить"
+          },
+          "isPopular": false,
+          "price": {
+            "en": "from £12,000",
+            "ru": "от $12 000",
+            "uk": "від $12 000"
+          },
+          "title": {
+            "en": "Custom",
+            "ru": "Custom",
+            "uk": "Custom"
+          },
+          "weeks": {
+            "en": "10+ weeks",
+            "ru": "10+ недель",
+            "uk": "10+ тижнів"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "leg-sec-66",
+      "_type": "faqBlock",
+      "heading": {
+        "en": "FAQ",
+        "ru": "Частые вопросы",
+        "uk": "Часті питання"
+      },
+      "items": [
+        {
+          "_key": "leg-fq-67",
+          "answer": {
+            "en": [
+              {
+                "_key": "leg-b-71",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-70",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Anonymisation: client type (no name), dispute amount, court level, outcome. Zero personal data. Before publishing — written client consent for the anonymised case. We help draft the consent template."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "15aea86e15ff4eeeb18272c6f22c3578",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2c48c94f9c874a87a8cbd0fdfc0def45",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Анонимизация: тип клиента (без имени), сумма спора, инстанция, результат. Никаких персональных данных. Перед публикацией — письменное согласие клиента на анонимизированный кейс. Помогаем составить шаблон согласия."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "leg-b-69",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-68",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Анонімізація: тип клієнта (без імені), сума спору, інстанція, результат. Жодних персональних даних. Перед публікацією — письмова згода клієнта на анонімізований кейс. Допомагаємо скласти шаблон згоди."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "How to publish real cases without breaching solicitor-client confidentiality?",
+            "ru": "Как показать реальные кейсы, не нарушая адвокатскую тайну?",
+            "uk": "Як показати реальні кейси, не порушуючи адвокатську тайну?"
+          }
+        },
+        {
+          "_key": "leg-fq-72",
+          "answer": {
+            "en": [
+              {
+                "_key": "leg-b-76",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-75",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Yes. The solicitor/firm issues an invoice for consultation or service — the client pays by card (Stripe / GoCardless) or via bank. The documentation: a client care letter and terms of engagement. SRA-compliant."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "5447b3452536404a97cdd77ead742fa4",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "4445df1e4d1e4d81853d7b93324f2ea0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да. Адвокат / юр-фирма выставляет счёт на консультацию или услугу — клиент оплачивает картой (Stripe / LiqPay / WayForPay) или через банк. Документ — публичный договор с адвокатом + договор об оказании правовой помощи. Всё соответствует требованиям."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "leg-b-74",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-73",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так. Адвокат / юр-фірма виставляє рахунок на консультацію або послугу — клієнт оплачує карткою (Stripe / LiqPay / WayForPay) або через банк. Документ — публічний договір з адвокатом + договір про надання правової допомоги. Все відповідає вимогам."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "Is it legal to accept payment for legal services online?",
+            "ru": "Можно ли по закону принимать оплату юр-услуг онлайн?",
+            "uk": "Чи можна за законом оплату юр-послуг приймати онлайн?"
+          }
+        },
+        {
+          "_key": "leg-fq-77",
+          "answer": {
+            "en": [
+              {
+                "_key": "leg-b-81",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-80",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Base structure and SEO copy — we write. Legal review is on you — about 1 hour for the whole project. If you want full copy from us — separate package at £300/page (requires a legal consultant)."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "c3c904bac43843f8b99735b4745be4b1",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1c07251ca74545788a70e0236fa3f8b0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Базовые структуры и SEO-тексты пишем мы. Юридическую редактуру делаете вы — час времени за весь проект. Если нужен полный копирайтинг от нас — отдельный пакет $300/страница (потому что требует юридического консультанта)."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "leg-b-79",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-78",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Базові структури і SEO-тексти пишемо ми. Юридичну редактуру робите ви — годину часу за весь проєкт. Якщо потрібен повний копірайтинг від нас — окремий пакет $300/сторінка (бо потребує юридичного консультанта)."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "Who writes the practice area content?",
+            "ru": "Кто пишет контент под практики?",
+            "uk": "Хто пише контент під практики?"
+          }
+        },
+        {
+          "_key": "leg-fq-82",
+          "answer": {
+            "en": [
+              {
+                "_key": "leg-b-86",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-85",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Clio (international standard), LEAP and Actionstep (for UK firms), HubSpot, Pipedrive. If you use a different system — we connect via API (£500-1200 depending on complexity)."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "2979e25b81f447b1bcdab68fdba42bf2",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "c755f3f2fa3948af88ffedc94c9b25d6",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Clio (международный стандарт), MyCase (для адвокатских бюро), KeyCRM, AmoCRM, Bitrix24 (для УА-фирм). Если у вас своя система — подключаем через API ($500-1200 в зависимости от сложности)."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "leg-b-84",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-83",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Clio (міжнародний стандарт), MyCase (для адвокатських бюро), KeyCRM, AmoCRM, Bitrix24 (для УА-фірм). Якщо у вас своя система — підключаємо через API ($500-1200 залежно від складності)."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "Which legal CRMs do you support?",
+            "ru": "Какие CRM для юр-фирм поддерживаете?",
+            "uk": "Які CRM для юр-фірм підтримуєте?"
+          }
+        },
+        {
+          "_key": "leg-fq-87",
+          "answer": {
+            "en": [
+              {
+                "_key": "leg-b-91",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-90",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "UK GDPR-compliant architecture, in line with ICO guidance. SSL required. Data in encrypted databases. Access — 2FA only. We prepare a data processing policy tailored to SRA-regulated practice. Confidentiality agreement with the client — standard before launch."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "303f3003b04640408d23ecd0a3ad1dcb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "765385752a2943f6a2d081bc24217f13",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "GDPR-compliant архитектура. SSL обязателен. Данные в зашифрованных базах. Доступ — только через 2FA. Готовим политику обработки данных под специфику юр-фирмы. Договор о конфиденциальности с заказчиком — стандарт перед запуском."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "leg-b-89",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-88",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "GDPR-compliant архітектура. SSL обовʼязковий. Дані в зашифрованих базах. Доступ — лише через 2FA. Готуємо політику обробки даних під специфіку юр-фірми. Договір про конфіденційність із замовником — стандарт перед запуском."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "How is client data protected?",
+            "ru": "Как защищены данные клиентов?",
+            "uk": "Як захищені дані клієнтів?"
+          }
+        },
+        {
+          "_key": "leg-fq-92",
+          "answer": {
+            "en": [
+              {
+                "_key": "leg-b-96",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-95",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Yes — see the Sytnykov case. A separate \"Courses\" section with syllabus, pricing, payment, reviews. Integration with Teachable / Thinkific or custom-built. A separate lead-gen funnel."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "d0af17073c124ed28a3ce7d5c7e6bde1",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "429a9f7b6ca34bcfa7ca5562715f450c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да — как кейс Sytnykov. Отдельный раздел \"Курсы\" с программой, ценой, оплатой, отзывами. Интеграция с Teachable / Thinkific или кастомная. Отдельная воронка лидогенерации."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "leg-b-94",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "leg-s-93",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так — як кейс Sytnykov. Окремий розділ \"Курси\" з програмою, ціною, оплатою, відгуками. Інтеграція з Teachable / Thinkific або кастомна. Окрема воронка лідогенерації."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "Can I sell courses from my law firm site?",
+            "ru": "Могу ли я продавать курсы с сайта юр-фирмы?",
+            "uk": "Чи можу я продавати курси з сайту юр-фірми?"
+          }
+        },
+        {
+          "_key": "faq-solicitors",
+          "answer": {
+            "en": [
+              {
+                "_key": "fp00a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fp00b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Yes — that's our core format: sole practitioners, firms of 2–10 solicitors, niche practices. The site is built for trust and enquiries: a page per practice area, cases, reviews, a confidential enquiry form, SRA-aware copy. From £3,500, in 4–8 weeks."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "fp008",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fp009",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да — это наш основной формат: частные адвокаты, бюро на 2–10 юристов, нишевые практики. Сайт строится под доверие и заявки: страницы под каждую практику, кейсы, отзывы, форма конфиденциального обращения. От $3 500, за 4–8 недель."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "fp006",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fp007",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так — це наш основний формат: приватні адвокати, бюро на 2–10 юристів, нішеві практики. Сайт будується під довіру і заявки: сторінки під кожну практику, кейси, відгуки, форма конфіденційного звернення. Від $3 500, за 4–8 тижнів."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "Do you build websites for solicitors and small law firms?",
+            "ru": "Делаете ли вы сайты для небольших юридических фирм и частных адвокатов?",
+            "uk": "Чи робите ви сайти для невеликих юридичних фірм і приватних адвокатів?"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "leg-sec-97",
+      "_type": "auditBlock",
+      "disclaim": {
+        "en": "No obligation. Useful even if you choose a different vendor.",
+        "ru": "Без обязательств. Полезно, даже если решите работать с другим подрядчиком.",
+        "uk": "Без зобовʼязань. Корисно, навіть якщо вирішите працювати з іншим підрядником."
+      },
+      "heading": {
+        "en": "Free audit of your law firm website",
+        "ru": "Бесплатный аудит сайта вашей юр-фирмы",
+        "uk": "Безкоштовний аудит сайту вашої юр-фірми"
+      },
+      "inputs": {
+        "contactPlaceholder": {
+          "en": "Email or WhatsApp",
+          "ru": "Email или Telegram",
+          "uk": "Email або Telegram"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "ru": "Ваше имя",
+          "uk": "Ваше імʼя"
+        },
+        "phonePlaceholder": {
+          "en": "Phone (optional)",
+          "ru": "Телефон (опционально)",
+          "uk": "Телефон (опціонально)"
+        },
+        "urlPlaceholder": {
+          "en": "Link to your site",
+          "ru": "Ссылка на ваш сайт",
+          "uk": "Посилання на ваш сайт"
+        }
+      },
+      "list": [
+        {
+          "_key": "z4CtSEe3d2bzDASWmt04ol",
+          "en": "SEO audit: top 50 queries for your practice + region",
+          "ru": "SEO-аудит: топ-50 запросов вашей практики + региона",
+          "uk": "SEO-аудит: топ-50 запитів вашої практики + регіону"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt04tc",
+          "en": "Structural audit: can the client find their practice in 5 seconds",
+          "ru": "Структурный аудит: найдёт ли клиент свою практику за 5 секунд",
+          "uk": "Структурний аудит: чи знайде клієнт свою практику за 5 секунд"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt04yT",
+          "en": "Case analysis: do they convince your ideal client",
+          "ru": "Анализ кейсов: убеждают ли вашего идеального клиента",
+          "uk": "Аналіз кейсів: чи переконують вашого ідеального клієнта"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt053K",
+          "en": "GDPR compliance and data security check",
+          "ru": "Проверка на GDPR-compliance и безопасность данных",
+          "uk": "Перевірка на GDPR-compliance і безпеку даних"
+        },
+        {
+          "_key": "z4CtSEe3d2bzDASWmt058B",
+          "en": "Prioritised improvement plan + budget estimate",
+          "ru": "План улучшений с приоритетами + ориентировочный бюджет",
+          "uk": "План покращень з пріоритетами + орієнтовний бюджет"
+        }
+      ],
+      "sub": {
+        "en": "Drop a link to your current site. Detailed PDF report within 3 business days.",
+        "ru": "Оставьте ссылку на ваш текущий сайт. В течение 3 рабочих дней — детальный отчёт в PDF.",
+        "uk": "Залиште посилання на ваш поточний сайт. Протягом 3 робочих днів — детальний звіт у PDF."
+      },
+      "submitLabel": {
+        "en": "Get my free audit",
+        "ru": "Получить бесплатный аудит",
+        "uk": "Отримати безкоштовний аудит"
+      }
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "➤ Bespoke websites for UK law firms & solicitors ✔️ Lead generation focused ✔️ Google Reviews integration ✔️ SRA compliant design ✔️ Fast & mobile-first ➡ Book a free strategy call.",
+      "ru": "➤ Кастомные сайты для юридических фирм и адвокатов ✔️ Ориентация на привлечение клиентов ✔️ Интеграция с Google Reviews ✔️ Дизайн с юридической спецификой ✔️ Быстрые и mobile-first ➡ Закажите бесплатную стратегическую консультацию.",
+      "uk": "➤ Кастомні сайти для юридичних фірм і адвокатів ✔️ Орієнтація на залучення клієнтів ✔️ Інтеграція з Google Reviews ✔️ Дизайн із юридичною специфікою ✔️ Швидкі та mobile-first ➡ Замовте безкоштовну стратегічну консультацію."
+    },
+    "title": {
+      "en": "ᐈ Law Firm Website Design UK | Solicitor Websites | Code-Site.Art",
+      "ru": "ᐈ Создание сайтов для юристов и адвокатов | Юридические сайты | Code-Site.Art",
+      "uk": "ᐈ Створення сайтів для юристів і адвокатів | Юридичні сайти | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "legal"
+  },
+  "status": "published",
+  "title": {
+    "en": "Websites for law firms & solicitors",
+    "ru": "Сайты для юридических фирм и адвокатов",
+    "uk": "Сайти для юридичних фірм і адвокатів"
+  }
+}

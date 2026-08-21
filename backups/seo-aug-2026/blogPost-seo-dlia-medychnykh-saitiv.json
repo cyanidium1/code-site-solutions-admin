@@ -1,0 +1,921 @@
+{
+  "_id": "b83bb99b-0289-4f44-a937-3263b8f8fcf3",
+  "body": {
+    "en": [
+      {
+        "_key": "mt0cm",
+        "_type": "tldrBox",
+        "items": [
+          "80% of patients never scroll past **page one** of Google.",
+          "A clinic's main battle is **local search**: \"dentist + area\" converts better than \"dentist London\"",
+          "A Google Business Profile with reviews is **half the result**",
+          "Every service = its own page; a single \"our services\" list page ranks for nothing",
+          "First results take **3–6 months**; a clinic retainer runs £300–500/mo"
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "mt0cn",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0co",
+            "_type": "span",
+            "marks": [],
+            "text": "Why medical SEO is different"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0cp",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0cq",
+            "_type": "span",
+            "marks": [],
+            "text": "Google treats healthcare as a YMYL topic (\"your money or your life\") — and judges it more strictly than most. Medical sites face higher bars for credibility: who wrote the content, whether the clinic is licensed, whether the reviews are real. Tricks that still work in other niches don't put clinics in the top here — they put them under a filter. There's one working path: real expertise, presented properly."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0cr",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0cs",
+            "_type": "span",
+            "marks": [],
+            "text": "Local search: your main battle"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0ct",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0cu",
+            "_type": "span",
+            "marks": [],
+            "text": "A patient with a toothache doesn't search \"best dental clinic in the UK\" — they search \"dentist Shoreditch\" or \"dentist near me\". Local queries are less competitive and convert better: the person is already ready to come in. What wins here: a complete Google Business Profile with photos and fresh reviews; your address and service areas on the site; \"service + area\" pages if you run several locations."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0cv",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0cw",
+            "_type": "span",
+            "marks": [],
+            "text": "A page per service"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0cx",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0cy",
+            "_type": "span",
+            "marks": [],
+            "text": "\"Fillings\", \"implants\", \"braces\", \"hygiene\" — each of those is searched separately. A single \"our services\" list page ranks for none of them. The working structure: a page per key service — with the price, answers to common questions, a photo of the practitioner who performs it, and a booking button. Ten service pages are ten entry points from search."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0cz",
+        "_type": "blogImage",
+        "alt": "Search traffic analytics for a medical website on a laptop",
+        "asset": {
+          "_ref": "image-f98a00d895a1b8c71cf1145f6e02cac6823de4e7-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Rankings and traffic — the only honest metrics in an SEO report"
+      },
+      {
+        "_key": "mt0d0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0d1",
+            "_type": "span",
+            "marks": [],
+            "text": "The technical base Google checks"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0d2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0d3",
+            "_type": "span",
+            "marks": [],
+            "text": "Speed: under 2 seconds on mobile — beyond that, patients leave"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0d4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0d5",
+            "_type": "span",
+            "marks": [],
+            "text": "MedicalOrganization schema: the markup behind rich snippets"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0d6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0d7",
+            "_type": "span",
+            "marks": [],
+            "text": "Mobile: 70%+ of medical traffic comes from phones"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0d8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0d9",
+            "_type": "span",
+            "marks": [],
+            "text": "HTTPS and correct personal-data handling in forms"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0da",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0db",
+            "_type": "span",
+            "marks": [],
+            "text": "A real example: Efedra"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0dg",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0dc",
+            "_type": "span",
+            "marks": [],
+            "text": "An Odesa clinic, after a redesign and 6 months of search work: 1,460 Google visits versus 340 in the previous half-year, impressions up from 1,820 to 13,000. That's not magic — it's service pages, local optimisation and a fast site. Full breakdown — "
+          },
+          {
+            "_key": "mt0de",
+            "_type": "span",
+            "marks": [
+              "mt0dd"
+            ],
+            "text": "in the case study"
+          },
+          {
+            "_key": "mt0df",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "mt0dd",
+            "_type": "link",
+            "href": "/en/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0dh",
+        "_type": "blogImage",
+        "alt": "The Efedra clinic's Google Search Console report: growth from 340 to 1,460 clicks in 6 months",
+        "asset": {
+          "_ref": "image-069db3eb09c671f0c05d24e83203744402b348f1-1882x877-jpg",
+          "_type": "reference"
+        },
+        "caption": "Efedra in Search Console: 340 → 1,460 clicks over 6 months of work"
+      },
+      {
+        "_key": "mt0di",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0dj",
+            "_type": "span",
+            "marks": [],
+            "text": "What it costs and how long it takes"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0do",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0dk",
+            "_type": "span",
+            "marks": [],
+            "text": "A one-off SEO audit is £300: a prioritised fix list. A clinic retainer typically runs £300–500/mo: technical work, content, local SEO, links, and a monthly report with rankings and traffic. First measurable results take 3–6 months. What's in the retainer month by month — on the "
+          },
+          {
+            "_key": "mt0dm",
+            "_type": "span",
+            "marks": [
+              "mt0dl"
+            ],
+            "text": "SEO services page"
+          },
+          {
+            "_key": "mt0dn",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "mt0dl",
+            "_type": "link",
+            "href": "/en/seo",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0dp",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/contacts",
+        "ctaLabel": "Order an audit",
+        "ctaSecondaryHref": "/en/sites-for/medicine",
+        "ctaSecondaryLabel": "Clinic solutions",
+        "eyebrow": "SEO audit",
+        "heading": "Find out where your site loses patients",
+        "sub": "A £300 audit: a technical and content teardown with priorities. Useful even if you end up promoting with another contractor."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "mt0bi",
+        "_type": "tldrBox",
+        "items": [
+          "80% пациентов не листают дальше **первой страницы** Google.",
+          "Главная битва клиники — **локальный поиск**: «стоматолог + район» конвертирует лучше, чем «стоматолог Киев»",
+          "Google Business Profile с отзывами — **половина результата**",
+          "Каждая услуга = отдельная страница; одна страница «услуги» списком не ранжируется",
+          "Первые результаты — **3–6 месяцев**; кампания для клиник — $300–500/мес"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "mt0bj",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0bk",
+            "_type": "span",
+            "marks": [],
+            "text": "Почему медицинское SEO — особенное"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0bl",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0bm",
+            "_type": "span",
+            "marks": [],
+            "text": "Google относит медицину к YMYL-тематикам («your money or your life») — и судит её строже других. Для медицинских сайтов выше требования к достоверности: кто автор контента, есть ли у клиники лицензия, настоящие ли отзывы. Поэтому трюки, которые ещё работают в других нишах, в медицине приводят не в топ, а под фильтр. Рабочий путь один: реальная экспертиза, показанная правильно."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0bn",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0bo",
+            "_type": "span",
+            "marks": [],
+            "text": "Локальный поиск: ваша главная битва"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0bp",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0bq",
+            "_type": "span",
+            "marks": [],
+            "text": "Пациент с зубной болью не ищет «лучшая стоматология Украины» — он ищет «стоматолог Оболонь» или «стоматология рядом». Локальные запросы менее конкурентны и лучше конвертируют: человек уже готов прийти. Что на это работает: Google Business Profile с заполненным профилем, фото и свежими отзывами; адрес и районы обслуживания на сайте; страницы под «услуга + район», если у вас несколько филиалов."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0br",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0bs",
+            "_type": "span",
+            "marks": [],
+            "text": "Страница под каждую услугу"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0bt",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0bu",
+            "_type": "span",
+            "marks": [],
+            "text": "«Лечение кариеса», «имплантация», «брекеты», «чистка» — каждую из этих услуг ищут отдельно. Страница «наши услуги» списком не ранжируется ни по одному из этих запросов. Рабочая структура: отдельная страница на каждую ключевую услугу — с ценой, ответами на типовые вопросы, фото врача, который её выполняет, и кнопкой записи. 10 страниц услуг = 10 точек входа из поиска."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0bv",
+        "_type": "blogImage",
+        "alt": "Аналитика поискового трафика медицинского сайта на ноутбуке",
+        "asset": {
+          "_ref": "image-f98a00d895a1b8c71cf1145f6e02cac6823de4e7-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Позиции и трафик — единственные честные метрики SEO-отчёта"
+      },
+      {
+        "_key": "mt0bw",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0bx",
+            "_type": "span",
+            "marks": [],
+            "text": "Техническая база: что проверяет Google"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0by",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0bz",
+            "_type": "span",
+            "marks": [],
+            "text": "Скорость: до 2 секунд на мобильном — дальше пациенты уходят"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0c0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0c1",
+            "_type": "span",
+            "marks": [],
+            "text": "Schema.org MedicalOrganization: разметка, которая даёт расширенные сниппеты"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0c2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0c3",
+            "_type": "span",
+            "marks": [],
+            "text": "Мобильная версия: 70%+ медицинского трафика — с телефонов"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0c4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0c5",
+            "_type": "span",
+            "marks": [],
+            "text": "HTTPS и корректная обработка персональных данных в формах"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0c6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0c7",
+            "_type": "span",
+            "marks": [],
+            "text": "Реальный пример: Efedra"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0cc",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0c8",
+            "_type": "span",
+            "marks": [],
+            "text": "Клиника из Одессы после редизайна и 6 месяцев работы с поиском: 1 460 переходов из Google против 340 за предыдущие полгода, показы выросли с 1 820 до 13 000. Это не магия — это страницы под услуги, локальная оптимизация и быстрый сайт. Полный разбор — "
+          },
+          {
+            "_key": "mt0ca",
+            "_type": "span",
+            "marks": [
+              "mt0c9"
+            ],
+            "text": "в кейсе"
+          },
+          {
+            "_key": "mt0cb",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "mt0c9",
+            "_type": "link",
+            "href": "/ru/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0cd",
+        "_type": "blogImage",
+        "alt": "Отчёт Google Search Console клиники Efedra: рост с 340 до 1 460 переходов за 6 месяцев",
+        "asset": {
+          "_ref": "image-069db3eb09c671f0c05d24e83203744402b348f1-1882x877-jpg",
+          "_type": "reference"
+        },
+        "caption": "Efedra в Search Console: 340 → 1 460 переходов за 6 месяцев работы"
+      },
+      {
+        "_key": "mt0ce",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0cf",
+            "_type": "span",
+            "marks": [],
+            "text": "Сколько стоит и сколько ждать"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0ck",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0cg",
+            "_type": "span",
+            "marks": [],
+            "text": "Разовый SEO-аудит — $300: список правок по приоритетам. Кампания для клиники — обычно $300–500/мес: техника, контент, локальное SEO, ссылки, ежемесячный отчёт с позициями и трафиком. Первые измеримые результаты — за 3–6 месяцев. Что именно входит ежемесячно — на "
+          },
+          {
+            "_key": "mt0ci",
+            "_type": "span",
+            "marks": [
+              "mt0ch"
+            ],
+            "text": "странице SEO-услуги"
+          },
+          {
+            "_key": "mt0cj",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "mt0ch",
+            "_type": "link",
+            "href": "/ru/seo",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0cl",
+        "_type": "ctaCallout",
+        "ctaHref": "/ru/contacts",
+        "ctaLabel": "Заказать аудит",
+        "ctaSecondaryHref": "/ru/sites-for/medicine",
+        "ctaSecondaryLabel": "Решения для клиник",
+        "eyebrow": "SEO-аудит",
+        "heading": "Узнайте, где ваш сайт теряет пациентов",
+        "sub": "Аудит за $300: технический и контентный разбор с приоритетами. Полезно, даже если продвигаться будете с другим подрядчиком."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "mt0ae",
+        "_type": "tldrBox",
+        "items": [
+          "80% пацієнтів не гортають далі **першої сторінки** Google.",
+          "Головна битва клініки — **локальний пошук**: «стоматолог + район» конвертує краще за «стоматолог Київ»",
+          "Google Business Profile з відгуками — **половина результату**",
+          "Кожна послуга = окрема сторінка; одна сторінка «послуги» списком не ранжується",
+          "Перші результати — **3–6 місяців**; кампанія для клінік — $300–500/міс"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "mt0af",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0ag",
+            "_type": "span",
+            "marks": [],
+            "text": "Чому медичне SEO — особливе"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0ah",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0ai",
+            "_type": "span",
+            "marks": [],
+            "text": "Google відносить медицину до YMYL-тематик («your money or your life») — і судить її суворіше за інші. Для медичних сайтів вище вимоги до достовірності: хто автор контенту, чи є в клініки ліцензія, чи справжні відгуки. Тому трюки, які ще працюють у інших нішах, у медицині приводять не в топ, а під фільтр. Робочий шлях один: реальна експертиза, показана правильно."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0aj",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0ak",
+            "_type": "span",
+            "marks": [],
+            "text": "Локальний пошук: ваша головна битва"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0al",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0am",
+            "_type": "span",
+            "marks": [],
+            "text": "Пацієнт із зубним болем не шукає «найкраща стоматологія України» — він шукає «стоматолог Оболонь» або «стоматологія біля мене». Локальні запити менш конкурентні й краще конвертують: людина вже готова прийти. Що на це працює: Google Business Profile із заповненим профілем, фото і свіжими відгуками; адреса й райони обслуговування на сайті; сторінки під «послуга + район», якщо у вас кілька філій."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0an",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0ao",
+            "_type": "span",
+            "marks": [],
+            "text": "Сторінка під кожну послугу"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0ap",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0aq",
+            "_type": "span",
+            "marks": [],
+            "text": "«Лікування карієсу», «імплантація», «брекети», «чистка» — кожну з цих послуг шукають окремо. Сторінка «наші послуги» списком не ранжується за жодним із цих запитів. Робоча структура: окрема сторінка на кожну ключову послугу — з ціною, відповідями на типові питання, фото лікаря, який її виконує, і кнопкою запису. 10 сторінок послуг = 10 точок входу з пошуку."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0ar",
+        "_type": "blogImage",
+        "alt": "Аналітика пошукового трафіку медичного сайту на ноутбуці",
+        "asset": {
+          "_ref": "image-f98a00d895a1b8c71cf1145f6e02cac6823de4e7-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Позиції і трафік — єдині чесні метрики SEO-звіту"
+      },
+      {
+        "_key": "mt0as",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0at",
+            "_type": "span",
+            "marks": [],
+            "text": "Технічна база: що перевіряє Google"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0au",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0av",
+            "_type": "span",
+            "marks": [],
+            "text": "Швидкість: до 2 секунд на мобільному — далі пацієнти йдуть"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0aw",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0ax",
+            "_type": "span",
+            "marks": [],
+            "text": "Schema.org MedicalOrganization: розмітка, яка дає розширені сніпети"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0ay",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0az",
+            "_type": "span",
+            "marks": [],
+            "text": "Мобільна версія: 70%+ медичного трафіку — з телефонів"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0b0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0b1",
+            "_type": "span",
+            "marks": [],
+            "text": "HTTPS і коректна обробка персональних даних у формах"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0b2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0b3",
+            "_type": "span",
+            "marks": [],
+            "text": "Реальний приклад: Efedra"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0b8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0b4",
+            "_type": "span",
+            "marks": [],
+            "text": "Клініка з Одеси після редизайну і 6 місяців роботи з пошуком: 1 460 переходів із Google проти 340 за попередні пів року, покази зросли з 1 820 до 13 000. Це не магія — це сторінки під послуги, локальна оптимізація і швидкий сайт. Повний розбір — "
+          },
+          {
+            "_key": "mt0b6",
+            "_type": "span",
+            "marks": [
+              "mt0b5"
+            ],
+            "text": "у кейсі"
+          },
+          {
+            "_key": "mt0b7",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "mt0b5",
+            "_type": "link",
+            "href": "/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0b9",
+        "_type": "blogImage",
+        "alt": "Звіт Google Search Console клініки Efedra: зростання з 340 до 1 460 переходів за 6 місяців",
+        "asset": {
+          "_ref": "image-069db3eb09c671f0c05d24e83203744402b348f1-1882x877-jpg",
+          "_type": "reference"
+        },
+        "caption": "Efedra у Search Console: 340 → 1 460 переходів за 6 місяців роботи"
+      },
+      {
+        "_key": "mt0ba",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0bb",
+            "_type": "span",
+            "marks": [],
+            "text": "Скільки коштує і скільки чекати"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "mt0bg",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "mt0bc",
+            "_type": "span",
+            "marks": [],
+            "text": "Разовий SEO-аудит — $300: список правок за пріоритетами. Кампанія для клініки — зазвичай $300–500/міс: техніка, контент, локальне SEO, посилання, щомісячний звіт із позиціями і трафіком. Перші вимірні результати — за 3–6 місяців. Що саме входить щомісяця — на "
+          },
+          {
+            "_key": "mt0be",
+            "_type": "span",
+            "marks": [
+              "mt0bd"
+            ],
+            "text": "сторінці SEO-послуги"
+          },
+          {
+            "_key": "mt0bf",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "mt0bd",
+            "_type": "link",
+            "href": "/seo",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "mt0bh",
+        "_type": "ctaCallout",
+        "ctaHref": "/contacts",
+        "ctaLabel": "Замовити аудит",
+        "ctaSecondaryHref": "/sites-for/medicine",
+        "ctaSecondaryLabel": "Рішення для клінік",
+        "eyebrow": "SEO-аудит",
+        "heading": "Дізнайтесь, де ваш сайт втрачає пацієнтів",
+        "sub": "Аудит за $300: технічний і контентний розбір із пріоритетами. Корисно, навіть якщо просуватись будете з іншим підрядником."
+      }
+    ]
+  },
+  "slug": "seo-dlia-medychnykh-saitiv"
+}

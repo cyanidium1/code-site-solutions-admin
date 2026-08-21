@@ -1,0 +1,1062 @@
+{
+  "_id": "23538101-450e-4407-a0e1-2ffacbc72448",
+  "body": {
+    "en": [
+      {
+        "_key": "b402i",
+        "_type": "tldrBox",
+        "items": [
+          "70%+ of clinic traffic is on phones, and a slow site loses patients **before the first screen**.",
+          "Google's bar: LCP under 2.5s. Our standard is **under 1.5s**; our cases hold Lighthouse 98",
+          "The usual brakes: heavy themes, sliders, third-party widgets, unoptimised photos",
+          "You can test your own site free in 2 minutes — instructions below"
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "b402j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b402k",
+            "_type": "span",
+            "marks": [],
+            "text": "Why seconds cost patients"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b402l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b402m",
+            "_type": "span",
+            "marks": [],
+            "text": "Patients open your site on a phone — often on mobile data, often on the move. Every second of waiting is a share of people who gave up and went back to the results, to a competitor. Google knows it, which is why speed (Core Web Vitals) is an official ranking factor: a slow site loses patients and positions at the same time."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b402n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b402o",
+            "_type": "span",
+            "marks": [],
+            "text": "What actually slows medical websites down"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b402r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b402p",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "All-in-one template themes. "
+          },
+          {
+            "_key": "b402q",
+            "_type": "span",
+            "marks": [],
+            "text": "A marketplace theme ships code for a thousand features you don't use — and every patient downloads all of it."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b402u",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b402s",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Carousels and sliders on the home page. "
+          },
+          {
+            "_key": "b402t",
+            "_type": "span",
+            "marks": [],
+            "text": "Five large photos load at once when the patient will see one."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b402x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b402v",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Third-party widgets. "
+          },
+          {
+            "_key": "b402w",
+            "_type": "span",
+            "marks": [],
+            "text": "Chats, maps, counters, messenger buttons — each drags its own scripts. Three widgets easily double load time."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b4030",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b402y",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Photos straight off the camera. "
+          },
+          {
+            "_key": "b402z",
+            "_type": "span",
+            "marks": [],
+            "text": "An 8MB shot where 200KB would do — the most common and cheapest-to-cure problem."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b4031",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b4032",
+            "_type": "span",
+            "marks": [],
+            "text": "Test your site in 2 minutes"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b4033",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b4034",
+            "_type": "span",
+            "marks": [],
+            "text": "Open pagespeed.web.dev and paste your address"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b4035",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b4036",
+            "_type": "span",
+            "marks": [],
+            "text": "Read the mobile score, not desktop: patients arrive on phones"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b4037",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b4038",
+            "_type": "span",
+            "marks": [],
+            "text": "Three numbers: Performance (aim for 90+), LCP (under 2.5s), CLS (under 0.1 — so the page doesn't \"jump\")"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b4039",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b403a",
+            "_type": "span",
+            "marks": [],
+            "text": "Repeat for a service page, not just the home page"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b403b",
+        "_type": "blogImage",
+        "alt": "Testing website speed on a laptop",
+        "asset": {
+          "_ref": "image-f98a00d895a1b8c71cf1145f6e02cac6823de4e7-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "PageSpeed Insights is free and honest: read the mobile score"
+      },
+      {
+        "_key": "b403c",
+        "_type": "blogTable",
+        "headers": [
+          "Symptom",
+          "Likely cause",
+          "Treatment"
+        ],
+        "rows": [
+          {
+            "_key": "b403d",
+            "_type": "blogTableRow",
+            "cells": [
+              "A long white screen, then everything at once",
+              "a heavy font/theme blocks rendering",
+              "critical CSS optimisation"
+            ]
+          },
+          {
+            "_key": "b403e",
+            "_type": "blogTableRow",
+            "cells": [
+              "The main photo loads last",
+              "unoptimised images",
+              "compression + modern formats"
+            ]
+          },
+          {
+            "_key": "b403f",
+            "_type": "blogTableRow",
+            "cells": [
+              "The page \"jumps\" while reading",
+              "images without dimensions, banners",
+              "fixed sizes, a CLS audit"
+            ]
+          },
+          {
+            "_key": "b403g",
+            "_type": "blogTableRow",
+            "cells": [
+              "The score drops after adding a chat",
+              "third-party scripts in the critical path",
+              "deferred widget loading"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "b403h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b403i",
+            "_type": "span",
+            "marks": [],
+            "text": "What to do about it"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b403j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b403k",
+            "_type": "span",
+            "marks": [],
+            "text": "On custom code these are contained fixes: image optimisation, deferred widgets, a clean critical path. On a builder or a heavy template, speed has a ceiling no fix can break: the platform's code always loads. Our sites hold LCP under 1.5s and Lighthouse 90+ not by magic but by architecture: static code, optimised images, zero unnecessary scripts."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b403p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b403l",
+            "_type": "span",
+            "marks": [],
+            "text": "A working example: the Efedra clinic site holds Lighthouse Performance 98 after its rebuild — one of the reasons Google visits quadrupled in 6 months. Full breakdown — "
+          },
+          {
+            "_key": "b403n",
+            "_type": "span",
+            "marks": [
+              "b403m"
+            ],
+            "text": "in the case study"
+          },
+          {
+            "_key": "b403o",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "b403m",
+            "_type": "link",
+            "href": "/en/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "b403q",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/sites-for/medicine",
+        "ctaLabel": "Get the teardown",
+        "ctaSecondaryHref": "/en/calculator",
+        "ctaSecondaryLabel": "Price a new site",
+        "eyebrow": "Free teardown",
+        "heading": "Want to know why your site is slow?",
+        "sub": "Send the link — within 24 hours you'll get a speed and SEO report: what's braking, what's fixable with edits, and what's capped by the platform."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "b4019",
+        "_type": "tldrBox",
+        "items": [
+          "70%+ трафика клиник — с телефонов, и медленный сайт теряет пациентов **до первого экрана**.",
+          "Норма Google: LCP до 2,5 с. Наш стандарт — **до 1,5 с**, кейсы держат Lighthouse 98",
+          "Главные тормоза: тяжёлые темы, слайдеры, чужие виджеты, неоптимизированные фото",
+          "Проверить свой сайт можно бесплатно за 2 минуты — инструкция ниже"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "b401a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b401b",
+            "_type": "span",
+            "marks": [],
+            "text": "Почему секунды стоят пациентов"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b401c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b401d",
+            "_type": "span",
+            "marks": [],
+            "text": "Пациент открывает ваш сайт с телефона — часто с мобильного интернета, часто в дороге. Каждая секунда ожидания — это доля людей, которая не дождалась и вернулась в выдачу к конкуренту. Google это знает, поэтому скорость (Core Web Vitals) — официальный фактор ранжирования: медленный сайт теряет и пациентов, и позиции одновременно."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b401e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b401f",
+            "_type": "span",
+            "marks": [],
+            "text": "Что на самом деле тормозит медицинские сайты"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b401i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b401g",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Шаблонные темы «всё в одном». "
+          },
+          {
+            "_key": "b401h",
+            "_type": "span",
+            "marks": [],
+            "text": "Тема с маркетплейса тянет код для тысячи ненужных вам функций — и всё это грузится каждому пациенту."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b401l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b401j",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Карусели и слайдеры на главной. "
+          },
+          {
+            "_key": "b401k",
+            "_type": "span",
+            "marks": [],
+            "text": "Пять больших фото загружаются сразу, хотя пациент увидит одно."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b401o",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b401m",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Чужие виджеты. "
+          },
+          {
+            "_key": "b401n",
+            "_type": "span",
+            "marks": [],
+            "text": "Онлайн-чаты, карты, счётчики, кнопки мессенджеров — каждый тянет свои скрипты. Три виджета легко удваивают время загрузки."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b401r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b401p",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Фото прямо с камеры. "
+          },
+          {
+            "_key": "b401q",
+            "_type": "span",
+            "marks": [],
+            "text": "Снимок на 8 МБ там, где достаточно 200 КБ — самая частая и самая дешёвая в лечении проблема."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b401s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b401t",
+            "_type": "span",
+            "marks": [],
+            "text": "Проверьте свой сайт за 2 минуты"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b401u",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b401v",
+            "_type": "span",
+            "marks": [],
+            "text": "Откройте pagespeed.web.dev и вставьте адрес сайта"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b401w",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b401x",
+            "_type": "span",
+            "marks": [],
+            "text": "Смотрите мобильную оценку — не десктопную: пациенты приходят с телефонов"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b401y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b401z",
+            "_type": "span",
+            "marks": [],
+            "text": "Три цифры: Performance (цель — 90+), LCP (до 2,5 с), CLS (до 0.1 — чтобы страница не «прыгала»)"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b4020",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b4021",
+            "_type": "span",
+            "marks": [],
+            "text": "Повторите для страницы услуги, не только главной"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b4022",
+        "_type": "blogImage",
+        "alt": "Проверка скорости сайта на ноутбуке",
+        "asset": {
+          "_ref": "image-f98a00d895a1b8c71cf1145f6e02cac6823de4e7-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "PageSpeed Insights — бесплатный и честный: смотрите мобильную оценку"
+      },
+      {
+        "_key": "b4023",
+        "_type": "blogTable",
+        "headers": [
+          "Симптом",
+          "Вероятная причина",
+          "Лечение"
+        ],
+        "rows": [
+          {
+            "_key": "b4024",
+            "_type": "blogTableRow",
+            "cells": [
+              "Долго белое поле, потом всё сразу",
+              "тяжёлый шрифт/тема блокирует рендер",
+              "оптимизация критического CSS"
+            ]
+          },
+          {
+            "_key": "b4025",
+            "_type": "blogTableRow",
+            "cells": [
+              "Главное фото грузится последним",
+              "неоптимизированные изображения",
+              "сжатие + современные форматы"
+            ]
+          },
+          {
+            "_key": "b4026",
+            "_type": "blogTableRow",
+            "cells": [
+              "Страница «прыгает» при чтении",
+              "картинки без размеров, баннеры",
+              "фиксированные размеры, CLS-аудит"
+            ]
+          },
+          {
+            "_key": "b4027",
+            "_type": "blogTableRow",
+            "cells": [
+              "Оценка падает после добавления чата",
+              "чужие скрипты в критическом пути",
+              "отложенная загрузка виджетов"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "b4028",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b4029",
+            "_type": "span",
+            "marks": [],
+            "text": "Что с этим делать"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b402a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b402b",
+            "_type": "span",
+            "marks": [],
+            "text": "Если сайт на custom-коде — это управляемые правки: оптимизация изображений, отложенная загрузка виджетов, чистка критического пути. Если на конструкторе или тяжёлом шаблоне — у скорости есть потолок, который не пробить правками: код платформы грузится всегда. Наши сайты держат LCP до 1,5 с и Lighthouse 90+ не магией, а архитектурой: статический код, оптимизированные изображения, ноль лишних скриптов."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b402g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b402c",
+            "_type": "span",
+            "marks": [],
+            "text": "Пример из практики: сайт клиники Efedra после переработки держит Lighthouse Performance 98 — и это один из факторов, почему за 6 месяцев переходы из Google выросли вчетверо. Полный разбор — "
+          },
+          {
+            "_key": "b402e",
+            "_type": "span",
+            "marks": [
+              "b402d"
+            ],
+            "text": "в кейсе"
+          },
+          {
+            "_key": "b402f",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "b402d",
+            "_type": "link",
+            "href": "/ru/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "b402h",
+        "_type": "ctaCallout",
+        "ctaHref": "/ru/sites-for/medicine",
+        "ctaLabel": "Получить разбор",
+        "ctaSecondaryHref": "/ru/calculator",
+        "ctaSecondaryLabel": "Посчитать новый сайт",
+        "eyebrow": "Бесплатный разбор",
+        "heading": "Хотите знать, почему ваш сайт медленный?",
+        "sub": "Пришлите ссылку — за 24 часа вернём отчёт по скорости и SEO: что тормозит, что исправляется правками, а что упирается в платформу."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "b4000",
+        "_type": "tldrBox",
+        "items": [
+          "70%+ трафіку клінік — з телефонів, і повільний сайт втрачає пацієнтів **до першого екрана**.",
+          "Норма Google: LCP до 2,5 с. Наш стандарт — **до 1,5 с**, кейси тримають Lighthouse 98",
+          "Головні гальма: важкі теми, слайдери, чужі віджети, неоптимізовані фото",
+          "Перевірити свій сайт можна безкоштовно за 2 хвилини — інструкція нижче"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "b4001",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b4002",
+            "_type": "span",
+            "marks": [],
+            "text": "Чому секунди коштують пацієнтів"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b4003",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b4004",
+            "_type": "span",
+            "marks": [],
+            "text": "Пацієнт відкриває ваш сайт із телефона — часто з мобільного інтернету, часто дорогою. Кожна секунда очікування — це частка людей, яка не дочекалась і повернулась у видачу до конкурента. Google це знає, тому швидкість (Core Web Vitals) — офіційний фактор ранжування: повільний сайт втрачає і пацієнтів, і позиції одночасно."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b4005",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b4006",
+            "_type": "span",
+            "marks": [],
+            "text": "Що насправді гальмує медичні сайти"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b4009",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b4007",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Шаблонні теми «все в одному». "
+          },
+          {
+            "_key": "b4008",
+            "_type": "span",
+            "marks": [],
+            "text": "Тема з маркетплейсу тягне код для тисячі непотрібних вам функцій — і все це вантажиться кожному пацієнту."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b400c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b400a",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Каруселі і слайдери на головній. "
+          },
+          {
+            "_key": "b400b",
+            "_type": "span",
+            "marks": [],
+            "text": "Пʼять великих фото завантажуються одразу, хоча пацієнт побачить одне."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b400f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b400d",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Чужі віджети. "
+          },
+          {
+            "_key": "b400e",
+            "_type": "span",
+            "marks": [],
+            "text": "Онлайн-чати, карти, лічильники, кнопки месенджерів — кожен тягне свої скрипти. Три віджети легко подвоюють час завантаження."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b400i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b400g",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Фото прямо з камери. "
+          },
+          {
+            "_key": "b400h",
+            "_type": "span",
+            "marks": [],
+            "text": "Знімок на 8 МБ там, де досить 200 КБ — найчастіша і найдешевша в лікуванні проблема."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b400j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b400k",
+            "_type": "span",
+            "marks": [],
+            "text": "Перевірте свій сайт за 2 хвилини"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b400l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b400m",
+            "_type": "span",
+            "marks": [],
+            "text": "Відкрийте pagespeed.web.dev і вставте адресу сайту"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b400n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b400o",
+            "_type": "span",
+            "marks": [],
+            "text": "Дивіться мобільну оцінку — не десктопну: пацієнти приходять з телефонів"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b400p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b400q",
+            "_type": "span",
+            "marks": [],
+            "text": "Три цифри: Performance (мета — 90+), LCP (до 2,5 с), CLS (до 0.1 — щоб сторінка не «стрибала»)"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b400r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b400s",
+            "_type": "span",
+            "marks": [],
+            "text": "Повторіть для сторінки послуги, не тільки головної"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b400t",
+        "_type": "blogImage",
+        "alt": "Перевірка швидкості сайту на ноутбуці",
+        "asset": {
+          "_ref": "image-f98a00d895a1b8c71cf1145f6e02cac6823de4e7-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "PageSpeed Insights — безкоштовний і чесний: дивіться мобільну оцінку"
+      },
+      {
+        "_key": "b400u",
+        "_type": "blogTable",
+        "headers": [
+          "Симптом",
+          "Ймовірна причина",
+          "Лікування"
+        ],
+        "rows": [
+          {
+            "_key": "b400v",
+            "_type": "blogTableRow",
+            "cells": [
+              "Довго біле поле, потім усе одразу",
+              "важкий шрифт/тема блокує рендер",
+              "оптимізація критичного CSS"
+            ]
+          },
+          {
+            "_key": "b400w",
+            "_type": "blogTableRow",
+            "cells": [
+              "Головне фото вантажиться останнім",
+              "неоптимізовані зображення",
+              "стиснення + сучасні формати"
+            ]
+          },
+          {
+            "_key": "b400x",
+            "_type": "blogTableRow",
+            "cells": [
+              "Сторінка «стрибає» під час читання",
+              "картинки без розмірів, банери",
+              "фіксовані розміри, CLS-аудит"
+            ]
+          },
+          {
+            "_key": "b400y",
+            "_type": "blogTableRow",
+            "cells": [
+              "Оцінка падає після додавання чату",
+              "чужі скрипти в критичному шляху",
+              "відкладене завантаження віджетів"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "b400z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b4010",
+            "_type": "span",
+            "marks": [],
+            "text": "Що з цим робити"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b4011",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b4012",
+            "_type": "span",
+            "marks": [],
+            "text": "Якщо сайт на custom-коді — це керовані правки: оптимізація зображень, відкладене завантаження віджетів, чистка критичного шляху. Якщо на конструкторі чи важкому шаблоні — у швидкості є стеля, яку не пробити правками: код платформи вантажиться завжди. Наші сайти тримають LCP до 1,5 с і Lighthouse 90+ не магією, а архітектурою: статичний код, оптимізовані зображення, нуль зайвих скриптів."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b4017",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b4013",
+            "_type": "span",
+            "marks": [],
+            "text": "Приклад із практики: сайт клініки Efedra після переробки тримає Lighthouse Performance 98 — і це один із факторів, чому за 6 місяців переходи з Google виросли вчетверо. Повний розбір — "
+          },
+          {
+            "_key": "b4015",
+            "_type": "span",
+            "marks": [
+              "b4014"
+            ],
+            "text": "у кейсі"
+          },
+          {
+            "_key": "b4016",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "b4014",
+            "_type": "link",
+            "href": "/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "b4018",
+        "_type": "ctaCallout",
+        "ctaHref": "/sites-for/medicine",
+        "ctaLabel": "Отримати розбір",
+        "ctaSecondaryHref": "/calculator",
+        "ctaSecondaryLabel": "Порахувати новий сайт",
+        "eyebrow": "Безкоштовний розбір",
+        "heading": "Хочете знати, чому ваш сайт повільний?",
+        "sub": "Надішліть посилання — за 24 години повернемо звіт зі швидкості та SEO: що гальмує, що виправляється правками, а що впирається в платформу."
+      }
+    ]
+  },
+  "slug": "shvydkist-medychnoho-saitu"
+}

@@ -1,0 +1,1263 @@
+{
+  "_id": "5ce54be0-e777-4111-858c-7b31e06406d6",
+  "body": {
+    "en": [
+      {
+        "_key": "t30a3",
+        "_type": "tldrBox",
+        "items": [
+          "A theme isn't taste — it's **strategy**: dark and light do different jobs.",
+          "**Dark** sells tech and premium; **light** sells trust, ease, healthcare",
+          "A 50+ audience and long reading = light. Portfolio, IT, premium brand = dark can work",
+          "A theme toggle looks great but costs more to maintain: every screen gets tested twice"
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "t30a4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30a5",
+            "_type": "span",
+            "marks": [],
+            "text": "\"Make ours dark, it looks stylish\" — I hear it all the time. Sometimes I agree, sometimes I refuse. Because a theme isn't about style — it's about who you sell to and what. Let's sort it without taste debates."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30a6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30a7",
+            "_type": "span",
+            "marks": [],
+            "text": "When a dark theme works"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t30aa",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30a8",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "A tech product or studio. "
+          },
+          {
+            "_key": "t30a9",
+            "_type": "span",
+            "marks": [],
+            "text": "A dark background reads as \"engineering\" — that's why IT brands pick it. Our own site is dark for exactly this reason."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30ad",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30ab",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Premium and visual products. "
+          },
+          {
+            "_key": "t30ac",
+            "_type": "span",
+            "marks": [],
+            "text": "Photos and graphics \"glow\" on dark — portfolios, architecture, cars win."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30ag",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30ae",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Evening usage context. "
+          },
+          {
+            "_key": "t30af",
+            "_type": "span",
+            "marks": [],
+            "text": "Entertainment, events, gaming — the audience scrolls at night, and dark is easier on the eyes."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30ah",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30ai",
+            "_type": "span",
+            "marks": [],
+            "text": "When light is the only right choice"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t30al",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30aj",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Healthcare and anywhere trust is the product. "
+          },
+          {
+            "_key": "t30ak",
+            "_type": "span",
+            "marks": [],
+            "text": "Light equals cleanliness and openness. A dark clinic quietly unsettles — which is why we build medical sites light, even though we live in a dark theme ourselves."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30ao",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30am",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "A 50+ audience. "
+          },
+          {
+            "_key": "t30an",
+            "_type": "span",
+            "marks": [],
+            "text": "Contrast sensitivity drops with age: light text on dark gets harder to read. If your patient or buyer is older — don't fight their eyes."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30ar",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30ap",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Long-form text. "
+          },
+          {
+            "_key": "t30aq",
+            "_type": "span",
+            "marks": [],
+            "text": "Blogs, documentation, catalogues with descriptions — long reading on dark tires faster."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30au",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30as",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Print and offline pairing. "
+          },
+          {
+            "_key": "t30at",
+            "_type": "span",
+            "marks": [],
+            "text": "If the site extends brochures, menus and price lists, a light theme keeps the set coherent."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30av",
+        "_type": "blogImage",
+        "alt": "A designer's workspace with two monitors",
+        "asset": {
+          "_ref": "image-49b2292f7f3193cb6bb012237fa8e69a22462f46-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "The audience picks the theme, not the designer's taste: light the way you sell"
+      },
+      {
+        "_key": "t30aw",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30ax",
+            "_type": "span",
+            "marks": [],
+            "text": "Whatever the theme: contrast and accessibility"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t30ay",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30az",
+            "_type": "span",
+            "marks": [],
+            "text": "The real mistake isn't \"dark or light\" — it's grey text on grey. A minimum 4.5:1 contrast for body text (the WCAG standard) isn't bureaucracy; it's the difference between \"read it\" and \"closed it\". Dark themes have their own trap: pure white on pure black \"rings\" — softer tones read better."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30b0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30b1",
+            "_type": "span",
+            "marks": [],
+            "text": "What about a toggle?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t30b2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30b3",
+            "_type": "span",
+            "marks": [],
+            "text": "Possible — we build them. But honestly: a toggle doubles design testing, because every screen, illustration and chart must work in both themes. For content sites and products it's justified; for a services site it usually isn't. One theme, executed flawlessly, beats two done halfway."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30b4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30b5",
+            "_type": "span",
+            "marks": [],
+            "text": "Choose in 4 questions"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t30b6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30b7",
+            "_type": "span",
+            "marks": [],
+            "text": "Who do you sell to? 50+ or healthcare/finance → light"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30b8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30b9",
+            "_type": "span",
+            "marks": [],
+            "text": "What do you show? Lots of photos and visuals → dark can work"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30ba",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30bb",
+            "_type": "span",
+            "marks": [],
+            "text": "How much do they read? Long-form → light"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30bc",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30bd",
+            "_type": "span",
+            "marks": [],
+            "text": "What's the brand? Tech/premium → dark works for you"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30bl",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30be",
+            "_type": "span",
+            "marks": [],
+            "text": "These considerations are part of a wider conversation about trust in design: "
+          },
+          {
+            "_key": "t30bg",
+            "_type": "span",
+            "marks": [
+              "t30bf"
+            ],
+            "text": "what builds trust on medical websites"
+          },
+          {
+            "_key": "t30bh",
+            "_type": "span",
+            "marks": [],
+            "text": " and "
+          },
+          {
+            "_key": "t30bj",
+            "_type": "span",
+            "marks": [
+              "t30bi"
+            ],
+            "text": "9 moves that lifted conversion"
+          },
+          {
+            "_key": "t30bk",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t30bf",
+            "_type": "link",
+            "href": "/en/blog/medical-website-design-trust",
+            "newTab": false
+          },
+          {
+            "_key": "t30bi",
+            "_type": "link",
+            "href": "/en/blog/9-design-moves-that-lift-conversion",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t30bm",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/contacts",
+        "ctaLabel": "Discuss the project",
+        "ctaSecondaryHref": "/en/portfolio",
+        "ctaSecondaryLabel": "See the cases",
+        "eyebrow": "Design teardown",
+        "heading": "Not sure which theme is yours?",
+        "sub": "Send your site's link or describe the project — we'll tell you what will work for your audience and show references."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "t308j",
+        "_type": "tldrBox",
+        "items": [
+          "Тема — это не вкус, а **стратегия**: у тёмной и светлой разные задачи.",
+          "**Тёмная** продаёт технологичность и премиум; **светлая** — доверие, лёгкость, медицину",
+          "Аудитория 50+ и длинное чтение = светлая. Портфолио, IT, премиум-бренд = можно тёмную",
+          "Переключатель тем — красиво, но дороже в поддержке: каждый экран тестируется дважды"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "t308k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t308l",
+            "_type": "span",
+            "marks": [],
+            "text": "«Сделайте нам тёмную тему, это стильно» — слышу регулярно. Иногда соглашаюсь, иногда отказываю. Потому что тема — не про стиль, а про то, кому и что вы продаёте. Разберём без вкусовщины."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t308m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t308n",
+            "_type": "span",
+            "marks": [],
+            "text": "Когда тёмная тема работает"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t308q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t308o",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Технологичный продукт или студия. "
+          },
+          {
+            "_key": "t308p",
+            "_type": "span",
+            "marks": [],
+            "text": "Тёмный фон считывается как «инженерность» — недаром её выбирают IT-бренды. Наш сайт тёмный именно поэтому."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t308t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t308r",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Премиум и визуальный продукт. "
+          },
+          {
+            "_key": "t308s",
+            "_type": "span",
+            "marks": [],
+            "text": "На тёмном фоне фото и графика «светятся» — портфолио, архитектура, авто выигрывают."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t308w",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t308u",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Вечерний контекст использования. "
+          },
+          {
+            "_key": "t308v",
+            "_type": "span",
+            "marks": [],
+            "text": "Развлечения, ивенты, гейминг — аудитория листает вечером, тёмная тема глазам приятнее."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t308x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t308y",
+            "_type": "span",
+            "marks": [],
+            "text": "Когда светлая — единственный правильный выбор"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t3091",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t308z",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Медицина и всё, где продаётся доверие. "
+          },
+          {
+            "_key": "t3090",
+            "_type": "span",
+            "marks": [],
+            "text": "Свет = чистота и открытость. Тёмная клиника подсознательно тревожит — поэтому медицинские сайты мы делаем светлыми, хотя сами живём в тёмной теме."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3094",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3092",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Аудитория 50+. "
+          },
+          {
+            "_key": "t3093",
+            "_type": "span",
+            "marks": [],
+            "text": "С возрастом контрастная чувствительность падает: светлый текст на тёмном читается тяжелее. Если ваш пациент или покупатель старше — не мучайте его."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3097",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3095",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Длинные тексты. "
+          },
+          {
+            "_key": "t3096",
+            "_type": "span",
+            "marks": [],
+            "text": "Блог, документация, каталоги с описаниями — долгое чтение на тёмном утомляет быстрее."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t309a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3098",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Печать и офлайн-связка. "
+          },
+          {
+            "_key": "t3099",
+            "_type": "span",
+            "marks": [],
+            "text": "Если сайт продолжает брошюры, меню, прайсы — светлая тема держит единство."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t309b",
+        "_type": "blogImage",
+        "alt": "Рабочее место дизайнера с двумя мониторами",
+        "asset": {
+          "_ref": "image-49b2292f7f3193cb6bb012237fa8e69a22462f46-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Тему выбирает не вкус дизайнера, а аудитория: кому продаёте — так и светите"
+      },
+      {
+        "_key": "t309c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t309d",
+            "_type": "span",
+            "marks": [],
+            "text": "Независимо от темы: контраст и доступность"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t309e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t309f",
+            "_type": "span",
+            "marks": [],
+            "text": "Главная ошибка не «тёмная или светлая», а серый текст на сером. Минимум 4.5:1 контраста для основного текста (стандарт WCAG) — это не бюрократия, а разница между «прочитал» и «закрыл». У тёмной темы своя ловушка: чисто-белый текст на чисто-чёрном «звенит» — более мягкие оттенки читаются лучше."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t309g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t309h",
+            "_type": "span",
+            "marks": [],
+            "text": "А может, переключатель?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t309i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t309j",
+            "_type": "span",
+            "marks": [],
+            "text": "Можно, и мы такое делаем. Но честно: переключатель удваивает дизайн-тестирование — каждый экран, каждая иллюстрация и график должны работать в обеих темах. Для контент-сайтов и продуктов это оправдано, для сайта услуг чаще всего нет: лучше одна тема, сделанная безупречно."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t309k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t309l",
+            "_type": "span",
+            "marks": [],
+            "text": "Как выбрать за 4 вопроса"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t309m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t309n",
+            "_type": "span",
+            "marks": [],
+            "text": "Кому продаёте? 50+ или медицина/финансы → светлая"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t309o",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t309p",
+            "_type": "span",
+            "marks": [],
+            "text": "Что показываете? Много фото и визуала → можно тёмную"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t309q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t309r",
+            "_type": "span",
+            "marks": [],
+            "text": "Сколько читают? Длинные тексты → светлая"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t309s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t309t",
+            "_type": "span",
+            "marks": [],
+            "text": "Какой бренд? Техно/премиум → тёмная работает на вас"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30a1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t309u",
+            "_type": "span",
+            "marks": [],
+            "text": "Кстати, эти соображения — часть более широкого разбора о доверии в дизайне: "
+          },
+          {
+            "_key": "t309w",
+            "_type": "span",
+            "marks": [
+              "t309v"
+            ],
+            "text": "что вызывает доверие на медицинских сайтах"
+          },
+          {
+            "_key": "t309x",
+            "_type": "span",
+            "marks": [],
+            "text": " и "
+          },
+          {
+            "_key": "t309z",
+            "_type": "span",
+            "marks": [
+              "t309y"
+            ],
+            "text": "9 приёмов, которые подняли конверсию"
+          },
+          {
+            "_key": "t30a0",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t309v",
+            "_type": "link",
+            "href": "/ru/blog/dizayn-sayta-medicinskogo-centra",
+            "newTab": false
+          },
+          {
+            "_key": "t309y",
+            "_type": "link",
+            "href": "/ru/blog/9-dizayn-priyomov-dlya-konversii",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t30a2",
+        "_type": "ctaCallout",
+        "ctaHref": "/ru/contacts",
+        "ctaLabel": "Обсудить проект",
+        "ctaSecondaryHref": "/ru/portfolio",
+        "ctaSecondaryLabel": "Посмотреть кейсы",
+        "eyebrow": "Дизайн-разбор",
+        "heading": "Сомневаетесь, какая тема ваша?",
+        "sub": "Пришлите ссылку на сайт или опишите проект — скажем, что сработает для вашей аудитории, и покажем референсы."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "t306z",
+        "_type": "tldrBox",
+        "items": [
+          "Тема — це не смак, а **стратегія**: у темної і світлої різні задачі.",
+          "**Темна** продає технологічність і преміум; **світла** — довіру, легкість, медицину",
+          "Аудиторія 50+ і довге читання = світла. Портфоліо, IT, преміум-бренд = можна темну",
+          "Перемикач тем — красиво, але дорожче в підтримці: кожен екран тестується двічі"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "t3070",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3071",
+            "_type": "span",
+            "marks": [],
+            "text": "«Зробіть нам темну тему, це стильно» — чую регулярно. Іноді погоджуюсь, іноді відмовляю. Бо тема — не про стиль, а про те, кому і що ви продаєте. Розберімо без вкусовщини."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3072",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3073",
+            "_type": "span",
+            "marks": [],
+            "text": "Коли темна тема працює"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t3076",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3074",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Технологічний продукт або студія. "
+          },
+          {
+            "_key": "t3075",
+            "_type": "span",
+            "marks": [],
+            "text": "Темний фон зчитується як «інженерність» — недарма її обирають IT-бренди. Наш сайт темний саме тому."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3079",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3077",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Преміум і візуальний продукт. "
+          },
+          {
+            "_key": "t3078",
+            "_type": "span",
+            "marks": [],
+            "text": "На темному фоні фото і графіка «світяться» — портфоліо, архітектура, авто виграють."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t307c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t307a",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Вечірній контекст використання. "
+          },
+          {
+            "_key": "t307b",
+            "_type": "span",
+            "marks": [],
+            "text": "Розваги, івенти, гейминг — аудиторія гортає ввечері, темна тема очам приємніша."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t307d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t307e",
+            "_type": "span",
+            "marks": [],
+            "text": "Коли світла — єдиний правильний вибір"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t307h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t307f",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Медицина і все, де продається довіра. "
+          },
+          {
+            "_key": "t307g",
+            "_type": "span",
+            "marks": [],
+            "text": "Світло = чистота і відкритість. Темна клініка підсвідомо тривожить — тому медичні сайти ми робимо світлими, хоч самі живемо в темній темі."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t307k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t307i",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Аудиторія 50+. "
+          },
+          {
+            "_key": "t307j",
+            "_type": "span",
+            "marks": [],
+            "text": "З віком контрастна чутливість падає: світлий текст на темному читається важче. Якщо ваш пацієнт чи покупець старший — не мучте його."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t307n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t307l",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Довгі тексти. "
+          },
+          {
+            "_key": "t307m",
+            "_type": "span",
+            "marks": [],
+            "text": "Блог, документація, каталоги з описами — довге читання на темному втомлює швидше."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t307q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t307o",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Друк і офлайн-звʼязка. "
+          },
+          {
+            "_key": "t307p",
+            "_type": "span",
+            "marks": [],
+            "text": "Якщо сайт продовжує брошури, меню, прайси — світла тема тримає єдність."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t307r",
+        "_type": "blogImage",
+        "alt": "Робоче місце дизайнера з двома моніторами",
+        "asset": {
+          "_ref": "image-49b2292f7f3193cb6bb012237fa8e69a22462f46-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Тему обирає не смак дизайнера, а аудиторія: кому продаєте — так і світите"
+      },
+      {
+        "_key": "t307s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t307t",
+            "_type": "span",
+            "marks": [],
+            "text": "Незалежно від теми: контраст і доступність"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t307u",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t307v",
+            "_type": "span",
+            "marks": [],
+            "text": "Головна помилка не «темна чи світла», а сірий текст на сірому. Мінімум 4.5:1 контрасту для основного тексту (стандарт WCAG) — це не бюрократія, а різниця між «прочитав» і «закрив». У темної теми своя пастка: чисто-білий текст на чисто-чорному «дзвенить» — мʼякші відтінки читаються краще."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t307w",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t307x",
+            "_type": "span",
+            "marks": [],
+            "text": "А може, перемикач?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t307y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t307z",
+            "_type": "span",
+            "marks": [],
+            "text": "Можна, і ми таке робимо. Але чесно: перемикач подвоює дизайн-тестування — кожен екран, кожна ілюстрація і графік мають працювати в обох темах. Для контент-сайтів і продуктів це виправдано, для сайту послуг найчастіше ні: краще одна тема, зроблена бездоганно."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3080",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3081",
+            "_type": "span",
+            "marks": [],
+            "text": "Як обрати за 4 питання"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t3082",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3083",
+            "_type": "span",
+            "marks": [],
+            "text": "Кому продаєте? 50+ або медицина/фінанси → світла"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3084",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3085",
+            "_type": "span",
+            "marks": [],
+            "text": "Що показуєте? Багато фото і візуалу → можна темну"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3086",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3087",
+            "_type": "span",
+            "marks": [],
+            "text": "Скільки читають? Довгі тексти → світла"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3088",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3089",
+            "_type": "span",
+            "marks": [],
+            "text": "Який бренд? Техно/преміум → темна працює на вас"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t308h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t308a",
+            "_type": "span",
+            "marks": [],
+            "text": "До речі, ці міркування — частина ширшого розбору про довіру в дизайні: "
+          },
+          {
+            "_key": "t308c",
+            "_type": "span",
+            "marks": [
+              "t308b"
+            ],
+            "text": "що викликає довіру на медичних сайтах"
+          },
+          {
+            "_key": "t308d",
+            "_type": "span",
+            "marks": [],
+            "text": " і "
+          },
+          {
+            "_key": "t308f",
+            "_type": "span",
+            "marks": [
+              "t308e"
+            ],
+            "text": "9 прийомів, які підняли конверсію"
+          },
+          {
+            "_key": "t308g",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t308b",
+            "_type": "link",
+            "href": "/blog/dyzain-saitu-medychnoho-tsentru",
+            "newTab": false
+          },
+          {
+            "_key": "t308e",
+            "_type": "link",
+            "href": "/blog/9-dyzain-pryiomiv-dlia-konversii",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t308i",
+        "_type": "ctaCallout",
+        "ctaHref": "/contacts",
+        "ctaLabel": "Обговорити проєкт",
+        "ctaSecondaryHref": "/portfolio",
+        "ctaSecondaryLabel": "Подивитись кейси",
+        "eyebrow": "Дизайн-розбір",
+        "heading": "Сумніваєтесь, яка тема ваша?",
+        "sub": "Надішліть посилання на сайт або опишіть проєкт — скажемо, що спрацює для вашої аудиторії, і покажемо референси."
+      }
+    ]
+  },
+  "slug": "temna-chy-svitla-tema-saitu"
+}

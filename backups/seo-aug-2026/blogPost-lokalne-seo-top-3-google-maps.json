@@ -1,0 +1,912 @@
+{
+  "_id": "60646280-0a05-4bfe-8dd5-1ca95e2e4574",
+  "body": {
+    "en": [
+      {
+        "_key": "t305s",
+        "_type": "tldrBox",
+        "items": [
+          "Google's map top-3 (**the map pack**) takes the lion's share of local search clicks.",
+          "Three pillars: a **100% complete Google Business Profile**, fresh answered reviews, consistent contact details everywhere",
+          "Your website votes too: location pages and Schema.org reinforce the profile",
+          "First map movement shows in **4–8 weeks** — faster than classic SEO"
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "t305t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t305u",
+            "_type": "span",
+            "marks": [],
+            "text": "What the map pack is and why it beats the \"normal\" top"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t305v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t305w",
+            "_type": "span",
+            "marks": [],
+            "text": "Search \"dentist\" in your area — above the results, Google shows a map with three businesses. That's the map pack, and it sits above the first organic result. For local businesses — clinics, builders, solicitors, salons — being in that three often brings more enquiries than all the rest of SEO combined."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t305x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t305y",
+            "_type": "span",
+            "marks": [],
+            "text": "Pillar 1: a 100% complete Google Business Profile"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t305z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3060",
+            "_type": "span",
+            "marks": [],
+            "text": "Google picks the three it knows most about. Categories (primary and secondary), services with prices, opening hours, photos — real ones, not a logo on white. A half-filled profile competes at half strength. Completing it is free, and it's the best effort-to-result ratio in local SEO."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3061",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3062",
+            "_type": "span",
+            "marks": [],
+            "text": "Pillar 2: reviews — volume, freshness, replies"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t3063",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3064",
+            "_type": "span",
+            "marks": [],
+            "text": "The rating matters, but Google looks wider: how often new reviews arrive, whether they mention the service and the area, whether the business replies. The working process is simple: ask for a review right after the visit (a QR code at reception works), and reply to every one — including the negative ones, calmly and to the point."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3065",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3066",
+            "_type": "span",
+            "marks": [],
+            "text": "Pillar 3: NAP consistency"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t3067",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3068",
+            "_type": "span",
+            "marks": [],
+            "text": "Name, Address, Phone — they must match character for character everywhere: your site, your Google profile, directories, socials. \"10 Shevchenko St\" in one place and \"Shevchenko 10b\" in another reads as doubt to Google — and doubt costs positions."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3069",
+        "_type": "blogImage",
+        "alt": "A team analysing a business's local visibility on laptops",
+        "asset": {
+          "_ref": "image-fd89cd192671f984636ae2c69f23a0fdb1f89bf3-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "You win the map pack with completeness, not tricks: profile, reviews, consistency"
+      },
+      {
+        "_key": "t306a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t306b",
+            "_type": "span",
+            "marks": [],
+            "text": "What your website must do"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t306c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t306d",
+            "_type": "span",
+            "marks": [],
+            "text": "A page per location with its own address, map and phone number"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t306e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t306f",
+            "_type": "span",
+            "marks": [],
+            "text": "Schema.org LocalBusiness / MedicalOrganization — markup Google reads directly"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t306g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t306h",
+            "_type": "span",
+            "marks": [],
+            "text": "The area and city in the copy naturally: \"a Shoreditch dental clinic\", not keyword spam"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t306i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t306j",
+            "_type": "span",
+            "marks": [],
+            "text": "Speed: a slow site drags the map ranking down too"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t306k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t306l",
+            "_type": "span",
+            "marks": [],
+            "text": "A 30-day plan"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t306m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t306n",
+            "_type": "span",
+            "marks": [],
+            "text": "Week 1: complete the profile to 100%, add 10+ real photos"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t306o",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t306p",
+            "_type": "span",
+            "marks": [],
+            "text": "Week 2: reconcile NAP on the site and top directories"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t306q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t306r",
+            "_type": "span",
+            "marks": [],
+            "text": "Week 3: start the review engine (QR + a request after each visit)"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t306s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t306t",
+            "_type": "span",
+            "marks": [],
+            "text": "Week 4: location pages and markup on the site — then just keep the rhythm"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t306u",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/contacts",
+        "ctaLabel": "Order an audit",
+        "ctaSecondaryHref": "/en/seo",
+        "ctaSecondaryLabel": "What the retainer includes",
+        "eyebrow": "Local SEO",
+        "heading": "Want into your area's map top-3?",
+        "sub": "A £300 audit shows exactly what your profile and site are missing. Local work is part of the retainer from £300/mo."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "t304p",
+        "_type": "tldrBox",
+        "items": [
+          "Топ-3 карты Google (**map pack**) забирает львиную долю кликов локального поиска.",
+          "Три кита: **заполненный Google Business Profile**, свежие отзывы с ответами, консистентные контакты везде",
+          "Сайт тоже голосует: локальные страницы и Schema.org усиливают профиль",
+          "Первые движения в картах видны за **4–8 недель** — быстрее классического SEO"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "t304q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t304r",
+            "_type": "span",
+            "marks": [],
+            "text": "Что такое map pack и почему он важнее «обычного» топа"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t304s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t304t",
+            "_type": "span",
+            "marks": [],
+            "text": "Наберите «стоматолог» в своём районе — над результатами Google покажет карту с тремя бизнесами. Это map pack, и он стоит выше первого органического результата. Для локального бизнеса — клиник, строителей, юристов, салонов — попадание в эту тройку часто даёт больше заявок, чем всё остальное SEO вместе."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t304u",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t304v",
+            "_type": "span",
+            "marks": [],
+            "text": "Кит 1: Google Business Profile, заполненный на 100%"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t304w",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t304x",
+            "_type": "span",
+            "marks": [],
+            "text": "Google выбирает в тройку тех, о ком знает больше всего. Категории (основная и дополнительные), услуги с ценами, часы работы, фото — реальные, а не логотип на белом. Профиль, заполненный наполовину, конкурирует наполовину. Заполнение — бесплатное, и это лучшее соотношение усилий и результата в локальном SEO."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t304y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t304z",
+            "_type": "span",
+            "marks": [],
+            "text": "Кит 2: отзывы — количество, свежесть, ответы"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t3050",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3051",
+            "_type": "span",
+            "marks": [],
+            "text": "Рейтинг важен, но Google смотрит шире: как часто приходят новые отзывы, упоминают ли в них услугу и район, отвечает ли бизнес. Рабочий процесс прост: просить отзыв сразу после визита (QR-код на рецепции работает), отвечать на все — включая негативные, спокойно и по сути."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3052",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3053",
+            "_type": "span",
+            "marks": [],
+            "text": "Кит 3: консистентность NAP"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t3054",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3055",
+            "_type": "span",
+            "marks": [],
+            "text": "Name, Address, Phone — название, адрес и телефон должны совпадать символ в символ везде: на сайте, в профиле Google, в каталогах и соцсетях. «ул. Шевченко 10» в одном месте и «Шевченко, 10б» в другом — для Google это сомнение, а сомнение стоит позиций."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3056",
+        "_type": "blogImage",
+        "alt": "Команда анализирует локальную видимость бизнеса за ноутбуками",
+        "asset": {
+          "_ref": "image-fd89cd192671f984636ae2c69f23a0fdb1f89bf3-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Map pack выигрывают не хитростями, а полнотой: профиль, отзывы, консистентность"
+      },
+      {
+        "_key": "t3057",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3058",
+            "_type": "span",
+            "marks": [],
+            "text": "Что должен сделать сайт"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t3059",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t305a",
+            "_type": "span",
+            "marks": [],
+            "text": "Страница каждой локации со своим адресом, картой и телефоном"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t305b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t305c",
+            "_type": "span",
+            "marks": [],
+            "text": "Schema.org LocalBusiness / MedicalOrganization — разметка, которую Google читает напрямую"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t305d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t305e",
+            "_type": "span",
+            "marks": [],
+            "text": "Район и город в текстах естественно: «стоматология на Оболони», а не спам ключами"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t305f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t305g",
+            "_type": "span",
+            "marks": [],
+            "text": "Скорость: медленный сайт тянет вниз и карту"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t305h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t305i",
+            "_type": "span",
+            "marks": [],
+            "text": "План на 30 дней"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t305j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t305k",
+            "_type": "span",
+            "marks": [],
+            "text": "Неделя 1: заполнить профиль на 100%, добавить 10+ реальных фото"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t305l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t305m",
+            "_type": "span",
+            "marks": [],
+            "text": "Неделя 2: выверить NAP на сайте и в топ-каталогах"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t305n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t305o",
+            "_type": "span",
+            "marks": [],
+            "text": "Неделя 3: запустить процесс сбора отзывов (QR + просьба после визита)"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t305p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t305q",
+            "_type": "span",
+            "marks": [],
+            "text": "Неделя 4: локальные страницы и разметка на сайте — и дальше только поддерживать ритм"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t305r",
+        "_type": "ctaCallout",
+        "ctaHref": "/ru/contacts",
+        "ctaLabel": "Заказать аудит",
+        "ctaSecondaryHref": "/ru/seo",
+        "ctaSecondaryLabel": "Что входит в продвижение",
+        "eyebrow": "Локальное SEO",
+        "heading": "Хотите в тройку карт в своём районе?",
+        "sub": "Аудит за $300 покажет, чего именно не хватает вашему профилю и сайту. Локальные работы входят в кампанию от $300/мес."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "t303m",
+        "_type": "tldrBox",
+        "items": [
+          "Топ-3 карти Google (**map pack**) забирає левову частку кліків локального пошуку.",
+          "Три кити: **заповнений Google Business Profile**, свіжі відгуки з відповідями, консистентні контакти скрізь",
+          "Сайт теж голосує: локальні сторінки і Schema.org підсилюють профіль",
+          "Перші рухи в картах видно за **4–8 тижнів** — швидше, ніж класичне SEO"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "t303n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t303o",
+            "_type": "span",
+            "marks": [],
+            "text": "Що таке map pack і чому він важливіший за «звичайний» топ"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t303p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t303q",
+            "_type": "span",
+            "marks": [],
+            "text": "Наберіть «стоматолог» у своєму районі — над результатами Google покаже карту з трьома бізнесами. Це map pack, і він стоїть вище за перший органічний результат. Для локального бізнесу — клінік, будівельників, юристів, салонів — потрапляння в цю трійку часто дає більше заявок, ніж усе інше SEO разом."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t303r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t303s",
+            "_type": "span",
+            "marks": [],
+            "text": "Кит 1: Google Business Profile, заповнений на 100%"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t303t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t303u",
+            "_type": "span",
+            "marks": [],
+            "text": "Google обирає в трійку тих, про кого знає найбільше. Категорії (основна і додаткові), послуги з цінами, години роботи, фото — реальні, а не логотип на білому. Профіль, заповнений наполовину, конкурує наполовину. Заповнення — безкоштовне, і це найкраще співвідношення зусилля/результат у локальному SEO."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t303v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t303w",
+            "_type": "span",
+            "marks": [],
+            "text": "Кит 2: відгуки — кількість, свіжість, відповіді"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t303x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t303y",
+            "_type": "span",
+            "marks": [],
+            "text": "Рейтинг важливий, але Google дивиться ширше: як часто приходять нові відгуки, чи згадують у них послугу й район, чи відповідає бізнес. Робочий процес простий: просити відгук одразу після візиту (QR-код на рецепції працює), відповідати на всі — включно з негативними, спокійно і по суті."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t303z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3040",
+            "_type": "span",
+            "marks": [],
+            "text": "Кит 3: консистентність NAP"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t3041",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3042",
+            "_type": "span",
+            "marks": [],
+            "text": "Name, Address, Phone — назва, адреса і телефон мають збігатися символ у символ скрізь: на сайті, у профілі Google, в каталогах і соцмережах. «вул. Шевченка 10» в одному місці і «Шевченко, 10б» в іншому — для Google це сумнів, а сумнів коштує позицій."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3043",
+        "_type": "blogImage",
+        "alt": "Команда аналізує локальну видимість бізнесу за ноутбуками",
+        "asset": {
+          "_ref": "image-fd89cd192671f984636ae2c69f23a0fdb1f89bf3-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Map pack виграють не хитрощами, а повнотою: профіль, відгуки, консистентність"
+      },
+      {
+        "_key": "t3044",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3045",
+            "_type": "span",
+            "marks": [],
+            "text": "Що має зробити сайт"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t3046",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3047",
+            "_type": "span",
+            "marks": [],
+            "text": "Сторінка кожної локації зі своєю адресою, картою і телефоном"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t3048",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t3049",
+            "_type": "span",
+            "marks": [],
+            "text": "Schema.org LocalBusiness / MedicalOrganization — розмітка, яку Google читає напряму"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t304a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t304b",
+            "_type": "span",
+            "marks": [],
+            "text": "Район і місто в текстах природно: «стоматологія на Оболоні», а не спам ключами"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t304c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t304d",
+            "_type": "span",
+            "marks": [],
+            "text": "Швидкість: повільний сайт тягне вниз і карту"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t304e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t304f",
+            "_type": "span",
+            "marks": [],
+            "text": "План на 30 днів"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t304g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t304h",
+            "_type": "span",
+            "marks": [],
+            "text": "Тиждень 1: заповнити профіль на 100%, додати 10+ реальних фото"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t304i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t304j",
+            "_type": "span",
+            "marks": [],
+            "text": "Тиждень 2: вивірити NAP на сайті й у топ-каталогах"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t304k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t304l",
+            "_type": "span",
+            "marks": [],
+            "text": "Тиждень 3: запустити процес збору відгуків (QR + прохання після візиту)"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t304m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t304n",
+            "_type": "span",
+            "marks": [],
+            "text": "Тиждень 4: локальні сторінки і розмітка на сайті — і далі тільки підтримувати ритм"
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t304o",
+        "_type": "ctaCallout",
+        "ctaHref": "/contacts",
+        "ctaLabel": "Замовити аудит",
+        "ctaSecondaryHref": "/seo",
+        "ctaSecondaryLabel": "Що входить у просування",
+        "eyebrow": "Локальне SEO",
+        "heading": "Хочете в трійку карт у своєму районі?",
+        "sub": "Аудит за $300 покаже, чого саме бракує вашому профілю і сайту. Локальні роботи входять у кампанію від $300/міс."
+      }
+    ]
+  },
+  "slug": "lokalne-seo-top-3-google-maps"
+}

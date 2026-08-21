@@ -1,0 +1,1302 @@
+{
+  "_id": "c8eb4ff7-44d3-4fd4-8ac8-094ca7839722",
+  "body": {
+    "en": [
+      {
+        "_key": "cw02m",
+        "_type": "tldrBox",
+        "items": [
+          "A builder's website costs **£800 to £4,500** in 2026.",
+          "**Landing page:** from £800 (1–2 weeks) — one service or an ad campaign",
+          "**Full website:** from £3,500 (4–8 weeks) — portfolio, service pages, local SEO",
+          "**Bilingual site for cross-border work:** from £4,000 — like our Danish case",
+          "Our case: a £4,000-scale site brought a construction firm 300+ enquiries in a year",
+          "The price is fixed in the contract before work starts."
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "cw02n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02o",
+            "_type": "span",
+            "marks": [],
+            "text": "Why a website pays back faster for builders than almost anyone"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw02p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02q",
+            "_type": "span",
+            "marks": [],
+            "text": "Construction has a high deal value: one renovation or build contract is worth thousands. A £3,500 website pays for itself with the first or second closed client. Few industries have that maths."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw02r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02s",
+            "_type": "span",
+            "marks": [],
+            "text": "Meanwhile, clients in 2026 choose contractors like this: they google, open 3–5 websites, compare portfolios and prices, and send 1–2 enquiries. No website — you're not in that comparison. Instagram doesn't save you: it doesn't rank in Google, and a profile without a site reads as \"small crew\"."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw02t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02u",
+            "_type": "span",
+            "marks": [],
+            "text": "4 things a builder's website can't work without"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw02x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02v",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "1. A before/after portfolio. "
+          },
+          {
+            "_key": "cw02w",
+            "_type": "span",
+            "marks": [],
+            "text": "The main salesperson in this niche. Real projects, grouped by type of work, with a short description of the job. A portfolio you update yourself from your phone — no developer."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw030",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02y",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "2. A page per service. "
+          },
+          {
+            "_key": "cw02z",
+            "_type": "span",
+            "marks": [],
+            "text": "\"Home renovation\", \"commercial fit-out\", \"extensions\" — each is searched separately. A single \"our services\" list page ranks for none of them."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw033",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw031",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "3. A short path to enquiry. "
+          },
+          {
+            "_key": "cw032",
+            "_type": "span",
+            "marks": [],
+            "text": "A 2–3 field form, a call button, a messenger link. The enquiry lands in your CRM the moment it's sent — while your competitor checks email once a day."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw036",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw034",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "4. Local SEO. "
+          },
+          {
+            "_key": "cw035",
+            "_type": "span",
+            "marks": [],
+            "text": "Construction services are searched with a place attached. A \"service + area\" structure, Google Business Profile, reviews and Schema.org are built into the architecture — not bolted on later."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw037",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw038",
+            "_type": "span",
+            "marks": [],
+            "text": "What it costs"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw039",
+        "_type": "blogTable",
+        "headers": [
+          "Format",
+          "Price",
+          "Timeline",
+          "Best for"
+        ],
+        "rows": [
+          {
+            "_key": "cw03a",
+            "_type": "blogTableRow",
+            "cells": [
+              "Landing page",
+              "from £800",
+              "1–2 weeks",
+              "One service, launching ads, testing a niche"
+            ]
+          },
+          {
+            "_key": "cw03b",
+            "_type": "blogTableRow",
+            "cells": [
+              "Full website",
+              "from £3,500",
+              "4–8 weeks",
+              "A firm with several directions: portfolio, services, local SEO, CMS"
+            ]
+          },
+          {
+            "_key": "cw03c",
+            "_type": "blogTableRow",
+            "cells": [
+              "Bilingual website",
+              "from £4,000",
+              "4–8 weeks",
+              "Cross-border work or international clients"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "cw03d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03e",
+            "_type": "span",
+            "marks": [],
+            "text": "The full-site price includes everything: structure and launch copy, custom design, a CMS (you update the portfolio and prices yourself), CRM integrations, local SEO, launch and a year of warranty. Compare that with £349/month template subscriptions that you never stop paying."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "en018",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "en011",
+            "_type": "span",
+            "marks": [],
+            "text": "See exactly what each format includes on the "
+          },
+          {
+            "_key": "en013",
+            "_type": "span",
+            "marks": [
+              "en012"
+            ],
+            "text": "Landing page"
+          },
+          {
+            "_key": "en014",
+            "_type": "span",
+            "marks": [],
+            "text": " and "
+          },
+          {
+            "_key": "en016",
+            "_type": "span",
+            "marks": [
+              "en015"
+            ],
+            "text": "Corporate website"
+          },
+          {
+            "_key": "en017",
+            "_type": "span",
+            "marks": [],
+            "text": " pages."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "en012",
+            "_type": "link",
+            "href": "/en/landing",
+            "newTab": false
+          },
+          {
+            "_key": "en015",
+            "_type": "link",
+            "href": "/en/corporate-site",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "cw03f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03g",
+            "_type": "span",
+            "marks": [],
+            "text": "Case study: NBYG, a construction firm in Denmark"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw03l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03i",
+            "_type": "span",
+            "marks": [],
+            "text": "The company works in two locations — Copenhagen and Bornholm. Their old 2018 WordPress site with five paid plugins brought 3 enquiries a month. We built a new site: clear service structure, separated locations, fast loading, an easy CMS. A year on — 300+ enquiries, 302,000 Google impressions, visits up over 1.6× in six months. In the owner's words: it was 3 enquiries a month, now it's 24. Full breakdown — "
+          },
+          {
+            "_key": "cw03j",
+            "_type": "span",
+            "marks": [
+              "cw03h"
+            ],
+            "text": "in the NBYG case study"
+          },
+          {
+            "_key": "cw03k",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "cw03h",
+            "_type": "link",
+            "href": "/en/portfolio/nbyg-kobenhavn",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "en010",
+        "_type": "blogImage",
+        "alt": "NBYG København construction company website — home page with services and portfolio",
+        "asset": {
+          "_ref": "image-5bc6d1c53c532509f4c3072f369ffcad13d39b26-2560x1762-png",
+          "_type": "reference"
+        },
+        "caption": "NBYG København: the site that brought 300+ enquiries in its first year"
+      },
+      {
+        "_key": "cw03m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03n",
+            "_type": "span",
+            "marks": [],
+            "text": "Where not to cut costs"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw03o",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03p",
+            "_type": "span",
+            "marks": [],
+            "text": "Photos of real projects — stock construction photos kill trust instantly; a photoshoot isn't in the website price, but phone photos of your own sites beat stock"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw03q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03r",
+            "_type": "span",
+            "marks": [],
+            "text": "A page per service — those are your entry points from search"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw03s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03t",
+            "_type": "span",
+            "marks": [],
+            "text": "Mobile speed — clients open your site from a phone, often standing on site"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw03u",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw03v",
+            "_type": "span",
+            "marks": [],
+            "text": "Local SEO — without it, people only find you by your company name"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw03w",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/calculator",
+        "ctaLabel": "Calculate the price",
+        "ctaSecondaryHref": "/en/sites-for/renovation",
+        "ctaSecondaryLabel": "See construction solutions",
+        "eyebrow": "Calculator",
+        "heading": "Want a number for your firm?",
+        "sub": "The calculator prices your project in 60 seconds — broken down by services, languages and integrations. No email gate, no sales call."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "cw01b",
+        "_type": "tldrBox",
+        "items": [
+          "Сайт для строительной компании стоит **от $800 до $4,500**.",
+          "**Лендинг:** от $800 (1–2 недели) — одна услуга или рекламная кампания",
+          "**Полный сайт:** от $3,500 (4–8 недель) — портфолио, страницы услуг, локальное SEO",
+          "**Двуязычный сайт для работы за рубежом:** от $4,000 — как наш кейс в Дании",
+          "Наш кейс: сайт за $4,000 принёс строительной компании 300+ обращений за год",
+          "Цена фиксируется в договоре до старта работ."
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "cw01c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01d",
+            "_type": "span",
+            "marks": [],
+            "text": "Почему строителям сайт окупается быстрее всех"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw01e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01f",
+            "_type": "span",
+            "marks": [],
+            "text": "В строительной нише высокая цена сделки: один договор на ремонт или строительство — это тысячи долларов. То есть сайт за $3,500 окупается с первого-второго закрытого клиента. Мало какой бизнес имеет такую математику."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw01g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01h",
+            "_type": "span",
+            "marks": [],
+            "text": "При этом клиент в 2026 выбирает подрядчика так: гуглит, открывает 3–5 сайтов, смотрит портфолио и цены, оставляет 1–2 заявки. Нет сайта — вас нет в этом сравнении. Instagram не спасает: он не ранжируется в Google, а профиль без сайта читается как «маленькая бригада»."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw01i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01j",
+            "_type": "span",
+            "marks": [],
+            "text": "4 вещи, без которых строительный сайт не приносит заявок"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw01m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01k",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "1. Портфолио «до/после». "
+          },
+          {
+            "_key": "cw01l",
+            "_type": "span",
+            "marks": [],
+            "text": "Главный продавец в нише. Реальные объекты, сгруппированные по типам работ, с коротким описанием задачи. Портфолио, которое вы пополняете сами с телефона — без разработчика."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw01p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01n",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "2. Отдельная страница под каждую услугу. "
+          },
+          {
+            "_key": "cw01o",
+            "_type": "span",
+            "marks": [],
+            "text": "«Ремонт квартир», «коммерческие объекты», «фасады» — каждое направление ищут отдельно. Одна страница «наши услуги» списком не ранжируется ни по одному из этих запросов."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw01s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01q",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "3. Короткий путь к заявке. "
+          },
+          {
+            "_key": "cw01r",
+            "_type": "span",
+            "marks": [],
+            "text": "Форма на 2–3 поля, кнопка звонка, мессенджер. Заявка падает в Telegram или CRM в момент отправки — пока конкурент проверяет почту раз в день."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw01v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01t",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "4. Локальное SEO. "
+          },
+          {
+            "_key": "cw01u",
+            "_type": "span",
+            "marks": [],
+            "text": "Строительные услуги ищут с привязкой к городу. Структура под «услуга + город», Google Business Profile, отзывы, Schema.org — это закладывается в архитектуру, а не «докручивается потом»."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw01w",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw01x",
+            "_type": "span",
+            "marks": [],
+            "text": "Сколько это стоит"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw01y",
+        "_type": "blogTable",
+        "headers": [
+          "Формат",
+          "Цена",
+          "Срок",
+          "Кому подходит"
+        ],
+        "rows": [
+          {
+            "_key": "cw01z",
+            "_type": "blogTableRow",
+            "cells": [
+              "Лендинг",
+              "от $800",
+              "1–2 недели",
+              "Одна услуга, запуск рекламы, проверка ниши"
+            ]
+          },
+          {
+            "_key": "cw020",
+            "_type": "blogTableRow",
+            "cells": [
+              "Полный сайт",
+              "от $3,500",
+              "4–8 недель",
+              "Компания с несколькими направлениями: портфолио, услуги, локальное SEO, CMS"
+            ]
+          },
+          {
+            "_key": "cw021",
+            "_type": "blogTableRow",
+            "cells": [
+              "Двуязычный сайт",
+              "от $4,000",
+              "4–8 недель",
+              "Работа за рубежом или с иностранными заказчиками"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "cw022",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw023",
+            "_type": "span",
+            "marks": [],
+            "text": "В цену полного сайта входит всё: структура и стартовые тексты, кастомный дизайн, админка (портфолио и цены редактируете сами), интеграции с CRM, локальное SEO, запуск и год гарантии."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "en00z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "en00s",
+            "_type": "span",
+            "marks": [],
+            "text": "Что именно входит в каждый формат — на страницах "
+          },
+          {
+            "_key": "en00u",
+            "_type": "span",
+            "marks": [
+              "en00t"
+            ],
+            "text": "Лендинг"
+          },
+          {
+            "_key": "en00v",
+            "_type": "span",
+            "marks": [],
+            "text": " и "
+          },
+          {
+            "_key": "en00x",
+            "_type": "span",
+            "marks": [
+              "en00w"
+            ],
+            "text": "Корпоративный сайт"
+          },
+          {
+            "_key": "en00y",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "en00t",
+            "_type": "link",
+            "href": "/ru/landing",
+            "newTab": false
+          },
+          {
+            "_key": "en00w",
+            "_type": "link",
+            "href": "/ru/corporate-site",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "cw024",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw025",
+            "_type": "span",
+            "marks": [],
+            "text": "Кейс: NBYG, строительная компания в Дании"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw02a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw027",
+            "_type": "span",
+            "marks": [],
+            "text": "Компания работает в двух локациях — Копенгаген и Борнхольм. Старый сайт на WordPress 2018 года с пятью платными плагинами приносил 3 заявки в месяц. Мы сделали новый сайт за $4,000: понятная структура услуг, разделение локаций, быстрая загрузка, удобная админка. За год — 300+ обращений, 302,000 показов в Google, рост переходов более чем в 1.6 раза за полгода. Со слов владельца: было 3 заявки в месяц — стало 24. Полный разбор — "
+          },
+          {
+            "_key": "cw028",
+            "_type": "span",
+            "marks": [
+              "cw026"
+            ],
+            "text": "в кейсе NBYG"
+          },
+          {
+            "_key": "cw029",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "cw026",
+            "_type": "link",
+            "href": "/portfolio/nbyg-kobenhavn",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "en00r",
+        "_type": "blogImage",
+        "alt": "Сайт строительной компании NBYG København — главная страница с услугами и портфолио",
+        "asset": {
+          "_ref": "image-5bc6d1c53c532509f4c3072f369ffcad13d39b26-2560x1762-png",
+          "_type": "reference"
+        },
+        "caption": "NBYG København: сайт, который принёс 300+ обращений за первый год"
+      },
+      {
+        "_key": "cw02b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02c",
+            "_type": "span",
+            "marks": [],
+            "text": "На чём нельзя экономить"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw02d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02e",
+            "_type": "span",
+            "marks": [],
+            "text": "Фото реальных объектов — стоковые фото стройплощадок мгновенно убивают доверие; фотосъёмка не входит в цену сайта, но фото с телефона с ваших объектов работают лучше стока"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw02f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02g",
+            "_type": "span",
+            "marks": [],
+            "text": "Страницы под каждую услугу — это ваши точки входа из поиска"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw02h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02i",
+            "_type": "span",
+            "marks": [],
+            "text": "Скорость на мобильном — заказчик смотрит сайт с телефона прямо на объекте"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw02j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw02k",
+            "_type": "span",
+            "marks": [],
+            "text": "Локальное SEO — без него вас находят только по названию компании"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw02l",
+        "_type": "ctaCallout",
+        "ctaHref": "/calculator",
+        "ctaLabel": "Рассчитать цену",
+        "ctaSecondaryHref": "/ru/sites-for/renovation",
+        "ctaSecondaryLabel": "Решения для строительства",
+        "eyebrow": "Калькулятор",
+        "heading": "Хотите цифру под вашу компанию?",
+        "sub": "Калькулятор за 60 секунд посчитает вилку — с разбивкой по услугам, языкам и интеграциям. Без email и звонка с менеджером."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "cw000",
+        "_type": "tldrBox",
+        "items": [
+          "Сайт для будівельної компанії коштує **від $800 до $4,500**.",
+          "**Лендінг:** від $800 (1–2 тижні) — одна послуга або рекламна кампанія",
+          "**Повний сайт:** від $3,500 (4–8 тижнів) — портфоліо, сторінки послуг, локальне SEO",
+          "**Двомовний сайт для роботи за кордоном:** від $4,000 — як наш кейс у Данії",
+          "Наш кейс: сайт за $4,000 приніс будівельній компанії 300+ звернень за рік",
+          "Ціна фіксується в договорі до старту робіт."
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "cw001",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw002",
+            "_type": "span",
+            "marks": [],
+            "text": "Чому будівельникам сайт окуповується швидше за всіх"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw003",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw004",
+            "_type": "span",
+            "marks": [],
+            "text": "У будівельній ніші висока ціна угоди: один договір на ремонт чи будівництво — це тисячі доларів. Тобто сайт за $3,500 окуповується з першого-другого закритого клієнта. Мало який бізнес має таку математику."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw005",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw006",
+            "_type": "span",
+            "marks": [],
+            "text": "При цьому клієнт у 2026 обирає підрядника так: гуглить, відкриває 3–5 сайтів, дивиться портфоліо і ціни, залишає 1–2 заявки. Немає сайту — вас немає в цьому порівнянні. Instagram не рятує: він не ранжується в Google, а профіль без сайту читається як «маленька бригада»."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw007",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw008",
+            "_type": "span",
+            "marks": [],
+            "text": "4 речі, без яких будівельний сайт не приносить заявок"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw00b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw009",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "1. Портфоліо «до/після». "
+          },
+          {
+            "_key": "cw00a",
+            "_type": "span",
+            "marks": [],
+            "text": "Головний продавець у ніші. Реальні обʼєкти, згруповані за типами робіт, з коротким описом задачі. Портфоліо, яке ви поповнюєте самі з телефона — без розробника."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw00e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw00c",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "2. Окрема сторінка під кожну послугу. "
+          },
+          {
+            "_key": "cw00d",
+            "_type": "span",
+            "marks": [],
+            "text": "«Ремонт квартир», «комерційні обʼєкти», «фасади» — кожен напрям шукають окремо. Одна сторінка «наші послуги» списком не ранжується за жодним із цих запитів."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw00h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw00f",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "3. Короткий шлях до заявки. "
+          },
+          {
+            "_key": "cw00g",
+            "_type": "span",
+            "marks": [],
+            "text": "Форма на 2–3 поля, кнопка дзвінка, месенджер. Заявка падає в Telegram або CRM у момент відправлення — поки конкурент перевіряє пошту раз на день."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw00k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw00i",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "4. Локальне SEO. "
+          },
+          {
+            "_key": "cw00j",
+            "_type": "span",
+            "marks": [],
+            "text": "Будівельні послуги шукають з привʼязкою до міста. Структура під «послуга + місто», Google Business Profile, відгуки, Schema.org — це закладається в архітектуру, а не «докручується потім»."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw00l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw00m",
+            "_type": "span",
+            "marks": [],
+            "text": "Скільки це коштує"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw00n",
+        "_type": "blogTable",
+        "headers": [
+          "Формат",
+          "Ціна",
+          "Термін",
+          "Кому підходить"
+        ],
+        "rows": [
+          {
+            "_key": "cw00o",
+            "_type": "blogTableRow",
+            "cells": [
+              "Лендінг",
+              "від $800",
+              "1–2 тижні",
+              "Одна послуга, запуск реклами, перевірка ніші"
+            ]
+          },
+          {
+            "_key": "cw00p",
+            "_type": "blogTableRow",
+            "cells": [
+              "Повний сайт",
+              "від $3,500",
+              "4–8 тижнів",
+              "Компанія з кількома напрямами: портфоліо, послуги, локальне SEO, CMS"
+            ]
+          },
+          {
+            "_key": "cw00q",
+            "_type": "blogTableRow",
+            "cells": [
+              "Двомовний сайт",
+              "від $4,000",
+              "4–8 тижнів",
+              "Робота за кордоном або з іноземними замовниками"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "cw00r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw00s",
+            "_type": "span",
+            "marks": [],
+            "text": "У ціну повного сайту входить все: структура і стартові тексти, кастомний дизайн, адмінка (портфоліо і ціни редагуєте самі), інтеграції з CRM, локальне SEO, запуск і рік гарантії."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "en00q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "en00j",
+            "_type": "span",
+            "marks": [],
+            "text": "Що саме входить у кожен формат — на сторінках "
+          },
+          {
+            "_key": "en00l",
+            "_type": "span",
+            "marks": [
+              "en00k"
+            ],
+            "text": "Лендінг"
+          },
+          {
+            "_key": "en00m",
+            "_type": "span",
+            "marks": [],
+            "text": " і "
+          },
+          {
+            "_key": "en00o",
+            "_type": "span",
+            "marks": [
+              "en00n"
+            ],
+            "text": "Корпоративний сайт"
+          },
+          {
+            "_key": "en00p",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "en00k",
+            "_type": "link",
+            "href": "/landing",
+            "newTab": false
+          },
+          {
+            "_key": "en00n",
+            "_type": "link",
+            "href": "/corporate-site",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "cw00t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw00u",
+            "_type": "span",
+            "marks": [],
+            "text": "Кейс: NBYG, будівельна компанія в Данії"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw00z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw00w",
+            "_type": "span",
+            "marks": [],
+            "text": "Компанія працює у двох локаціях — Копенгаген і Борнгольм. Старий сайт на WordPress 2018 року з пʼятьма платними плагінами приносив 3 заявки на місяць. Ми зробили новий сайт за $4,000: зрозуміла структура послуг, розділення локацій, швидке завантаження, зручна адмінка. За рік — 300+ звернень, 302,000 показів у Google, зростання переходів у понад 1.6 раза за пів року. Зі слів власника: було 3 заявки на місяць — стало 24. Повний розбір — "
+          },
+          {
+            "_key": "cw00x",
+            "_type": "span",
+            "marks": [
+              "cw00v"
+            ],
+            "text": "у кейсі NBYG"
+          },
+          {
+            "_key": "cw00y",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "cw00v",
+            "_type": "link",
+            "href": "/portfolio/nbyg-kobenhavn",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "en00i",
+        "_type": "blogImage",
+        "alt": "Сайт будівельної компанії NBYG København — головна сторінка з послугами і портфоліо",
+        "asset": {
+          "_ref": "image-5bc6d1c53c532509f4c3072f369ffcad13d39b26-2560x1762-png",
+          "_type": "reference"
+        },
+        "caption": "NBYG København: сайт, який приніс 300+ звернень за перший рік"
+      },
+      {
+        "_key": "cw010",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw011",
+            "_type": "span",
+            "marks": [],
+            "text": "На чому не можна економити"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cw012",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw013",
+            "_type": "span",
+            "marks": [],
+            "text": "Фото реальних обʼєктів — стокові фото буд-майданчиків вбивають довіру миттєво; фотозйомка не входить у ціну сайту, але фото з телефона з ваших обʼєктів працюють краще за сток"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw014",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw015",
+            "_type": "span",
+            "marks": [],
+            "text": "Сторінки під кожну послугу — це ваші точки входу з пошуку"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw016",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw017",
+            "_type": "span",
+            "marks": [],
+            "text": "Швидкість на мобільному — замовник дивиться сайт із телефона прямо на обʼєкті"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw018",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cw019",
+            "_type": "span",
+            "marks": [],
+            "text": "Локальне SEO — без нього вас знаходять тільки за назвою компанії"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cw01a",
+        "_type": "ctaCallout",
+        "ctaHref": "/calculator",
+        "ctaLabel": "Розрахувати ціну",
+        "ctaSecondaryHref": "/sites-for/renovation",
+        "ctaSecondaryLabel": "Подивитись рішення для будівництва",
+        "eyebrow": "Калькулятор",
+        "heading": "Хочете цифру під вашу компанію?",
+        "sub": "Калькулятор за 60 секунд порахує вилку — з розбивкою по послугах, мовах та інтеграціях. Без email і дзвінка з менеджером."
+      }
+    ]
+  },
+  "slug": "sait-dlia-budivelnoi-kompanii-2026"
+}

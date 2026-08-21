@@ -1,0 +1,37 @@
+{
+  "_id": "gvhqpxBkuTxVKsvJravgoG",
+  "lede": {
+    "en": "WordPress runs 43% of the web, but it isn’t the right call for every UK business. Here’s the honest comparison, down to three-year cost.",
+    "ru": "Конструктор выглядит дешевле, пока не добавишь 36 месяцев подписки и цену переезда. Вот честное сравнение, вплоть до стоимости за 3 года.",
+    "uk": "Конструктор виглядає дешевшим, поки не додаси 36 місяців підписки і ціну переїзду. Ось чесне порівняння, аж до вартості за 3 роки."
+  },
+  "metaDescription": {
+    "en": "Honest comparison of custom-coded websites vs WordPress for UK businesses: speed, SEO, cost, flexibility and 3-year total cost, with real data from 47 projects.",
+    "ru": "Честное сравнение конструктора (Tilda, Wix, Webflow) и кастомного сайта: скорость, SEO, lock-in и реальная стоимость за 3 года. Данные из 12 миграций.",
+    "uk": "Чесне порівняння конструктора (Tilda, Wix, Webflow) і кастомного сайту: швидкість, SEO, lock-in і реальна вартість за 3 роки. Дані з 12 міграцій."
+  },
+  "metaTitle": {
+    "en": "Custom Website vs WordPress in 2026: Which Is Right for Your Business? | Code-Site.Art",
+    "ru": "Tilda vs кастомный сайт в 2026: что выбрать бизнесу | Code-Site.Art",
+    "uk": "Tilda vs кастомний сайт у 2026: що обрати бізнесу | Code-Site.Art"
+  },
+  "slugs": {
+    "en": {
+      "_type": "slug",
+      "current": "custom-website-vs-wordpress-2026"
+    },
+    "ru": {
+      "_type": "slug",
+      "current": "tilda-vs-kastomnyy-sayt-2026"
+    },
+    "uk": {
+      "_type": "slug",
+      "current": "tilda-vs-kastomnyy-sayt-2026"
+    }
+  },
+  "title": {
+    "en": "Custom Website vs WordPress in 2026: Which Is Right for Your Business?",
+    "ru": "Tilda vs кастомный сайт в 2026: что выбрать бизнесу",
+    "uk": "Tilda vs кастомний сайт у 2026: що обрати бізнесу"
+  }
+}

@@ -1,0 +1,1179 @@
+{
+  "_id": "55d905e6-199d-47a8-8d46-e677a93f5ffc",
+  "body": {
+    "en": [
+      {
+        "_key": "t2081",
+        "_type": "tldrBox",
+        "items": [
+          "Search Console is Google's **free** report on how people find you. The only honest search analytics.",
+          "4 metrics: **impressions** (you're seen) → **position** (where) → **clicks** (they visit) → **CTR** (how often)",
+          "\"Impressions but no clicks\" = you're on page 2–4. Not a verdict — a growth point",
+          "Check 3 reports once a month: Queries, Pages, Indexing"
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "t2082",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2083",
+            "_type": "span",
+            "marks": [],
+            "text": "What it is and why it's worth a look"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t2084",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2085",
+            "_type": "span",
+            "marks": [],
+            "text": "Google Search Console is a free dashboard where Google shows which queries surfaced your site, what people clicked, and what's blocking indexing. Unlike contractor promises, these numbers can't be dressed up: it's Google's own view. If it's not connected yet, that's the first thing to do after reading this."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2086",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2087",
+            "_type": "span",
+            "marks": [],
+            "text": "The four metrics that explain everything"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t208a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2088",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Impressions. "
+          },
+          {
+            "_key": "t2089",
+            "_type": "span",
+            "marks": [],
+            "text": "How many times your site appeared in results. Growing impressions mean Google finds you relevant to a wider set of queries."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t208d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t208b",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Average position. "
+          },
+          {
+            "_key": "t208c",
+            "_type": "span",
+            "marks": [],
+            "text": "Where exactly you appear. 1–10 is page one, 11–20 page two. Position 35 means \"you're shown where nobody looks\"."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t208g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t208e",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Clicks. "
+          },
+          {
+            "_key": "t208f",
+            "_type": "span",
+            "marks": [],
+            "text": "How many people actually visited. That's your search traffic."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t208j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t208h",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "CTR. "
+          },
+          {
+            "_key": "t208i",
+            "_type": "span",
+            "marks": [],
+            "text": "The share of viewers who clicked. A low CTR at a good position is a cue to rewrite the page's title and description."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t208k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t208l",
+            "_type": "span",
+            "marks": [],
+            "text": "\"Impressions but no clicks\": the diagnosis that matters most"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t208m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t208n",
+            "_type": "span",
+            "marks": [],
+            "text": "The most common small-business picture: hundreds of impressions, zero clicks. It means Google already considers you an answer — but shows you on page 2–4, where nobody scrolls. That's not a verdict; it's the cheapest growth point there is: content and authority lift what already \"almost works\". It's worse when there are no impressions at all — then the page for that query simply doesn't exist."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t208o",
+        "_type": "blogImage",
+        "alt": "The Efedra clinic's Google Search Console report comparing two six-month periods",
+        "asset": {
+          "_ref": "image-069db3eb09c671f0c05d24e83203744402b348f1-1882x877-jpg",
+          "_type": "reference"
+        },
+        "caption": "Efedra in Search Console: 340 → 1,460 clicks. Impressions rise first, then positions, then clicks"
+      },
+      {
+        "_key": "t208p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t208q",
+            "_type": "span",
+            "marks": [],
+            "text": "Three reports for an owner: 10 minutes a month"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t208r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t208s",
+            "_type": "span",
+            "marks": [],
+            "text": "\"Queries\" — what people search to find you. Look for queries with impressions and no clicks: that's your content list"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t208t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t208u",
+            "_type": "span",
+            "marks": [],
+            "text": "\"Pages\" — which pages bring traffic. One page collecting everything? The rest aren't working"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t208v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t208w",
+            "_type": "span",
+            "marks": [],
+            "text": "\"Indexing\" — how many pages Google can even see. Lingering errors here are a message to your developer"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t208x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t208y",
+            "_type": "span",
+            "marks": [],
+            "text": "What it looks like in real life: Efedra"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t2093",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t208z",
+            "_type": "span",
+            "marks": [],
+            "text": "An Odesa clinic: half a year ago — 340 visits over 6 months, 1,820 impressions. After a site rebuild and content work — 1,460 visits and 13,000 impressions. In Search Console you can watch the path week by week: impressions rose first, then positions, then clicks. That's exactly the order SEO works in — more in our "
+          },
+          {
+            "_key": "t2091",
+            "_type": "span",
+            "marks": [
+              "t2090"
+            ],
+            "text": "medical SEO breakdown"
+          },
+          {
+            "_key": "t2092",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t2090",
+            "_type": "link",
+            "href": "/en/blog/medical-website-seo-guide",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t2094",
+        "_type": "blogImage",
+        "alt": "Analysing reports with search traffic charts",
+        "asset": {
+          "_ref": "image-6757852b0b0ce1f3c7f1732d3070c1341a7a1cdb-1600x1060-jpg",
+          "_type": "reference"
+        },
+        "caption": "Ten minutes a month across three reports — and you know more about your search traffic than most competitors"
+      },
+      {
+        "_key": "t2095",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2096",
+            "_type": "span",
+            "marks": [],
+            "text": "What to do with the data"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t2097",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2098",
+            "_type": "span",
+            "marks": [],
+            "text": "Impressions without clicks → strengthen the page or write an article for the query"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2099",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t209a",
+            "_type": "span",
+            "marks": [],
+            "text": "Good position, low CTR → rewrite the title and description"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t209b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t209c",
+            "_type": "span",
+            "marks": [],
+            "text": "No impressions for a key query → create a page for it"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t209d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t209e",
+            "_type": "span",
+            "marks": [],
+            "text": "Indexing errors → developer territory"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t209f",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/contacts",
+        "ctaLabel": "Order an audit",
+        "ctaSecondaryHref": "/en/seo",
+        "ctaSecondaryLabel": "What a retainer includes",
+        "eyebrow": "SEO audit",
+        "heading": "Rather not dig through it yourself?",
+        "sub": "A £300 audit: we go through your Search Console, find the queries you're losing, and hand you a prioritised fix list."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "t206m",
+        "_type": "tldrBox",
+        "items": [
+          "Search Console — **бесплатный** отчёт Google о том, как вас ищут. Единственная честная аналитика поиска.",
+          "4 метрики: **показы** (вас видят) → **позиция** (где именно) → **клики** (переходят) → **CTR** (как часто)",
+          "«Показы есть, кликов нет» = вы на 2–4 странице. Это не приговор, а точка роста",
+          "Смотрите раз в месяц 3 отчёта: Запросы, Страницы, Индексирование"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "t206n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t206o",
+            "_type": "span",
+            "marks": [],
+            "text": "Что это и зачем заглядывать"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t206p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t206q",
+            "_type": "span",
+            "marks": [],
+            "text": "Google Search Console — бесплатный кабинет, где Google показывает, по каким запросам люди видели ваш сайт, куда кликали и что мешает индексации. В отличие от обещаний подрядчиков, эти цифры не приукрасишь: это взгляд самого Google. Если у вас он ещё не подключён — это первое, что стоит сделать после прочтения."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t206r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t206s",
+            "_type": "span",
+            "marks": [],
+            "text": "Четыре метрики, которые всё объясняют"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t206v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t206t",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Показы. "
+          },
+          {
+            "_key": "t206u",
+            "_type": "span",
+            "marks": [],
+            "text": "Сколько раз ваш сайт появился в выдаче. Растут показы — Google считает вас релевантными более широкому кругу запросов."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t206y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t206w",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Средняя позиция. "
+          },
+          {
+            "_key": "t206x",
+            "_type": "span",
+            "marks": [],
+            "text": "Где именно вы появляетесь. 1–10 — первая страница, 11–20 — вторая. Позиция 35 означает «вас показывают, но этого никто не видит»."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2071",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t206z",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Клики. "
+          },
+          {
+            "_key": "t2070",
+            "_type": "span",
+            "marks": [],
+            "text": "Сколько людей реально перешло. Это и есть ваш поисковый трафик."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2074",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2072",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "CTR. "
+          },
+          {
+            "_key": "t2073",
+            "_type": "span",
+            "marks": [],
+            "text": "Процент кликнувших от увидевших. Низкий CTR на хорошей позиции — повод переписать заголовок и описание страницы."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2075",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2076",
+            "_type": "span",
+            "marks": [],
+            "text": "«Показы есть — кликов нет»: самый важный диагноз"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t2077",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2078",
+            "_type": "span",
+            "marks": [],
+            "text": "Самая частая картина у малого бизнеса: сотни показов, ноль кликов. Это значит, что Google уже считает вас ответом на запрос — но показывает на 2–4 странице, куда никто не листает. Это не приговор, а самая дешёвая точка роста: контент и авторитет поднимают то, что уже «почти работает». Хуже, когда показов нет вообще — тогда страницы под запрос просто не существует."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2079",
+        "_type": "blogImage",
+        "alt": "Отчёт Google Search Console клиники Efedra: сравнение двух полугодовых периодов",
+        "asset": {
+          "_ref": "image-069db3eb09c671f0c05d24e83203744402b348f1-1882x877-jpg",
+          "_type": "reference"
+        },
+        "caption": "Efedra в Search Console: 340 → 1 460 переходов. Сначала растут показы, потом позиции, потом клики"
+      },
+      {
+        "_key": "t207a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t207b",
+            "_type": "span",
+            "marks": [],
+            "text": "Три отчёта для владельца: 10 минут в месяц"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t207c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t207d",
+            "_type": "span",
+            "marks": [],
+            "text": "«Запросы» — по чему вас ищут. Ищите запросы с показами и без кликов: это ваш список для контента"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t207e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t207f",
+            "_type": "span",
+            "marks": [],
+            "text": "«Страницы» — какие страницы приводят трафик. Одна страница собирает всё? Остальные не работают"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t207g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t207h",
+            "_type": "span",
+            "marks": [],
+            "text": "«Индексирование» — сколько страниц Google вообще видит. Висящие ошибки здесь — повод писать разработчику"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t207i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t207j",
+            "_type": "span",
+            "marks": [],
+            "text": "Как это выглядит в жизни: Efedra"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t207o",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t207k",
+            "_type": "span",
+            "marks": [],
+            "text": "Клиника из Одессы: полгода назад — 340 переходов за 6 месяцев, показы 1 820. После переработки сайта и работы с контентом — 1 460 переходов и 13 000 показов. В Search Console этот путь виден по неделям: сначала выросли показы, за ними позиции, потом клики. Именно в таком порядке SEO и работает — подробнее в нашем "
+          },
+          {
+            "_key": "t207m",
+            "_type": "span",
+            "marks": [
+              "t207l"
+            ],
+            "text": "разборе SEO для медицинских сайтов"
+          },
+          {
+            "_key": "t207n",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t207l",
+            "_type": "link",
+            "href": "/ru/blog/seo-dlya-medicinskih-saytov",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t207p",
+        "_type": "blogImage",
+        "alt": "Анализ отчётов с графиками поискового трафика",
+        "asset": {
+          "_ref": "image-6757852b0b0ce1f3c7f1732d3070c1341a7a1cdb-1600x1060-jpg",
+          "_type": "reference"
+        },
+        "caption": "10 минут в месяц в трёх отчётах — и вы знаете о своём поисковом трафике больше большинства конкурентов"
+      },
+      {
+        "_key": "t207q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t207r",
+            "_type": "span",
+            "marks": [],
+            "text": "Что делать с этими данными"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t207s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t207t",
+            "_type": "span",
+            "marks": [],
+            "text": "Показы без кликов → усилить страницу или написать статью под запрос"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t207u",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t207v",
+            "_type": "span",
+            "marks": [],
+            "text": "Хорошая позиция, низкий CTR → переписать title и description"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t207w",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t207x",
+            "_type": "span",
+            "marks": [],
+            "text": "Нет показов по важному запросу → создать страницу под него"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t207y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t207z",
+            "_type": "span",
+            "marks": [],
+            "text": "Ошибки индексирования → к разработчику, это техника"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2080",
+        "_type": "ctaCallout",
+        "ctaHref": "/ru/contacts",
+        "ctaLabel": "Заказать аудит",
+        "ctaSecondaryHref": "/ru/seo",
+        "ctaSecondaryLabel": "Что входит в продвижение",
+        "eyebrow": "SEO-аудит",
+        "heading": "Не хотите разбираться сами?",
+        "sub": "Аудит за $300: разберём ваш Search Console, найдём запросы, которые вы теряете, и отдадим список правок по приоритетам."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "t2057",
+        "_type": "tldrBox",
+        "items": [
+          "Search Console — **безкоштовний** звіт Google про те, як вас шукають. Єдина чесна аналітика пошуку.",
+          "4 метрики: **покази** (вас бачать) → **позиція** (де саме) → **кліки** (переходять) → **CTR** (як часто)",
+          "«Покази є, кліків нема» = ви на 2–4 сторінці. Це не вирок, а точка росту",
+          "Дивіться раз на місяць 3 звіти: Запити, Сторінки, Індексування"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "t2058",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2059",
+            "_type": "span",
+            "marks": [],
+            "text": "Що це і чому варто зазирати"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t205a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t205b",
+            "_type": "span",
+            "marks": [],
+            "text": "Google Search Console — безкоштовний кабінет, де Google показує, за якими запитами люди бачили ваш сайт, куди клікали і що заважає індексації. На відміну від обіцянок підрядників, ці цифри не прикрасиш: це погляд самого Google. Якщо у вас його ще не підключено — це перше, що варто зробити після прочитання."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t205c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t205d",
+            "_type": "span",
+            "marks": [],
+            "text": "Чотири метрики, які все пояснюють"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t205g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t205e",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Покази. "
+          },
+          {
+            "_key": "t205f",
+            "_type": "span",
+            "marks": [],
+            "text": "Скільки разів ваш сайт зʼявився у видачі. Ростуть покази — Google вважає вас релевантними ширшому колу запитів."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t205j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t205h",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Середня позиція. "
+          },
+          {
+            "_key": "t205i",
+            "_type": "span",
+            "marks": [],
+            "text": "Де саме ви зʼявляєтесь. 1–10 — перша сторінка, 11–20 — друга. Позиція 35 означає «вас показують, але цього ніхто не бачить»."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t205m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t205k",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Кліки. "
+          },
+          {
+            "_key": "t205l",
+            "_type": "span",
+            "marks": [],
+            "text": "Скільки людей реально перейшло. Це і є ваш пошуковий трафік."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t205p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t205n",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "CTR. "
+          },
+          {
+            "_key": "t205o",
+            "_type": "span",
+            "marks": [],
+            "text": "Відсоток тих, хто клікнув, від тих, хто побачив. Низький CTR на хорошій позиції — привід переписати заголовок і опис сторінки."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t205q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t205r",
+            "_type": "span",
+            "marks": [],
+            "text": "«Покази є — кліків нема»: найважливіший діагноз"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t205s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t205t",
+            "_type": "span",
+            "marks": [],
+            "text": "Найчастіша картина в малого бізнесу: сотні показів, нуль кліків. Це означає, що Google уже вважає вас відповіддю на запит — але показує на 2–4 сторінці, куди ніхто не гортає. Це не вирок, а найдешевша точка росту: контент і авторитет піднімають те, що вже «майже працює». Гірше, коли показів нема взагалі — тоді сторінки під запит просто не існує."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t205u",
+        "_type": "blogImage",
+        "alt": "Звіт Google Search Console клініки Efedra: порівняння двох піврічних періодів",
+        "asset": {
+          "_ref": "image-069db3eb09c671f0c05d24e83203744402b348f1-1882x877-jpg",
+          "_type": "reference"
+        },
+        "caption": "Efedra в Search Console: 340 → 1 460 переходів. Спершу ростуть покази, потім позиції, потім кліки"
+      },
+      {
+        "_key": "t205v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t205w",
+            "_type": "span",
+            "marks": [],
+            "text": "Три звіти для власника: 10 хвилин на місяць"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t205x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t205y",
+            "_type": "span",
+            "marks": [],
+            "text": "«Запити» — за чим вас шукають. Шукайте запити з показами і без кліків: це ваш список для контенту"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t205z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2060",
+            "_type": "span",
+            "marks": [],
+            "text": "«Сторінки» — які сторінки приводять трафік. Одна сторінка збирає все? Решта не працює"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2061",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2062",
+            "_type": "span",
+            "marks": [],
+            "text": "«Індексування» — скільки сторінок Google взагалі бачить. Прострочені помилки тут — привід писати розробнику"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2063",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2064",
+            "_type": "span",
+            "marks": [],
+            "text": "Як це виглядає в житті: Efedra"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t2069",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2065",
+            "_type": "span",
+            "marks": [],
+            "text": "Клініка з Одеси: пів року тому — 340 переходів за 6 місяців, покази 1 820. Після переробки сайту і роботи з контентом — 1 460 переходів і 13 000 показів. У Search Console цей шлях видно по тижнях: спершу виросли покази, за ними позиції, потім кліки. Саме в такому порядку SEO і працює — детальніше в нашому "
+          },
+          {
+            "_key": "t2067",
+            "_type": "span",
+            "marks": [
+              "t2066"
+            ],
+            "text": "розборі SEO для медичних сайтів"
+          },
+          {
+            "_key": "t2068",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t2066",
+            "_type": "link",
+            "href": "/blog/seo-dlia-medychnykh-saitiv",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t206a",
+        "_type": "blogImage",
+        "alt": "Аналіз звітів із графіками пошукового трафіку",
+        "asset": {
+          "_ref": "image-6757852b0b0ce1f3c7f1732d3070c1341a7a1cdb-1600x1060-jpg",
+          "_type": "reference"
+        },
+        "caption": "10 хвилин на місяць у трьох звітах — і ви знаєте про свій пошуковий трафік більше за більшість конкурентів"
+      },
+      {
+        "_key": "t206b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t206c",
+            "_type": "span",
+            "marks": [],
+            "text": "Що робити з цими даними"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t206d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t206e",
+            "_type": "span",
+            "marks": [],
+            "text": "Покази без кліків → посилити сторінку або написати статтю під запит"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t206f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t206g",
+            "_type": "span",
+            "marks": [],
+            "text": "Хороша позиція, низький CTR → переписати title і description"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t206h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t206i",
+            "_type": "span",
+            "marks": [],
+            "text": "Нема показів за важливим запитом → створити сторінку під нього"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t206j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t206k",
+            "_type": "span",
+            "marks": [],
+            "text": "Помилки індексування → до розробника, це техніка"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t206l",
+        "_type": "ctaCallout",
+        "ctaHref": "/contacts",
+        "ctaLabel": "Замовити аудит",
+        "ctaSecondaryHref": "/seo",
+        "ctaSecondaryLabel": "Що входить у просування",
+        "eyebrow": "SEO-аудит",
+        "heading": "Не хочете розбиратись самі?",
+        "sub": "Аудит за $300: розберемо ваш Search Console, знайдемо запити, які ви втрачаєте, і віддамо список правок за пріоритетами."
+      }
+    ]
+  },
+  "slug": "yak-chytaty-google-search-console"
+}

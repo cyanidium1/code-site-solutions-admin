@@ -1,0 +1,1587 @@
+{
+  "_id": "gvhqpxBkuTxVKsvJravgoG",
+  "body": {
+    "en": [
+      {
+        "_key": "a2-1",
+        "_type": "tldrBox",
+        "items": [
+          "For most UK SMBs with 5–15 pages, a **custom-coded website** beats WordPress on speed, SEO and long-term value.",
+          "**WordPress wins** if you publish 10+ articles a month, need daily self-editing, or run a large catalogue.",
+          "**Custom wins** if speed matters (Lighthouse 95+), you want no lock-in, you need integrations, or SEO matters from day one.",
+          "The number that decides it is **3-year total cost of ownership**, not the upfront build."
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "a2-3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-2",
+            "_type": "span",
+            "marks": [],
+            "text": "What is a custom-coded website?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-4",
+            "_type": "span",
+            "marks": [],
+            "text": "A custom website is built from scratch, with no theme and no page builder. We write the front end in Next.js and run the content through Sanity, so every line of code exists because your site needs it, not because a template shipped with it. Nothing loads that you didn’t ask for."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-6",
+            "_type": "span",
+            "marks": [],
+            "text": "That control is what produces the speed. "
+          },
+          {
+            "_key": "a2-8",
+            "_type": "span",
+            "marks": [
+              "a2-7"
+            ],
+            "text": "Efedra Clinic"
+          },
+          {
+            "_key": "a2-9",
+            "_type": "span",
+            "marks": [],
+            "text": ", one of our builds, holds a Lighthouse score of 98 and a largest-contentful-paint of 0.8 seconds. You don’t reach those numbers by bolting a caching plugin onto a theme; you reach them by not shipping the bloat in the first place."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "a2-7",
+            "_type": "link",
+            "href": "/en/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-b",
+            "_type": "span",
+            "marks": [],
+            "text": "What is WordPress?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-d",
+            "_type": "span",
+            "marks": [],
+            "text": "WordPress is a PHP content management system that powers roughly 43% of the web. You pick a theme, add plugins for the features you need, and edit through a dashboard most people already recognise. That ecosystem is its strength: there is a plugin for almost anything, and developers are easy to find."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-f",
+            "_type": "span",
+            "marks": [],
+            "text": "The cost of that flexibility is weight and upkeep. Every plugin is more code to load, another thing to update, and another possible security hole. None of that makes WordPress bad. It makes it a particular set of trade-offs."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-h",
+            "_type": "span",
+            "marks": [],
+            "text": "Side-by-side comparison"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-j",
+        "_type": "blogTable",
+        "headers": [
+          "Factor",
+          "Custom (Next.js)",
+          "WordPress"
+        ],
+        "rows": [
+          {
+            "_key": "a2-k",
+            "_type": "blogTableRow",
+            "cells": [
+              "Page speed",
+              "Lighthouse 95–98 typical",
+              "Lighthouse 50–70 with plugins"
+            ]
+          },
+          {
+            "_key": "a2-l",
+            "_type": "blogTableRow",
+            "cells": [
+              "SEO built-in",
+              "Structured data, clean code from day one",
+              "Via plugins (Yoast, RankMath), added later"
+            ]
+          },
+          {
+            "_key": "a2-m",
+            "_type": "blogTableRow",
+            "cells": [
+              "Security",
+              "Minimal attack surface, no plugin holes",
+              "Frequent plugin exploits, update dependency"
+            ]
+          },
+          {
+            "_key": "a2-n",
+            "_type": "blogTableRow",
+            "cells": [
+              "Upfront cost",
+              "From £800 / £3,500",
+              "£1,500–£8,000 for a custom build"
+            ]
+          },
+          {
+            "_key": "a2-o",
+            "_type": "blogTableRow",
+            "cells": [
+              "Year 2–3 cost",
+              "Hosting only, on your account",
+              "Plugin renewals £300–£800/yr + maintenance"
+            ]
+          },
+          {
+            "_key": "a2-p",
+            "_type": "blogTableRow",
+            "cells": [
+              "Editing",
+              "Sanity: edit from your phone",
+              "WP dashboard, strong for content-heavy sites"
+            ]
+          },
+          {
+            "_key": "a2-q",
+            "_type": "blogTableRow",
+            "cells": [
+              "Scalability",
+              "Scales to SaaS, marketplace, multilingual",
+              "Slows under heavy traffic, plugin conflicts"
+            ]
+          },
+          {
+            "_key": "a2-r",
+            "_type": "blogTableRow",
+            "cells": [
+              "Lock-in",
+              "None; you own the GitHub repo",
+              "Tied to WP; migration costs £500–£5,000"
+            ]
+          },
+          {
+            "_key": "a2-s",
+            "_type": "blogTableRow",
+            "cells": [
+              "Time to launch",
+              "Landing 1–2 wks, corporate 4–8 wks",
+              "Basic 2–4 wks, custom 2–6 months"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a2-u",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-t",
+            "_type": "span",
+            "marks": [],
+            "text": "3-year total cost: the part no one shows you"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-w",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-v",
+            "_type": "span",
+            "marks": [],
+            "text": "The build price is the part everyone compares. It’s also the smaller half of the bill."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-x",
+        "_type": "blogTable",
+        "headers": [
+          "Cost item",
+          "Custom (Code-Site.Art)",
+          "WordPress (agency build)"
+        ],
+        "rows": [
+          {
+            "_key": "a2-y",
+            "_type": "blogTableRow",
+            "cells": [
+              "Build",
+              "£3,500 (corporate tier)",
+              "£3,000–£8,000"
+            ]
+          },
+          {
+            "_key": "a2-z",
+            "_type": "blogTableRow",
+            "cells": [
+              "Hosting / year",
+              "Included year 1, then ~£0",
+              "£50–£200/month managed WP"
+            ]
+          },
+          {
+            "_key": "a2-10",
+            "_type": "blogTableRow",
+            "cells": [
+              "Plugin licences",
+              "None",
+              "£300–£800/year"
+            ]
+          },
+          {
+            "_key": "a2-11",
+            "_type": "blogTableRow",
+            "cells": [
+              "Maintenance",
+              "Not needed",
+              "£500–£1,500/month if outsourced"
+            ]
+          },
+          {
+            "_key": "a2-12",
+            "_type": "blogTableRow",
+            "cells": [
+              "Security incidents",
+              "Rare",
+              "£200–£2,000 average per incident"
+            ]
+          },
+          {
+            "_key": "a2-13",
+            "_type": "blogTableRow",
+            "cells": [
+              "3-year total",
+              "~£3,500–£4,500",
+              "£8,000–£25,000+"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a2-15",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-14",
+            "_type": "span",
+            "marks": [],
+            "text": "These ranges come from published UK agency pricing and our own client data. Of 14 clients who came to us with a WordPress site to rebuild, 12 had spent more on WordPress over the previous two to three years than a new custom site would have cost them outright. The monthly figures are small enough to ignore one at a time, which is exactly why they add up."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-17",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-16",
+            "_type": "span",
+            "marks": [],
+            "text": "When WordPress is the right choice"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-19",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-18",
+            "_type": "span",
+            "marks": [],
+            "text": "There are clear cases where WordPress is the sensible pick, and it would be dishonest to pretend otherwise:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-1b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-1a",
+            "_type": "span",
+            "marks": [],
+            "text": "You publish ten or more articles a month and need non-technical editors in the dashboard daily"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-1d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-1c",
+            "_type": "span",
+            "marks": [],
+            "text": "You run a large catalogue of 500+ products on WooCommerce"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-1f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-1e",
+            "_type": "span",
+            "marks": [],
+            "text": "Your team needs to self-edit constantly without a developer"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-1h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-1g",
+            "_type": "span",
+            "marks": [],
+            "text": "Your budget is under £1,500 and a template site does the job"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-1j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-1i",
+            "_type": "span",
+            "marks": [],
+            "text": "When a custom website is the better choice"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-1l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-1k",
+            "_type": "span",
+            "marks": [],
+            "text": "Speed is a competitive edge; clinics, law firms and property all live or die on local SEO"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-1n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-1m",
+            "_type": "span",
+            "marks": [],
+            "text": "You need integrations: booking systems, a CRM, payments, more than one language"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-1p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-1o",
+            "_type": "span",
+            "marks": [],
+            "text": "You want to own the code outright, with the GitHub repo and no platform dependency"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-1r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-1q",
+            "_type": "span",
+            "marks": [],
+            "text": "SEO matters from day one, on clean architecture with no plugin bloat"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-1t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-1s",
+            "_type": "span",
+            "marks": [],
+            "text": "You want a fixed price and no surprise invoice in year two or three"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-1v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-1u",
+            "_type": "span",
+            "marks": [],
+            "text": "Real example: Efedra Clinic"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-20",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-1w",
+            "_type": "span",
+            "marks": [],
+            "text": "Efedra, a clinic in Odesa, moved off a slow platform onto a custom Next.js build. Largest-contentful-paint dropped from 3.2 seconds to 0.8. Within six months they had 3.2× more enquiries and four times the organic traffic from Google, and they reached the top three results for their main keyword inside three months. The full project ran to $4,525 including a Helsi booking integration and a second language. See the "
+          },
+          {
+            "_key": "a2-1y",
+            "_type": "span",
+            "marks": [
+              "a2-1x"
+            ],
+            "text": "full case study"
+          },
+          {
+            "_key": "a2-1z",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "a2-1x",
+            "_type": "link",
+            "href": "/en/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-21",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/calculator",
+        "ctaLabel": "Try the calculator",
+        "ctaSecondaryHref": "/en/contacts",
+        "ctaSecondaryLabel": "Get a free estimate",
+        "eyebrow": "Get a number",
+        "heading": "Want to see what a custom build would cost your business?",
+        "sub": "Try the calculator for an instant estimate, browse the portfolio, or book a free call. Fixed price, no surprises."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "a2-22",
+        "_type": "tldrBox",
+        "items": [
+          "Для большинства украинского МСБ с сайтом на 5–15 страниц **кастомный сайт** лучше конструктора: скорость, SEO, долгосрочная стоимость.",
+          "**Конструктор оправдан** для теста гипотез и промо на 1–3 месяца.",
+          "**Кастом выигрывает**, когда скорость означает конверсию (Lighthouse 95+), нужны интеграции, важен SEO, и вы хотите владеть кодом.",
+          "Бизнес-тариф Tilda с add-ons выходит **$7,200 за 3 года**. За эти деньги кастом заказывают дважды."
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "a2-24",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-23",
+            "_type": "span",
+            "marks": [],
+            "text": "Как мы получили цифру $7,200"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-26",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-25",
+            "_type": "span",
+            "marks": [],
+            "text": "Это не теоретический расчёт с сайта Tilda. Это сумма, которую реально платили клиенты, пришедшие к нам с Tilda. Мы посчитали 12 смет компаний с 50–300 заявками в месяц, которые пользовались Tilda 2–3 года. Стандартный набор для бизнеса состоит не из «Personal за $10», а из Business + Pro + add-ons: домен, формы с валидацией, интеграции через Zapier, платные блоки из Market, и технический консультант, потому что что-то всегда ломается. Среднее по 12 сметам: $180–$220/мес. Берём середину $200, умножаем на 36 месяцев: $7,200."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-28",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-27",
+            "_type": "span",
+            "marks": [],
+            "text": "Что вы получаете за $7,200"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-2a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-29",
+            "_type": "span",
+            "marks": [],
+            "text": "Шаблонный сайт с ограниченной кастомизацией, который грузится 2–4 секунды на мобильном (кастом даёт 0.6–1.5), зависит от платформы, имеет ограниченный контроль над SEO и не даёт «своего кода». Экспорт Tilda даёт статический HTML без бэкенда форм: формы перестают отправляться, динамика не переносится. Из 12 наших мигрантов ни один не смог эффективно воспользоваться экспортом; все делали сайт с нуля."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-2c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-2b",
+            "_type": "span",
+            "marks": [],
+            "text": "Сравнение, рядом"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-2d",
+        "_type": "blogTable",
+        "headers": [
+          "Фактор",
+          "Кастом (Next.js)",
+          "Конструктор (Tilda/Wix)"
+        ],
+        "rows": [
+          {
+            "_key": "a2-2e",
+            "_type": "blogTableRow",
+            "cells": [
+              "Скорость",
+              "Lighthouse 95–98",
+              "Lighthouse 50–70, 2–4с на мобильном"
+            ]
+          },
+          {
+            "_key": "a2-2f",
+            "_type": "blogTableRow",
+            "cells": [
+              "SEO",
+              "Schema и чистый код с дня 1",
+              "Базовый, без SSR и программных landing"
+            ]
+          },
+          {
+            "_key": "a2-2g",
+            "_type": "blogTableRow",
+            "cells": [
+              "Интеграции",
+              "Любые через API",
+              "Ограниченные, часто только через Zapier"
+            ]
+          },
+          {
+            "_key": "a2-2h",
+            "_type": "blogTableRow",
+            "cells": [
+              "Стоимость старта",
+              "от $800 / $3,500",
+              "$0–$50 на старте"
+            ]
+          },
+          {
+            "_key": "a2-2i",
+            "_type": "blogTableRow",
+            "cells": [
+              "Год 2–3",
+              "Только хостинг, на вашем аккаунте",
+              "$50–$200/мес подписки"
+            ]
+          },
+          {
+            "_key": "a2-2j",
+            "_type": "blogTableRow",
+            "cells": [
+              "Собственность",
+              "GitHub-репозиторий ваш",
+              "Аренда, кода нет"
+            ]
+          },
+          {
+            "_key": "a2-2k",
+            "_type": "blogTableRow",
+            "cells": [
+              "Экспорт",
+              "Не нужен, он и так ваш",
+              "HTML без бэкенда = ловушка"
+            ]
+          },
+          {
+            "_key": "a2-2l",
+            "_type": "blogTableRow",
+            "cells": [
+              "Скорость запуска",
+              "Лендинг 1–2 нед, сайт 4–10 нед",
+              "Дни, но потолок низкий"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a2-2n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-2m",
+            "_type": "span",
+            "marks": [],
+            "text": "Реальная стоимость за 3 года"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-2o",
+        "_type": "blogTable",
+        "headers": [
+          "Платформа",
+          "Тариф для бизнеса",
+          "За 36 мес",
+          "Экспорт кода"
+        ],
+        "rows": [
+          {
+            "_key": "a2-2p",
+            "_type": "blogTableRow",
+            "cells": [
+              "Tilda Business + Pro",
+              "$50/мес",
+              "$1,800",
+              "HTML без бэкенда"
+            ]
+          },
+          {
+            "_key": "a2-2q",
+            "_type": "blogTableRow",
+            "cells": [
+              "Tilda Agency + add-ons",
+              "$200/мес",
+              "$7,200",
+              "HTML без бэкенда"
+            ]
+          },
+          {
+            "_key": "a2-2r",
+            "_type": "blogTableRow",
+            "cells": [
+              "Wix Business",
+              "$32/мес",
+              "$1,152",
+              "Не даёт экспорта"
+            ]
+          },
+          {
+            "_key": "a2-2s",
+            "_type": "blogTableRow",
+            "cells": [
+              "Webflow Business",
+              "$39/мес",
+              "$1,404",
+              "HTML+CSS, без CMS"
+            ]
+          },
+          {
+            "_key": "a2-2t",
+            "_type": "blogTableRow",
+            "cells": [
+              "Кастом (Корпоративный сайт)",
+              "$3,500 единоразово",
+              "~$3,500",
+              "Репозиторий ваш"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a2-2v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-2u",
+            "_type": "span",
+            "marks": [],
+            "text": "Все конструкторы — это аренда, а не собственность. Добавьте сюда 30–50 часов в год вашего времени на поддержку (форма не отправляется, SEO упал после апдейта, поиск подрядчика «который знает Tilda»). По ставке $50–$150/час это ещё $1,500–$7,500 в год."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-2x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-2w",
+            "_type": "span",
+            "marks": [],
+            "text": "Когда конструктор оправдан"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-2z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-2y",
+            "_type": "span",
+            "marks": [],
+            "text": "Честно, есть случаи, где Tilda остаётся разумным выбором:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-31",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-30",
+            "_type": "span",
+            "marks": [],
+            "text": "Проверка спроса на новый продукт на 1–3 месяца"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-33",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-32",
+            "_type": "span",
+            "marks": [],
+            "text": "Промо-страница под одну рекламную кампанию, которая потом выбрасывается"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-35",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-34",
+            "_type": "span",
+            "marks": [],
+            "text": "Личная страница или портфолио фотографа или дизайнера"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-37",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-36",
+            "_type": "span",
+            "marks": [],
+            "text": "Бюджет, при котором кодовый сайт сейчас не ко времени"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-39",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-38",
+            "_type": "span",
+            "marks": [],
+            "text": "Когда кастом выигрывает"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-3b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-3a",
+            "_type": "span",
+            "marks": [],
+            "text": "Скорость как конкурентное преимущество: клиники, юрфирмы, недвижимость, локальный SEO"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-3d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-3c",
+            "_type": "span",
+            "marks": [],
+            "text": "Нужны интеграции: бронирование, CRM, оплата, два языка"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-3f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-3e",
+            "_type": "span",
+            "marks": [],
+            "text": "Вы хотите владеть кодом: репозиторий, без привязки к платформе"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-3h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-3g",
+            "_type": "span",
+            "marks": [],
+            "text": "SEO важен с первого дня, без плагинного балласта"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-3j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-3i",
+            "_type": "span",
+            "marks": [],
+            "text": "Вы хотите фиксированную цену без сюрпризов на 2–3 год"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-3l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-3k",
+            "_type": "span",
+            "marks": [],
+            "text": "Реальный пример: клиника «Эфедра», Одесса"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-3q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-3m",
+            "_type": "span",
+            "marks": [],
+            "text": "Эфедра перешла с медленной платформы на кастом Next.js. LCP упал с 3.2 до 0.8 секунды. За 6 месяцев было в 3.2 раза больше заявок и вчетверо больше органического трафика из Google, топ-3 по основному запросу за 3 месяца. Проект стоил $4,525 вместе с интеграцией Helsi и вторым языком. Смотрите"
+          },
+          {
+            "_key": "a2-3o",
+            "_type": "span",
+            "marks": [
+              "a2-3n"
+            ],
+            "text": "кейс полностью"
+          },
+          {
+            "_key": "a2-3p",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "a2-3n",
+            "_type": "link",
+            "href": "/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-3r",
+        "_type": "ctaCallout",
+        "ctaHref": "/calculator",
+        "ctaLabel": "Рассчитать миграцию",
+        "ctaSecondaryHref": "/contacts",
+        "ctaSecondaryLabel": "Обсудить переезд",
+        "eyebrow": "Калькулятор",
+        "heading": "Подумываете о переезде с конструктора?",
+        "sub": "Скажем честно, нужно ли оно вам. Если бизнесу ещё ОК на Tilda, так и скажем. Если пора, посчитаем миграцию без потери SEO."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "a2-22",
+        "_type": "tldrBox",
+        "items": [
+          "Для більшості українського МСБ із сайтом на 5–15 сторінок **кастомний сайт** кращий за конструктор: швидкість, SEO, довгострокова вартість.",
+          "**Конструктор виправданий** для тесту гіпотез і промо на 1–3 місяці.",
+          "**Кастом виграє**, коли швидкість означає конверсію (Lighthouse 95+), потрібні інтеграції, важливий SEO, і ви хочете володіти кодом.",
+          "Бізнес-тариф Tilda з add-ons виходить **$7,200 за 3 роки**. За ці гроші кастом замовляють двічі."
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "a2-24",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-23",
+            "_type": "span",
+            "marks": [],
+            "text": "Як ми отримали цифру $7,200"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-26",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-25",
+            "_type": "span",
+            "marks": [],
+            "text": "Це не теоретичний розрахунок із сайту Tilda. Це сума, яку реально платили клієнти, що прийшли до нас із Tilda. Ми порахували 12 кошторисів компаній із 50–300 заявками на місяць, які користувались Tilda 2–3 роки. Стандартний набір для бізнесу складається не з «Personal за $10», а з Business + Pro + add-ons: домен, форми з валідацією, інтеграції через Zapier, платні блоки з Market, і технічний консультант, бо щось завжди ламається. Середнє по 12 кошторисах: $180–$220/міс. Беремо середину $200, множимо на 36 місяців: $7,200."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-28",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-27",
+            "_type": "span",
+            "marks": [],
+            "text": "Що ви отримуєте за $7,200"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-2a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-29",
+            "_type": "span",
+            "marks": [],
+            "text": "Шаблонний сайт з обмеженою кастомізацією, який вантажиться 2–4 секунди на мобільному (кастом дає 0.6–1.5), залежить від платформи, має обмежений контроль над SEO і не дає «свого коду». Експорт Tilda дає статичний HTML без бекенду форм: форми перестають надсилатись, динаміка не переноситься. З 12 наших мігрантів жоден не зміг ефективно скористатись експортом; усі робили сайт із нуля."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-2c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-2b",
+            "_type": "span",
+            "marks": [],
+            "text": "Порівняння, поруч"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-2d",
+        "_type": "blogTable",
+        "headers": [
+          "Фактор",
+          "Кастом (Next.js)",
+          "Конструктор (Tilda/Wix)"
+        ],
+        "rows": [
+          {
+            "_key": "a2-2e",
+            "_type": "blogTableRow",
+            "cells": [
+              "Швидкість",
+              "Lighthouse 95–98",
+              "Lighthouse 50–70, 2–4с на мобільному"
+            ]
+          },
+          {
+            "_key": "a2-2f",
+            "_type": "blogTableRow",
+            "cells": [
+              "SEO",
+              "Schema і чистий код з дня 1",
+              "Базовий, без SSR і програмних landing"
+            ]
+          },
+          {
+            "_key": "a2-2g",
+            "_type": "blogTableRow",
+            "cells": [
+              "Інтеграції",
+              "Будь-які через API",
+              "Обмежені, часто лише через Zapier"
+            ]
+          },
+          {
+            "_key": "a2-2h",
+            "_type": "blogTableRow",
+            "cells": [
+              "Вартість старту",
+              "від $800 / $3,500",
+              "$0–$50 на старті"
+            ]
+          },
+          {
+            "_key": "a2-2i",
+            "_type": "blogTableRow",
+            "cells": [
+              "Рік 2–3",
+              "Тільки хостинг, на вашому акаунті",
+              "$50–$200/міс підписки"
+            ]
+          },
+          {
+            "_key": "a2-2j",
+            "_type": "blogTableRow",
+            "cells": [
+              "Власність",
+              "GitHub-репозиторій ваш",
+              "Оренда, коду немає"
+            ]
+          },
+          {
+            "_key": "a2-2k",
+            "_type": "blogTableRow",
+            "cells": [
+              "Експорт",
+              "Не потрібен, він і так ваш",
+              "HTML без бекенду = пастка"
+            ]
+          },
+          {
+            "_key": "a2-2l",
+            "_type": "blogTableRow",
+            "cells": [
+              "Швидкість запуску",
+              "Лендинг 1–2 тиж, сайт 4–10 тиж",
+              "Дні, але стеля низька"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a2-2n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-2m",
+            "_type": "span",
+            "marks": [],
+            "text": "Реальна вартість за 3 роки"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-2o",
+        "_type": "blogTable",
+        "headers": [
+          "Платформа",
+          "Тариф для бізнесу",
+          "За 36 міс",
+          "Експорт коду"
+        ],
+        "rows": [
+          {
+            "_key": "a2-2p",
+            "_type": "blogTableRow",
+            "cells": [
+              "Tilda Business + Pro",
+              "$50/міс",
+              "$1,800",
+              "HTML без бекенду"
+            ]
+          },
+          {
+            "_key": "a2-2q",
+            "_type": "blogTableRow",
+            "cells": [
+              "Tilda Agency + add-ons",
+              "$200/міс",
+              "$7,200",
+              "HTML без бекенду"
+            ]
+          },
+          {
+            "_key": "a2-2r",
+            "_type": "blogTableRow",
+            "cells": [
+              "Wix Business",
+              "$32/міс",
+              "$1,152",
+              "Не дає експорту"
+            ]
+          },
+          {
+            "_key": "a2-2s",
+            "_type": "blogTableRow",
+            "cells": [
+              "Webflow Business",
+              "$39/міс",
+              "$1,404",
+              "HTML+CSS, без CMS"
+            ]
+          },
+          {
+            "_key": "a2-2t",
+            "_type": "blogTableRow",
+            "cells": [
+              "Кастом (Корпоративний сайт)",
+              "$3,500 одноразово",
+              "~$3,500",
+              "Репозиторій ваш"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a2-2v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-2u",
+            "_type": "span",
+            "marks": [],
+            "text": "Усі конструктори це оренда, а не власність. Додайте сюди 30–50 годин на рік вашого часу на підтримку (форма не надсилається, SEO впав після апдейту, пошук підрядника «який знає Tilda»). За ставкою $50–$150/год це ще $1,500–$7,500 на рік."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-2x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-2w",
+            "_type": "span",
+            "marks": [],
+            "text": "Коли конструктор виправданий"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-2z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-2y",
+            "_type": "span",
+            "marks": [],
+            "text": "Чесно, є випадки, де Tilda лишається розумним вибором:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-31",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-30",
+            "_type": "span",
+            "marks": [],
+            "text": "Перевірка попиту на новий продукт на 1–3 місяці"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-33",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-32",
+            "_type": "span",
+            "marks": [],
+            "text": "Промо-сторінка під одну рекламну кампанію, яка потім викидається"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-35",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-34",
+            "_type": "span",
+            "marks": [],
+            "text": "Особиста сторінка або портфоліо фотографа чи дизайнера"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-37",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-36",
+            "_type": "span",
+            "marks": [],
+            "text": "Бюджет, за якого кодовий сайт зараз не на часі"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-39",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-38",
+            "_type": "span",
+            "marks": [],
+            "text": "Коли кастом виграє"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-3b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-3a",
+            "_type": "span",
+            "marks": [],
+            "text": "Швидкість як конкурентна перевага: клініки, юр-фірми, нерухомість, локальний SEO"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-3d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-3c",
+            "_type": "span",
+            "marks": [],
+            "text": "Потрібні інтеграції: бронювання, CRM, оплата, дві мови"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-3f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-3e",
+            "_type": "span",
+            "marks": [],
+            "text": "Ви хочете володіти кодом: репозиторій, без прив’язки до платформи"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-3h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-3g",
+            "_type": "span",
+            "marks": [],
+            "text": "SEO важливий з першого дня, без плагінного баласту"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-3j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-3i",
+            "_type": "span",
+            "marks": [],
+            "text": "Ви хочете фіксовану ціну без сюрпризів у 2–3 рік"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-3l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-3k",
+            "_type": "span",
+            "marks": [],
+            "text": "Реальний приклад: клініка «Ефедра», Одеса"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a2-3q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a2-3m",
+            "_type": "span",
+            "marks": [],
+            "text": "Ефедра перейшла з повільної платформи на кастом Next.js. LCP впав з 3.2 до 0.8 секунди. За 6 місяців було у 3.2 раза більше заявок і вчетверо більше органічного трафіку з Google, топ-3 за основним запитом за 3 місяці. Проєкт коштував $4,525 разом з інтеграцією Helsi і другою мовою. Дивіться "
+          },
+          {
+            "_key": "a2-3o",
+            "_type": "span",
+            "marks": [
+              "a2-3n"
+            ],
+            "text": "кейс повністю"
+          },
+          {
+            "_key": "a2-3p",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "a2-3n",
+            "_type": "link",
+            "href": "/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "a2-3r",
+        "_type": "ctaCallout",
+        "ctaHref": "/calculator",
+        "ctaLabel": "Розрахувати міграцію",
+        "ctaSecondaryHref": "/contacts",
+        "ctaSecondaryLabel": "Обговорити переїзд",
+        "eyebrow": "Калькулятор",
+        "heading": "Подумуєте про переїзд із конструктора?",
+        "sub": "Скажемо чесно, чи воно вам треба. Якщо бізнесу ще ОК на Tilda, так і скажемо. Якщо пора, порахуємо міграцію без втрати SEO."
+      }
+    ]
+  },
+  "slug": "tilda-vs-kastomnyy-sayt-2026"
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "a5311634-9a57-4de9-ab72-ec42fcfcc270",
+  "metricsLine": {
+    "_type": "localizedString",
+    "en": "↑ sales after the site launched · 8 catalogue categories · 2 clicks to order · 2 work streams: site + packaging",
+    "ru": "↑ продажи после запуска сайта · 8 категорий в каталоге · 2 клика до заказа · 2 направления работы: сайт + упаковка",
+    "uk": "↑ продажі після запуску сайту · 8 категорій у каталозі · 2 кліки до замовлення · 2 напрями роботи: сайт + упаковка"
+  },
+  "seo": {
+    "description": {
+      "en": "➤ Ukrainian gaming brand website ✔️ Full e-commerce: catalogue, basket, checkout ✔️ Short path to purchase ✔️ Keyboards, mice & accessories ➡ See the full case study.",
+      "ru": "Kondor Device — украинский бренд механических клавиатур, мышей, игровых поверхностей и кейкапов. Мы разработали полноценный e-commerce сайт с каталогом, карточками товаров, корзиной и оформлением заказа — с фокусом на короткий путь от первого знакомства с брендом до покупки.",
+      "uk": "Kondor Device — український бренд механічних клавіатур, мишей, ігрових поверхонь і кейкапів. Ми розробили повноцінний e-commerce сайт із каталогом, карточками товарів, кошиком і оформленням замовлення — з фокусом на короткий шлях від першого знайомства з брендом до покупки. "
+    },
+    "title": {
+      "en": "ᐈ Kondor Device — Gaming Peripherals E-Commerce Case Study | Code-Site.Art",
+      "ru": "Kondor Device — e-commerce сайт для украинского бренда игровых девайсов",
+      "uk": "Kondor Device — e-commerce сайт для українського бренду ігрових девайсів"
+    }
+  },
+  "slug": "kondor-device",
+  "title": {
+    "en": "Kondor Device",
+    "ru": "Kondor Device",
+    "uk": "Kondor Device"
+  }
+}

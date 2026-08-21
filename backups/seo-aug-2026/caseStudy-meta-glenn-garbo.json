@@ -1,0 +1,26 @@
+{
+  "_id": "6tWqPRZWZzG4Lv3HK7J6hT",
+  "metricsLine": {
+    "en": "1 e-commerce module · 1 CMS · 3+ content directions · 1 online-payment integration",
+    "ru": "1 e-commerce модуль · 1 CMS для контента · 3+ направления: музыка, блог, магазин · 1 интеграция онлайн-оплаты",
+    "uk": "1 e-commerce модуль · 1 CMS для контенту · 3+ напрями: музика, блог, магазин · 1 інтеграція онлайн-оплати"
+  },
+  "seo": {
+    "description": {
+      "en": "➤ Personal artist platform ✔️ Content distribution ✔️ Direct monetisation ✔️ Fan engagement system ➡ See the full case study.",
+      "ru": "Платформа персонального бренда, объединяющая музыку, новости и магазин для прямой продажи продукции.",
+      "uk": "Платформа персонального бренду, що обʼєднує музику, новини та магазин для прямого продажу продукції."
+    },
+    "title": {
+      "en": "ᐈ Glenn Garbo — Artist Platform Case Study | Code-Site.Art",
+      "ru": "Glenn Garbo — кейс | Code-Site.Art",
+      "uk": "Glenn Garbo — кейс | Code-Site.Art"
+    }
+  },
+  "slug": "glenn-garbo",
+  "title": {
+    "en": "Glenn Garbo",
+    "ru": "Glenn Garbo",
+    "uk": "Glenn Garbo"
+  }
+}

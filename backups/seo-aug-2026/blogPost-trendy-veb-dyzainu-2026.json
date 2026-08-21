@@ -1,0 +1,1275 @@
+{
+  "_id": "dcf8fb96-9cf0-4b7e-808c-02c504dcf160",
+  "body": {
+    "en": [
+      {
+        "_key": "b40hz",
+        "_type": "tldrBox",
+        "items": [
+          "Trends come and go — **conversion stays the metric**.",
+          "Safely ignore: AI gloss, scroll hijacking, mobile video backgrounds, brutalism for its own sake",
+          "\"Eternal trends\" that always work: speed, readability, honest photos",
+          "The trend test: **\"will this help my customer buy?\"** No — it's decoration"
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "b40i0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40i1",
+            "_type": "span",
+            "marks": [],
+            "text": "Every year the \"10 web design trends\" lists arrive, and every year businesses pay to install what will read as a period diagnosis two years later. I'm a designer — I'm supposed to love trends. I love client money more. Here's what's fashionable right now that you can skip without losing a thing."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40i2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40i3",
+            "_type": "span",
+            "marks": [],
+            "text": "What you can safely ignore"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40i6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40i4",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "AI gloss. "
+          },
+          {
+            "_key": "b40i5",
+            "_type": "span",
+            "marks": [],
+            "text": "Identical gradient blobs, glass cards and shimmering generated illustrations have become visual noise: sites blur into one. The irony is that the \"AI look\" now reads as \"made without a human\" — and lowers trust."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40i9",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40i7",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Scroll hijacking. "
+          },
+          {
+            "_key": "b40i8",
+            "_type": "span",
+            "marks": [],
+            "text": "When the page scrolls \"cinematically\" instead of the way users expect. Impressive for the first 5 seconds, irritating for the next 50. It has never lifted anyone's conversion."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40ic",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ia",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Video backgrounds on mobile. "
+          },
+          {
+            "_key": "b40ib",
+            "_type": "span",
+            "marks": [],
+            "text": "They eat data and battery, drag LCP — and nobody admires them on a 6-inch screen."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40if",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40id",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Brutalism for its own sake. "
+          },
+          {
+            "_key": "b40ie",
+            "_type": "span",
+            "marks": [],
+            "text": "Works for galleries and fashion brands with a strong art director. For a clinic or a construction firm, \"raw\" design reads as broken, not bold."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40ii",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ig",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Custom cursors and chasers. "
+          },
+          {
+            "_key": "b40ih",
+            "_type": "span",
+            "marks": [],
+            "text": "Mouse trails, circle cursors… On touchscreens — most of your traffic — they simply don't exist."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40ij",
+        "_type": "blogImage",
+        "alt": "A moodboard with colours and materials in a design studio",
+        "asset": {
+          "_ref": "image-006bfea99d9d2da0bcac6f613a8905e5a3021d2c-1600x2409-jpg",
+          "_type": "reference"
+        },
+        "caption": "A moodboard is useful when it answers to the audience, not the Behance feed"
+      },
+      {
+        "_key": "b40ik",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40il",
+            "_type": "span",
+            "marks": [],
+            "text": "\"Trends\" that are actually permanent principles"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40io",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40im",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Speed. "
+          },
+          {
+            "_key": "b40in",
+            "_type": "span",
+            "marks": [],
+            "text": "Mattered ten years ago, matters today. No trend is worth +2 seconds of loading."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40ir",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ip",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Readability. "
+          },
+          {
+            "_key": "b40iq",
+            "_type": "span",
+            "marks": [],
+            "text": "Big text, honest contrast, air. The small-grey-font fashion comes and goes — reading is forever."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40iu",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40is",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Honest photos and numbers. "
+          },
+          {
+            "_key": "b40it",
+            "_type": "span",
+            "marks": [],
+            "text": "A real team, real work, real results. This \"trends\" exactly as long as trust exists."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40iv",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40iw",
+            "_type": "span",
+            "marks": [],
+            "text": "A simple test for any trend"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40ix",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40iy",
+            "_type": "span",
+            "marks": [],
+            "text": "Ask: \"will this help my customer understand the offer faster and buy?\" If yes — it's not a trend, it's a tool; take it. If the answer is \"well, it looks modern\" — it's decoration at your expense. What makes a site modern isn't the year of its tricks but whether it solves the job faster than competitors."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40iz",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40j0",
+            "_type": "span",
+            "marks": [],
+            "text": "When design genuinely needs a refresh"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40j1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40j2",
+            "_type": "span",
+            "marks": [],
+            "text": "Conversion falls on stable traffic — the site stopped persuading"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40j3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40j4",
+            "_type": "span",
+            "marks": [],
+            "text": "Positioning or audience changed — the design talks to the wrong people"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40j5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40j6",
+            "_type": "span",
+            "marks": [],
+            "text": "The mobile version was squeezed, not designed"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40j7",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40j8",
+            "_type": "span",
+            "marks": [],
+            "text": "The site is 5+ years old and slower than competitors"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40jg",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40j9",
+            "_type": "span",
+            "marks": [],
+            "text": "How we approach design that sells — in our breakdowns of "
+          },
+          {
+            "_key": "b40jb",
+            "_type": "span",
+            "marks": [
+              "b40ja"
+            ],
+            "text": "9 conversion moves"
+          },
+          {
+            "_key": "b40jc",
+            "_type": "span",
+            "marks": [],
+            "text": " and "
+          },
+          {
+            "_key": "b40je",
+            "_type": "span",
+            "marks": [
+              "b40jd"
+            ],
+            "text": "safe redesigns"
+          },
+          {
+            "_key": "b40jf",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "b40ja",
+            "_type": "link",
+            "href": "/en/blog/9-design-moves-that-lift-conversion",
+            "newTab": false
+          },
+          {
+            "_key": "b40jd",
+            "_type": "link",
+            "href": "/en/blog/redesign-without-losing-seo",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "b40jh",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/contacts",
+        "ctaLabel": "Get the teardown",
+        "ctaSecondaryHref": "/en/portfolio",
+        "ctaSecondaryLabel": "See the cases",
+        "eyebrow": "Design teardown",
+        "heading": "Wondering if your design has aged out?",
+        "sub": "Send the link — we'll say honestly which \"unfashionable\" parts are working and should stay, and which genuinely cost you clients."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "b40gg",
+        "_type": "tldrBox",
+        "items": [
+          "Тренды приходят и уходят, а **конверсия остаётся метрикой**.",
+          "Смело игнорируйте: AI-глянец, скролл-хайджекинг, видео-фоны на мобильном, брутализм ради брутализма",
+          "«Вечные тренды», которые работают всегда: скорость, читабельность, честные фото",
+          "Тест на тренд: **«это поможет моему клиенту купить?»** Нет — это декорация"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "b40gh",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40gi",
+            "_type": "span",
+            "marks": [],
+            "text": "Каждый год выходят подборки «10 трендов веб-дизайна», и каждый год бизнесы платят за внедрение того, что через два года будет выглядеть как диагноз эпохи. Я дизайнер, мне положено любить тренды — но клиентские деньги я люблю больше. Вот что из модного сейчас можно пропустить без потерь."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40gj",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40gk",
+            "_type": "span",
+            "marks": [],
+            "text": "Что можно смело игнорировать"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40gn",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40gl",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "AI-глянец. "
+          },
+          {
+            "_key": "b40gm",
+            "_type": "span",
+            "marks": [],
+            "text": "Одинаковые градиентные баблы, стеклянные карточки и сгенерированные иллюстрации-переливы уже стали визуальным шумом: сайты сливаются в один. Ирония в том, что «AI-вид» теперь считывается как «сделано без человека» — и снижает доверие."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40gq",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40go",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Скролл-хайджекинг. "
+          },
+          {
+            "_key": "b40gp",
+            "_type": "span",
+            "marks": [],
+            "text": "Когда страница листается не так, как привык пользователь, а «кинематографично». Впечатляет первые 5 секунд, раздражает следующие 50. Конверсию это ещё никому не подняло."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40gt",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40gr",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Видео-фон на мобильном. "
+          },
+          {
+            "_key": "b40gs",
+            "_type": "span",
+            "marks": [],
+            "text": "Съедает трафик и батарею, тормозит LCP — а на экране 6 дюймов его никто не разглядывает."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40gw",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40gu",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Брутализм ради брутализма. "
+          },
+          {
+            "_key": "b40gv",
+            "_type": "span",
+            "marks": [],
+            "text": "Работает для галерей и фешн-брендов с сильным арт-директором. Для клиники или строительной компании «сырой» дизайн считывается не как смелость, а как неисправность."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40gz",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40gx",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Кастомные курсоры и чейзеры. "
+          },
+          {
+            "_key": "b40gy",
+            "_type": "span",
+            "marks": [],
+            "text": "Хвосты за мышкой, курсоры-круги… На тачскринах — а это большинство трафика — их просто не существует."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40h0",
+        "_type": "blogImage",
+        "alt": "Мудборд с цветами и материалами в дизайн-студии",
+        "asset": {
+          "_ref": "image-006bfea99d9d2da0bcac6f613a8905e5a3021d2c-1600x2409-jpg",
+          "_type": "reference"
+        },
+        "caption": "Мудборд полезен, когда отвечает аудитории, а не ленте Behance"
+      },
+      {
+        "_key": "b40h1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40h2",
+            "_type": "span",
+            "marks": [],
+            "text": "«Тренды», которые на самом деле вечные принципы"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40h5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40h3",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Скорость. "
+          },
+          {
+            "_key": "b40h4",
+            "_type": "span",
+            "marks": [],
+            "text": "Была важна десять лет назад, важна сегодня. Ни один тренд не стоит +2 секунд к загрузке."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40h8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40h6",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Читабельность. "
+          },
+          {
+            "_key": "b40h7",
+            "_type": "span",
+            "marks": [],
+            "text": "Крупный текст, честный контраст, воздух. Мода на мелкий серый шрифт приходит и уходит — а читать нужно всегда."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40hb",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40h9",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Честные фото и цифры. "
+          },
+          {
+            "_key": "b40ha",
+            "_type": "span",
+            "marks": [],
+            "text": "Реальная команда, реальные работы, реальные результаты. Это «трендит» ровно столько, сколько существует доверие."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40hc",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40hd",
+            "_type": "span",
+            "marks": [],
+            "text": "Простой тест на любой тренд"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40he",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40hf",
+            "_type": "span",
+            "marks": [],
+            "text": "Спросите: «это поможет моему клиенту быстрее понять предложение и купить?» Если да — это не тренд, а инструмент, берите. Если ответ «ну, это выглядит современно» — это декорация за ваши деньги. Современность сайта определяет не год приёмов, а то, решает ли он задачу быстрее конкурентов."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40hg",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40hh",
+            "_type": "span",
+            "marks": [],
+            "text": "Когда дизайн действительно пора обновлять"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40hi",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40hj",
+            "_type": "span",
+            "marks": [],
+            "text": "Конверсия падает при стабильном трафике — сайт перестал убеждать"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40hk",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40hl",
+            "_type": "span",
+            "marks": [],
+            "text": "Изменилось позиционирование или аудитория — дизайн говорит не с теми"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40hm",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40hn",
+            "_type": "span",
+            "marks": [],
+            "text": "Мобильная версия «дожата», а не спроектирована"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40ho",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40hp",
+            "_type": "span",
+            "marks": [],
+            "text": "Сайту 5+ лет и он медленнее конкурентов"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40hx",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40hq",
+            "_type": "span",
+            "marks": [],
+            "text": "Как мы подходим к дизайну, который продаёт, — в разборах "
+          },
+          {
+            "_key": "b40hs",
+            "_type": "span",
+            "marks": [
+              "b40hr"
+            ],
+            "text": "9 приёмов для конверсии"
+          },
+          {
+            "_key": "b40ht",
+            "_type": "span",
+            "marks": [],
+            "text": " и "
+          },
+          {
+            "_key": "b40hv",
+            "_type": "span",
+            "marks": [
+              "b40hu"
+            ],
+            "text": "безопасного редизайна"
+          },
+          {
+            "_key": "b40hw",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "b40hr",
+            "_type": "link",
+            "href": "/ru/blog/9-dizayn-priyomov-dlya-konversii",
+            "newTab": false
+          },
+          {
+            "_key": "b40hu",
+            "_type": "link",
+            "href": "/ru/blog/redizayn-bez-poteri-seo",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "b40hy",
+        "_type": "ctaCallout",
+        "ctaHref": "/ru/contacts",
+        "ctaLabel": "Получить разбор",
+        "ctaSecondaryHref": "/ru/portfolio",
+        "ctaSecondaryLabel": "Посмотреть кейсы",
+        "eyebrow": "Дизайн-разбор",
+        "heading": "Сомневаетесь, устарел ли ваш дизайн?",
+        "sub": "Пришлите ссылку — скажем честно: что из «немодного» у вас работает и трогать не надо, а что реально стоит вам клиентов."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "b40ex",
+        "_type": "tldrBox",
+        "items": [
+          "Тренди приходять і йдуть, а **конверсія лишається метрикою**.",
+          "Сміливо ігноруйте: AI-глянець, скрол-хайджекінг, відео-фони на мобільному, брутализм заради брутализму",
+          "«Вічні тренди», які працюють завжди: швидкість, читабельність, чесні фото",
+          "Тест на тренд: **«це допоможе моєму клієнту купити?»** Ні — це декорація"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "b40ey",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ez",
+            "_type": "span",
+            "marks": [],
+            "text": "Щороку виходять добірки «10 трендів веб-дизайну», і щороку бізнеси платять за впровадження того, що через два роки виглядатиме як діагноз епохи. Я дизайнерка, мені належить любити тренди — але клієнтські гроші я люблю більше. Ось що з модного зараз можна пропустити без втрат."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40f0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40f1",
+            "_type": "span",
+            "marks": [],
+            "text": "Що можна сміливо ігнорувати"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40f4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40f2",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "AI-глянець. "
+          },
+          {
+            "_key": "b40f3",
+            "_type": "span",
+            "marks": [],
+            "text": "Однакові градієнтні бабли, скляні картки і згенеровані ілюстрації-переливи вже стали візуальним шумом: сайти зливаються в один. Іронія в тому, що «AI-вигляд» тепер зчитується як «зроблено без людини» — і знижує довіру."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40f7",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40f5",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Скрол-хайджекінг. "
+          },
+          {
+            "_key": "b40f6",
+            "_type": "span",
+            "marks": [],
+            "text": "Коли сторінка гортається не так, як звик користувач, а «кінематографічно». Вражає перші 5 секунд, дратує наступні 50. Конверсії це ще не підняло нікому."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40fa",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40f8",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Відео-фон на мобільному. "
+          },
+          {
+            "_key": "b40f9",
+            "_type": "span",
+            "marks": [],
+            "text": "Зʼїдає трафік і батарею, гальмує LCP — а на екрані 6 дюймів його ніхто не розглядає."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40fd",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40fb",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Брутализм заради брутализму. "
+          },
+          {
+            "_key": "b40fc",
+            "_type": "span",
+            "marks": [],
+            "text": "Працює для галерей і фешн-брендів із сильним артдиректором. Для клініки чи будівельної компанії «сирий» дизайн зчитується не як сміливість, а як несправність."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40fg",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40fe",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Кастомні курсори і чейзери. "
+          },
+          {
+            "_key": "b40ff",
+            "_type": "span",
+            "marks": [],
+            "text": "Хвости за мишкою, курсори-кола… На тачскрінах — а це більшість трафіку — їх просто не існує."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40fh",
+        "_type": "blogImage",
+        "alt": "Мудборд із кольорами і матеріалами в дизайн-студії",
+        "asset": {
+          "_ref": "image-006bfea99d9d2da0bcac6f613a8905e5a3021d2c-1600x2409-jpg",
+          "_type": "reference"
+        },
+        "caption": "Мудборд корисний, коли відповідає аудиторії, а не стрічці Behance"
+      },
+      {
+        "_key": "b40fi",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40fj",
+            "_type": "span",
+            "marks": [],
+            "text": "«Тренди», які насправді вічні принципи"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40fm",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40fk",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Швидкість. "
+          },
+          {
+            "_key": "b40fl",
+            "_type": "span",
+            "marks": [],
+            "text": "Була важлива десять років тому, важлива сьогодні. Жоден тренд не вартий +2 секунд до завантаження."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40fp",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40fn",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Читабельність. "
+          },
+          {
+            "_key": "b40fo",
+            "_type": "span",
+            "marks": [],
+            "text": "Великий текст, чесний контраст, повітря. Мода на дрібний сірий шрифт приходить і йде — а читати треба завжди."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40fs",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40fq",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Чесні фото і цифри. "
+          },
+          {
+            "_key": "b40fr",
+            "_type": "span",
+            "marks": [],
+            "text": "Реальна команда, реальні роботи, реальні результати. Це «трендить» рівно стільки, скільки існує довіра."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40ft",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40fu",
+            "_type": "span",
+            "marks": [],
+            "text": "Простий тест на будь-який тренд"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40fv",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40fw",
+            "_type": "span",
+            "marks": [],
+            "text": "Спитайте: «це допоможе моєму клієнту швидше зрозуміти пропозицію і купити?» Якщо так — це не тренд, а інструмент, беріть. Якщо відповідь «ну, це виглядає сучасно» — це декорація за ваші гроші. Сучасність сайта визначає не рік прийомів, а те, чи вирішує він задачу швидше за конкурентів."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40fx",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40fy",
+            "_type": "span",
+            "marks": [],
+            "text": "Коли дизайн справді час оновлювати"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40fz",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40g0",
+            "_type": "span",
+            "marks": [],
+            "text": "Конверсія падає при стабільному трафіку — сайт перестав переконувати"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40g1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40g2",
+            "_type": "span",
+            "marks": [],
+            "text": "Змінилось позиціонування чи аудиторія — дизайн говорить не з тими"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40g3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40g4",
+            "_type": "span",
+            "marks": [],
+            "text": "Мобільна версія «дотиснута», а не спроєктована"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40g5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40g6",
+            "_type": "span",
+            "marks": [],
+            "text": "Сайту 5+ років і він повільніший за конкурентів"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40ge",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40g7",
+            "_type": "span",
+            "marks": [],
+            "text": "Як ми підходимо до дизайну, який продає, — у розборах "
+          },
+          {
+            "_key": "b40g9",
+            "_type": "span",
+            "marks": [
+              "b40g8"
+            ],
+            "text": "9 прийомів для конверсії"
+          },
+          {
+            "_key": "b40ga",
+            "_type": "span",
+            "marks": [],
+            "text": " і "
+          },
+          {
+            "_key": "b40gc",
+            "_type": "span",
+            "marks": [
+              "b40gb"
+            ],
+            "text": "безпечного редизайну"
+          },
+          {
+            "_key": "b40gd",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "b40g8",
+            "_type": "link",
+            "href": "/blog/9-dyzain-pryiomiv-dlia-konversii",
+            "newTab": false
+          },
+          {
+            "_key": "b40gb",
+            "_type": "link",
+            "href": "/blog/redyzain-bez-vtraty-seo",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "b40gf",
+        "_type": "ctaCallout",
+        "ctaHref": "/contacts",
+        "ctaLabel": "Отримати розбір",
+        "ctaSecondaryHref": "/portfolio",
+        "ctaSecondaryLabel": "Подивитись кейси",
+        "eyebrow": "Дизайн-розбір",
+        "heading": "Сумніваєтесь, чи застарів ваш дизайн?",
+        "sub": "Надішліть посилання — скажемо чесно: що з «немодного» у вас працює і чіпати не треба, а що реально коштує вам клієнтів."
+      }
+    ]
+  },
+  "slug": "trendy-veb-dyzainu-2026"
+}

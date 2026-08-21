@@ -1,0 +1,27 @@
+{
+  "_id": "teYo5SgUrFJ21nkOqz75NQ",
+  "metricsLine": {
+    "_type": "localizedString",
+    "en": "212 Google clicks · 5.8% CTR · position 8.3",
+    "ru": "212 переходов из Google · CTR 5,8% · позиция 8,3",
+    "uk": "212 переходів із Google · CTR 5,8% · позиція 8,3"
+  },
+  "seo": {
+    "description": {
+      "en": "➤ Dry ice e-commerce site for a Ukrainian manufacturer ✔️ Catalogue with ordering ✔️ B2B funnel ✔️ Local SEO pages for 10 cities ✔️ Google position 8.3 in 28 days ➡ See the full case study.",
+      "ru": "IceLab — интернет-магазин сухого льда: каталог с заказом, B2B-раздел, 10 локальных SEO-страниц и средняя позиция 8,3 в Google за 28 дней.",
+      "uk": "IceLab — інтернет-магазин сухого льоду: каталог із замовленням, B2B-розділ, 10 локальних SEO-сторінок і середня позиція 8,3 у Google за 28 днів."
+    },
+    "title": {
+      "en": "ᐈ IceLab — Dry Ice Online Store Case Study | Code-Site.Art",
+      "ru": "IceLab — кейс | Code-Site.Art",
+      "uk": "IceLab — кейс | Code-Site.Art"
+    }
+  },
+  "slug": "icelab",
+  "title": {
+    "en": "IceLab",
+    "ru": "IceLab",
+    "uk": "IceLab"
+  }
+}

@@ -1,0 +1,975 @@
+{
+  "_id": "d48baf7d-9593-4f7c-966b-20b6f552c630",
+  "body": {
+    "en": [
+      {
+        "_key": "t20bs",
+        "_type": "tldrBox",
+        "items": [
+          "Design either leads to action or decorates. The first one **sells**.",
+          "The 9 moves below come from the studio's real projects, with numbers",
+          "Case records: **2.4×** checkout clicks (Aleko), **3.2×** enquiries (Efedra), **$250,000+** raised (Tatarka)",
+          "None of them require \"genius creativity\" — just discipline"
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "t20bt",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20bu",
+            "_type": "span",
+            "marks": [],
+            "text": "Clients often ask me to \"make it beautiful\". But beautiful is a side effect. The real job of commercial design is to walk a person to an action: an enquiry, a booking, a purchase. Here are nine moves we apply on every project — and the numbers they produced for real clients."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20bx",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20bv",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "One action per screen. "
+          },
+          {
+            "_key": "t20bw",
+            "_type": "span",
+            "marks": [],
+            "text": "Every screen answers one question and leads to one button. On the Aleko course landing page we cut everything that didn't lead to picking a tier — checkout clicks grew 2.4×."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20c0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20by",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "The button where the user is ready. "
+          },
+          {
+            "_key": "t20bz",
+            "_type": "span",
+            "marks": [],
+            "text": "Not just the header: after the benefits, after the prices, after the reviews. Nobody should scroll back to say \"yes\"."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20c3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20c1",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Real photos instead of stock. "
+          },
+          {
+            "_key": "t20c2",
+            "_type": "span",
+            "marks": [],
+            "text": "Efedra: practitioner and room photos instead of stock smiles — part of the redesign that delivered 3.2× enquiries. Stock saves a day at the start and costs enquiries for years."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20c6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20c4",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Numbers instead of adjectives. "
+          },
+          {
+            "_key": "t20c5",
+            "_type": "span",
+            "marks": [],
+            "text": "\"Fast service\" is noise. \"We reply within 4 hours\" is a fact. Numbers read faster and stick longer."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20c9",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20c7",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Prices in plain sight. "
+          },
+          {
+            "_key": "t20c8",
+            "_type": "span",
+            "marks": [],
+            "text": "Prices filter out mismatched clients and build trust with the right ones. Hiding the price list means paying a manager to talk to people who can't afford you."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20cc",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20ca",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Social proof next to the action. "
+          },
+          {
+            "_key": "t20cb",
+            "_type": "span",
+            "marks": [],
+            "text": "A review or a number right beside the button — not on a separate page. The Tatarka franchise landing spoke investor: unit-economics numbers next to the form — over $250,000 raised."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20cf",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20cd",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "A 2–3 field form. "
+          },
+          {
+            "_key": "t20ce",
+            "_type": "span",
+            "marks": [],
+            "text": "Every extra field costs you a share of enquiries. Name and contact; sort the rest out in the conversation."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20ci",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20cg",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Speed is design too. "
+          },
+          {
+            "_key": "t20ch",
+            "_type": "span",
+            "marks": [],
+            "text": "The best layout doesn't work at second five of loading. Animations that don't lag, mobile-optimised images, Lighthouse 90+."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20cl",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20cj",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "One accent colour. "
+          },
+          {
+            "_key": "t20ck",
+            "_type": "span",
+            "marks": [],
+            "text": "When everything is bright, nothing stands out. One colour for actions, the rest is background. The eye finds the button on its own."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20cm",
+        "_type": "blogImage",
+        "alt": "The Aleko Course online-course landing page",
+        "asset": {
+          "_ref": "image-8d2aa5ab1be7ebc8c0618947c5dd2eb729de9c33-3164x2472-png",
+          "_type": "reference"
+        },
+        "caption": "Aleko Course: everything on the page leads to picking a tier — 2.4× checkout clicks"
+      },
+      {
+        "_key": "t20cn",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20co",
+            "_type": "span",
+            "marks": [],
+            "text": "How to apply this to your site"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t20ct",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20cp",
+            "_type": "span",
+            "marks": [],
+            "text": "Open your site and walk the list: where's the action on each screen? Where are the numbers? Where are the prices? We packed these moves into a 10-question checklist in our "
+          },
+          {
+            "_key": "t20cr",
+            "_type": "span",
+            "marks": [
+              "t20cq"
+            ],
+            "text": "medical website design teardown"
+          },
+          {
+            "_key": "t20cs",
+            "_type": "span",
+            "marks": [],
+            "text": " — it works for any niche."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t20cq",
+            "_type": "link",
+            "href": "/en/blog/medical-website-design-trust",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t20cu",
+        "_type": "blogImage",
+        "alt": "A screen with a commercial website layout in progress",
+        "asset": {
+          "_ref": "image-335e5767f1ac6e13732d8190bbf09b28036a4176-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Every screen of the layout answers one question: \"what should the person do here?\""
+      },
+      {
+        "_key": "t20cv",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/contacts",
+        "ctaLabel": "Get the teardown",
+        "ctaSecondaryHref": "/en/portfolio",
+        "ctaSecondaryLabel": "See the cases",
+        "eyebrow": "Design teardown",
+        "heading": "Want design that sells, not decorates?",
+        "sub": "Send your site's link — within 24 hours you'll get a teardown: which of the 9 moves you're missing and what that costs in enquiries."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "t20ao",
+        "_type": "tldrBox",
+        "items": [
+          "Дизайн либо ведёт к действию, либо украшает. Продаёт — **первый**.",
+          "9 приёмов ниже — из реальных проектов студии, с цифрами",
+          "Рекорды кейсов: **×2.4** переходов к оплате (Aleko), **×3.2** заявок (Efedra), **$250 000+** инвестиций (Tatarka)",
+          "Ни один приём не требует «гениального креатива» — только дисциплины"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "t20ap",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20aq",
+            "_type": "span",
+            "marks": [],
+            "text": "Меня часто просят «сделать красиво». Но красиво — это побочный эффект. Настоящая задача дизайна коммерческого сайта — провести человека к действию: заявке, записи, покупке. Вот девять приёмов, которые мы применяем в каждом проекте — и цифры, которые они дали реальным клиентам."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20at",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20ar",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Одно действие на экран. "
+          },
+          {
+            "_key": "t20as",
+            "_type": "span",
+            "marks": [],
+            "text": "Каждый экран отвечает на один вопрос и ведёт к одной кнопке. На лендинге курса Aleko мы убрали всё, что не вело к выбору тарифа — переходы к оплате выросли в 2.4 раза."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20aw",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20au",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Кнопка там, где созрел пользователь. "
+          },
+          {
+            "_key": "t20av",
+            "_type": "span",
+            "marks": [],
+            "text": "Не только в шапке: после выгод, после цен, после отзывов. Человек не должен листать назад, чтобы сказать «да»."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20az",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20ax",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Реальные фото вместо стока. "
+          },
+          {
+            "_key": "t20ay",
+            "_type": "span",
+            "marks": [],
+            "text": "Efedra: фото врачей и кабинетов вместо стоковых улыбок — часть редизайна, который дал ×3.2 заявок. Сток экономит день на старте и стоит заявок годами."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20b2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20b0",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Цифры вместо прилагательных. "
+          },
+          {
+            "_key": "t20b1",
+            "_type": "span",
+            "marks": [],
+            "text": "«Быстрый сервис» — шум. «Отвечаем за 4 часа» — факт. Цифры считываются быстрее и запоминаются дольше."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20b5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20b3",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Прайс на виду. "
+          },
+          {
+            "_key": "t20b4",
+            "_type": "span",
+            "marks": [],
+            "text": "Цены фильтруют нецелевых и строят доверие целевых. Прятать прайс — значит платить менеджеру за разговоры с теми, кому дорого."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20b8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20b6",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Соцдоказательство рядом с действием. "
+          },
+          {
+            "_key": "t20b7",
+            "_type": "span",
+            "marks": [],
+            "text": "Отзыв или цифра — вплотную к кнопке, а не отдельной страницей. Лендинг франшизы Tatarka говорил языком инвестора: цифры юнит-экономики рядом с формой — более $250 000 привлечённых инвестиций."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20bb",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20b9",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Форма на 2–3 поля. "
+          },
+          {
+            "_key": "t20ba",
+            "_type": "span",
+            "marks": [],
+            "text": "Каждое лишнее поле — минус часть заявок. Имя и контакт; остальное выясните в разговоре."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20be",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20bc",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Скорость — это тоже дизайн. "
+          },
+          {
+            "_key": "t20bd",
+            "_type": "span",
+            "marks": [],
+            "text": "Лучший макет не работает на 5-й секунде загрузки. Анимации, которые не тормозят, изображения под мобильный, Lighthouse 90+."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20bh",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20bf",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Один акцентный цвет. "
+          },
+          {
+            "_key": "t20bg",
+            "_type": "span",
+            "marks": [],
+            "text": "Если всё яркое — ничего не заметно. Один цвет для действий, остальное — фон. Глаз сам находит, куда нажимать."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20bi",
+        "_type": "blogImage",
+        "alt": "Лендинг онлайн-курса Aleko Course",
+        "asset": {
+          "_ref": "image-8d2aa5ab1be7ebc8c0618947c5dd2eb729de9c33-3164x2472-png",
+          "_type": "reference"
+        },
+        "caption": "Aleko Course: всё на странице ведёт к выбору тарифа — ×2.4 переходов к оплате"
+      },
+      {
+        "_key": "t20bj",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20bk",
+            "_type": "span",
+            "marks": [],
+            "text": "Как применить это к своему сайту"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t20bp",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20bl",
+            "_type": "span",
+            "marks": [],
+            "text": "Откройте свой сайт и пройдитесь списком: где на каждом экране действие? Где цифры? Где прайс? Мы собрали эти приёмы в чек-лист из 10 вопросов в "
+          },
+          {
+            "_key": "t20bn",
+            "_type": "span",
+            "marks": [
+              "t20bm"
+            ],
+            "text": "разборе дизайна медицинских сайтов"
+          },
+          {
+            "_key": "t20bo",
+            "_type": "span",
+            "marks": [],
+            "text": " — он работает для любой ниши."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t20bm",
+            "_type": "link",
+            "href": "/ru/blog/dizayn-sayta-medicinskogo-centra",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t20bq",
+        "_type": "blogImage",
+        "alt": "Экран с макетом коммерческого сайта в процессе дизайна",
+        "asset": {
+          "_ref": "image-335e5767f1ac6e13732d8190bbf09b28036a4176-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Каждый экран макета отвечает на один вопрос: «какое действие здесь должен сделать человек?»"
+      },
+      {
+        "_key": "t20br",
+        "_type": "ctaCallout",
+        "ctaHref": "/ru/contacts",
+        "ctaLabel": "Получить разбор",
+        "ctaSecondaryHref": "/ru/portfolio",
+        "ctaSecondaryLabel": "Посмотреть кейсы",
+        "eyebrow": "Дизайн-разбор",
+        "heading": "Хотите, чтобы дизайн продавал, а не украшал?",
+        "sub": "Пришлите ссылку на сайт — за 24 часа вернём разбор: какие из 9 приёмов у вас отсутствуют и что это стоит в заявках."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "t209k",
+        "_type": "tldrBox",
+        "items": [
+          "Дизайн або веде до дії, або прикрашає. Продає — **перший**.",
+          "9 прийомів нижче — з реальних проєктів студії, з цифрами",
+          "Рекорди кейсів: **×2.4** переходів до оплати (Aleko), **×3.2** заявок (Efedra), **$250 000+** інвестицій (Tatarka)",
+          "Жоден прийом не потребує «геніального креативу» — тільки дисципліни"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "t209l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t209m",
+            "_type": "span",
+            "marks": [],
+            "text": "Мене часто просять «зробити красиво». Але красиво — це побічний ефект. Справжня задача дизайну комерційного сайту — провести людину до дії: заявки, запису, покупки. Ось девʼять прийомів, які ми застосовуємо в кожному проєкті — і цифри, які вони дали реальним клієнтам."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t209p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t209n",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Одна дія на екран. "
+          },
+          {
+            "_key": "t209o",
+            "_type": "span",
+            "marks": [],
+            "text": "Кожен екран відповідає на одне питання і веде до однієї кнопки. На лендінгу курсу Aleko ми прибрали все, що не вело до вибору тарифу — переходи до оплати зросли у 2.4 раза."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t209s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t209q",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Кнопка там, де дозрів користувач. "
+          },
+          {
+            "_key": "t209r",
+            "_type": "span",
+            "marks": [],
+            "text": "Не тільки в шапці: після вигод, після цін, після відгуків. Людина не повинна гортати назад, щоб сказати «так»."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t209v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t209t",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Реальні фото замість стоку. "
+          },
+          {
+            "_key": "t209u",
+            "_type": "span",
+            "marks": [],
+            "text": "Efedra: фото лікарів і кабінетів замість стокових усмішок — частина редизайну, який дав ×3.2 заявок. Сток економить день на старті і коштує заявок роками."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t209y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t209w",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Цифри замість прикметників. "
+          },
+          {
+            "_key": "t209x",
+            "_type": "span",
+            "marks": [],
+            "text": "«Швидкий сервіс» — шум. «Відповідаємо за 4 години» — факт. Цифри зчитуються швидше і запамʼятовуються довше."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20a1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t209z",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Прайс на видноті. "
+          },
+          {
+            "_key": "t20a0",
+            "_type": "span",
+            "marks": [],
+            "text": "Ціни фільтрують нецільових і будують довіру цільових. Ховати прайс — значить платити менеджеру за розмови з тими, кому дорого."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20a4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20a2",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Соцдоказ поруч із дією. "
+          },
+          {
+            "_key": "t20a3",
+            "_type": "span",
+            "marks": [],
+            "text": "Відгук або цифра — впритул до кнопки, а не окремою сторінкою. Лендінг франшизи Tatarka говорив мовою інвестора: цифри юніт-економіки поруч із формою — понад $250 000 залучених інвестицій."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20a7",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20a5",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Форма на 2–3 поля. "
+          },
+          {
+            "_key": "t20a6",
+            "_type": "span",
+            "marks": [],
+            "text": "Кожне зайве поле — мінус частина заявок. Імʼя і контакт; решту зʼясуєте в розмові."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20aa",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20a8",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Швидкість — це теж дизайн. "
+          },
+          {
+            "_key": "t20a9",
+            "_type": "span",
+            "marks": [],
+            "text": "Найкращий макет не працює на 5-й секунді завантаження. Анімації, які не гальмують, зображення під мобільний, Lighthouse 90+."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20ad",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20ab",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Один акцентний колір. "
+          },
+          {
+            "_key": "t20ac",
+            "_type": "span",
+            "marks": [],
+            "text": "Якщо все яскраве — нічого не помітно. Один колір для дій, решта — фон. Око саме знаходить, куди тиснути."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20ae",
+        "_type": "blogImage",
+        "alt": "Лендінг онлайн-курсу Aleko Course",
+        "asset": {
+          "_ref": "image-8d2aa5ab1be7ebc8c0618947c5dd2eb729de9c33-3164x2472-png",
+          "_type": "reference"
+        },
+        "caption": "Aleko Course: усе на сторінці веде до вибору тарифу — ×2.4 переходів до оплати"
+      },
+      {
+        "_key": "t20af",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20ag",
+            "_type": "span",
+            "marks": [],
+            "text": "Як застосувати це до свого сайту"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t20al",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20ah",
+            "_type": "span",
+            "marks": [],
+            "text": "Відкрийте свій сайт і пройдіться списком: де на кожному екрані дія? Де цифри? Де прайс? Ми зібрали ці прийоми в чек-лист із 10 питань у "
+          },
+          {
+            "_key": "t20aj",
+            "_type": "span",
+            "marks": [
+              "t20ai"
+            ],
+            "text": "розборі дизайну медичних сайтів"
+          },
+          {
+            "_key": "t20ak",
+            "_type": "span",
+            "marks": [],
+            "text": " — він працює для будь-якої ніші."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t20ai",
+            "_type": "link",
+            "href": "/blog/dyzain-saitu-medychnoho-tsentru",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t20am",
+        "_type": "blogImage",
+        "alt": "Екран з макетом комерційного сайту в процесі дизайну",
+        "asset": {
+          "_ref": "image-335e5767f1ac6e13732d8190bbf09b28036a4176-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Кожен екран макета відповідає на одне питання: «яку дію тут має зробити людина?»"
+      },
+      {
+        "_key": "t20an",
+        "_type": "ctaCallout",
+        "ctaHref": "/contacts",
+        "ctaLabel": "Отримати розбір",
+        "ctaSecondaryHref": "/portfolio",
+        "ctaSecondaryLabel": "Подивитись кейси",
+        "eyebrow": "Дизайн-розбір",
+        "heading": "Хочете, щоб дизайн продавав, а не прикрашав?",
+        "sub": "Надішліть посилання на сайт — за 24 години повернемо розбір: які з 9 прийомів у вас відсутні і що це коштує в заявках."
+      }
+    ]
+  },
+  "slug": "9-dyzain-pryiomiv-dlia-konversii"
+}

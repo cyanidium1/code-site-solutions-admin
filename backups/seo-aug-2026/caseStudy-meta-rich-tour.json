@@ -1,0 +1,26 @@
+{
+  "_id": "DHIwRDN3sEoI638qoYPeBH",
+  "metricsLine": {
+    "en": "1 agent portal · 1 CRM · 2 audiences · 3 sales tracks on the site",
+    "ru": "1 кабинет агентов · 1 CRM · 2 аудитории · 3 направления продаж",
+    "uk": "1 кабінет агентів · 1 CRM · 2 аудиторії · 3 напрями продажів"
+  },
+  "seo": {
+    "description": {
+      "en": "➤ Complex travel service website ✔️ Cost calculator ✔️ Agent portal & CRM ✔️ SEO-driven content structure ➡ See the full case study.",
+      "ru": "Туристическая платформа: каталог туров, поиск по стране и месяцу, кабинет агентов, CRM для заявок, SMART-туры и корпоративные направления.",
+      "uk": "Туристична платформа: каталог турів, пошук за країною та місяцем, кабінет агентів, CRM для заявок, SMART-тури та корпоративні напрями."
+    },
+    "title": {
+      "en": "ᐈ Rich Tour — Travel Agency Website with Agent Portal & CRM | Code-Site.Art",
+      "ru": "Rich Tour — сайт туристического агентства с кабинетом агентов и CRM | Code-Site.Art",
+      "uk": "Rich Tour — сайт туристичної агенції з кабінетом агентів і CRM | Code-Site.Art"
+    }
+  },
+  "slug": "rich-tour",
+  "title": {
+    "en": "Rich Tour",
+    "ru": "Rich Tour",
+    "uk": "Rich Tour"
+  }
+}

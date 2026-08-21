@@ -1,0 +1,37 @@
+{
+  "_id": "55d905e6-199d-47a8-8d46-e677a93f5ffc",
+  "lede": {
+    "en": "Search Console is Google's free report on how people find your business. Code-Site.Art's SEO specialist explains the 4 metrics and 3 reports worth checking once a month — in 10 minutes.",
+    "ru": "Search Console — бесплатный отчёт Google о том, как люди ищут ваш бизнес. SEO-специалист Code-Site.Art объясняет 4 метрики и 3 отчёта, которые стоит смотреть раз в месяц — за 10 минут.",
+    "uk": "Search Console — безкоштовний звіт Google про те, як люди шукають ваш бізнес. SEO-спеціалістка Code-Site.Art пояснює 4 метрики і 3 звіти, які варто дивитись раз на місяць — за 10 хвилин."
+  },
+  "metaDescription": {
+    "en": "➤ Google Search Console in 10 minutes a month ✔️ Impressions, position, clicks, CTR in plain language ✔️ What \"impressions but no clicks\" means ➡ A guide with screenshots.",
+    "ru": "➤ Google Search Console за 10 минут в месяц ✔️ Показы, позиция, клики, CTR человеческим языком ✔️ Что значит «показы есть — кликов нет» ➡ Гайд со скринами.",
+    "uk": "➤ Google Search Console за 10 хвилин на місяць ✔️ Покази, позиція, кліки, CTR людською мовою ✔️ Що означає «покази є — кліків нема» ➡ Гайд зі скрінами."
+  },
+  "metaTitle": {
+    "en": "How to Read Google Search Console: An Owner's Guide | Code-Site.Art",
+    "ru": "Как читать Google Search Console: гайд для владельца | Code-Site.Art",
+    "uk": "Як читати Google Search Console: гайд для власника | Code-Site.Art"
+  },
+  "slugs": {
+    "en": {
+      "_type": "slug",
+      "current": "google-search-console-for-business-owners"
+    },
+    "ru": {
+      "_type": "slug",
+      "current": "kak-chitat-google-search-console"
+    },
+    "uk": {
+      "_type": "slug",
+      "current": "yak-chytaty-google-search-console"
+    }
+  },
+  "title": {
+    "en": "How to Read Google Search Console: A Guide for Business Owners Without an SEO",
+    "ru": "Как читать Google Search Console: гайд для владельца бизнеса без SEO-шника",
+    "uk": "Як читати Google Search Console: гайд для власника бізнесу без SEO-шника"
+  }
+}

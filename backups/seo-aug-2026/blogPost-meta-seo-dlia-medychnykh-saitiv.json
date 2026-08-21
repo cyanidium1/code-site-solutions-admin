@@ -1,0 +1,37 @@
+{
+  "_id": "b83bb99b-0289-4f44-a937-3263b8f8fcf3",
+  "lede": {
+    "en": "80% of patients never scroll past page one of Google. Code-Site.Art's SEO specialist breaks down what medical SEO is made of — and why local search beats generic queries.",
+    "ru": "80% пациентов не листают дальше первой страницы Google. SEO-специалист Code-Site.Art разбирает, из чего складывается продвижение медицинского сайта — и почему локальный поиск важнее общих запросов.",
+    "uk": "80% пацієнтів не гортають далі першої сторінки Google. SEO-спеціалістка Code-Site.Art розбирає, з чого складається просування медичного сайту — і чому локальний пошук важливіший за загальні запити."
+  },
+  "metaDescription": {
+    "en": "➤ Medical website SEO: local search, service pages, E-E-A-T ✔️ Case: 340 → 1,460 clicks in 6 months ✔️ Retainers £300–500/mo ➡ A specialist's breakdown.",
+    "ru": "➤ SEO для медицинских сайтов: локальный поиск, страницы услуг, E-E-A-T ✔️ Кейс: 340 → 1 460 переходов за 6 месяцев ✔️ Кампания $300–500/мес ➡ Разбор специалиста.",
+    "uk": "➤ SEO для медичних сайтів: локальний пошук, сторінки послуг, E-E-A-T ✔️ Кейс: 340 → 1 460 переходів за 6 місяців ✔️ Кампанія $300–500/міс ➡ Розбір спеціалістки."
+  },
+  "metaTitle": {
+    "en": "Medical Website SEO: A Clinic's Step-by-Step Guide | Code-Site.Art",
+    "ru": "SEO для медицинских сайтов: продвижение клиники пошагово | Code-Site.Art",
+    "uk": "SEO для медичних сайтів: просування клініки покроково | Code-Site.Art"
+  },
+  "slugs": {
+    "en": {
+      "_type": "slug",
+      "current": "medical-website-seo-guide"
+    },
+    "ru": {
+      "_type": "slug",
+      "current": "seo-dlya-medicinskih-saytov"
+    },
+    "uk": {
+      "_type": "slug",
+      "current": "seo-dlia-medychnykh-saitiv"
+    }
+  },
+  "title": {
+    "en": "Medical Website SEO: How a Clinic Wins \"Dentist + Area\"",
+    "ru": "SEO для медицинских сайтов: как клинике занять «стоматолог + район»",
+    "uk": "SEO для медичних сайтів: як клініці зайняти «стоматолог + район»"
+  }
+}

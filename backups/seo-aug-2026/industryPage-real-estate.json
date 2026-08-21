@@ -1,0 +1,2294 @@
+{
+  "_createdAt": "2026-06-04T17:37:02Z",
+  "_id": "lOTgaDd8FU4wgJ8F4KCHLf",
+  "_rev": "22uPhQi95aN0jC0OXiqAgs",
+  "_system": {
+    "base": {
+      "id": "lOTgaDd8FU4wgJ8F4KCHLf",
+      "rev": "n3kbNYBoL1jFrKaaxBICIz"
+    }
+  },
+  "_type": "industryPage",
+  "_updatedAt": "2026-07-30T18:58:38Z",
+  "hero": {
+    "ctaPrimary": {
+      "en": "Discuss my project",
+      "ru": "Обсудить мой проект",
+      "uk": "Обговорити мій проєкт"
+    },
+    "ctaSecondary": {
+      "en": "See property case studies",
+      "ru": "Посмотреть real estate кейсы",
+      "uk": "Подивитися real estate кейси"
+    },
+    "deviceMockup": {
+      "_type": "imageWithLocalizedAlt",
+      "alt": {
+        "_type": "localizedString",
+        "en": "Domlivo property website on laptop and phone with listings in Albania and search filters",
+        "ru": "Сайт недвижимости Domlivo на ноутбуке и телефоне с объектами в Албании и фильтрами поиска",
+        "uk": "Сайт нерухомості Domlivo на ноутбуці і телефоні з об'єктами в Албанії і фільтрами пошуку"
+      },
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-deef46e201af5ffdc1a4cffe07cb11c6117afe8d-1199x1133-png",
+          "_type": "reference"
+        }
+      }
+    },
+    "deviceTags": [
+      {
+        "_key": "rea-dt-4",
+        "kind": "default",
+        "primary": {
+          "en": "5 languages · 4 currencies",
+          "ru": "5 языков · 4 валюты",
+          "uk": "5 мов · 4 валюти"
+        }
+      },
+      {
+        "_key": "rea-dt-5",
+        "kind": "default",
+        "primary": {
+          "en": "Google Maps",
+          "ru": "Google Maps",
+          "uk": "Google Maps"
+        }
+      },
+      {
+        "_key": "rea-dt-6",
+        "kind": "good",
+        "mini": "EU",
+        "primary": {
+          "en": "Geo-routing",
+          "ru": "Geo-routing",
+          "uk": "Geo-routing"
+        }
+      }
+    ],
+    "eyebrow": {
+      "en": "WEBSITES FOR PROPERTY",
+      "ru": "САЙТЫ ДЛЯ НЕДВИЖИМОСТИ",
+      "uk": "САЙТИ ДЛЯ НЕРУХОМОСТІ"
+    },
+    "features": [
+      {
+        "_key": "FgFZzy882mp21voM3Nhvku",
+        "en": "English-first | additional languages on request",
+        "ru": "Мультиязычность | UA · EN · DE · PL · IT",
+        "uk": "Мультимовність | UA · EN · DE · PL · IT"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3Nhvog",
+        "en": "Pricing | GBP, with EUR/USD for overseas buyers",
+        "ru": "Мультивалютность | EUR · USD · GBP · UAH",
+        "uk": "Мультивалютність | EUR · USD · GBP · UAH"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NhvsS",
+        "en": "Mortgage calculator | region-aware",
+        "ru": "Калькулятор стоимости | с привязкой к региону",
+        "uk": "Калькулятор вартості | з привʼязкою до регіону"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NhvwE",
+        "en": "Landings | per market and property type",
+        "ru": "Лендинги | под рынок и тип недвижимости",
+        "uk": "Лендинги | під ринок і тип нерухомості"
+      }
+    ],
+    "h1Num": "4",
+    "h1NumLabel": {
+      "en": "currencies\nalongside 5 languages",
+      "ru": "валюты\nрядом с 5 языками",
+      "uk": "валюти\nрядом з 5 мовами"
+    },
+    "heading": {
+      "en": "A property website that *presents your listings and brings in enquiries*",
+      "ru": "Сайт для недвижимости, который презентует объекты и приводит заявки",
+      "uk": "Сайт для нерухомості, який презентує об’єкти і приводить заявки"
+    },
+    "lede": {
+      "en": "A property catalogue, filters, a map, languages, currencies, a mortgage calculator and enquiry forms, brought together in *one system* that works for the local market and for overseas buyers.",
+      "ru": "Каталог объектов, фильтры, карта, мультиязычность, валюты, mortgage-калькулятор и формы заявок собираются в одну систему, которая работает и для локального рынка, и для иностранных клиентов.",
+      "uk": "Каталог об’єктів, фільтри, карта, мультимовність, валюти, mortgage-калькулятор і форми заявок збираються в одну систему, яка працює і для локального ринку, і для іноземних клієнтів."
+    },
+    "stats": [
+      {
+        "_key": "rea-st-1",
+        "label": {
+          "en": "clear pricing\nfor every buyer",
+          "ru": "цены понятны разным покупателям",
+          "uk": "ціни зрозумілі для різних покупців"
+        },
+        "value": {
+          "en": "4 currencies",
+          "ru": "4 валюты",
+          "uk": "4 валюти"
+        }
+      },
+      {
+        "_key": "rea-st-2",
+        "label": {
+          "en": "viewing, consultation\nor matching",
+          "ru": "просмотр, консультация или подбор объекта",
+          "uk": "перегляд, консультація або підбір об’єкта"
+        },
+        "value": {
+          "en": "3 enquiry routes",
+          "ru": "3 сценария заявки",
+          "uk": "3 сценарії заявки"
+        }
+      },
+      {
+        "_key": "rea-st-3",
+        "label": {
+          "en": "simultaneous",
+          "ru": "одновременно",
+          "uk": "одночасно"
+        },
+        "value": {
+          "en": "UK + overseas",
+          "ru": "5 рынков",
+          "uk": "5 ринків"
+        }
+      }
+    ],
+    "tickerItems": [
+      {
+        "_key": "FgFZzy882mp21voM3Nhv1c",
+        "en": "Estate agencies",
+        "ru": "Агентства недвижимости",
+        "uk": "Агенції нерухомості"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3Nhv5O",
+        "en": "Developers",
+        "ru": "Застройщики",
+        "uk": "Забудовники"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3Nhv9A",
+        "en": "Private listings",
+        "ru": "Частные листинги",
+        "uk": "Приватні листинги"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NhvCw",
+        "en": "Investment property",
+        "ru": "Инвестиционная недвижимость",
+        "uk": "Інвестиційна нерухомість"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NhvGi",
+        "en": "Resort property",
+        "ru": "Курортная недвижимость",
+        "uk": "Курортна нерухомість"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NhvKU",
+        "en": "Commercial",
+        "ru": "Коммерческая недвижимость",
+        "uk": "Комерційна нерухомість"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NhvOG",
+        "en": "Long-term rentals",
+        "ru": "Аренда",
+        "uk": "Оренда"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NhvS2",
+        "en": "Short-term rentals",
+        "ru": "Краткосрочная аренда",
+        "uk": "Короткострокова оренда"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NhvVo",
+        "en": "Foreign property",
+        "ru": "Зарубежная недвижимость",
+        "uk": "Іноземна нерухомість"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NhvZa",
+        "en": "Premium segment",
+        "ru": "Premium-сегмент",
+        "uk": "Premium-сегмент"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NhvdM",
+        "en": "New-build",
+        "ru": "New-build",
+        "uk": "New-build"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3Nhvh8",
+        "en": "Resale",
+        "ru": "Реселл",
+        "uk": "Реселл"
+      }
+    ]
+  },
+  "order": 7,
+  "relatedCases": [
+    {
+      "_key": "dml-rel-1",
+      "_ref": "n3kbNYBoL1jFrKaaxAvIfd",
+      "_type": "reference"
+    }
+  ],
+  "sections": [
+    {
+      "_key": "rea-sec-7",
+      "_type": "reasonsBlock",
+      "eyebrow": {
+        "en": "DIAGNOSIS · 3 REASONS",
+        "ru": "ДИАГНОСТИКА · 3 ПРИЧИНЫ",
+        "uk": "ДІАГНОСТИКА · 3 ПРИЧИНИ"
+      },
+      "footCta": {
+        "label": {
+          "en": "Audit my site",
+          "ru": "Проверить мой сайт",
+          "uk": "Перевірити мій сайт"
+        },
+        "type": "custom"
+      },
+      "footCtaLabel": {
+        "en": "Audit my site",
+        "ru": "Проверить мой сайт",
+        "uk": "Перевірити мій сайт"
+      },
+      "footText": {
+        "en": "We fix *all three* in 6-10 weeks.",
+        "ru": "Исправляем *все три* за 6-10 недель.",
+        "uk": "Виправляємо *всі три* за 6-10 тижнів."
+      },
+      "heading": {
+        "en": "3 reasons your property site\n*doesn’t bring clients*",
+        "ru": "3 причины, почему ваш сайт недвижимости\n*не приводит клиентов*",
+        "uk": "3 причини, чому ваш сайт нерухомості\n*не приводить клієнтів*"
+      },
+      "metaRows": [
+        {
+          "_key": "FgFZzy882mp21voM3Nhw00",
+          "en": "audit of 50+ property sites · 2024–25",
+          "ru": "анализ 50+ real estate сайтов · 2024–25",
+          "uk": "аналіз 50+ real estate сайтів · 2024–25"
+        }
+      ],
+      "reasons": [
+        {
+          "_key": "rea-r-8",
+          "number": "01",
+          "stat": {
+            "label": {
+              "en": "of clients drop off due to weak property filters",
+              "ru": "клиентов сливаются из-за неудачного фильтра объектов",
+              "uk": "клієнтів зливаються через невдалий фільтр обʼєктів"
+            },
+            "value": "78%"
+          },
+          "tag": {
+            "en": "CATALOGUE UX",
+            "ru": "CATALOG UX",
+            "uk": "CATALOG UX"
+          },
+          "text": {
+            "en": [
+              {
+                "_key": "rea-b-16",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "rea-s-13",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "The client is looking for a 2-3 bedroom flat in the £250-350k range in a particular part of Manchester with parking. On your site: 200 listings in a feed without filters by area, m², budget. "
+                  },
+                  {
+                    "_key": "rea-s-14",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "They go to a competitor with a map + filters"
+                  },
+                  {
+                    "_key": "rea-s-15",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "fcfa11703f3440ac95e2b1cb433dd946",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e068364beeb5446b86f64524403a2367",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Клиент ищет квартиру 2-3 комнаты в бюджете 150-200k евро в Бараньоне в Барселоне с парковкой. У вас — 200 объектов в ленте без фильтров по району, метражу, бюджету. Уходит на сайт конкурента с картой + фильтрами."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "rea-b-12",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "rea-s-9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Клієнт шукає квартиру 2-3 кімнати в бюджеті 150-200k євро в Бараньон у Барселоні з парковкою. У вас — 200 обʼєктів у стрічці без фільтрів за районом, метражем, бюджетом. "
+                  },
+                  {
+                    "_key": "rea-s-10",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Йде на сайт конкурента з картою + фільтрами"
+                  },
+                  {
+                    "_key": "rea-s-11",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "title": {
+            "en": "Property catalogue without proper filters or a map",
+            "ru": "Каталог объектов без нормальных фильтров и карты",
+            "uk": "Каталог обʼєктів без нормальних фільтрів і карти"
+          }
+        },
+        {
+          "_key": "rea-r-17",
+          "number": "02",
+          "stat": {
+            "label": {
+              "en": "higher conversion on listings with 360° tours or video walkthroughs",
+              "ru": "выше конверсия у листингов с 360°-турами или видео-обзорами",
+              "uk": "вища конверсія у листингів з 360°-турами або відео-оглядами"
+            },
+            "value": "×3.6"
+          },
+          "tag": {
+            "en": "TRUST",
+            "ru": "TRUST",
+            "uk": "TRUST"
+          },
+          "text": {
+            "en": [
+              {
+                "_key": "rea-b-25",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "rea-s-22",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "A listing with 5 developer renders from the studio, zero real shots of windows, views, interiors. The client is planning a £100-500k investment and gets no \"feel\" for the property. "
+                  },
+                  {
+                    "_key": "rea-s-23",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Without a 360° tour or video, the property feels risky"
+                  },
+                  {
+                    "_key": "rea-s-24",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "b2c37ee366a54898a02cf54bddcd9258",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "88d8ceaf77684dd4b1aa6525bd62fb2f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Листинг объекта: 5 фото от застройщика из студии, без реальных кадров окон, видов, интерьеров. Клиент планирует инвестицию $100-500k и не получает никакого \"ощущения\" объекта. Без 360°-тура или видео объект воспринимается как риск."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "rea-b-21",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "rea-s-18",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Лістинг обʼєкту: 5 фото від забудовника зі студії, без реальних кадрів вікон, краєвидів, інтерʼєрів. Клієнт планує інвестицію $100-500k і не отримує жодного \"відчуття\" обʼєкту. "
+                  },
+                  {
+                    "_key": "rea-s-19",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Без 360°-туру або відео обʼєкт сприймається як ризик"
+                  },
+                  {
+                    "_key": "rea-s-20",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "title": {
+            "en": "Stock renders instead of real photos",
+            "ru": "Шаблонные рендеры вместо настоящих фото",
+            "uk": "Шаблонні рендери замість справжніх фото"
+          }
+        },
+        {
+          "_key": "rea-r-26",
+          "number": "03",
+          "stat": {
+            "label": {
+              "en": "market expansion via multi-language",
+              "ru": "расширение рынка через мультиязычность",
+              "uk": "розширення ринку через мультимовність"
+            },
+            "value": "×5"
+          },
+          "tag": {
+            "en": "LANGUAGE",
+            "ru": "LANGUAGE",
+            "uk": "LANGUAGE"
+          },
+          "text": {
+            "en": [
+              {
+                "_key": "rea-b-34",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "rea-s-31",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Sell to UK buyers in clear English, and serve overseas demand on the same site. A resort or second-home agency needs English plus the buyer's own language to convert. "
+                  },
+                  {
+                    "_key": "rea-s-32",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "An English-only site can leave overseas demand on the table"
+                  },
+                  {
+                    "_key": "rea-s-33",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "ed9bd39286ea4399a113c27ed4f3a972",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "573a34c462f8441881283d3e3fb46aba",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Украинская недвижимость — UA для украинских клиентов, но EN / RU для диаспоры, PL для польских инвесторов, DE для немецких. Испанская курортная — EN / DE / FR / RU обязательно. Один сайт на одном языке = 1/5 потенциальной аудитории."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "rea-b-30",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "rea-s-27",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Українська нерухомість — UA для українських клієнтів, але EN / RU для діаспори, PL для польських інвесторів, DE для німецьких. Іспанська курортна — EN / DE / FR / RU обовʼязково. "
+                  },
+                  {
+                    "_key": "rea-s-28",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Один сайт на одній мові = 1/5 потенційної аудиторії"
+                  },
+                  {
+                    "_key": "rea-s-29",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "title": {
+            "en": "Single-language site: losing foreign clients",
+            "ru": "Сайт только на одном языке — теряете иностранных клиентов",
+            "uk": "Сайт тільки на одній мові — втрачаєте іноземних клієнтів"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "rea-sec-35",
+      "_type": "caseBlock",
+      "after": {
+        "image": {
+          "_type": "imageWithLocalizedAlt",
+          "alt": {
+            "_type": "localizedString",
+            "en": "Domlivo site with a multilingual interface, prices in euros and property search on laptop and phone",
+            "ru": "Сайт Domlivo с многоязычным интерфейсом, ценами в евро и поиском объектов на ноутбуке и телефоне",
+            "uk": "Сайт Domlivo з багатомовним інтерфейсом, цінами в євро і пошуком об'єктів на ноутбуці і телефоні"
+          },
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-80669cabb4c31b9e510113e62bfd99bd561b5c40-2884x2058-png",
+              "_type": "reference"
+            }
+          }
+        },
+        "items": [
+          {
+            "_key": "FgFZzy882mp21voM3Nhw3m",
+            "en": "Catalogue for buying, renting and short-let",
+            "ru": "Каталог объектов для покупки, аренды и краткосрочной аренды",
+            "uk": "Каталог об’єктів для купівлі, оренди та короткострокової оренди"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3Nhw7Y",
+            "en": "Filters by location, property type and price range",
+            "ru": "Фильтры по локации, типу объекта и диапазону цены",
+            "uk": "Фільтри за локацією, типом об’єкта та діапазоном ціни"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NhwBK",
+            "en": "Property cards with photo, price, floor area, rooms, location and status",
+            "ru": "Карточки объектов с фото, ценой, площадью, комнатами, локацией и статусом",
+            "uk": "Картки об’єктів з фото, ціною, площею, кімнатами, локацією та статусом"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NhwF6",
+            "en": "Dedicated pages per city: Tirana, Durrës, Vlorë, Sarandë",
+            "ru": "Отдельные страницы для городов: Тирана, Дуррес, Влёра, Саранда",
+            "uk": "Окремі сторінки для міст: Тирана, Дуррес, Вльора, Саранда"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NhwIs",
+            "en": "A section for each property type: flats, houses, villas, commercial units",
+            "ru": "Раздел для разных типов недвижимости: квартиры, дома, виллы, коммерческие объекты",
+            "uk": "Розділ для різних типів нерухомості: квартири, будинки, вілли, комерційні об’єкти"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NhwMe",
+            "en": "An investment-property block that spells out the upside",
+            "ru": "Блок инвестиционной недвижимости с объяснением преимуществ",
+            "uk": "Блок інвестиційної нерухомості з поясненням переваг"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NhwQQ",
+            "en": "A dedicated flow for agents and estate agencies",
+            "ru": "Отдельный сценарий для агентов и агентств недвижимости",
+            "uk": "Окремий сценарій для агентів і агентств нерухомості"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NhwUC",
+            "en": "Enquiry forms for buyers, renters and agents",
+            "ru": "Формы заявок для покупателей, арендаторов и агентов",
+            "uk": "Форми заявок для покупців, орендарів та агентів"
+          }
+        ],
+        "num": "DOMLIVO · NEXT.JS · 2024",
+        "tagline": {
+          "_type": "localizedString",
+          "en": "WHAT WE BUILT IN THIS CASE",
+          "ru": "ЧТО МЫ СДЕЛАЛИ В ЭТОМ КЕЙСЕ",
+          "uk": "ЩО МИ ЗРОБИЛИ В ЦЬОМУ КЕЙСІ"
+        }
+      },
+      "before": {
+        "foot": {
+          "en": "Result: 5-10 leads/month, mostly local, foreign clients walk past.",
+          "ru": "Результат: 5-10 лидов/месяц, преимущественно местных, foreign-клиенты проходят мимо.",
+          "uk": "Результат: 5-10 лідів/місяць, переважно місцевих, foreign-клієнти проходять повз."
+        },
+        "items": [
+          {
+            "_key": "FgFZzy882mp21voM3Nhwbk",
+            "en": "50-200 listings without filters by budget / area",
+            "ru": "Каталог 50-200 объектов без фильтров по бюджету / району",
+            "uk": "Каталог 50-200 обʼєктів без фільтрів за бюджетом / районом"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NhwfW",
+            "en": "One language (usually local), one-currency pricing",
+            "ru": "Один язык (обычно локальный), один валютный прайс",
+            "uk": "Одна мова (зазвичай локальна), один валютний прайс"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NhwjI",
+            "en": "No mortgage calculator",
+            "ru": "Без mortgage-калькулятора",
+            "uk": "Без mortgage-калькулятора"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3Nhwn4",
+            "en": "No Google Maps integration, so the client doesn’t know where the property is",
+            "ru": "Без Google Maps интеграции — клиент не знает, где объект",
+            "uk": "Без Google Maps інтеграції — клієнт не знає де обʼєкт"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3Nhwqq",
+            "en": "No video tours / 360°",
+            "ru": "Без видео-туров / 360°",
+            "uk": "Без відео-турів / 360°"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3Nhwuc",
+            "en": "\"Call us\" lead form with zero detail",
+            "ru": "Лид-форма \"Позвоните нам\" без каких-либо деталей",
+            "uk": "Лід-форма \"Зателефонуйте нам\" без жодних деталей"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NhwyO",
+            "en": "No structured landings per property type",
+            "ru": "Без структурированных лендингов под типы объектов",
+            "uk": "Без структурованих лендингів під типи обʼєктів"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3Nhx2A",
+            "en": "Zero SEO: one page about \"buying an apartment\"",
+            "ru": "SEO ноль: одна страница про \"купить квартиру\"",
+            "uk": "SEO нуль: одна сторінка про \"купити квартиру\""
+          }
+        ],
+        "num": "RE INDUSTRY · TYPICAL · 2023",
+        "tagline": {
+          "_type": "localizedString",
+          "en": "A site that doesn't convert",
+          "ru": "Сайт, который не продаёт",
+          "uk": "Сайт, що не продає"
+        }
+      },
+      "cta": {
+        "_type": "ctaAction",
+        "label": {
+          "_type": "localizedString",
+          "en": "See property case studies",
+          "ru": "Посмотреть кейсы недвижимости",
+          "uk": "Подивитися кейси нерухомості"
+        },
+        "type": "custom"
+      },
+      "ctaText": {
+        "_type": "localizedText",
+        "en": "Want **the same kind of result**? See how we do it.",
+        "ru": "Хотите **такой же результат**? Посмотрите, как мы это делаем.",
+        "uk": "Хочете **такий самий результат**? Подивіться, як ми це робимо."
+      },
+      "eyebrow": {
+        "en": "REAL CASE",
+        "ru": "РЕАЛЬНЫЙ КЕЙС",
+        "uk": "РЕАЛЬНИЙ КЕЙС"
+      },
+      "eyebrowEm": {
+        "en": "Domlivo",
+        "ru": "Domlivo",
+        "uk": "Domlivo"
+      },
+      "heading": {
+        "en": "A ready-made solution for a property platform in Albania",
+        "ru": "ГОТОВОЕ РЕШЕНИЕ ДЛЯ ПЛАТФОРМЫ НЕДВИЖИМОСТИ В АЛБАНИИ",
+        "uk": "ГОТОВЕ РІШЕННЯ ДЛЯ ПЛАТФОРМИ НЕРУХОМОСТІ В АЛБАНІЇ"
+      },
+      "lede": {
+        "en": "Domlivo is a platform for buying, renting and short-letting property in Albania. The brief went beyond an agency site: bring the property catalogue, search, filters, cities, property types, enquiries and a separate agent flow together in one system.",
+        "ru": "Domlivo — платформа для покупки, аренды и краткосрочной аренды недвижимости в Албании. Задача была не просто сделать сайт агентства, а собрать в одну систему каталог объектов, поиск, фильтры, города, типы недвижимости, заявки и отдельный сценарий для агентов.",
+        "uk": "Domlivo — платформа для купівлі, оренди та короткострокової оренди нерухомості в Албанії. Завдання було не просто зробити сайт агентства, а зібрати в одну систему каталог об’єктів, пошук, фільтри, міста, типи нерухомості, заявки та окремий сценарій для агентів."
+      },
+      "meta": [
+        {
+          "_key": "rea-cm-36",
+          "strong": {
+            "en": "4 cities",
+            "ru": "4 города",
+            "uk": "4 міста"
+          },
+          "text": {
+            "en": "Tirana, Durrës, Vlorë, Sarandë",
+            "ru": "Тирана, Дуррес, Влёра, Саранда",
+            "uk": "Тирана, Дуррес, Вльора, Саранда"
+          }
+        },
+        {
+          "_key": "rea-cm-37",
+          "strong": {
+            "en": "5 languages · 4 currencies",
+            "ru": "5 языков · 4 валюты",
+            "uk": "5 мов · 4 валюти"
+          },
+          "text": {
+            "en": "EN · DE · IT · PL · UA",
+            "ru": "UA · EN · DE · IT · PL",
+            "uk": "UA · EN · DE · IT · PL"
+          }
+        },
+        {
+          "_key": "rea-cm-38",
+          "strong": {
+            "en": "3 scenarios",
+            "ru": "3 сценария",
+            "uk": "3 сценарії"
+          },
+          "text": {
+            "en": "buy, rent, short-let",
+            "ru": "покупка, аренда, краткосрочная аренда",
+            "uk": " купівля, оренда, короткострокова оренда"
+          }
+        }
+      ],
+      "results": [
+        {
+          "_key": "rea-rs-39",
+          "label": {
+            "en": "at once, from one site",
+            "ru": "одновременно с одного сайта",
+            "uk": "одночасно з одного сайту"
+          },
+          "tag": {
+            "en": "MARKETS",
+            "ru": "MARKETS",
+            "uk": "MARKETS"
+          },
+          "value": {
+            "en": "5",
+            "ru": "5",
+            "uk": "5"
+          }
+        },
+        {
+          "_key": "rea-rs-40",
+          "label": {
+            "en": "GBP · EUR · USD · UAH",
+            "ru": "EUR · USD · GBP · UAH",
+            "uk": "EUR · USD · GBP · UAH"
+          },
+          "tag": {
+            "en": "CURRENCIES",
+            "ru": "CURRENCIES",
+            "uk": "CURRENCIES"
+          },
+          "value": {
+            "en": "4",
+            "ru": "4",
+            "uk": "4"
+          }
+        },
+        {
+          "_key": "rea-rs-41",
+          "label": {
+            "en": "for a new agency",
+            "ru": "для нового агентства",
+            "uk": "для нової агенції"
+          },
+          "tag": {
+            "en": "DEPLOY TIME",
+            "ru": "DEPLOY TIME",
+            "uk": "DEPLOY TIME"
+          },
+          "value": {
+            "en": "4 weeks",
+            "ru": "4 недели",
+            "uk": "4 тижні"
+          }
+        },
+        {
+          "_key": "rea-rs-42",
+          "label": {
+            "en": "hreflang + Schema.org",
+            "ru": "hreflang + Schema.org",
+            "uk": "hreflang + Schema.org"
+          },
+          "tag": {
+            "en": "MULTI-LANG SEO",
+            "ru": "MULTI-LANG SEO",
+            "uk": "MULTI-LANG SEO"
+          },
+          "value": {
+            "en": "full",
+            "ru": "full",
+            "uk": "full"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "rea-sec-43",
+      "_type": "outcomeBlock",
+      "benefitRows": [
+        {
+          "_key": "rea-br-44",
+          "heading": {
+            "en": "Catalogue with 12-parameter filters and a map",
+            "ru": "Каталог с 12-параметровыми фильтрами и картой",
+            "uk": "Каталог з 12-параметровими фільтрами і картою"
+          },
+          "image": {
+            "_type": "imageWithLocalizedAlt",
+            "alt": {
+              "_type": "localizedString",
+              "en": "Domlivo catalogue page",
+              "ru": "Страница каталога Domlivo",
+              "uk": "Сторінка каталогу Domlivo"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-af04939410f8b113ddffe04b61cc075d790a0fcb-2884x2058-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3Nhxa8",
+              "en": "Filters: area, type, price, m², rooms, condition, balcony, parking",
+              "ru": "Фильтры: район, тип, цена, метраж, комнаты, ремонт, балкон, парковка",
+              "uk": "Фільтри: район, тип, ціна, метраж, кімнати, ремонт, балкон, парковка"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Nhxdu",
+              "en": "Google Maps with all listings at once",
+              "ru": "Google Maps со всеми объектами одновременно",
+              "uk": "Google Maps з усіма обʼєктами одночасно"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Nhxhg",
+              "en": "Price heatmap by area",
+              "ru": "Heatmap цен по районам",
+              "uk": "Heatmap цін за районами"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NhxlS",
+              "en": "Favourites persist between sessions",
+              "ru": "Сохранение избранного между сессиями",
+              "uk": "Збереження обраного між сесіями"
+            }
+          ],
+          "mockTags": [
+            {
+              "_key": "FgFZzy882mp21voM3NhxpE",
+              "en": "Map",
+              "ru": "Карта",
+              "uk": "Карта"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Nhxt0",
+              "en": "Filters",
+              "ru": "Фильтры",
+              "uk": "Фільтри"
+            }
+          ],
+          "mockType": "pages"
+        },
+        {
+          "_key": "rea-br-45",
+          "heading": {
+            "en": "Viewing enquiries",
+            "ru": "ЗАЯВКИ НА ПРОСМОТР",
+            "uk": "ЗАЯВКИ НА ПЕРЕГЛЯД"
+          },
+          "image": {
+            "_type": "imageWithLocalizedAlt",
+            "alt": {
+              "_type": "localizedString",
+              "en": "Domlivo contact form",
+              "ru": "Форма контактов Domlivo",
+              "uk": "Форма контактів Domlivo"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-cfd6bc3bc63cd2949b7c33bda7d59e92b572c811-2884x2058-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3Nhxwm",
+              "en": "An enquiry straight from the property card",
+              "ru": "Заявка с карточки объекта",
+              "uk": "Заявка з картки об’єкта"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Nhy0Y",
+              "en": "A matching form for budget and city",
+              "ru": "Форма подбора под бюджет и город",
+              "uk": "Форма підбору під бюджет і місто"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Nhy4K",
+              "en": "Separate flows for buying, renting and short-lets",
+              "ru": "Отдельно для покупки, аренды и short-term",
+              "uk": "Окремо для купівлі, оренди та short-term"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Nhy86",
+              "en": "The contact goes straight to an agent",
+              "ru": "Контакт сразу передаётся агенту",
+              "uk": "Контакт одразу передається агенту"
+            }
+          ],
+          "mockTags": [
+            {
+              "_key": "FgFZzy882mp21voM3NhyBs",
+              "en": "Enquiry",
+              "ru": "Заявка",
+              "uk": "Заявка"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NhyFe",
+              "en": "Form",
+              "ru": "Форма",
+              "uk": "Форма"
+            }
+          ],
+          "mockType": "pages"
+        },
+        {
+          "_key": "rea-br-46",
+          "heading": {
+            "en": "Adding properties to the platform",
+            "ru": "ДОБАВЛЕНИЕ ОБЪЕКТОВ НА ПЛАТФОРМУ",
+            "uk": "ДОДАВАННЯ ОБ’ЄКТІВ НА ПЛАТФОРМУ"
+          },
+          "image": {
+            "_type": "imageWithLocalizedAlt",
+            "alt": {
+              "_type": "localizedString",
+              "en": "Adding a property in the Domlivo admin panel",
+              "ru": "Добавление объекта в админ-панели Domlivo",
+              "uk": "Додавання обʼєкта в адмін-панелі Domlivo"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-41fce61b7ee02342825a9b7cef2c6518345efb69-2880x2058-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3NhyJQ",
+              "en": "Agents and owners can submit a property through a form",
+              "ru": "Агент или собственник может подать объект через форму",
+              "uk": "Агент або власник може подати об’єкт через форму"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NhyNC",
+              "en": "The data lands in the right structure from the start",
+              "ru": "Данные сразу собираются в нужной структуре",
+              "uk": "Дані одразу збираються в потрібній структурі"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NhyQy",
+              "en": "Listings get checked, then published",
+              "ru": "Объект можно проверить и опубликовать",
+              "uk": "Об’єкт можна перевірити й опублікувати"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NhyUk",
+              "en": "The site grows as a platform, not a shop window",
+              "ru": "Сайт растёт как платформа, а не просто витрина",
+              "uk": "Сайт росте як платформа, а не просто вітрина"
+            }
+          ],
+          "mockTags": [
+            {
+              "_key": "FgFZzy882mp21voM3NhyYW",
+              "en": "Agents",
+              "ru": "Агенты",
+              "uk": "Агенти"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NhycI",
+              "en": "Form",
+              "ru": "Форма",
+              "uk": "Форма"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Nhyg4",
+              "en": "Publish",
+              "ru": "Публикация",
+              "uk": "Публікація"
+            }
+          ],
+          "mockType": "pages"
+        }
+      ],
+      "benefitsHeading": {
+        "en": "How it shows up on the site",
+        "ru": "Как это работает на сайте",
+        "uk": "Як це працює на сайті"
+      },
+      "directions": {
+        "allowedItems": [
+          {
+            "_key": "FgFZzy882mp21voM3Nhx5w",
+            "en": "A multilingual site for buyers from different countries",
+            "ru": "Многоязычный сайт для клиентов из разных стран",
+            "uk": "Мультимовний сайт для клієнтів з різних країн"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3Nhx9i",
+            "en": "Prices in several currencies",
+            "ru": "Цены в нескольких валютах",
+            "uk": "Ціни в кількох валютах"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NhxDU",
+            "en": "Dedicated pages for cities, districts and property types",
+            "ru": "Отдельные страницы под города, районы и типы объектов",
+            "uk": "Окремі сторінки під міста, райони й типи об’єктів"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NhxHG",
+            "en": "CRM integration where needed",
+            "ru": "Интеграция с CRM при необходимости",
+            "uk": "Інтеграція з CRM за потреби"
+          }
+        ],
+        "allowedLabel": {
+          "en": "International / multi-market",
+          "ru": "МЕЖДУНАРОДНОЕ АГЕНТСТВО",
+          "uk": "МІЖНАРОДНА АГЕНЦІЯ"
+        },
+        "lede": {
+          "en": "The approach differs for a local agency with 50-200 listings and an international one with 1000+. The pricing tiers below cover both scenarios.",
+          "ru": "Подход отличается для локального агентства с 50-200 объектами и международного с 1000+. Тарифы ниже — под оба сценария.",
+          "uk": "Підхід відрізняється для локальної агенції з 50-200 обʼєктами і міжнародної з 1000+. Тарифи нижче — під обидва сценарії."
+        },
+        "replaceItems": [
+          {
+            "_key": "FgFZzy882mp21voM3NhxL2",
+            "en": "A catalogue of flats, houses or commercial units",
+            "ru": "Каталог квартир, домов или коммерческих объектов",
+            "uk": "Каталог квартир, будинків або комерційних об’єктів"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NhxOo",
+            "en": "Filters by price, area, type and specs",
+            "ru": "Фильтры по цене, району, типу и параметрам",
+            "uk": "Фільтри за ціною, районом, типом і параметрами"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NhxSa",
+            "en": "Google Maps to show each location",
+            "ru": "Google Maps для показа локации",
+            "uk": "Google Maps для показу локації"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NhxWM",
+            "en": "Enquiry forms for a viewing or a consultation",
+            "ru": "Формы заявки на просмотр или консультацию",
+            "uk": "Форми заявки на перегляд або консультацію"
+          }
+        ],
+        "replaceLabel": {
+          "en": "Local agency",
+          "ru": "ЛОКАЛЬНОЕ АГЕНТСТВО",
+          "uk": "ЛОКАЛЬНА АГЕНЦІЯ"
+        },
+        "title": {
+          "en": "We adapt the site to your *sales model*",
+          "ru": "АДАПТИРУЕМ САЙТ ПОД ВАШУ *МОДЕЛЬ ПРОДАЖ*",
+          "uk": "АДАПТУЄМО САЙТ ПІД ВАШУ *МОДЕЛЬ ПРОДАЖІВ*"
+        }
+      },
+      "recap": {
+        "text": {
+          "en": "A turnkey solution for any estate agency, customised for your market.",
+          "ru": "Готовое решение для любого real estate агентства с кастомизацией под ваш рынок.",
+          "uk": "Готове рішення для будь-якої real estate агенції з кастомізацією під ваш ринок."
+        }
+      }
+    },
+    {
+      "_key": "rea-sec-47",
+      "_type": "servicesBlock",
+      "features": [
+        {
+          "_key": "rea-sf-48",
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3NhzT8",
+              "en": "A clear structure for buying, renting and short-lets",
+              "ru": "Удобная структура для покупки, аренды и short-term",
+              "uk": "Зручна структура для купівлі, оренди та short-term"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NhzWu",
+              "en": "Cards with price, photos, floor area, city and status",
+              "ru": "Карточки с ценой, фото, площадью, городом и статусом",
+              "uk": "Картки з ціною, фото, площею, містом і статусом"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Nhzag",
+              "en": "Listings read as offers, not a jumbled feed",
+              "ru": "Объекты выглядят как предложения, а не как хаотичный список",
+              "uk": "Об’єкти виглядають як пропозиції, а не як хаотичний список"
+            }
+          ],
+          "title": {
+            "en": "A catalogue that sells properties",
+            "ru": "КАТАЛОГ, КОТОРЫЙ ПРОДАЁТ ОБЪЕКТЫ",
+            "uk": "КАТАЛОГ, ЯКИЙ ПРОДАЄ ОБ’ЄКТИ"
+          }
+        },
+        {
+          "_key": "rea-sf-49",
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3NhziE",
+              "en": "Filters by city, budget and property type",
+              "ru": "Фильтры по городу, бюджету и типу объекта",
+              "uk": "Фільтри за містом, бюджетом і типом об’єкта"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Nhzm0",
+              "en": "Clients find relevant options quickly",
+              "ru": "Клиент быстро находит релевантные варианты",
+              "uk": "Клієнт швидко знаходить релевантні варіанти"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Nhzpm",
+              "en": "Fewer \"what do you have within my budget?\" questions",
+              "ru": "Меньше вопросов в стиле “а что у вас есть до такой суммы?”",
+              "uk": "Менше питань у стилі “а що у вас є до такої суми?”"
+            }
+          ],
+          "title": {
+            "en": "Search without extra clicks",
+            "ru": "ПОИСК БЕЗ ЛИШНИХ КЛИКОВ",
+            "uk": "ПОШУК БЕЗ ЗАЙВИХ КЛІКІВ"
+          }
+        },
+        {
+          "_key": "rea-sf-50",
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3NhzxK",
+              "en": "Languages and currencies for each audience",
+              "ru": "Языки и валюты под разные аудитории",
+              "uk": "Мови та валюти під різні аудиторії"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni016",
+              "en": "Prices overseas buyers understand at a glance",
+              "ru": "Цены понятны покупателям из других стран",
+              "uk": "Ціни зрозумілі для покупців з інших країн"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni04s",
+              "en": "One site you can advertise across several markets",
+              "ru": "Сайт можно использовать для рекламы на разные рынки",
+              "uk": "Сайт можна використовувати для реклами на різні ринки"
+            }
+          ],
+          "title": {
+            "en": "A site for local and overseas clients",
+            "ru": "САЙТ ДЛЯ ЛОКАЛЬНЫХ И ИНОСТРАННЫХ КЛИЕНТОВ",
+            "uk": "САЙТ ДЛЯ ЛОКАЛЬНИХ І ІНОЗЕМНИХ КЛІЄНТІВ"
+          }
+        },
+        {
+          "_key": "rea-sf-51",
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3Ni0CQ",
+              "en": "\"Apartments in [city]\": its own SEO page",
+              "ru": "\"Квартиры в [городе]\" — отдельная SEO-страница",
+              "uk": "\"Квартири у [місті]\" — окрема SEO-сторінка"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni0GC",
+              "en": "\"Investment property\": a separate landing",
+              "ru": "\"Инвестиционная недвижимость\" — отдельный лендинг",
+              "uk": "\"Інвестиційна нерухомість\" — окремий лендинг"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni0Jy",
+              "en": "50-200 programmatic landing pages",
+              "ru": "50-200 программных landing pages",
+              "uk": "50-200 програмних landing pages"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni0Nk",
+              "en": "Each with its own SEO, language, currency",
+              "ru": "Каждый со своим SEO, языком, валютой",
+              "uk": "Кожен з власним SEO, мовою, валютою"
+            }
+          ],
+          "title": {
+            "en": "Landings per market and type",
+            "ru": "Лендинги под рынок и тип",
+            "uk": "Лендинги під ринок і тип"
+          }
+        },
+        {
+          "_key": "rea-sf-52",
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3Ni0RW",
+              "en": "Lead from Italy → Italian manager",
+              "ru": "Лид из Italy → ​итальянский менеджер",
+              "uk": "Лід з Italy → ​італійський менеджер"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni0VI",
+              "en": "Lead from Germany → German manager",
+              "ru": "Лид из Germany → немецкий менеджер",
+              "uk": "Лід з Germany → німецький менеджер"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni0Z4",
+              "en": "Lead from overseas → the right local manager",
+              "ru": "Лид из UA → украинский менеджер",
+              "uk": "Лід з UA → український менеджер"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni0cq",
+              "en": "Reapit / Alto / HubSpot",
+              "ru": "HubSpot / Salesforce / KeyCRM",
+              "uk": "HubSpot / Salesforce / KeyCRM"
+            }
+          ],
+          "title": {
+            "en": "Lead routing by regional managers",
+            "ru": "Распределение лидов по региональным менеджерам",
+            "uk": "Розподіл лідів по регіональних менеджерах"
+          }
+        },
+        {
+          "_key": "rea-sf-53",
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3Ni0gc",
+              "en": "The agency adds new properties itself",
+              "ru": "Агентство само добавляет новые объекты",
+              "uk": "Агентство саме додає нові об’єкти"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni0kO",
+              "en": "Prices, photos and statuses are yours to update",
+              "ru": "Можно обновлять цены, фото и статусы",
+              "uk": "Можна оновлювати ціни, фото й статуси"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni0oA",
+              "en": "No developer needed for every small change",
+              "ru": "Сайт не зависит от разработчика при каждой мелкой правке",
+              "uk": "Сайт не залежить від розробника при кожній дрібній правці"
+            }
+          ],
+          "title": {
+            "en": "Admin panel without a developer",
+            "ru": "АДМИНКА БЕЗ РАЗРАБОТЧИКА",
+            "uk": "АДМІНКА БЕЗ РОЗРОБНИКА"
+          }
+        }
+      ],
+      "heading": {
+        "en": "What we build for property businesses",
+        "ru": "Что мы строим для real estate бизнеса",
+        "uk": "Що ми будуємо для real estate бізнесу"
+      },
+      "integrations": [
+        {
+          "_key": "FgFZzy882mp21voM3Nhyjq",
+          "en": "Google Maps",
+          "ru": "Google Maps",
+          "uk": "Google Maps"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3Nhync",
+          "en": "HubSpot",
+          "ru": "HubSpot",
+          "uk": "HubSpot"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3NhyrO",
+          "en": "Salesforce",
+          "ru": "Salesforce",
+          "uk": "Salesforce"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3NhyvA",
+          "en": "Street.co.uk",
+          "ru": "KeyCRM",
+          "uk": "KeyCRM"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3Nhyyw",
+          "en": "Reapit",
+          "ru": "AmoCRM",
+          "uk": "AmoCRM"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3Nhz2i",
+          "en": "Alto",
+          "ru": "Bitrix24",
+          "uk": "Bitrix24"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3Nhz6U",
+          "en": "Calendly",
+          "ru": "Calendly",
+          "uk": "Calendly"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3NhzAG",
+          "en": "Zoom",
+          "ru": "Zoom",
+          "uk": "Zoom"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3NhzE2",
+          "en": "Stripe",
+          "ru": "Stripe",
+          "uk": "Stripe"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3NhzHo",
+          "en": "GoCardless",
+          "ru": "LiqPay",
+          "uk": "LiqPay"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3NhzLa",
+          "en": "DocuSign",
+          "ru": "DocuSign",
+          "uk": "DocuSign"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3NhzPM",
+          "en": "WhatsApp",
+          "ru": "Telegram",
+          "uk": "Telegram"
+        }
+      ],
+      "integrationsHeading": {
+        "en": "We connect every property system",
+        "ru": "ПОДКЛЮЧАЕМ СЕРВИСЫ, ЧТОБЫ ЗАЯВКИ НЕ ТЕРЯЛИСЬ",
+        "uk": "ПІДКЛЮЧАЄМО СЕРВІСИ, ЩОБ ЗАЯВКИ НЕ ГУБИЛИСЯ"
+      },
+      "integrationsSub": {
+        "en": "Calculator leads route to the regional manager via CRM routing. Properties from MLS feeds: auto-import. Viewing calendar: Calendly. Reservation payment: Stripe. Manager gets WhatsApp or Slack alerts. Zero leads lost to email spam.",
+        "ru": "Заявка с карточки объекта или формы подбора сразу попадает в CRM с нужными деталями: объект, бюджет, город, тип запроса и контакт клиента.",
+        "uk": "Заявка з картки об’єкта або форми підбору одразу потрапляє в CRM з потрібними деталями: об’єкт, бюджет, місто, тип запиту і контакт клієнта."
+      },
+      "sub": {
+        "en": "A ready foundation for your niche: a property catalogue, search, filters, enquiries, languages, currencies and content you can manage yourself.",
+        "ru": "Готовая основа под вашу нишу: каталог объектов, поиск, фильтры, заявки, языки, валюты и удобное управление контентом.",
+        "uk": "Готова основа під вашу нішу: каталог об’єктів, пошук, фільтри, заявки, мови, валюти та зручне керування контентом."
+      }
+    },
+    {
+      "_key": "rea-sec-54",
+      "_type": "comparisonBlock",
+      "contact": {
+        "briefPlaceholder": {
+          "en": "What kind of site you need, what your goals are",
+          "ru": "Какой сайт нужен, какие цели",
+          "uk": "Який сайт потрібен, які цілі"
+        },
+        "channelPlaceholder": {
+          "en": "WhatsApp, phone, or email",
+          "ru": "Telegram, телефон или email",
+          "uk": "Telegram, телефон або email"
+        },
+        "foot": {
+          "en": "Or message us on WhatsApp: @fedirdev",
+          "ru": "Или сразу пишите в Telegram — @fedirdev",
+          "uk": "Або одразу пишіть у Telegram — @fedirdev"
+        },
+        "heading": {
+          "en": "Discuss your project",
+          "ru": "Обсудить проект",
+          "uk": "Обговорити проєкт"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "ru": "Как к вам обращаться",
+          "uk": "Як до вас звертатися"
+        },
+        "sub": {
+          "en": "Tell us briefly about your project, and we’ll reply on WhatsApp within 1–2 hours during business hours.",
+          "ru": "Расскажите коротко о вашем проекте — ответим в Telegram в течение 1–2 часов в рабочее время.",
+          "uk": "Розкажіть коротко про ваш проєкт — відповімо в Telegram протягом 1–2 годин у робочий час."
+        },
+        "submitLabel": {
+          "en": "Send: we’ll reply within 1–2 hours",
+          "ru": "Отправить — ответим за 1–2 часа",
+          "uk": "Надіслати — відповімо за 1–2 години"
+        }
+      },
+      "ghostCta": {
+        "label": {
+          "en": "WordPress comparison →",
+          "ru": "Сравнение с WordPress →",
+          "uk": "Порівняння з WordPress →"
+        },
+        "type": "custom"
+      },
+      "heading": {
+        "en": "Why a custom property site beats a template",
+        "ru": "Чем кодовый сайт недвижимости лучше шаблона",
+        "uk": "Чим кодовий сайт нерухомості кращий за шаблон"
+      },
+      "pricingHeading": {
+        "en": "Pricing for a property website",
+        "ru": "Сколько стоит сайт real estate бизнеса",
+        "uk": "Скільки коштує сайт real estate бізнесу"
+      },
+      "primaryCta": {
+        "label": {
+          "en": "Detailed page builder comparison →",
+          "ru": "Подробное сравнение конструкторов →",
+          "uk": "Детальне порівняння конструкторів →"
+        },
+        "type": "custom"
+      },
+      "rows": [
+        {
+          "_key": "rea-cr-55",
+          "custom": {
+            "en": "12-parameter",
+            "ru": "12-параметровые",
+            "uk": "12-параметрові"
+          },
+          "param": {
+            "en": "Filtered catalogue",
+            "ru": "Каталог с фильтрами",
+            "uk": "Каталог з фільтрами"
+          },
+          "wix": {
+            "en": "basic",
+            "ru": "базовый",
+            "uk": "базовий"
+          },
+          "wp": {
+            "en": "plugin",
+            "ru": "плагин",
+            "uk": "плагін"
+          }
+        },
+        {
+          "_key": "rea-cr-56",
+          "custom": {
+            "en": "full",
+            "ru": "полная",
+            "uk": "повна"
+          },
+          "param": {
+            "en": "Google Maps",
+            "ru": "Google Maps интеграция",
+            "uk": "Google Maps інтеграція"
+          },
+          "wix": {
+            "en": "basic",
+            "ru": "базовая",
+            "uk": "базова"
+          },
+          "wp": {
+            "en": "plugin",
+            "ru": "плагин",
+            "uk": "плагін"
+          }
+        },
+        {
+          "_key": "rea-cr-57",
+          "custom": {
+            "en": "custom with PDF",
+            "ru": "кастомный с PDF",
+            "uk": "кастомний з PDF"
+          },
+          "param": {
+            "en": "Mortgage calculator",
+            "ru": "Mortgage калькулятор",
+            "uk": "Mortgage калькулятор"
+          },
+          "wix": {
+            "en": "via Apps",
+            "ru": "через Apps",
+            "uk": "через Apps"
+          },
+          "wp": {
+            "en": "plugin (buggy)",
+            "ru": "плагин (баги)",
+            "uk": "плагін (баги)"
+          }
+        },
+        {
+          "_key": "rea-cr-58",
+          "custom": {
+            "en": "full structure",
+            "ru": "полная структура",
+            "uk": "повна структура"
+          },
+          "param": {
+            "en": "Multi-language",
+            "ru": "Мультиязычность",
+            "uk": "Мультимовність"
+          },
+          "wix": {
+            "en": "basic",
+            "ru": "базовая",
+            "uk": "базова"
+          },
+          "wp": {
+            "en": "WPML plugin",
+            "ru": "WPML plugin",
+            "uk": "WPML plugin"
+          }
+        },
+        {
+          "_key": "rea-cr-59",
+          "custom": {
+            "en": "built-in",
+            "ru": "встроено",
+            "uk": "вбудовано"
+          },
+          "param": {
+            "en": "Multi-currency",
+            "ru": "Мультивалютность",
+            "uk": "Мультивалютність"
+          },
+          "wix": {
+            "en": "none",
+            "ru": "нет",
+            "uk": "немає"
+          },
+          "wp": {
+            "en": "via plugins",
+            "ru": "через плагины",
+            "uk": "через плагіни"
+          }
+        },
+        {
+          "_key": "rea-cr-60",
+          "custom": {
+            "en": "automatic",
+            "ru": "автоматический",
+            "uk": "автоматичний"
+          },
+          "param": {
+            "en": "Geo-routing",
+            "ru": "Geo-routing",
+            "uk": "Geo-routing"
+          },
+          "wix": {
+            "en": "none",
+            "ru": "нет",
+            "uk": "немає"
+          },
+          "wp": {
+            "en": "via plugins",
+            "ru": "через плагины",
+            "uk": "через плагіни"
+          }
+        },
+        {
+          "_key": "rea-cr-61",
+          "custom": {
+            "en": "native",
+            "ru": "нативно",
+            "uk": "нативно"
+          },
+          "param": {
+            "en": "360° tours",
+            "ru": "360° туры",
+            "uk": "360° тури"
+          },
+          "wix": {
+            "en": "via embed",
+            "ru": "через embed",
+            "uk": "через embed"
+          },
+          "wp": {
+            "en": "plugin",
+            "ru": "плагин",
+            "uk": "плагін"
+          }
+        },
+        {
+          "_key": "rea-cr-62",
+          "custom": {
+            "en": "£800-1,500",
+            "ru": "$800-1 500",
+            "uk": "$800-1 500"
+          },
+          "param": {
+            "en": "3-year TCO",
+            "ru": "Расходы после запуска за 3 года",
+            "uk": "Витрати після запуску за 3 роки"
+          },
+          "wix": {
+            "en": "£1,100-2,400",
+            "ru": "$1 100-2 400",
+            "uk": "$1 100-2 400"
+          },
+          "wp": {
+            "en": "£900-2,500",
+            "ru": "$900-2 500",
+            "uk": "$900-2 500"
+          }
+        }
+      ],
+      "tableCtaGhost": {
+        "en": "WordPress comparison →",
+        "ru": "Сравнение с WordPress →",
+        "uk": "Порівняння з WordPress →"
+      },
+      "tableCtaPrimary": {
+        "en": "Detailed page builder comparison →",
+        "ru": "Подробное сравнение конструкторов →",
+        "uk": "Детальне порівняння конструкторів →"
+      },
+      "tiers": [
+        {
+          "_key": "rea-tier-63",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "_type": "localizedString",
+            "en": "More details",
+            "ru": "Подробнее",
+            "uk": "Детальніше"
+          },
+          "includes": [
+            {
+              "_key": "FgFZzy882mp21voM3Ni0vi",
+              "en": "Industry-ready structure",
+              "ru": "Готовая структура под вашу отрасль",
+              "uk": "Готова структура під вашу галузь"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni0zU",
+              "en": "English-first build",
+              "ru": "Мультиязычность",
+              "uk": "Мультимовність"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni13G",
+              "en": "Base integrations (CRM + payments)",
+              "ru": "Базовые интеграции (CRM + платежи)",
+              "uk": "Базові інтеграції (CRM + платежі)"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni172",
+              "en": "Sanity CMS for self-serve edits",
+              "ru": "Sanity CMS для самостоятельных правок",
+              "uk": "Sanity CMS для самостійних правок"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "ru": "Что входит",
+            "uk": "Що входить"
+          },
+          "isPopular": false,
+          "price": {
+            "en": "£3,500",
+            "ru": "$3 500",
+            "uk": "$3 500"
+          },
+          "title": {
+            "en": "Industry Pro",
+            "ru": "Industry Pro",
+            "uk": "Industry Pro"
+          },
+          "weeks": {
+            "en": "4-6 weeks",
+            "ru": "4–6 недель",
+            "uk": "4–6 тижнів"
+          }
+        },
+        {
+          "_key": "rea-tier-64",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "_type": "localizedString",
+            "en": "More details",
+            "ru": "Подробнее",
+            "uk": "Детальніше"
+          },
+          "includes": [
+            {
+              "_key": "FgFZzy882mp21voM3Ni1Ao",
+              "en": "Everything in Industry Pro",
+              "ru": "Всё из Industry Pro",
+              "uk": "Все з Industry Pro"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni1Ea",
+              "en": "Deep integrations (3-5 systems)",
+              "ru": "Сложные интеграции (3–5 систем)",
+              "uk": "Складні інтеграції (3–5 систем)"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni1IM",
+              "en": "Multi-language / multi-currency",
+              "ru": "Multi-language / multi-currency",
+              "uk": "Multi-language / multi-currency"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni1M8",
+              "en": "Dedicated landings per market / service",
+              "ru": "Отдельные лендинги под рынок / услугу",
+              "uk": "Окремі лендинги під ринок / послугу"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "ru": "Что входит",
+            "uk": "Що входить"
+          },
+          "isPopular": true,
+          "popularLabel": {
+            "en": "Popular",
+            "ru": "Популярный",
+            "uk": "Популярний"
+          },
+          "price": {
+            "en": "£6,000",
+            "ru": "$6 000",
+            "uk": "$6 000"
+          },
+          "title": {
+            "en": "Pro Plus",
+            "ru": "Pro Plus",
+            "uk": "Pro Plus"
+          },
+          "weeks": {
+            "en": "6-10 weeks",
+            "ru": "6–10 недель",
+            "uk": "6–10 тижнів"
+          }
+        },
+        {
+          "_key": "rea-tier-65",
+          "ctaGhost": true,
+          "ctaLabel": {
+            "_type": "localizedString",
+            "en": "More details",
+            "ru": "Подробнее",
+            "uk": "Детальніше"
+          },
+          "includes": [
+            {
+              "_key": "FgFZzy882mp21voM3Ni1Pu",
+              "en": "Everything in Pro Plus",
+              "ru": "Всё из Pro Plus",
+              "uk": "Все з Pro Plus"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni1Tg",
+              "en": "Custom business logic",
+              "ru": "Уникальная бизнес-логика",
+              "uk": "Унікальна бізнес-логіка"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni1XS",
+              "en": "Custom platform / SaaS",
+              "ru": "Собственная платформа / SaaS",
+              "uk": "Власна платформа / SaaS"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Ni1bE",
+              "en": "Programmatic landings (100+)",
+              "ru": "Программные landing pages (100+)",
+              "uk": "Програмні landing pages (100+)"
+            }
+          ],
+          "includesHeading": {
+            "en": "Included",
+            "ru": "Что входит",
+            "uk": "Що входить"
+          },
+          "isPopular": false,
+          "price": {
+            "en": "from £10,000",
+            "ru": "от $10 000",
+            "uk": "від $10 000"
+          },
+          "title": {
+            "en": "Custom",
+            "ru": "Custom",
+            "uk": "Custom"
+          },
+          "weeks": {
+            "en": "10+ weeks",
+            "ru": "10+ недель",
+            "uk": "10+ тижнів"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "rea-sec-66",
+      "_type": "faqBlock",
+      "heading": {
+        "en": "FAQ",
+        "ru": "Частые вопросы",
+        "uk": "Часті питання"
+      },
+      "items": [
+        {
+          "_key": "rea-fq-67",
+          "answer": {
+            "en": [
+              {
+                "_key": "rea-b-71",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "rea-s-70",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Yes. It’s our property reference template. Customisation for your market (languages, currencies, regional specifics, property types, local CRMs), 4-8 weeks depending on scope. Basic customisation, Pro Plus tier. Complex (new integrations, unique business logic), Custom."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "e281c1804396406089084268bf01c834",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0853d9df06084647b01c0ccd7d0181cc",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да. Domlivo можно взять как референс для структуры: каталог объектов, поиск, фильтры, страницы покупки / аренды / short-term, заявки и сценарий для агентов. Дальше мы адаптируем сайт под ваш рынок: города, типы объектов, языки, валюты, форму заявки, админку и нужные интеграции."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "a49619827e08",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "c70a817754fa",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так. Domlivo можна взяти як референс для структури: каталог об’єктів, пошук, фільтри, сторінки купівлі / оренди / short-term, заявки та сценарій для агентів. Далі ми адаптуємо сайт під ваш ринок: міста, типи об’єктів, мови, валюти, форму заявки, адмінку й потрібні інтеграції."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "Can we use Domlivo as a reference and customise?",
+            "ru": "Можно ли использовать Domlivo как основу и адаптировать под наше агентство?",
+            "uk": "Чи можна використати Domlivo як основу і адаптувати під нашу агенцію?"
+          }
+        },
+        {
+          "_key": "rea-fq-72",
+          "answer": {
+            "en": [
+              {
+                "_key": "rea-b-76",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "rea-s-75",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Depends on the portal. In the UK, listings flow through Rightmove and Zoopla feeds, connected via their official accounts. OnTheMarket adds a third route. Each integration runs £1,200-2,500. If you've no feed in place, you add properties manually via Sanity (5 min per property)."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "2c33129739d242a292b66338220490e4",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0f265f7f395a49d5b2f34b9bdfbb690a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да. Мы делаем админку, где вы или ваша команда можете самостоятельно добавлять объекты, менять фото, цены, статусы, описания и характеристики. Это важно для недвижимости, потому что объекты быстро меняются. Сайт не должен зависеть от разработчика при каждой мелкой правке."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "9075289456e9",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "66df1de5fed9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так. Ми робимо адмінку, де ви або ваша команда можете самостійно додавати об’єкти, змінювати фото, ціни, статуси, описи та характеристики. Це важливо для нерухомості, бо об’єкти швидко змінюються. Сайт не має залежати від розробника при кожній дрібній правці."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "How to connect an MLS feed for auto-import?",
+            "ru": "Можно ли добавлять объекты без разработчика?",
+            "uk": "Чи можна додавати об’єкти без розробника?"
+          }
+        },
+        {
+          "_key": "rea-fq-77",
+          "answer": {
+            "en": [
+              {
+                "_key": "rea-b-81",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "rea-s-80",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Local bank rates are stored in Sanity and updated via central bank data (the Bank of England base rate, plus the ECB for euro-area markets). The calculator picks rates by user geo-location or selected region. You can optionally configure \"our rates\" if you have partnerships with specific lenders."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "df6e8428afed44d693df85536d140963",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a72e21be4b304b51beba2a4ffdcfaf40",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Клиент может оставить заявку с карточки конкретного объекта или через форму подбора. В заявке сохраняется контекст: какой объект его интересует, город, бюджет, тип запроса и контакты. Так агент получает не просто “перезвоните мне”, а более понятный запрос."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "0046afc2917f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "357ed4bf3b29",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Клієнт може залишити заявку з картки конкретного об’єкта або через форму підбору. У заявці зберігається контекст: який об’єкт його цікавить, місто, бюджет, тип запиту і контакти. Так агент отримує не просто “передзвоніть мені”, а більш зрозумілий запит."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "How to set up the mortgage calculator for different countries?",
+            "ru": "Как клиент оставляет заявку на объект?",
+            "uk": "Як клієнт залишає заявку на об’єкт?"
+          }
+        },
+        {
+          "_key": "rea-fq-82",
+          "answer": {
+            "en": [
+              {
+                "_key": "rea-b-86",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "rea-s-85",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Technically yes, but legally complex. Taking a reservation deposit (£1,000-5,000 via Stripe or GoCardless) to confirm intent is standard. The full transaction runs through a solicitor or escrow, not the site. DocuSign handles preliminary contracts. If you're an online-only agency, we wire up the full funnel."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "5b0b2992f4a04edb85afb77469a7bc78",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "4cbd6df2b76f41c399ebd8fee8e25674",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да. Можно добавить несколько языков и валют, чтобы клиентам из разных стран было проще просматривать объекты и ориентироваться в ценах. Это особенно полезно для курортной или инвестиционной недвижимости, где часть покупателей приходит из-за границы."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "de4873ad23ff",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "402d78daee93",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так. Можна додати кілька мов і валют, щоб клієнтам з різних країн було простіше переглядати об’єкти й орієнтуватися в цінах. Це особливо корисно для курортної або інвестиційної нерухомості, де частина покупців приходить з-за кордону."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "Can we sell property online end-to-end?",
+            "ru": "Можно ли сделать сайт для иностранных клиентов?",
+            "uk": "Чи можна зробити сайт для іноземних клієнтів?"
+          }
+        },
+        {
+          "_key": "rea-fq-92",
+          "answer": {
+            "en": [
+              {
+                "_key": "rea-b-96",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "rea-s-95",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "First visit to domlivo.com → IP identifies Italy → redirect to /it/ with EUR pricing. Saved in cookie, next visit goes directly. The user can switch language / currency manually (saved in cookie). SEO works correctly: hreflang tells Google /it/ is for Italy, /en/ is global."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "ab45e981353146b197a10fd7bc5aa548",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b86fc6b4f1de42eca8ab15b561e03d2a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да. Заявки можно передавать в CRM, Telegram или email, чтобы менеджер сразу видел новый запрос и мог быстро ответить клиенту. Интеграции подбираем под вашу команду: CRM, карты, формы, мессенджеры, сервисы бронирования или другие инструменты, которые реально нужны в работе."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "43c856ce2acb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "63057f3f1296",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так. Заявки можна передавати в CRM, Telegram або email, щоб менеджер одразу бачив новий запит і міг швидко відповісти клієнту. Інтеграції підбираємо під вашу команду: CRM, карти, форми, месенджери, сервіси бронювання або інші інструменти, які реально потрібні в роботі."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "en": "How does geo-routing work? What does an Italian client see?",
+            "ru": "Можно ли подключить CRM, Telegram или другие сервисы?",
+            "uk": "Чи можна підключити CRM, Telegram або інші сервіси?"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "rea-sec-97",
+      "_type": "auditBlock",
+      "disclaim": {
+        "en": "No obligation. Useful even if you choose a different vendor.",
+        "ru": "Без обязательств. Полезно, даже если решите работать с другим подрядчиком.",
+        "uk": "Без зобовʼязань. Корисно, навіть якщо вирішите працювати з іншим підрядником."
+      },
+      "heading": {
+        "en": "Free audit of your property site",
+        "ru": "Бесплатный аудит вашего real estate сайта",
+        "uk": "Безкоштовний аудит вашого real estate сайту"
+      },
+      "inputs": {
+        "contactPlaceholder": {
+          "en": "Email or WhatsApp",
+          "ru": "Email или Telegram",
+          "uk": "Email або Telegram"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "ru": "Ваше имя",
+          "uk": "Ваше імʼя"
+        },
+        "phonePlaceholder": {
+          "en": "Phone (optional)",
+          "ru": "Телефон (опционально)",
+          "uk": "Телефон (опціонально)"
+        },
+        "urlPlaceholder": {
+          "en": "Link to your site",
+          "ru": "Ссылка на ваш сайт",
+          "uk": "Посилання на ваш сайт"
+        }
+      },
+      "list": [
+        {
+          "_key": "FgFZzy882mp21voM3Ni1f0",
+          "en": "Catalogue analysis: can the client find their property in 30 seconds",
+          "ru": "Анализ каталога: находит ли клиент свой объект за 30 секунд",
+          "uk": "Аналіз каталогу: чи знаходить клієнт свій обʼєкт за 30 секунд"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3Ni1im",
+          "en": "SEO audit: are you visible in Google Maps + Google Search",
+          "ru": "SEO-аудит: выходите ли в Google Maps + Google Search",
+          "uk": "SEO-аудит: чи виходите в Google Maps + Google Search"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3Ni1mY",
+          "en": "Mobile UX audit (65% of property traffic is mobile)",
+          "ru": "Mobile UX-аудит (65% real estate трафика — mobile)",
+          "uk": "Mobile UX-аудит (65% real estate трафіку — mobile)"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3Ni1qK",
+          "en": "Multi-language and geo-routing analysis (if present)",
+          "ru": "Анализ мультиязычности и geo-routing (если есть)",
+          "uk": "Аналіз мультимовності і geo-routing (якщо є)"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3Ni1u6",
+          "en": "Prioritised improvement plan + budget estimate",
+          "ru": "План улучшений с приоритетами + ориентировочный бюджет",
+          "uk": "План покращень з пріоритетами + орієнтовний бюджет"
+        }
+      ],
+      "sub": {
+        "en": "Drop a link to your current site. Detailed PDF report within 3 business days.",
+        "ru": "Оставьте ссылку на ваш текущий сайт. В течение 3 рабочих дней — детальный отчёт в PDF.",
+        "uk": "Залиште посилання на ваш поточний сайт. Протягом 3 робочих днів — детальний звіт у PDF."
+      },
+      "submitLabel": {
+        "en": "Get my free audit",
+        "ru": "Получить бесплатный аудит",
+        "uk": "Отримати безкоштовний аудит"
+      }
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "➤ Custom websites for UK estate agents & property developers ✔️ Rightmove & Zoopla feeds ✔️ Property listings ✔️ Multilingual support ✔️ Fixed price ➡ Get a free quote today.",
+      "ru": "➤ Кастомные сайты для агентств недвижимости и застройщиков ✔️ Интеграция с порталами недвижимости ✔️ Каталог объектов ✔️ Поддержка нескольких языков ✔️ Фикс-цена ➡ Получите бесплатный просчёт сегодня.",
+      "uk": "➤ Кастомні сайти для агенцій нерухомості та забудовників ✔️ Інтеграція з порталами нерухомості ✔️ Каталог об’єктів ✔️ Підтримка кількох мов ✔️ Фікс-ціна ➡ Отримайте безкоштовний прорахунок сьогодні."
+    },
+    "title": {
+      "en": "ᐈ Estate Agent & Property Website Design UK | Code-Site.Art",
+      "ru": "ᐈ Создание сайтов для агентств недвижимости | Сайты недвижимости | Code-Site.Art",
+      "uk": "ᐈ Створення сайтів для агенцій нерухомості | Сайти нерухомості | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "real-estate"
+  },
+  "status": "published",
+  "title": {
+    "en": "Websites for property",
+    "ru": "Сайты для недвижимости",
+    "uk": "Сайти для нерухомості"
+  }
+}

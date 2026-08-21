@@ -1,0 +1,37 @@
+{
+  "_id": "b5728991-81b4-4240-8729-8c8798481123",
+  "lede": {
+    "en": "Once your site launches, you won't need to call a developer every time you want to change a line of copy, add a photo, update a price or publish a new service.",
+    "ru": "После запуска сайта вам не придётся обращаться к разработчику каждый раз, когда нужно изменить текст, добавить фотографию, обновить цену или опубликовать новую услугу.",
+    "uk": "Після запуску сайту вам не доведеться звертатися до розробника щоразу, коли потрібно змінити текст, додати фотографію, оновити ціну або опублікувати нову послугу."
+  },
+  "metaDescription": {
+    "en": "How a Sanity-based admin panel works: what you can edit without a developer, publishing from your phone, and why you can't break the design. Video walkthrough and demo access.",
+    "ru": "Объясняем, как устроена админ-панель на базе Sanity: что можно редактировать без разработчика, как публиковать изменения с телефона и можно ли сломать дизайн. Видео-обзор и тестовый доступ.",
+    "uk": "Пояснюємо, як влаштована адмін-панель на базі Sanity: що можна редагувати без розробника, як публікувати зміни з телефона і чи можна зламати дизайн. Відео-огляд і тестовий доступ."
+  },
+  "metaTitle": {
+    "en": "How a Website Admin Panel Works: What You Can Edit Yourself",
+    "ru": "Как работает админ-панель сайта: что можно менять самостоятельно",
+    "uk": "Як працює адмін-панель сайту: що можна змінювати самостійно"
+  },
+  "slugs": {
+    "en": {
+      "_type": "slug",
+      "current": "how-website-admin-panel-works"
+    },
+    "ru": {
+      "_type": "slug",
+      "current": "kak-rabotaet-admin-panel-sayta"
+    },
+    "uk": {
+      "_type": "slug",
+      "current": "yak-pratsyuye-admin-panel-saytu"
+    }
+  },
+  "title": {
+    "en": "How your website's admin panel works — and what you can change yourself",
+    "ru": "Как работает админ-панель сайта и что вы сможете менять самостоятельно",
+    "uk": "Як працює адмін-панель сайту та що ви зможете змінювати самостійно"
+  }
+}

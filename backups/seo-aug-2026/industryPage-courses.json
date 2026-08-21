@@ -1,0 +1,2813 @@
+{
+  "_createdAt": "2026-06-04T17:36:57Z",
+  "_id": "DHIwRDN3sEoI638qoYRvTT",
+  "_rev": "22uPhQi95aN0jC0OXiqAgs",
+  "_system": {
+    "base": {
+      "id": "DHIwRDN3sEoI638qoYRvTT",
+      "rev": "VgMT0q0ZV8Ul4q8mYsYqte"
+    }
+  },
+  "_type": "industryPage",
+  "_updatedAt": "2026-07-30T18:58:38Z",
+  "hero": {
+    "ctaPrimary": {
+      "en": "Discuss my project",
+      "ru": "Обсудить мой проект",
+      "uk": "Обговорити мій проєкт"
+    },
+    "ctaSecondary": {
+      "en": "See course case studies",
+      "ru": "Посмотреть курс-кейсы",
+      "uk": "Подивитися курс-кейси"
+    },
+    "deviceMockup": {
+      "_type": "imageWithLocalizedAlt",
+      "alt": {
+        "_type": "localizedString",
+        "en": "Aleko Sokurashvili's viral-video course landing on laptop and phone",
+        "ru": "Сайт курса Aleko Sokurashvili «Секреты вирусных видео» на ноутбуке и телефоне",
+        "uk": "Сайт курсу Aleko Sokurashvili «Секрети вірусних відео» на ноутбуці і телефоні"
+      },
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-3e5119d49dadbd7fe4f68283add4bc917cb5d12f-1199x1133-png",
+          "_type": "reference"
+        }
+      }
+    },
+    "deviceTags": [
+      {
+        "_key": "cou-dt-4",
+        "kind": "default",
+        "primary": {
+          "en": "1-step checkout",
+          "ru": "1-step checkout",
+          "uk": "1-step checkout"
+        }
+      },
+      {
+        "_key": "cou-dt-5",
+        "kind": "default",
+        "primary": {
+          "en": "A/B Vercel Edge",
+          "ru": "A/B Vercel Edge",
+          "uk": "A/B Vercel Edge"
+        }
+      },
+      {
+        "_key": "cou-dt-6",
+        "kind": "good",
+        "mini": "96",
+        "primary": {
+          "en": "Lighthouse",
+          "ru": "Lighthouse",
+          "uk": "Lighthouse"
+        }
+      }
+    ],
+    "eyebrow": {
+      "en": "WEBSITES FOR COURSES AND LANDINGS",
+      "ru": "САЙТЫ ДЛЯ КУРСОВ И ЛЕНДИНГОВ",
+      "uk": "САЙТИ ДЛЯ КУРСІВ І ЛЕНДИНГІВ"
+    },
+    "features": [
+      {
+        "_key": "FgFZzy882mp21voM3Njlly",
+        "en": "Selling structure | From audience pain to choosing a tier",
+        "ru": "Продающая структура | От проблемы аудитории до выбора тарифа",
+        "uk": "Продаюча структура | Від проблеми аудиторії до вибору тарифу"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3Njlpk",
+        "en": "Online payment | WayForPay · Stripe · LiqPay",
+        "ru": "Онлайн-оплата | WayForPay · Stripe · LiqPay",
+        "uk": "Онлайн-оплата | WayForPay · Stripe · LiqPay"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NjltW",
+        "en": "Automation | Access via WhatsApp or Email",
+        "ru": "Автоматизация | Доступ через Telegram-бота",
+        "uk": "Автоматизація | Доступ через Telegram-бота "
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NjlxI",
+        "en": "Analytics | Tracking enquiries, payments and ad traffic",
+        "ru": "Аналитика | Отслеживание заявок, оплат и рекламного трафика",
+        "uk": "Аналітика | Відстеження заявок, оплат і рекламного трафіку"
+      }
+    ],
+    "heading": {
+      "en": "A COURSE SITE — FROM PRESENTING THE PROGRAMME TO PAYMENT AND ACCESS",
+      "ru": "САЙТ ДЛЯ КУРСА - ОТ ПРЕЗЕНТАЦИИ ПРОГРАММЫ ДО ОПЛАТЫ И ДОСТУПА",
+      "uk": "САЙТ ДЛЯ КУРСУ - ВІД ПРЕЗЕНТАЦІЇ ПРОГРАМИ ДО ОПЛАТИ Й ДОСТУПУ"
+    },
+    "lede": {
+      "en": "We build landings for online courses, experts and education products. We shape the offer, structure and user path, connect payment and automatic access delivery — so you can sell the course without handling every enquiry by hand.",
+      "ru": "Создаём лендинги для онлайн-курсов, экспертов и образовательных продуктов. Продумываем оффер, структуру и путь пользователя, подключаем оплату и автоматическую выдачу доступа — чтобы вы могли продавать курс без ручной обработки каждой заявки.",
+      "uk": "Створюємо лендинги для онлайн-курсів, експертів та освітніх продуктів. Продумуємо офер, структуру і шлях користувача, підключаємо оплату та автоматичну видачу доступу — щоб ви могли продавати курс без ручної обробки кожної заявки."
+    },
+    "stats": [
+      {
+        "_key": "cou-st-1",
+        "label": {
+          "en": "modules\nin the programme",
+          "ru": "модулей в программе",
+          "uk": "модулів у програмі"
+        },
+        "value": {
+          "en": "12",
+          "ru": "12",
+          "uk": "12"
+        }
+      },
+      {
+        "_key": "cou-st-2",
+        "label": {
+          "en": "video\nlessons",
+          "ru": "видеоуроков",
+          "uk": "відеоуроків"
+        },
+        "value": {
+          "en": "48",
+          "ru": "48",
+          "uk": "48"
+        }
+      },
+      {
+        "_key": "cou-st-3",
+        "label": {
+          "en": "tiers with\nonline payment",
+          "ru": "тарифа с онлайн-оплатой",
+          "uk": "тарифи з онлайн-оплатою"
+        },
+        "value": {
+          "en": "3",
+          "ru": "3",
+          "uk": "3"
+        }
+      }
+    ],
+    "tickerItems": [
+      {
+        "_key": "FgFZzy882mp21voM3Njl2g",
+        "en": "Online courses",
+        "ru": "Онлайн-курсы",
+        "uk": "Онлайн-курси"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3Njl6S",
+        "en": "Info products",
+        "ru": "Инфо-продукты",
+        "uk": "Інфо-продукти"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NjlAE",
+        "en": "Bloggers",
+        "ru": "Блогеры",
+        "uk": "Блогери"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NjlE0",
+        "en": "Coaches",
+        "ru": "Коучи",
+        "uk": "Коучі"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NjlHm",
+        "en": "Psychologists",
+        "ru": "Психологи",
+        "uk": "Психологи"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NjlLY",
+        "en": "Fitness trainers",
+        "ru": "Фитнес-тренеры",
+        "uk": "Фітнес-тренери"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NjlPK",
+        "en": "Mentorship programmes",
+        "ru": "Менторские программы",
+        "uk": "Менторські програми"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NjlT6",
+        "en": "Masterclasses",
+        "ru": "Мастер-классы",
+        "uk": "Майстер-класи"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NjlWs",
+        "en": "Webinars",
+        "ru": "Вебинары",
+        "uk": "Вебінари"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3Njlae",
+        "en": "Workshops",
+        "ru": "Воркшопы",
+        "uk": "Воркшопи"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NjleQ",
+        "en": "Leadership programmes",
+        "ru": "Лидерские программы",
+        "uk": "Лідерські програми"
+      },
+      {
+        "_key": "FgFZzy882mp21voM3NjliC",
+        "en": "Subscription models",
+        "ru": "Подписочные модели",
+        "uk": "Підписочні моделі"
+      }
+    ]
+  },
+  "order": 8,
+  "sections": [
+    {
+      "_key": "cou-sec-7",
+      "_type": "reasonsBlock",
+      "eyebrow": {
+        "en": "DIAGNOSIS · 3 REASONS",
+        "ru": "ДИАГНОСТИКА · 3 ПРИЧИНЫ",
+        "uk": "ДІАГНОСТИКА · 3 ПРИЧИНИ"
+      },
+      "footCta": {
+        "label": {
+          "en": "Check my landing",
+          "ru": "Проверить мой лендинг",
+          "uk": "Перевірити мій лендинг"
+        },
+        "type": "custom"
+      },
+      "footCtaLabel": {
+        "en": "Check my landing",
+        "ru": "Проверить мой лендинг",
+        "uk": "Перевірити мій лендинг"
+      },
+      "footText": {
+        "en": "We fix *all three* in 4–8 weeks.",
+        "ru": "Исправляем *все три* за 4-8 недель.",
+        "uk": "Виправляємо *всі три* за 4-8 тижнів."
+      },
+      "heading": {
+        "en": "3 reasons your course landing\n*doesn’t sell*",
+        "ru": "3 причины, почему ваш курс-лендинг\n*не продаёт*",
+        "uk": "3 причини, чому ваш курс-лендинг\n*не продає*"
+      },
+      "metaRows": [
+        {
+          "_key": "FgFZzy882mp21voM3Njf4o",
+          "en": "review of 40+ course landings · 2024–25",
+          "ru": "анализ 40+ курс-лендингов · 2024–25",
+          "uk": "аналіз 40+ курс-лендингів · 2024–25"
+        }
+      ],
+      "reasons": [
+        {
+          "_key": "cou-r-8",
+          "number": "01",
+          "stat": {
+            "label": {
+              "en": "of cold traffic leaves a landing without the right structure",
+              "ru": "холодного трафика сливается на лендинге без правильной структуры",
+              "uk": "холодного трафіку зливається на лендингу без правильної структури"
+            },
+            "value": "92%"
+          },
+          "tag": {
+            "en": "STRUCTURE",
+            "ru": "STRUCTURE",
+            "uk": "STRUCTURE"
+          },
+          "text": {
+            "en": [
+              {
+                "_key": "cou-r8enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-r8ens0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Cold ad traffic arrives for the first time — and you jump straight to \"buy the course for $497.\" No problem, no promised result, no check that they're the right audience. "
+                  },
+                  {
+                    "_key": "cou-r8ens1",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "92% leave the page within 8 seconds"
+                  },
+                  {
+                    "_key": "cou-r8ens2",
+                    "_type": "span",
+                    "marks": [],
+                    "text": ". A landing should sell, not present."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "3a332eeb9b1f4261bcc8ea2adbf8ea51",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "4b985a1ce30d40f2a9f5b8a291230d5a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Холодный трафик из рекламы зашёл впервые — а у вас сразу \"купить курс за $497\". Без проблемы, без обещания результата, без проверки, в целевой ли аудитории человек. 92% покидают страницу за 8 секунд. Лендинг должен продавать, а не презентовать."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-b-12",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-s-9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Холодний трафік з реклами зайшов уперше — а у вас зразу \"купити курс за $497\". Без проблеми, без обіцянки результату, без перевірки чи людина в цільовій аудиторії. "
+                  },
+                  {
+                    "_key": "cou-s-10",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "92% залишають сторінку за 8 секунд"
+                  },
+                  {
+                    "_key": "cou-s-11",
+                    "_type": "span",
+                    "marks": [],
+                    "text": ". Лендинг має продавати, а не презентувати."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "title": {
+            "en": "The landing is written for people already ready to buy",
+            "ru": "Лендинг написан для тех, кто уже хочет купить",
+            "uk": "Лендинг написаний для тих, хто вже хоче купити"
+          }
+        },
+        {
+          "_key": "cou-r-17",
+          "number": "02",
+          "stat": {
+            "label": {
+              "en": "higher conversion on landings with concrete student cases",
+              "ru": "выше конверсия у лендингов с конкретными кейсами учеников",
+              "uk": "вища конверсія у лендингів з конкретними кейсами учнів"
+            },
+            "value": "×8"
+          },
+          "tag": {
+            "en": "TRUST",
+            "ru": "TRUST",
+            "uk": "TRUST"
+          },
+          "text": {
+            "en": [
+              {
+                "_key": "cou-r17enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-r17ens0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "The landing has a teacher photo in the studio, Instagram stories, a promise to \"change your life in 30 days.\" No case studies: which student, what they got, in what time. "
+                  },
+                  {
+                    "_key": "cou-r17ens1",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Without specific results, it's just words"
+                  },
+                  {
+                    "_key": "cou-r17ens2",
+                    "_type": "span",
+                    "marks": [],
+                    "text": ". Conversion 0.3–0.8%."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "f0198836fa9541e0a4c93ea1f9c4d08e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6a12912931454c6a9061dce7a457124f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "На лендинге — фото преподавателя в студии, сторис инстаграма, обещание \"измените жизнь за 30 дней\". Ни одного кейса: какой ученик / что получил / в какие сроки. Без specificity результатов — это слова. Конверсия 0.3-0.8%."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-b-21",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-s-18",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "На лендингу — фото викладача в студії, сторіс інстаграму, обіцянка \"змініть життя за 30 днів\". Жодного кейсу: який учень / що отримав / у які терміни. "
+                  },
+                  {
+                    "_key": "cou-s-19",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Без specificity результатів — це слова"
+                  },
+                  {
+                    "_key": "cou-s-20",
+                    "_type": "span",
+                    "marks": [],
+                    "text": ". Конверсія 0.3-0.8%."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "title": {
+            "en": "No proof of student results",
+            "ru": "Никаких доказательств результатов учеников",
+            "uk": "Жодних доказів результатів учнів"
+          }
+        },
+        {
+          "_key": "cou-r-26",
+          "number": "03",
+          "stat": {
+            "label": {
+              "en": "of buyers drop off at checkout when registration is forced",
+              "ru": "клиентов сливаются на checkout с регистрацией",
+              "uk": "клієнтів зливаються на checkout з реєстрацією"
+            },
+            "value": "55%"
+          },
+          "tag": {
+            "en": "CHECKOUT",
+            "ru": "CHECKOUT",
+            "uk": "CHECKOUT"
+          },
+          "text": {
+            "en": [
+              {
+                "_key": "cou-r26enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-r26ens0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "The buyer is ready, hits \"buy\" — then has to register in Teachable, confirm email, set a password, and only then enter a card. "
+                  },
+                  {
+                    "_key": "cou-r26ens1",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Half drop off"
+                  },
+                  {
+                    "_key": "cou-r26ens2",
+                    "_type": "span",
+                    "marks": [],
+                    "text": ". Checkout should be one step: enter card → pay → get access."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "64e1144e023547ff96f56c47a645acae",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "465e6325a2e043969f3fbd67889a22f3",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Клиент прогрелся, дошёл до \"купить\" — и должен зарегистрироваться в Teachable, подтвердить email, настроить пароль, после чего ввести карту. Половина сливается. Чекаут должен быть в 1 шаг: ввёл карту → оплатил → получил доступ."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-b-30",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-s-27",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Клієнт прогрівся, дійшов до \"купити\" — і має зареєструватися в Teachable, підтвердити email, налаштувати пароль, після чого ввести картку. "
+                  },
+                  {
+                    "_key": "cou-s-28",
+                    "_type": "span",
+                    "marks": [
+                      "em"
+                    ],
+                    "text": "Половина зливається"
+                  },
+                  {
+                    "_key": "cou-s-29",
+                    "_type": "span",
+                    "marks": [],
+                    "text": ". Чекаут має бути на 1 крок: ввів картку → оплатив → отримав доступ."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "title": {
+            "en": "4-step checkout with forced registration",
+            "ru": "Чекаут в 4 шага с обязательной регистрацией",
+            "uk": "Чекаут на 4 кроки з обовʼязковою реєстрацією"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "cou-sec-35",
+      "_type": "caseBlock",
+      "after": {
+        "heading": {
+          "en": "✓ Custom landing + 1-step checkout + Teachable integration",
+          "ru": "✓ Кастомный лендинг + 1-step checkout + Teachable integration",
+          "uk": "✓ Кастомний лендинг + 1-step checkout + Teachable integration"
+        },
+        "image": {
+          "_type": "imageWithLocalizedAlt",
+          "alt": {
+            "_type": "localizedString",
+            "en": "Aleko course homepage with a −50% offer on a laptop",
+            "ru": "Главная страница курса Aleko с оффером −50% на ноутбуке",
+            "uk": "Головна сторінка курсу Aleko з офером −50% на ноутбуці"
+          },
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-5320f5dea15e1ccef13d652c83a81ce12943115d-3162x2370-png",
+              "_type": "reference"
+            }
+          }
+        },
+        "items": [
+          {
+            "_key": "FgFZzy882mp21voM3NjfZ0",
+            "en": "Custom design with a clear personal-brand presentation",
+            "ru": "Кастомный дизайн с выразительной подачей личного бренда",
+            "uk": "Кастомний дизайн із виразною подачею особистого бренду"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3Njfcm",
+            "en": "Responsive build for phones, tablets and desktops",
+            "ru": "Адаптивная версия для смартфонов, планшетов и компьютеров",
+            "uk": "Адаптивна версія для смартфонів, планшетів і комп’ютерів"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjfgY",
+            "en": "Two language versions of the site — Ukrainian and Russian",
+            "ru": "Две языковые версии сайта — украинская и русская",
+            "uk": "Дві мовні версії сайту — українська та російська"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjfkK",
+            "en": "Option to watch a free lesson before buying the course",
+            "ru": "Возможность посмотреть бесплатный урок до покупки курса",
+            "uk": "Можливість переглянути безкоштовний урок до придбання курсу"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3Njfo6",
+            "en": "Three tiers with different content and a clear comparison",
+            "ru": "Три тарифа с разным наполнением и понятным сравнением",
+            "uk": "Три тарифи з різним наповненням і зрозумілим порівнянням"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3Njfrs",
+            "en": "Online payment for each tier via WayForPay",
+            "ru": "Онлайн-оплата каждого тарифа через WayForPay",
+            "uk": "Онлайн-оплата кожного тарифу через WayForPay"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3Njfve",
+            "en": "Automatic personal access via WhatsApp or Email",
+            "ru": "Автоматическая выдача персонального доступа через Telegram-бота",
+            "uk": "Автоматичне надання персонального доступу через Telegram-бота"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjfzQ",
+            "en": "Blocks on the author, learning outcomes, audience and benefits",
+            "ru": "Блоки об авторе, результатах обучения, аудитории курса и его преимуществах",
+            "uk": "Блоки про автора, результати навчання, аудиторію курсу та його переваги"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3Njg6y",
+            "en": "Student reviews and FAQ to handle objections before purchase",
+            "ru": "Отзывы учеников и FAQ для проработки возражений перед покупкой",
+            "uk": "Відгуки учнів і FAQ для опрацювання заперечень перед покупкою"
+          }
+        ],
+        "num": "ALEKO · v2 · Next.js 2024",
+        "tagline": {
+          "_type": "localizedString",
+          "en": "A site that brings in clients",
+          "ru": "Сайт, который приводит клиентов",
+          "uk": "Сайт, що приводить клієнтів"
+        }
+      },
+      "before": {
+        "foot": {
+          "en": "Result: CPL $24, ROAS wouldn't go positive on cold traffic.",
+          "ru": "Результат: CPL $24, ROAS не выходил в плюс на холодном трафике.",
+          "uk": "Результат: CPL $24, ROAS не виходив у плюс на холодному трафіку."
+        },
+        "heading": {
+          "en": "× Standard Teachable landing with no custom work",
+          "ru": "× Стандартный Teachable-лендинг без кастомизации",
+          "uk": "× Стандартний Teachable-лендинг без кастомізації"
+        },
+        "items": [
+          {
+            "_key": "FgFZzy882mp21voM3Njf8a",
+            "en": "Landing — a Teachable template like thousands of other courses",
+            "ru": "Лендинг — шаблон Teachable, как у тысяч других курсов",
+            "uk": "Лендинг — шаблон Teachable, як у тисяч інших курсів"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjfCM",
+            "en": "4-step checkout via a Teachable account + email confirmation",
+            "ru": "Чекаут в 4 шага через аккаунт Teachable + подтверждение email",
+            "uk": "Чекаут у 4 кроки через акаунт Teachable + підтвердження email"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjfG8",
+            "en": "No A/B tests — paid traffic ran on one landing variant",
+            "ru": "Никаких A/B-тестов — платный трафик шёл на один вариант лендинга",
+            "uk": "Жодних A/B-тестів — платний трафік йшов на один варіант лендингу"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjfJu",
+            "en": "Cold-traffic conversion 0.7%, expensive leads",
+            "ru": "Конверсия холодного трафика 0,7%, дорогие заявки",
+            "uk": "Конверсія холодного трафіку 0,7%, дорогі заявки"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjfNg",
+            "en": "Email funnel via Mailchimp, but without clear segmentation",
+            "ru": "Email-воронка через Mailchimp, но без чёткой сегментации",
+            "uk": "Email-воронка через Mailchimp, але без чіткої сегментації"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjfRS",
+            "en": "Lighthouse Performance 51 (the Teachable template is heavy)",
+            "ru": "Lighthouse Performance 51 (Teachable шаблон тяжёлый)",
+            "uk": "Lighthouse Performance 51 (Teachable шаблон важкий)"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjfVE",
+            "en": "No UTM tracking to see which ads convert",
+            "ru": "Никакого UTM-трекинга для понимания, какая реклама конвертит",
+            "uk": "Жодного UTM-трекінгу для розуміння, яка реклама конвертить"
+          }
+        ],
+        "num": "ALEKO · v1 · Teachable 2023",
+        "tagline": {
+          "_type": "localizedString",
+          "en": "A site that doesn't sell",
+          "ru": "Сайт, который не продаёт",
+          "uk": "Сайт, що не продає"
+        }
+      },
+      "cta": {
+        "_type": "ctaAction",
+        "label": {
+          "_type": "localizedString",
+          "en": "See course case studies",
+          "ru": "Посмотреть кейсы курсов",
+          "uk": "Подивитися кейси курсів"
+        },
+        "type": "custom"
+      },
+      "ctaLabel": {
+        "_type": "localizedString",
+        "en": "See course case studies",
+        "ru": "Посмотреть кейсы курсов",
+        "uk": "Подивитися кейси курсів"
+      },
+      "ctaText": {
+        "_type": "localizedText",
+        "en": "Want **the same kind of result**? See how we do it.",
+        "ru": "Хотите **такой же результат**? Посмотрите, как мы это делаем.",
+        "uk": "Хочете **такий самий результат**? Подивіться, як ми це робимо."
+      },
+      "eyebrow": {
+        "en": "REAL CASE",
+        "ru": "РЕАЛЬНЫЙ КЕЙС",
+        "uk": "РЕАЛЬНИЙ КЕЙС"
+      },
+      "eyebrowEm": {
+        "en": "ALEKO COURSE",
+        "ru": "ALEKO COURSE",
+        "uk": "ALEKO COURSE"
+      },
+      "heading": {
+        "en": "A LANDING FOR A BLOGGER COURSE WITH AN AUDIENCE OF *1.3M+*",
+        "ru": "ЛЕНДИНГ ДЛЯ КУРСА БЛОГЕРА С АУДИТОРИЕЙ *1,3 МЛН+*",
+        "uk": "ЛЕНДИНГ ДЛЯ КУРСУ БЛОГЕРА З АУДИТОРІЄЮ *1,3 МЛН+*"
+      },
+      "lede": {
+        "en": "Aleko Sokurashvili came to us to build a landing for selling his author course on viral content. We needed to present his expertise, show the programme clearly, split the offer into tiers and automate the path from choosing a course to getting access.",
+        "ru": "Алеко Сокурашвили обратился к нам с задачей создать лендинг для продажи авторского курса о вирусном контенте. Нужно было презентовать экспертность автора, понятно показать программу обучения, разделить предложение на тарифы и автоматизировать путь пользователя от выбора курса до получения доступа.",
+        "uk": "Алеко Сокурашвілі звернувся до нас із завданням створити лендинг для продажу авторського курсу про вірусний контент. Потрібно було презентувати експертність автора, зрозуміло показати програму навчання, розділити пропозицію на тарифи та автоматизувати шлях користувача від вибору курсу до отримання доступу."
+      },
+      "meta": [
+        {
+          "_key": "cou-cm-36",
+          "strong": {
+            "en": "2 language versions",
+            "ru": "2 языковые версии",
+            "uk": "2 мовні версії"
+          },
+          "text": {
+            "en": "Ukrainian and Russian",
+            "ru": "украинская и русская",
+            "uk": "українська та російська"
+          }
+        },
+        {
+          "_key": "cou-cm-37",
+          "strong": {
+            "en": "12 modules",
+            "ru": "12 модулей",
+            "uk": "12 модулів"
+          },
+          "text": {
+            "en": "a structured course programme",
+            "ru": "структурированная программа курса",
+            "uk": "структурована програма курсу"
+          }
+        },
+        {
+          "_key": "cou-cm-38",
+          "strong": {
+            "en": "3 tiers · WayForPay",
+            "ru": "3 тарифа · WayForPay",
+            "uk": "3 тарифи · WayForPay"
+          },
+          "text": {
+            "en": "separate checkout for each package",
+            "ru": "отдельная оплата для каждого пакета",
+            "uk": "окрема оплата для кожного пакета"
+          }
+        }
+      ],
+      "results": [
+        {
+          "_key": "a17ab523fd10",
+          "_type": "caseResult",
+          "label": {
+            "_type": "localizedString",
+            "en": "lead-cost improvement",
+            "ru": "улучшение стоимости заявки",
+            "uk": "покращення вартості заявки"
+          },
+          "tag": {
+            "_type": "localizedString",
+            "en": "CPL",
+            "ru": "CPL",
+            "uk": "CPL"
+          },
+          "value": {
+            "_type": "localizedString",
+            "en": "×5.7",
+            "ru": "×5.7",
+            "uk": "×5.7"
+          }
+        },
+        {
+          "_key": "aa981a7793a0",
+          "_type": "caseResult",
+          "label": {
+            "_type": "localizedString",
+            "en": "cold traffic",
+            "ru": "холодного трафика",
+            "uk": "холодного трафіку"
+          },
+          "tag": {
+            "_type": "localizedString",
+            "en": "CONVERSION",
+            "ru": "CONVERSION",
+            "uk": "CONVERSION"
+          },
+          "value": {
+            "_type": "localizedString",
+            "en": "4.8%",
+            "ru": "4.8%",
+            "uk": "4.8%"
+          }
+        },
+        {
+          "_key": "ea0ab0876282",
+          "_type": "caseResult",
+          "label": {
+            "_type": "localizedString",
+            "en": "Performance",
+            "ru": "Performance",
+            "uk": "Performance "
+          },
+          "tag": {
+            "_type": "localizedString",
+            "en": "LIGHTHOUSE",
+            "ru": "LIGHTHOUSE",
+            "uk": "LIGHTHOUSE"
+          },
+          "value": {
+            "_type": "localizedString",
+            "en": "96",
+            "ru": "96",
+            "uk": "96"
+          }
+        },
+        {
+          "_key": "b9f9da39c545",
+          "_type": "caseResult",
+          "label": {
+            "_type": "localizedString",
+            "en": "checkout",
+            "ru": "оформление заказа",
+            "uk": "оформлення замовлення"
+          },
+          "tag": {
+            "_type": "localizedString",
+            "en": "CHECKOUT",
+            "ru": "CHECKOUT",
+            "uk": "CHECKOUT"
+          },
+          "value": {
+            "_type": "localizedString",
+            "en": "Fast",
+            "ru": "Быстрое",
+            "uk": "Швидке"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "cou-sec-43",
+      "_type": "outcomeBlock",
+      "benefitRows": [
+        {
+          "_key": "cou-br-44",
+          "heading": {
+            "en": "A THOUGHT-THROUGH LANDING STRUCTURE",
+            "ru": "ПРОДУМАННАЯ СТРУКТУРА ЛЕНДИНГА",
+            "uk": "ПРОДУМАНА СТРУКТУРА ЛЕНДИНГУ"
+          },
+          "image": {
+            "_type": "imageWithLocalizedAlt",
+            "alt": {
+              "_type": "localizedString",
+              "en": "Aleko landing 'this course is for you' audience checklist on a laptop",
+              "ru": "Блок «Этот курс для вас» с болями аудитории на ноутбуке",
+              "uk": "Блок «Цей курс для вас» з болями аудиторії на ноутбуці"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-864e43825fc0dc9b8990315746dd99df5fae2c4b-3000x2250-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3Njgew",
+              "en": "A clear offer on the first screen: who the course is for and what result it delivers",
+              "ru": "Чёткий оффер на первом экране: для кого курс и какой результат он даёт",
+              "uk": "Чіткий офер на першому екрані: для кого курс і який результат він дає"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Njgii",
+              "en": "Audience problems and how the training helps solve them",
+              "ru": "Проблемы аудитории и объяснение, как обучение помогает их решить",
+              "uk": "Проблеми аудиторії та пояснення, як навчання допомагає їх вирішити"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjgmU",
+              "en": "Course programme, author info, benefits and reviews",
+              "ru": "Программа курса, информация об авторе, преимущества и отзывы",
+              "uk": "Програма курсу, інформація про автора, переваги та відгуки"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjgqG",
+              "en": "Tiers, answers to objections and a clear path to purchase",
+              "ru": "Тарифы, ответы на возражения и последовательные призывы к покупке",
+              "uk": "Тарифи, відповіді на заперечення та послідовні заклики до придбання"
+            }
+          ],
+          "mockTags": [
+            {
+              "_key": "FgFZzy882mp21voM3Njgu2",
+              "en": "Hook",
+              "ru": "Hook",
+              "uk": "Hook"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Njgxo",
+              "en": "Agitate",
+              "ru": "Agitate",
+              "uk": "Agitate"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Njh1a",
+              "en": "Solve",
+              "ru": "Solve",
+              "uk": "Solve"
+            }
+          ],
+          "mockType": "pages"
+        },
+        {
+          "_key": "cou-br-45",
+          "heading": {
+            "en": "ONLINE PAYMENT AND AUTOMATIC COURSE ACCESS",
+            "ru": "ОНЛАЙН-ОПЛАТА И АВТОМАТИЧЕСКИЙ ДОСТУП К КУРСУ",
+            "uk": "ОНЛАЙН-ОПЛАТА ТА АВТОМАТИЧНИЙ ДОСТУП ДО КУРСУ\n\n"
+          },
+          "image": {
+            "_type": "imageWithLocalizedAlt",
+            "alt": {
+              "_type": "localizedString",
+              "en": "Aleko course pricing tiers on laptop and phone",
+              "ru": "Три тарифа курса Aleko на ноутбуке и телефоне",
+              "uk": "Три тарифи курсу Aleko на ноутбуці і телефоні"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-dfe4a83ec7896111a4c73f1a27ff406def7537a3-2560x2000-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3NjhCu",
+              "en": "A separate checkout for each tier",
+              "ru": "Подключаем отдельную оплату для каждого тарифа",
+              "uk": "Підключаємо окрему оплату для кожного тарифу"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjhGg",
+              "en": "WayForPay, LiqPay, Stripe or another payment system",
+              "ru": "Интегрируем WayForPay, LiqPay, Stripe или другую платёжную систему",
+              "uk": "Інтегруємо WayForPay, LiqPay, Stripe або іншу платіжну систему"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjhKS",
+              "en": "After payment the buyer gets course access automatically",
+              "ru": "После оплаты пользователь автоматически получает доступ к курсу",
+              "uk": "Після оплати користувач автоматично отримує доступ до курсу"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjhOE",
+              "en": "Purchase data is stored, and the team gets a notification",
+              "ru": "Данные о покупке сохраняются в системе, а команда получает уведомление",
+              "uk": "Дані про покупку зберігаються в системі, а команда отримує сповіщення"
+            }
+          ],
+          "mockTags": [
+            {
+              "_key": "FgFZzy882mp21voM3Njh5M",
+              "en": "1-step",
+              "ru": "1-step",
+              "uk": "1-step"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Njh98",
+              "en": "Guest",
+              "ru": "Guest",
+              "uk": "Guest"
+            }
+          ],
+          "mockType": "pages"
+        },
+        {
+          "_key": "cou-br-46",
+          "heading": {
+            "en": "ANALYTICS AND LANDING IMPROVEMENT",
+            "ru": "АНАЛИТИКА И УЛУЧШЕНИЕ ЛЕНДИНГА",
+            "uk": "АНАЛІТИКА ТА ПОКРАЩЕННЯ ЛЕНДИНГУ"
+          },
+          "image": {
+            "_type": "imageWithLocalizedAlt",
+            "alt": {
+              "_type": "localizedString",
+              "en": "Aleko 'why me' instructor bio section on a laptop",
+              "ru": "Блок «Почему я?» с фото Aleko Sokurashvili на ноутбуке",
+              "uk": "Блок «Чому я?» з фото Aleko Sokurashvili на ноутбуці"
+            },
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c1a97052ae6ae4a338cddef7431f8b0cd56060cd-3000x2250-png",
+                "_type": "reference"
+              }
+            }
+          },
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3NjhS0",
+              "en": "Google Analytics, Meta Pixel and UTM tags connected",
+              "ru": "Подключаем Google Analytics, Meta Pixel и UTM-метки",
+              "uk": "Підключаємо Google Analytics, Meta Pixel та UTM-мітки"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjhVm",
+              "en": "We track traffic sources, clicks, enquiries and payments",
+              "ru": "Отслеживаем источники трафика, нажатия, заявки и оплаты",
+              "uk": "Відстежуємо джерела трафіку, натискання, заявки й оплати"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjhZY",
+              "en": "We compare different headlines, offers and calls to action",
+              "ru": "Сравниваем разные заголовки, предложения и призывы к действию",
+              "uk": "Порівнюємо різні заголовки, пропозиції та заклики до дії"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjhdK",
+              "en": "We help see where people leave the site and what to improve",
+              "ru": "Помогаем понять, где пользователи покидают сайт и что стоит улучшить",
+              "uk": "Допомагаємо зрозуміти, де користувачі залишають сайт і що варто покращити"
+            }
+          ],
+          "mockTags": [
+            {
+              "_key": "FgFZzy882mp21voM3Njhh6",
+              "en": "A/B",
+              "ru": "A/B",
+              "uk": "A/B"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Njhks",
+              "en": "Vercel Edge",
+              "ru": "Vercel Edge",
+              "uk": "Vercel Edge"
+            }
+          ],
+          "mockType": "pages"
+        }
+      ],
+      "benefitsHeading": {
+        "en": "How it shows up on the site",
+        "ru": "Как это работает на сайте",
+        "uk": "Як це працює на сайті"
+      },
+      "directions": {
+        "allowedItems": [
+          {
+            "_key": "FgFZzy882mp21voM3NjgAk",
+            "en": "A course catalogue with categories and filters",
+            "ru": "Каталог курсов с категориями и фильтрами",
+            "uk": "Каталог курсів із категоріями та фільтрами"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjgEW",
+            "en": "Separate pages for each education product",
+            "ru": "Отдельные страницы для каждого образовательного продукта",
+            "uk": "Окремі сторінки для кожного освітнього продукту"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjgII",
+            "en": "A member area, subscriptions and different access levels",
+            "ru": "Личный кабинет, подписки и разные уровни доступа",
+            "uk": "Особистий кабінет, підписки та різні рівні доступу"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjgM4",
+            "en": "An admin panel for courses, payments and users",
+            "ru": "Админпанель для управления курсами, оплатами и пользователями",
+            "uk": "Адмінпанель для керування курсами, оплатами й користувачами"
+          }
+        ],
+        "allowedLabel": {
+          "en": "ONLINE SCHOOL / EDUCATION BRAND",
+          "ru": "ОНЛАЙН-ШКОЛА / ОБРАЗОВАТЕЛЬНЫЙ БРЕНД",
+          "uk": "ОНЛАЙН-ШКОЛА / ОСВІТНІЙ БРЕНД"
+        },
+        "lede": {
+          "en": "To launch one course, a strong landing with payment and automatic learning access is enough. An education brand needs a product catalogue, a member area and straightforward content management. We build both formats.",
+          "ru": "Для запуска одного курса достаточно сильного лендинга с оплатой и автоматическим доступом к обучению. Для образовательного бренда нужны каталог продуктов, личный кабинет и удобное управление контентом. Мы разрабатываем оба формата.",
+          "uk": "Для запуску одного курсу достатньо сильного лендингу з оплатою та автоматичним доступом до навчання. Для освітнього бренду потрібні каталог продуктів, особистий кабінет і зручне керування контентом. Ми розробляємо обидва формати."
+        },
+        "replaceItems": [
+          {
+            "_key": "FgFZzy882mp21voM3NjgPq",
+            "en": "A landing for one or several education products",
+            "ru": "Лендинг для одного или нескольких образовательных продуктов",
+            "uk": "Лендинг для одного або декількох освітніх продуктів"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjgTc",
+            "en": "Presenting the author, programme, results and tiers",
+            "ru": "Презентация автора, программы, результатов и тарифов",
+            "uk": "Презентація автора, програми, результатів і тарифів"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjgXO",
+            "en": "Online payment and analytics connected",
+            "ru": "Подключение онлайн-оплаты и аналитики",
+            "uk": "Підключення онлайн-оплати та аналітики"
+          },
+          {
+            "_key": "FgFZzy882mp21voM3NjgbA",
+            "en": "Automatic access via a Telegram bot or learning platform",
+            "ru": "Автоматический доступ через Telegram-бота или обучающую платформу",
+            "uk": "Автоматичний доступ через Telegram-бота або навчальну платформу"
+          }
+        ],
+        "replaceLabel": {
+          "en": "EXPERT / BLOGGER / COURSE AUTHOR",
+          "ru": "ЭКСПЕРТ / БЛОГЕР / АВТОР КУРСА",
+          "uk": "ЕКСПЕРТ / БЛОГЕР / АВТОР КУРСУ"
+        },
+        "title": {
+          "en": "WE BUILD SITES FOR SEPARATE COURSES AND EDUCATION BRANDS",
+          "ru": "СОЗДАЁМ САЙТЫ ДЛЯ ОТДЕЛЬНЫХ КУРСОВ И ОБРАЗОВАТЕЛЬНЫХ БРЕНДОВ",
+          "uk": "СТВОРЮЄМО САЙТИ ДЛЯ ОКРЕМИХ КУРСІВ І ОСВІТНІХ БРЕНДІВ"
+        }
+      },
+      "recap": {
+        "text": {
+          "en": "Your landing should sell the course, not present the teacher.",
+          "ru": "Лендинг должен не просто рассказывать о курсе, а подводить пользователя к его покупке.",
+          "uk": "Лендинг має не просто розповідати про курс, а підводити користувача до його придбання."
+        }
+      }
+    },
+    {
+      "_key": "cou-sec-47",
+      "_type": "servicesBlock",
+      "features": [
+        {
+          "_key": "cou-sf-48",
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3Njhoe",
+              "en": "We analyse the product, audience and competitors",
+              "ru": "Анализируем продукт, аудиторию и конкурентов",
+              "uk": "Аналізуємо продукт, аудиторію та конкурентів"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjhsQ",
+              "en": "We frame a clear course value proposition",
+              "ru": "Формулируем понятную ценность курса",
+              "uk": "Формулюємо зрозумілу цінність курсу"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjhwC",
+              "en": "We build a logical path to purchase",
+              "ru": "Выстраиваем логичный путь к покупке",
+              "uk": "Вибудовуємо логічний шлях до придбання"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Njhzy",
+              "en": "We handle objections with reviews and FAQ",
+              "ru": "Прорабатываем возражения с помощью отзывов и FAQ",
+              "uk": "Опрацьовуємо заперечення за допомогою відгуків і FAQ"
+            }
+          ],
+          "title": {
+            "en": "STRUCTURE AND OFFER",
+            "ru": "СТРУКТУРА И ОФФЕР",
+            "uk": "СТРУКТУРА ТА ОФЕР"
+          }
+        },
+        {
+          "_key": "cou-sf-49",
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3Nji3k",
+              "en": "A look that fits a personal or education brand",
+              "ru": "Создаём стиль под личный или образовательный бренд",
+              "uk": "Створюємо стиль під особистий або освітній бренд"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Nji7W",
+              "en": "Motion used to highlight what matters",
+              "ru": "Используем анимации для акцентирования важного",
+              "uk": "Використовуємо анімації для акцентування важливого"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjiBI",
+              "en": "Adapted for phones, tablets and desktops",
+              "ru": "Адаптируем сайт к смартфонам, планшетам и компьютерам",
+              "uk": "Адаптуємо сайт до смартфонів, планшетів і комп’ютерів"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjiF4",
+              "en": "Programme, tiers and outcomes presented clearly",
+              "ru": "Удобно подаём программу, тарифы и результаты обучения",
+              "uk": "Зручно подаємо програму, тарифи й результати навчання"
+            }
+          ],
+          "title": {
+            "en": "CUSTOM DESIGN",
+            "ru": "КАСТОМНЫЙ ДИЗАЙН",
+            "uk": "КАСТОМНИЙ ДИЗАЙН"
+          }
+        },
+        {
+          "_key": "cou-sf-50",
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3NjiIq",
+              "en": "Separate payment for each tier",
+              "ru": "Подключаем отдельную оплату для каждого тарифа",
+              "uk": "Підключаємо окрему оплату для кожного тарифу"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjiMc",
+              "en": "WayForPay, LiqPay, Stripe or another system",
+              "ru": "Интегрируем WayForPay, LiqPay, Stripe или другую систему",
+              "uk": "Інтегруємо WayForPay, LiqPay, Stripe або іншу систему"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjiQO",
+              "en": "Successful purchases confirmed automatically",
+              "ru": "Автоматически подтверждаем успешную покупку",
+              "uk": "Автоматично підтверджуємо успішну покупку"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjiUA",
+              "en": "Access via a Telegram bot or learning platform",
+              "ru": "Выдаём доступ через Telegram-бота или обучающую платформу",
+              "uk": "Надаємо доступ через Telegram-бота або навчальну платформу"
+            }
+          ],
+          "title": {
+            "en": "PAYMENT AND ACCESS",
+            "ru": "ОПЛАТА И ДОСТУП",
+            "uk": "ОПЛАТА ТА ДОСТУП"
+          }
+        },
+        {
+          "_key": "cou-sf-51",
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3NjiXw",
+              "en": "Telegram bots and email tools connected",
+              "ru": "Подключаем Telegram-ботов и сервисы рассылок",
+              "uk": "Підключаємо Telegram-ботів і сервіси розсилок"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Njibi",
+              "en": "Site wired to CRM and learning platforms",
+              "ru": "Интегрируем сайт с CRM и обучающими платформами",
+              "uk": "Інтегруємо сайт із CRM та навчальними платформами"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjifU",
+              "en": "Enquiry and payment data sent where you need it",
+              "ru": "Передаём данные о заявках и оплатах в нужную систему",
+              "uk": "Передаємо дані про заявки й оплати в потрібну систему"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjijG",
+              "en": "Automatic alerts for the team",
+              "ru": "Настраиваем автоматические уведомления для команды",
+              "uk": "Налаштовуємо автоматичні сповіщення для команди"
+            }
+          ],
+          "title": {
+            "en": "INTEGRATIONS AND AUTOMATION",
+            "ru": "ИНТЕГРАЦИИ И АВТОМАТИЗАЦИЯ",
+            "uk": "ІНТЕГРАЦІЇ ТА АВТОМАТИЗАЦІЯ"
+          }
+        },
+        {
+          "_key": "cou-sf-52",
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3Njin2",
+              "en": "Edit texts, images and prices",
+              "ru": "Редактирование текстов, изображений и цен",
+              "uk": "Редагування текстів, зображень і цін"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Njiqo",
+              "en": "Manage the course programme and tiers",
+              "ru": "Управление программой курса и тарифами",
+              "uk": "Керування програмою курсу та тарифами"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Njiua",
+              "en": "Update content without a developer",
+              "ru": "Обновление информации без помощи разработчика",
+              "uk": "Оновлення інформації без допомоги розробника"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjiyM",
+              "en": "Keep enquiries and purchase data",
+              "ru": "Сохранение заявок и данных о покупках",
+              "uk": "Збереження заявок і даних про покупки"
+            }
+          ],
+          "title": {
+            "en": "A CLEAR ADMIN PANEL",
+            "ru": "УДОБНАЯ АДМИНПАНЕЛЬ",
+            "uk": "ЗРУЧНА АДМІНПАНЕЛЬ"
+          }
+        },
+        {
+          "_key": "cou-sf-53",
+          "items": [
+            {
+              "_key": "FgFZzy882mp21voM3Njj28",
+              "en": "Google Analytics and Meta Pixel connected",
+              "ru": "Подключение Google Analytics и Meta Pixel",
+              "uk": "Підключення Google Analytics і Meta Pixel"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Njj5u",
+              "en": "Tracking enquiries, payments and clicks",
+              "ru": "Отслеживание заявок, оплат и нажатий",
+              "uk": "Відстеження заявок, оплат і натискань"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Njj9g",
+              "en": "Seeing which traffic sources work",
+              "ru": "Определение эффективных источников трафика",
+              "uk": "Визначення ефективних джерел трафіку"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjjDS",
+              "en": "Finding stages where people leave the site",
+              "ru": "Анализ этапов, на которых пользователи покидают сайт",
+              "uk": "Аналіз етапів, на яких користувачі залишають сайт"
+            }
+          ],
+          "title": {
+            "en": "SALES ANALYTICS",
+            "ru": "АНАЛИТИКА ПРОДАЖ",
+            "uk": "АНАЛІТИКА ПРОДАЖІВ"
+          }
+        }
+      ],
+      "heading": {
+        "en": "WHAT WE CAN BUILD *FOR YOUR COURSE*",
+        "ru": "ЧТО МОЖЕМ РЕАЛИЗОВАТЬ *ДЛЯ ВАШЕГО КУРСА*",
+        "uk": "ЩО МОЖЕМО РЕАЛІЗУВАТИ *ДЛЯ ВАШОГО КУРСУ*"
+      },
+      "integrations": [
+        {
+          "_key": "FgFZzy882mp21voM3NjjHE",
+          "en": "Teachable",
+          "ru": "Teachable",
+          "uk": "Teachable"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3NjjL0",
+          "en": "Thinkific",
+          "ru": "Thinkific",
+          "uk": "Thinkific"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3NjjOm",
+          "en": "Kajabi",
+          "ru": "Kajabi",
+          "uk": "Kajabi"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3NjjSY",
+          "en": "Podia",
+          "ru": "Podia",
+          "uk": "Podia"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3NjjWK",
+          "en": "Stripe",
+          "ru": "Stripe",
+          "uk": "Stripe"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3Njja6",
+          "en": "LiqPay",
+          "ru": "LiqPay",
+          "uk": "LiqPay"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3Njjds",
+          "en": "WayForPay",
+          "ru": "WayForPay",
+          "uk": "WayForPay"
+        },
+        {
+          "_key": "35366f002c36",
+          "_type": "localizedString",
+          "en": "Telegram",
+          "ru": "Telegram",
+          "uk": "Telegram"
+        },
+        {
+          "_key": "bc84c2fc4112",
+          "_type": "localizedString",
+          "en": "Brevo",
+          "ru": "Brevo",
+          "uk": "Brevo"
+        },
+        {
+          "_key": "2a5fbb16afe0",
+          "_type": "localizedString",
+          "en": "Mailchimp",
+          "ru": "Mailchimp",
+          "uk": "Mailchimp"
+        },
+        {
+          "_key": "57482b1a2185",
+          "_type": "localizedString",
+          "en": "Google Analytics",
+          "ru": "Google Analytics",
+          "uk": "Google Analytics"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3Njjwk",
+          "en": "Meta Pixel",
+          "ru": "Meta Pixel",
+          "uk": "Meta Pixel"
+        }
+      ],
+      "integrationsHeading": {
+        "en": "WE CONNECT THE SITE TO THE SERVICES YOU NEED",
+        "ru": "ОБЪЕДИНЯЕМ САЙТ С НУЖНЫМИ СЕРВИСАМИ",
+        "uk": "ОБ’ЄДНУЄМО САЙТ З ПОТРІБНИМИ СЕРВІСАМИ"
+      },
+      "integrationsSub": {
+        "en": "We connect payment, a learning platform, a Telegram bot, email tools and analytics. After purchase the system records the payment, grants course access and passes the needed data to your team.",
+        "ru": "Подключаем оплату, обучающую платформу, Telegram-бота, сервисы рассылок и аналитику. После покупки система автоматически фиксирует оплату, выдаёт пользователю доступ к курсу и передаёт необходимые данные вашей команде",
+        "uk": "Підключаємо оплату, навчальну платформу, Telegram-бота, сервіси розсилок та аналітику. Після покупки система автоматично фіксує оплату, надає користувачеві доступ до курсу й передає необхідні дані вашій команді"
+      },
+      "sub": {
+        "en": "In one build we combine everything needed to launch and sell a course: structure, design, payment, automatic access, integrations and analytics.",
+        "ru": "Объединяем в одном решении всё необходимое для запуска и продажи курса: структуру, дизайн, оплату, автоматический доступ, интеграции и аналитику.",
+        "uk": "Об’єднуємо в одному рішенні все необхідне для запуску й продажу курсу: структуру, дизайн, оплату, автоматичний доступ, інтеграції та аналітику."
+      },
+      "testimonial": {
+        "authorInitials": "АЛ",
+        "authorName": "Алеко / Aleko",
+        "authorRole": {
+          "en": "Million-follower blogger, founder of Aleko Course",
+          "ru": "Блогер-миллионник, основатель Aleko Course",
+          "uk": "Блогер-мільйонник, засновник Aleko Course"
+        },
+        "quote": {
+          "en": "We ordered a landing — we got a machine for generating enquiries. CPL dropped 5×, ad spend turned profitable on day 5. Before that we fought this for 2 years on a standard Teachable template.",
+          "ru": "Заказывали лендинг — получили машину для генерации заявок. CPL упал в 5 раз, окупаемость рекламы вышла в плюс на 5-й день. Раньше мы боролись с этим 2 года на стандартном Teachable-шаблоне.",
+          "uk": "Замовляли лендинг — отримали машину для генерації заявок. CPL впав в 5 разів, окупність реклами вийшла в плюс на 5-й день. Раніше ми боролись з цим 2 роки на стандартному Teachable-шаблоні."
+        },
+        "rating": 5,
+        "reviewDate": "2026-06-04"
+      },
+      "testimonialEyebrow": {
+        "en": "CLIENT TESTIMONIAL",
+        "ru": "ОТЗЫВ КЛИЕНТА",
+        "uk": "ВІДГУК КЛІЄНТА"
+      }
+    },
+    {
+      "_key": "cou-sec-54",
+      "_type": "comparisonBlock",
+      "columns": {
+        "custom": {
+          "_type": "localizedString",
+          "en": "Custom development",
+          "ru": "Кастомная разработка",
+          "uk": "Кастомна розробка"
+        },
+        "param": {
+          "_type": "localizedString",
+          "en": "Parameter",
+          "ru": "Параметр",
+          "uk": "Параметр"
+        },
+        "wix": {
+          "_type": "localizedString",
+          "en": "WordPress",
+          "ru": "WordPress",
+          "uk": "WordPress"
+        },
+        "wp": {
+          "_type": "localizedString",
+          "en": "Wix",
+          "ru": "Wix",
+          "uk": "Wix"
+        }
+      },
+      "contact": {
+        "briefPlaceholder": {
+          "en": "What kind of site you need, what your goals are",
+          "ru": "Какой сайт нужен, какие цели",
+          "uk": "Який сайт потрібен, які цілі"
+        },
+        "channelPlaceholder": {
+          "en": "WhatsApp, phone, or email",
+          "ru": "Telegram, телефон или email",
+          "uk": "Telegram, телефон або email"
+        },
+        "foot": {
+          "en": "Or message us on WhatsApp — @fedirdev",
+          "ru": "Или сразу пишите в Telegram — @fedirdev",
+          "uk": "Або одразу пишіть у Telegram — @fedirdev"
+        },
+        "heading": {
+          "en": "Discuss your project",
+          "ru": "Обсудить проект",
+          "uk": "Обговорити проєкт"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "ru": "Как к вам обращаться",
+          "uk": "Як до вас звертатися"
+        },
+        "sub": {
+          "en": "Tell us briefly about your project — we’ll reply on WhatsApp within 1–2 hours during business hours.",
+          "ru": "Расскажите коротко о вашем проекте — ответим в Telegram в течение 1–2 часов в рабочее время.",
+          "uk": "Розкажіть коротко про ваш проєкт — відповімо в Telegram протягом 1–2 годин у робочий час."
+        },
+        "submitLabel": {
+          "en": "Send — we’ll reply within 1–2 hours",
+          "ru": "Отправить — ответим за 1–2 часа",
+          "uk": "Надіслати — відповімо за 1–2 години"
+        }
+      },
+      "ghostCta": {
+        "label": {
+          "en": "WordPress comparison →",
+          "ru": "Сравнение с WordPress →",
+          "uk": "Порівняння з WordPress →"
+        },
+        "type": "custom"
+      },
+      "heading": {
+        "_type": "localizedText",
+        "en": "Wix, WordPress or custom — *which costs less* over 3 years",
+        "ru": "Wix, WordPress или кастом — *что выгоднее* за 3 года",
+        "uk": "Wix, WordPress чи кастом — *що вигідніше* за 3 роки"
+      },
+      "pricingHeading": {
+        "_type": "localizedText",
+        "en": "What a course landing costs",
+        "ru": "Сколько стоит лендинг для курса",
+        "uk": "Скільки коштує лендинг для курсу"
+      },
+      "primaryCta": {
+        "label": {
+          "en": "Detailed page builder comparison →",
+          "ru": "Подробное сравнение конструкторов →",
+          "uk": "Детальне порівняння конструкторів →"
+        },
+        "type": "custom"
+      },
+      "rows": [
+        {
+          "_key": "cou-cr-55",
+          "_type": "comparisonRow",
+          "custom": {
+            "_type": "localizedString",
+            "en": "from $800",
+            "ru": "от $800",
+            "uk": "від $800"
+          },
+          "param": {
+            "_type": "localizedString",
+            "en": "Landing page build",
+            "ru": "Разработка лендинга",
+            "uk": "Розробка лендингу"
+          },
+          "wix": {
+            "_type": "localizedString",
+            "en": "$600–1,500",
+            "ru": "$600–1 500",
+            "uk": "$600–1 500"
+          },
+          "wp": {
+            "_type": "localizedString",
+            "en": "$500–1,200",
+            "ru": "$500–1 200",
+            "uk": "$500–1 200"
+          }
+        },
+        {
+          "_key": "cou-cr-56",
+          "_type": "comparisonRow",
+          "custom": {
+            "_type": "localizedString",
+            "en": "free",
+            "ru": "бесплатно",
+            "uk": "безкоштовно"
+          },
+          "param": {
+            "_type": "localizedString",
+            "en": "Platform / hosting",
+            "ru": "Платформа / хостинг",
+            "uk": "Платформа / хостинг"
+          },
+          "wix": {
+            "_type": "localizedString",
+            "en": "$17.50–25/mo",
+            "ru": "$17,50–25/мес",
+            "uk": "$17,50–25/міс"
+          },
+          "wp": {
+            "_type": "localizedString",
+            "en": "$29–39/mo",
+            "ru": "$29–39/мес",
+            "uk": "$29–39/міс"
+          }
+        },
+        {
+          "_key": "cou-cr-57",
+          "_type": "comparisonRow",
+          "custom": {
+            "_type": "localizedString",
+            "en": "$0",
+            "ru": "$0",
+            "uk": "$0"
+          },
+          "param": {
+            "_type": "localizedString",
+            "en": "Platform over 3 years",
+            "ru": "Платформа за 3 года",
+            "uk": "Платформа за 3 роки"
+          },
+          "wix": {
+            "_type": "localizedString",
+            "en": "$630–900",
+            "ru": "$630–900",
+            "uk": "$630–900"
+          },
+          "wp": {
+            "_type": "localizedString",
+            "en": "$1,044–1,404",
+            "ru": "$1 044–1 404",
+            "uk": "$1 044–1 404"
+          }
+        },
+        {
+          "_key": "cou-cr-58",
+          "_type": "comparisonRow",
+          "custom": {
+            "_type": "localizedString",
+            "en": "As needed",
+            "ru": "При необходимости",
+            "uk": "За потреби"
+          },
+          "param": {
+            "_type": "localizedString",
+            "en": "Paid add-ons",
+            "ru": "Платные дополнения",
+            "uk": "Платні доповнення"
+          },
+          "wix": {
+            "_type": "localizedString",
+            "en": "Plugins billed separately",
+            "ru": "Плагины оплачиваются отдельно",
+            "uk": "Плагіни оплачуються окремо"
+          },
+          "wp": {
+            "_type": "localizedString",
+            "en": "Apps billed separately",
+            "ru": "Приложения оплачиваются отдельно",
+            "uk": "Застосунки оплачуються окремо"
+          }
+        },
+        {
+          "_key": "cou-cr-59",
+          "_type": "comparisonRow",
+          "custom": {
+            "_type": "localizedString",
+            "en": "from $800",
+            "ru": "от $800",
+            "uk": "від $800"
+          },
+          "param": {
+            "_type": "localizedString",
+            "en": "Total over 3 years",
+            "ru": "Общая сумма за 3 года",
+            "uk": "Загальна сума за 3 роки"
+          },
+          "wix": {
+            "_type": "localizedString",
+            "en": "$1,230–2,400 + plugins",
+            "ru": "$1 230–2 400 + плагины",
+            "uk": "$1 230–2 400 + плагіни"
+          },
+          "wp": {
+            "_type": "localizedString",
+            "en": "$1,544–2,604 + apps",
+            "ru": "$1 544–2 604 + приложения",
+            "uk": "$1 544–2 604 + застосунки"
+          }
+        }
+      ],
+      "tableCtaGhost": {
+        "en": "WordPress comparison →",
+        "ru": "Сравнение с WordPress →",
+        "uk": "Порівняння з WordPress →"
+      },
+      "tableCtaPrimary": {
+        "en": "Detailed page builder comparison →",
+        "ru": "Подробное сравнение конструкторов →",
+        "uk": "Детальне порівняння конструкторів →"
+      },
+      "tiers": [
+        {
+          "_key": "cou-tier-63",
+          "_type": "comparisonTier",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "_type": "localizedString",
+            "en": "Discuss the project",
+            "ru": "Обсудить проект",
+            "uk": "Обговорити проєкт"
+          },
+          "excludes": [],
+          "excludesHeading": null,
+          "includes": [
+            {
+              "_key": "FgFZzy882mp21voM3Njk0W",
+              "_type": "localizedString",
+              "en": "Product analysis and a structure of up to 8 blocks",
+              "ru": "Анализ продукта и структура до 8 блоков",
+              "uk": "Аналіз продукту й структура до 8 блоків"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Njk4I",
+              "_type": "localizedString",
+              "en": "Custom design and a responsive build",
+              "ru": "Индивидуальный дизайн и адаптивная версия",
+              "uk": "Індивідуальний дизайн та адаптивна версія"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Njk84",
+              "_type": "localizedString",
+              "en": "One language version of the site",
+              "ru": "Одна языковая версия сайта",
+              "uk": "Одна мовна версія сайту"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjkBq",
+              "_type": "localizedString",
+              "en": "Enquiry form or online payment hooked up",
+              "ru": "Форма заявки или подключение онлайн-оплаты",
+              "uk": "Форма заявки або підключення онлайн-оплати"
+            }
+          ],
+          "includesHeading": {
+            "_type": "localizedString",
+            "en": "What's included",
+            "ru": "Что входит",
+            "uk": "Що входить"
+          },
+          "isPopular": false,
+          "popularLabel": null,
+          "price": {
+            "_type": "localizedString",
+            "en": "$800",
+            "ru": "$800",
+            "uk": "$800"
+          },
+          "title": {
+            "_type": "localizedString",
+            "en": "Landing",
+            "ru": "ЛЕНДИНГ",
+            "uk": "ЛЕНДИНГ"
+          },
+          "weeks": {
+            "_type": "localizedString",
+            "en": "3–4 weeks",
+            "ru": "3–4 недели",
+            "uk": "3–4 тижні"
+          }
+        },
+        {
+          "_key": "cou-tier-64",
+          "_type": "comparisonTier",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "_type": "localizedString",
+            "en": "Discuss the project",
+            "ru": "Обсудить проект",
+            "uk": "Обговорити проєкт"
+          },
+          "excludes": [],
+          "excludesHeading": null,
+          "includes": [
+            {
+              "_key": "FgFZzy882mp21voM3NjkFc",
+              "_type": "localizedString",
+              "en": "Expanded structure for presenting and selling the course",
+              "ru": "Расширенная структура для презентации и продажи курса",
+              "uk": "Розширена структура для презентації та продажу курсу"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjkJO",
+              "_type": "localizedString",
+              "en": "Two language versions and several pricing tiers",
+              "ru": "Две языковые версии и несколько тарифов",
+              "uk": "Дві мовні версії та декілька тарифів"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjkNA",
+              "_type": "localizedString",
+              "en": "Online payments via WayForPay, LiqPay or Stripe",
+              "ru": "Онлайн-оплата через WayForPay, LiqPay или Stripe",
+              "uk": "Онлайн-оплата через WayForPay, LiqPay або Stripe"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjkQw",
+              "_type": "localizedString",
+              "en": "Automatic access via a Telegram bot or learning platform",
+              "ru": "Автоматический доступ через Telegram-бота или обучающую платформу",
+              "uk": "Автоматичний доступ через Telegram-бота або навчальну платформу"
+            }
+          ],
+          "includesHeading": {
+            "_type": "localizedString",
+            "en": "What's included",
+            "ru": "Что входит",
+            "uk": "Що входить"
+          },
+          "isPopular": true,
+          "popularLabel": {
+            "_type": "localizedString",
+            "en": "Popular",
+            "ru": "Популярный",
+            "uk": "Популярний"
+          },
+          "price": {
+            "_type": "localizedString",
+            "en": "$1,500",
+            "ru": "$1 500",
+            "uk": "$1 500"
+          },
+          "title": {
+            "_type": "localizedString",
+            "en": "Landing + automation",
+            "ru": "ЛЕНДИНГ + АВТОМАТИЗАЦИЯ",
+            "uk": "ЛЕНДИНГ + АВТОМАТИЗАЦІЯ"
+          },
+          "weeks": {
+            "_type": "localizedString",
+            "en": "4–6 weeks",
+            "ru": "4–6 недель",
+            "uk": "4–6 тижнів"
+          }
+        },
+        {
+          "_key": "cou-tier-65",
+          "_type": "comparisonTier",
+          "ctaGhost": false,
+          "ctaLabel": {
+            "_type": "localizedString",
+            "en": "Discuss the project",
+            "ru": "Обсудить проект",
+            "uk": "Обговорити проєкт"
+          },
+          "excludes": [],
+          "excludesHeading": null,
+          "includes": [
+            {
+              "_key": "FgFZzy882mp21voM3NjkUi",
+              "_type": "localizedString",
+              "en": "A catalogue and separate pages for several courses",
+              "ru": "Каталог и отдельные страницы для нескольких курсов",
+              "uk": "Каталог і окремі сторінки для декількох курсів"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjkYU",
+              "_type": "localizedString",
+              "en": "A member area with different access levels",
+              "ru": "Личный кабинет и разные уровни доступа",
+              "uk": "Особистий кабінет та різні рівні доступу"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3NjkcG",
+              "_type": "localizedString",
+              "en": "An admin panel for courses and users",
+              "ru": "Админпанель для управления курсами и пользователями",
+              "uk": "Адмінпанель для керування курсами й користувачами"
+            },
+            {
+              "_key": "FgFZzy882mp21voM3Njkg2",
+              "_type": "localizedString",
+              "en": "Deeper integrations, payments and automation",
+              "ru": "Сложные интеграции, оплаты и автоматизация",
+              "uk": "Складні інтеграції, оплати та автоматизація"
+            }
+          ],
+          "includesHeading": {
+            "_type": "localizedString",
+            "en": "What's included",
+            "ru": "Что входит",
+            "uk": "Що входить"
+          },
+          "isPopular": false,
+          "popularLabel": null,
+          "price": {
+            "_type": "localizedString",
+            "en": "$3,000",
+            "ru": "$3 000",
+            "uk": "$3 000"
+          },
+          "title": {
+            "_type": "localizedString",
+            "en": "Online school",
+            "ru": "ОНЛАЙН-ШКОЛА",
+            "uk": "ОНЛАЙН-ШКОЛА"
+          },
+          "weeks": {
+            "_type": "localizedString",
+            "en": "from 6 weeks",
+            "ru": "от 6 недель",
+            "uk": "від 6 тижнів"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "cou-sec-66",
+      "_type": "faqBlock",
+      "heading": {
+        "_type": "localizedText",
+        "en": "FAQ: building a\ncourse landing",
+        "ru": "Частые вопросы о разработке\nлендинга для курса",
+        "uk": "Часті питання про розробку\nлендингу для курсу"
+      },
+      "items": [
+        {
+          "_key": "cou-fq-01",
+          "_type": "faqEntry",
+          "answer": {
+            "en": [
+              {
+                "_key": "cou-faq01enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq01ens",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "A basic landing starts from $800. With online payments, several tiers and automatic course access, from $1,500. The exact figure follows a talk through structure and integrations."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "7dd75220d2f7492e86ccaf1d5bf00ac1",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f0ee293259704f81a3081f76212f60cf",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Стоимость базового лендинга начинается от $800. Лендинг с онлайн-оплатой, несколькими тарифами и автоматическим доступом к обучению — от $1 500. Точную сумму определяем после обсуждения структуры и необходимых интеграций."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-faq01ukb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq01uks",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Вартість базового лендингу починається від $800. Лендинг з онлайн-оплатою, декількома тарифами та автоматичним доступом до навчання — від $1 500. Точну суму визначаємо після обговорення структури та необхідних інтеграцій."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "_type": "localizedString",
+            "en": "How much does a course landing cost?",
+            "ru": "Сколько стоит разработка лендинга для курса?",
+            "uk": "Скільки коштує розробка лендингу для курсу?"
+          }
+        },
+        {
+          "_key": "cou-fq-02",
+          "_type": "faqEntry",
+          "answer": {
+            "en": [
+              {
+                "_key": "cou-faq02enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq02ens",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "A basic landing usually takes 3–4 weeks. With payments, a Telegram bot, several languages or a learning platform, plan on 4–6 weeks or more."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "3db0daa6d40d4ab6ac478c6edafb23e4",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0a1b93dc3601498a82079136ad931532",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Базовый лендинг разрабатываем в среднем за 3–4 недели. Проект с оплатой, Telegram-ботом, несколькими языками или обучающей платформой занимает от 4–6 недель."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-faq02ukb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq02uks",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Базовий лендинг розробляємо в середньому за 3–4 тижні. Проєкт з оплатою, Telegram-ботом, декількома мовами або навчальною платформою займає від 4–6 тижнів."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "_type": "localizedString",
+            "en": "How long does the build take?",
+            "ru": "Сколько времени занимает разработка?",
+            "uk": "Скільки часу займає розробка?"
+          }
+        },
+        {
+          "_key": "cou-fq-03",
+          "_type": "faqEntry",
+          "answer": {
+            "en": [
+              {
+                "_key": "cou-faq03enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq03ens",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "No. Tell us about the course, the audience and the result you want. We'll shape the structure, feature list and delivery plan from there."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "25bcc9e68a4242c4a4b28a11cd81e32f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7f93bb08f13e4cd9b4192a498bcff678",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Нет. Достаточно рассказать о курсе, аудитории и желаемом результате. Мы самостоятельно сформируем структуру, перечень функций и план реализации."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-faq03ukb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq03uks",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Ні. Достатньо розповісти про курс, аудиторію та бажаний результат. Ми самостійно сформуємо структуру, перелік функцій і план реалізації."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "_type": "localizedString",
+            "en": "Do I need a written brief?",
+            "ru": "Нужно ли мне готовить техническое задание?",
+            "uk": "Чи потрібно мені готувати технічне завдання?"
+          }
+        },
+        {
+          "_key": "cou-fq-04",
+          "_type": "faqEntry",
+          "answer": {
+            "en": [
+              {
+                "_key": "cou-faq04enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq04ens",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Details on the course, syllabus, tiers, tutor, audience, photos and any brand assets you already have. If there's no copy yet, we help shape the structure and draft content."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "b9b22067245449aea44f749432ecbd7e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "82190e8e4a6b4e879aef6cfbe40ddb08",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Информацию о курсе, программе, тарифах, преподавателе, целевой аудитории, фотографии и имеющиеся материалы бренда. Если готовых текстов нет, поможем сформировать структуру и подготовить контент."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-faq04ukb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq04uks",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Інформацію про курс, програму, тарифи, викладача, цільову аудиторію, фотографії та наявні матеріали бренду. Якщо готових текстів немає, допоможемо сформувати структуру й підготувати контент."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "_type": "localizedString",
+            "en": "What do you need from me to start?",
+            "ru": "Что нужно предоставить для начала работы?",
+            "uk": "Що потрібно надати для початку роботи?"
+          }
+        },
+        {
+          "_key": "cou-fq-05",
+          "_type": "faqEntry",
+          "answer": {
+            "en": [
+              {
+                "_key": "cou-faq05enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq05ens",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Yes. We integrate WayForPay, LiqPay, Stripe or another payment provider that fits. Each tier can have its own checkout."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "c810a3683a734d25bec12f36d9aca53a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5b7425ef909944c58922b5f79127966c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да. Интегрируем WayForPay, LiqPay, Stripe или другую доступную платёжную систему. Для каждого тарифа можно создать отдельную оплату."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-faq05ukb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq05uks",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так. Інтегруємо WayForPay, LiqPay, Stripe або іншу доступну платіжну систему. Для кожного тарифу можна створити окрему оплату."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "_type": "localizedString",
+            "en": "Can you connect online payments?",
+            "ru": "Можно ли подключить онлайн-оплату?",
+            "uk": "Чи можна підключити онлайн-оплату?"
+          }
+        },
+        {
+          "_key": "cou-fq-06",
+          "_type": "faqEntry",
+          "answer": {
+            "en": [
+              {
+                "_key": "cou-faq06enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq06ens",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "After a successful payment the system can grant access automatically via a Telegram bot, member area or learning platform. You don't have to check every purchase by hand."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "dac866d900fa4d62a89bb1089efd50b0",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0e596add938146839a5d44e92663d742",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "После успешной оплаты система может автоматически выдать доступ через Telegram-бота, личный кабинет или обучающую платформу. Вам не придётся проверять каждую покупку вручную."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-faq06ukb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq06uks",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Після успішної оплати система може автоматично надати доступ через Telegram-бота, особистий кабінет або навчальну платформу. Вам не доведеться перевіряти кожну покупку вручну."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "_type": "localizedString",
+            "en": "How does the buyer get the course after paying?",
+            "ru": "Как пользователь получит курс после оплаты?",
+            "uk": "Як користувач отримає курс після оплати?"
+          }
+        },
+        {
+          "_key": "cou-fq-07",
+          "_type": "faqEntry",
+          "answer": {
+            "en": [
+              {
+                "_key": "cou-faq07enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq07ens",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Yes. We can wire the landing into Teachable, Thinkific, Kajabi, Podia or another platform that supports the connection you need."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "48ce6068dab049e2844e08fc2a20ca74",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7aead6a199234056b5269a9cb04fb685",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да. Можем интегрировать лендинг с Teachable, Thinkific, Kajabi, Podia или другой платформой, если она поддерживает необходимый способ подключения."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-faq07ukb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq07uks",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так. Можемо інтегрувати лендинг із Teachable, Thinkific, Kajabi, Podia або іншою платформою, якщо вона підтримує необхідний спосіб підключення."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "_type": "localizedString",
+            "en": "Can you connect the site to my learning platform?",
+            "ru": "Можно ли подключить сайт к моей обучающей платформе?",
+            "uk": "Чи можна підключити сайт до моєї навчальної платформи?"
+          }
+        },
+        {
+          "_key": "cou-fq-08",
+          "_type": "faqEntry",
+          "answer": {
+            "en": [
+              {
+                "_key": "cou-faq08enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq08ens",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Yes. Where needed we add an admin panel so you can change copy, images, the syllabus, tiers and prices without a developer."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "2e8354cf299c46dea4e1d304ff3373af",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "75705977d36e43e6aba19fae048c0cbc",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да. При необходимости подключим админпанель, через которую можно редактировать тексты, изображения, программу курса, тарифы и цены без помощи разработчика."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-faq08ukb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq08uks",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так. За потреби підключимо адмінпанель, через яку можна редагувати тексти, зображення, програму курсу, тарифи та ціни без допомоги розробника."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "_type": "localizedString",
+            "en": "Can I edit the site myself later?",
+            "ru": "Смогу ли я самостоятельно менять информацию на сайте?",
+            "uk": "Чи зможу я самостійно змінювати інформацію на сайті?"
+          }
+        },
+        {
+          "_key": "cou-fq-09",
+          "_type": "faqEntry",
+          "answer": {
+            "en": [
+              {
+                "_key": "cou-faq09enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq09ens",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "No. Hosting for the landings we build is included. You only pay the domain and any third-party services used on the project."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "02a0ba6aa860441698d52e9d260fe1a2",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8a6cc12e85034c54a5b102df705831df",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Нет. Для разработанных нами лендингов хостинг бесплатный. Отдельно оплачивается только домен и сторонние сервисы, если они используются в проекте."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-faq09ukb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq09uks",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Ні. Для розроблених нами лендингів хостинг безкоштовний. Окремо оплачується лише домен та сторонні сервіси, якщо вони використовуються в проєкті."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "_type": "localizedString",
+            "en": "Do I pay for hosting separately?",
+            "ru": "Нужно ли отдельно оплачивать хостинг?",
+            "uk": "Чи потрібно окремо оплачувати хостинг?"
+          }
+        },
+        {
+          "_key": "cou-fq-10",
+          "_type": "faqEntry",
+          "answer": {
+            "en": [
+              {
+                "_key": "cou-faq10enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq10ens",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Yes. We can keep the content that still works, rebuild the structure and design, and move the site onto a custom coded stack."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "da820705eaeb4b4ba87df55b2b3d11b6",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e506abe2994040efa6fd8aab1e7d2a90",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да. Мы можем сохранить нужный контент, полностью обновить структуру и дизайн и перенести сайт на кастомную кодовую разработку."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-faq10ukb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq10uks",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так. Ми можемо зберегти потрібний контент, повністю оновити структуру й дизайн та перенести сайт на кастомну кодову розробку."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "_type": "localizedString",
+            "en": "Can you migrate an existing Wix or WordPress landing?",
+            "ru": "Можно ли перенести существующий лендинг с Wix или WordPress?",
+            "uk": "Чи можна перенести наявний лендинг із Wix або WordPress?"
+          }
+        },
+        {
+          "_key": "cou-fq-11",
+          "_type": "faqEntry",
+          "answer": {
+            "en": [
+              {
+                "_key": "cou-faq11enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq11ens",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Yes. After launch we cover warranty support for the technical side. Extra features or new pages are scoped separately."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "883cdd82583b4c0392b9fd77491eb03e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "84502ef2a13a47c1b05c835a7e56b98a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да. После запуска предоставляем гарантийную поддержку технической части сайта. Дальнейшее расширение функционала или создание новых страниц можно заказать отдельно."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-faq11ukb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq11uks",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так. Після запуску надаємо гарантійну підтримку технічної частини сайту. Подальше розширення функціоналу або створення нових сторінок можна замовити окремо."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "_type": "localizedString",
+            "en": "Do you support the site after launch?",
+            "ru": "Предоставляете ли вы поддержку после запуска?",
+            "uk": "Чи надаєте ви підтримку після запуску?"
+          }
+        },
+        {
+          "_key": "cou-fq-12",
+          "_type": "faqEntry",
+          "answer": {
+            "en": [
+              {
+                "_key": "cou-faq12enb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq12ens",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Yes. The coded setup can grow: new courses, tiers, languages, payment providers, a member area and other features."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "ru": [
+              {
+                "_key": "33bd48efa5c34315860093c60bf3f1d9",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "984d39954ce8412ca7184d490259f819",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Да. Кодовую систему можно расширять: добавлять новые курсы, тарифы, языковые версии, платёжные системы, личный кабинет и другие функции."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "uk": [
+              {
+                "_key": "cou-faq12ukb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cou-faq12uks",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Так. Кодову систему можна розширювати: додавати нові курси, тарифи, мовні версії, платіжні системи, особистий кабінет та інші функції."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          "question": {
+            "_type": "localizedString",
+            "en": "Can we add courses or features later?",
+            "ru": "Можно ли добавить новые курсы или функции позже?",
+            "uk": "Чи можна додати нові курси або функції пізніше?"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "cou-sec-97",
+      "_type": "auditBlock",
+      "disclaim": {
+        "en": "No obligation. Useful even if you decide to work with another vendor.",
+        "ru": "Без обязательств. Полезно, даже если решите работать с другим подрядчиком.",
+        "uk": "Без зобовʼязань. Корисно, навіть якщо вирішите працювати з іншим підрядником."
+      },
+      "heading": {
+        "en": "Free audit of your course landing",
+        "ru": "Бесплатный аудит вашего курс-лендинга",
+        "uk": "Безкоштовний аудит вашого курс-лендингу"
+      },
+      "inputs": {
+        "contactPlaceholder": {
+          "en": "Email or Telegram",
+          "ru": "Email или Telegram",
+          "uk": "Email або Telegram"
+        },
+        "namePlaceholder": {
+          "en": "Your name",
+          "ru": "Ваше имя",
+          "uk": "Ваше імʼя"
+        },
+        "phonePlaceholder": {
+          "en": "Phone (optional)",
+          "ru": "Телефон (опционально)",
+          "uk": "Телефон (опціонально)"
+        },
+        "urlPlaceholder": {
+          "en": "Link to your site",
+          "ru": "Ссылка на ваш сайт",
+          "uk": "Посилання на ваш сайт"
+        }
+      },
+      "list": [
+        {
+          "_key": "FgFZzy882mp21voM3Njkjo",
+          "en": "Landing structure analysis: does it sell to cold traffic",
+          "ru": "Анализ структуры лендинга: продаёт ли холодному трафику",
+          "uk": "Аналіз структури лендингу: чи продає холодному трафіку"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3Njkna",
+          "en": "Checkout analysis: 10–15 client drop-off points",
+          "ru": "Анализ чекаута: 10-15 точек потери клиентов",
+          "uk": "Аналіз чекауту: 10-15 точок втрати клієнтів"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3NjkrM",
+          "en": "SEO audit + load speed (Core Web Vitals)",
+          "ru": "SEO-аудит + скорость загрузки (Core Web Vitals)",
+          "uk": "SEO-аудит + швидкість завантаження (Core Web Vitals)"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3Njkv8",
+          "en": "Teachable / Thinkific integration analysis",
+          "ru": "Анализ интеграции с Teachable / Thinkific",
+          "uk": "Аналіз інтеграції з Teachable / Thinkific"
+        },
+        {
+          "_key": "FgFZzy882mp21voM3Njkyu",
+          "en": "Prioritised improvement plan + rough budget",
+          "ru": "План улучшений с приоритетами + ориентировочный бюджет",
+          "uk": "План покращень з пріоритетами + орієнтовний бюджет"
+        }
+      ],
+      "sub": {
+        "en": "Leave a link to your current landing. Within 3 working days — a detailed PDF report.",
+        "ru": "Оставьте ссылку на ваш текущий лендинг. В течение 3 рабочих дней — детальный отчёт в PDF.",
+        "uk": "Залиште посилання на ваш поточний лендинг. Протягом 3 робочих днів — детальний звіт у PDF."
+      },
+      "submitLabel": {
+        "en": "Get my free audit",
+        "ru": "Получить бесплатный аудит",
+        "uk": "Отримати безкоштовний аудит"
+      }
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "➤ Custom websites for online courses, coaching and education projects ✔️ Stripe payment integration ✔️ Course access control ✔️ Mobile-first ✔️ Fixed price ➡ Book a free strategy call.",
+      "ru": "➤ Кастомные сайты для онлайн-курсов, коучинга и образовательных проектов ✔️ Интеграция оплат через Stripe ✔️ Контроль доступа к курсам ✔️ Mobile-first ✔️ Фикс-цена ➡ Закажите бесплатную стратегическую консультацию.",
+      "uk": "➤ Кастомні сайти для онлайн-курсів, коучингу та освітніх проєктів ✔️ Інтеграція оплат через Stripe ✔️ Контроль доступу до курсів ✔️ Mobile-first ✔️ Фікс-ціна ➡ Замовте безкоштовну стратегічну консультацію."
+    },
+    "title": {
+      "en": "ᐈ Websites for online courses and learning platforms | Code-Site.Art",
+      "ru": "ᐈ Создание сайтов для онлайн-курсов и обучающих платформ | Code-Site.Art",
+      "uk": "ᐈ Створення сайтів для онлайн-курсів і навчальних платформ | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "courses"
+  },
+  "status": "published",
+  "title": {
+    "en": "Websites for online courses and bloggers",
+    "ru": "Сайты для онлайн-курсов и блогеров",
+    "uk": "Сайти для онлайн-курсів і блогерів"
+  }
+}

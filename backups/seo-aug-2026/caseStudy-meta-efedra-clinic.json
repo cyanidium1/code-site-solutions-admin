@@ -1,0 +1,26 @@
+{
+  "_id": "lOTgaDd8FU4wgJ8F4K9w0O",
+  "metricsLine": {
+    "en": "3.2× inquiries · LCP 0.8s · Top-3 Google",
+    "ru": "×3.2 заявок · LCP 0.8s · Top-3 Google",
+    "uk": "×3.2 заявок · LCP 0.8s · Top-3 Google"
+  },
+  "seo": {
+    "description": {
+      "en": "➤ Clinic redesign in Odesa ✔️ Next.js + Sanity CMS ✔️ 3.2× more inquiries ✔️ LCP 0.8s · Top-3 Google ➡ See the full case study.",
+      "ru": "Как мы переделали сайт стоматологической клиники + студии красоты. Custom-coded на Next.js + Sanity. Результат: ×3.2 заявок, LCP 0.8s, Top-3 Google.",
+      "uk": "Як ми переробили сайт стоматологічної клініки + студії краси. Custom-coded на Next.js + Sanity. Результат: ×3.2 заявок, LCP 0.8s, Top-3 Google."
+    },
+    "title": {
+      "en": "ᐈ Efedra Clinic — Dental & Aesthetic Studio Website Redesign | Code-Site.Art",
+      "ru": "Efedra Clinic — кейс редизайна сайта клиники в Одессе",
+      "uk": "Efedra Clinic — кейс редизайну сайту клініки в Одесі"
+    }
+  },
+  "slug": "efedra-clinic",
+  "title": {
+    "en": "Efedra Clinic",
+    "ru": "Efedra Clinic",
+    "uk": "Efedra Clinic"
+  }
+}

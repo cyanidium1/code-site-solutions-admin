@@ -1,0 +1,1461 @@
+{
+  "_id": "7ec1328a-38a9-4517-944a-cbde747e402e",
+  "body": {
+    "en": [
+      {
+        "_key": "t203e",
+        "_type": "tldrBox",
+        "items": [
+          "Patients compare **3–5 clinic websites** — and pick the one that doesn't annoy them.",
+          "Top-5 mistakes: no online booking, \"call for prices\", stock photos, a slow site, no practitioner pages",
+          "Most of the list is fixable **without a full rebuild**",
+          "Every item below is a real reason a patient chose a competitor"
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "t203f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t203g",
+            "_type": "span",
+            "marks": [],
+            "text": "Trust mistakes"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t203j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t203h",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Stock photos instead of practitioners. "
+          },
+          {
+            "_key": "t203i",
+            "_type": "span",
+            "marks": [],
+            "text": "\"If they hide their team — what else are they hiding?\" Real photos always win."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t203m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t203k",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "No practitioner pages. "
+          },
+          {
+            "_key": "t203l",
+            "_type": "span",
+            "marks": [],
+            "text": "Patients book a person, not a sign: photo, specialism, experience."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t203p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t203n",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "\"Call for prices\". "
+          },
+          {
+            "_key": "t203o",
+            "_type": "span",
+            "marks": [],
+            "text": "Opacity reads as \"expensive\". The patient left to compare and didn't come back."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t203s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t203q",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Reviews without names or dates. "
+          },
+          {
+            "_key": "t203r",
+            "_type": "span",
+            "marks": [],
+            "text": "Anonymous \"Thanks, all great!\" works against you."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t203v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t203t",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "No address or map in sight. "
+          },
+          {
+            "_key": "t203u",
+            "_type": "span",
+            "marks": [],
+            "text": "A local business without a location is a red flag."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t203w",
+        "_type": "blogImage",
+        "alt": "A modern medical centre reception",
+        "asset": {
+          "_ref": "image-adf45c250c9161155652fbb1ead72d0e63523419-1600x2133-jpg",
+          "_type": "reference"
+        },
+        "caption": "Trust starts before the visit: your website is the reception patients see first"
+      },
+      {
+        "_key": "t203x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t203y",
+            "_type": "span",
+            "marks": [],
+            "text": "Conversion mistakes"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t2041",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t203z",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "No online booking. "
+          },
+          {
+            "_key": "t2040",
+            "_type": "span",
+            "marks": [],
+            "text": "A large share of calls land out of hours. A \"we'll call back\" form doesn't fix it: younger patients don't call."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2044",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2042",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "A booking button you have to hunt for. "
+          },
+          {
+            "_key": "t2043",
+            "_type": "span",
+            "marks": [],
+            "text": "It belongs on every screen, not just the header."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2047",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2045",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "An 8-field form. "
+          },
+          {
+            "_key": "t2046",
+            "_type": "span",
+            "marks": [],
+            "text": "Name and phone — that's all a first contact needs."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t204a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2048",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "One \"Services\" list page. "
+          },
+          {
+            "_key": "t2049",
+            "_type": "span",
+            "marks": [],
+            "text": "Each service needs its own page with a price and a practitioner. Otherwise neither patients nor Google find it."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t204d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t204b",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Popups and carousels. "
+          },
+          {
+            "_key": "t204c",
+            "_type": "span",
+            "marks": [],
+            "text": "\"−30% off implants!\" in the first 3 seconds — this is healthcare, not a clearance."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t204e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t204f",
+            "_type": "span",
+            "marks": [],
+            "text": "Technical and SEO mistakes"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t204i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t204g",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Slow loading. "
+          },
+          {
+            "_key": "t204h",
+            "_type": "span",
+            "marks": [],
+            "text": "Past 2 seconds on mobile, part of your patients are already back in the results."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t204l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t204j",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "A clumsy mobile version. "
+          },
+          {
+            "_key": "t204k",
+            "_type": "span",
+            "marks": [],
+            "text": "70%+ of clinic traffic is on phones. A desktop site squeezed into a phone doesn't count."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t204o",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t204m",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "No Schema.org markup. "
+          },
+          {
+            "_key": "t204n",
+            "_type": "span",
+            "marks": [],
+            "text": "Without MedicalOrganization, Google shows no rich snippets — competitors look richer in the results."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t204r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t204p",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "A site untouched for years. "
+          },
+          {
+            "_key": "t204q",
+            "_type": "span",
+            "marks": [],
+            "text": "2022 prices and three-year-old \"news\" kill trust."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t204u",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t204s",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "No analytics. "
+          },
+          {
+            "_key": "t204t",
+            "_type": "span",
+            "marks": [],
+            "text": "Without Search Console and GA4 you don't know where patients come from or what's broken."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t204v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t204w",
+            "_type": "span",
+            "marks": [],
+            "text": "What to do about it"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t2051",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t204x",
+            "_type": "span",
+            "marks": [],
+            "text": "The good news: most of the list is fixable without a rebuild — booking, forms, markup and speed can be fixed on an existing site, as long as it isn't on a builder. The bad news: on a builder or an old template, half the list is technically impossible — then it's more honest to price "
+          },
+          {
+            "_key": "t204z",
+            "_type": "span",
+            "marks": [
+              "t204y"
+            ],
+            "text": "a new clinic website"
+          },
+          {
+            "_key": "t2050",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t204y",
+            "_type": "link",
+            "href": "/en/blog/clinic-website-development-process",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t2052",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/sites-for/medicine",
+        "ctaLabel": "Get the teardown",
+        "ctaSecondaryHref": "/en/calculator",
+        "ctaSecondaryLabel": "Price a new site",
+        "eyebrow": "Free teardown",
+        "heading": "How many of these 15 mistakes are on your site?",
+        "sub": "Send the link — within 24 hours you'll get a prioritised teardown: what's losing patients today and what it costs to fix."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "t201p",
+        "_type": "tldrBox",
+        "items": [
+          "Пациент сравнивает **3–5 сайтов клиник** — и выбирает тот, что не раздражает.",
+          "Топ-5 ошибок: нет онлайн-записи, «цены по телефону», стоковые фото, медленный сайт, нет врачей",
+          "Большинство ошибок исправляется **без полной переделки** сайта",
+          "Каждый пункт ниже — реальная причина, почему пациент ушёл к конкуренту"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "t201q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t201r",
+            "_type": "span",
+            "marks": [],
+            "text": "Ошибки доверия"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t201u",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t201s",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Стоковые фото вместо врачей. "
+          },
+          {
+            "_key": "t201t",
+            "_type": "span",
+            "marks": [],
+            "text": "«Если прячут команду — что ещё прячут?» Реальные фото всегда выигрывают."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t201x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t201v",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Нет страниц врачей. "
+          },
+          {
+            "_key": "t201w",
+            "_type": "span",
+            "marks": [],
+            "text": "Пациент записывается к человеку, а не к вывеске: фото, специализация, опыт."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2020",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t201y",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "«Цены по телефону». "
+          },
+          {
+            "_key": "t201z",
+            "_type": "span",
+            "marks": [],
+            "text": "Непрозрачность читается как «дорого». Пациент ушёл сравнивать и не вернулся."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2023",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2021",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Отзывы без имён и дат. "
+          },
+          {
+            "_key": "t2022",
+            "_type": "span",
+            "marks": [],
+            "text": "Анонимные «Спасибо, всё понравилось!» работают в минус."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2026",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2024",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Нет адреса и карты на виду. "
+          },
+          {
+            "_key": "t2025",
+            "_type": "span",
+            "marks": [],
+            "text": "Локальный бизнес без локации — красный флаг."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2027",
+        "_type": "blogImage",
+        "alt": "Современная рецепция медицинского центра",
+        "asset": {
+          "_ref": "image-adf45c250c9161155652fbb1ead72d0e63523419-1600x2133-jpg",
+          "_type": "reference"
+        },
+        "caption": "Доверие начинается до визита: сайт — это рецепция, которую пациент видит первой"
+      },
+      {
+        "_key": "t2028",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2029",
+            "_type": "span",
+            "marks": [],
+            "text": "Ошибки конверсии"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t202c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t202a",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Нет онлайн-записи. "
+          },
+          {
+            "_key": "t202b",
+            "_type": "span",
+            "marks": [],
+            "text": "60% звонков — в нерабочее время. Форма «перезвоним» не спасает: молодая аудитория не звонит."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t202f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t202d",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Кнопку записи нужно искать. "
+          },
+          {
+            "_key": "t202e",
+            "_type": "span",
+            "marks": [],
+            "text": "Она должна быть на каждом экране, а не только в шапке."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t202i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t202g",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Форма на 8 полей. "
+          },
+          {
+            "_key": "t202h",
+            "_type": "span",
+            "marks": [],
+            "text": "Имя и телефон — всё, что нужно для первого контакта."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t202l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t202j",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Одна страница «Услуги» списком. "
+          },
+          {
+            "_key": "t202k",
+            "_type": "span",
+            "marks": [],
+            "text": "Каждая услуга — отдельная страница с ценой и врачом. Иначе ни пациенты, ни Google её не найдут."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t202o",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t202m",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Попапы и карусели. "
+          },
+          {
+            "_key": "t202n",
+            "_type": "span",
+            "marks": [],
+            "text": "«Акция −30% на имплантацию!» в первые 3 секунды — это медицина, а не распродажа."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t202p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t202q",
+            "_type": "span",
+            "marks": [],
+            "text": "Технические и SEO-ошибки"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t202t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t202r",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Медленная загрузка. "
+          },
+          {
+            "_key": "t202s",
+            "_type": "span",
+            "marks": [],
+            "text": "Больше 2 секунд на мобильном — и часть пациентов уже вернулась в выдачу."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t202w",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t202u",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Неудобный мобильный. "
+          },
+          {
+            "_key": "t202v",
+            "_type": "span",
+            "marks": [],
+            "text": "70%+ трафика клиник — с телефонов. Десктопный сайт, сжатый в телефон, не считается."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t202z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t202x",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Нет Schema.org разметки. "
+          },
+          {
+            "_key": "t202y",
+            "_type": "span",
+            "marks": [],
+            "text": "Без MedicalOrganization Google не показывает расширенные сниппеты — конкуренты выглядят богаче в выдаче."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2032",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2030",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Сайт не обновляется годами. "
+          },
+          {
+            "_key": "t2031",
+            "_type": "span",
+            "marks": [],
+            "text": "Цены 2022 года и «новости» трёхлетней давности убивают доверие."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2035",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2033",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Нет аналитики. "
+          },
+          {
+            "_key": "t2034",
+            "_type": "span",
+            "marks": [],
+            "text": "Без Search Console и GA4 вы не знаете, откуда пациенты и что сломано."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2036",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2037",
+            "_type": "span",
+            "marks": [],
+            "text": "Что с этим делать"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t203c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2038",
+            "_type": "span",
+            "marks": [],
+            "text": "Хорошая новость: большинство пунктов исправляется без полной переделки — онлайн-запись, формы, разметка и скорость чинятся на существующем сайте, если он не на конструкторе. Плохая: если сайт на конструкторе или старом шаблоне, половину списка исправить технически невозможно — тогда честнее посчитать "
+          },
+          {
+            "_key": "t203a",
+            "_type": "span",
+            "marks": [
+              "t2039"
+            ],
+            "text": "новый сайт клиники"
+          },
+          {
+            "_key": "t203b",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t2039",
+            "_type": "link",
+            "href": "/ru/blog/razrabotka-sayta-medicinskogo-centra-pod-klyuch",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t203d",
+        "_type": "ctaCallout",
+        "ctaHref": "/ru/sites-for/medicine",
+        "ctaLabel": "Получить разбор",
+        "ctaSecondaryHref": "/ru/calculator",
+        "ctaSecondaryLabel": "Посчитать новый сайт",
+        "eyebrow": "Бесплатный разбор",
+        "heading": "Сколько из этих 15 ошибок — на вашем сайте?",
+        "sub": "Пришлите ссылку — за 24 часа вернём разбор с приоритетами: что теряет пациентов уже сегодня и сколько стоит исправить."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "t2000",
+        "_type": "tldrBox",
+        "items": [
+          "Пацієнт порівнює **3–5 сайтів клінік** — і обирає той, що не дратує.",
+          "Топ-5 помилок: немає онлайн-запису, «ціни за телефоном», стокові фото, повільний сайт, немає лікарів",
+          "Більшість помилок виправляється **без повної переробки** сайту",
+          "Кожен пункт нижче — реальна причина, чому пацієнт пішов до конкурента"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "t2001",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2002",
+            "_type": "span",
+            "marks": [],
+            "text": "Помилки довіри"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t2005",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2003",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Стокові фото замість лікарів. "
+          },
+          {
+            "_key": "t2004",
+            "_type": "span",
+            "marks": [],
+            "text": "«Якщо ховають команду — що ще ховають?» Реальні фото завжди виграють."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2008",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2006",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Немає сторінок лікарів. "
+          },
+          {
+            "_key": "t2007",
+            "_type": "span",
+            "marks": [],
+            "text": "Пацієнт записується до людини, а не до вивіски: фото, спеціалізація, досвід."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t200b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2009",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "«Ціни за телефоном». "
+          },
+          {
+            "_key": "t200a",
+            "_type": "span",
+            "marks": [],
+            "text": "Непрозорість читається як «дорого». Пацієнт пішов порівнювати і не повернувся."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t200e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t200c",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Відгуки без імен і дат. "
+          },
+          {
+            "_key": "t200d",
+            "_type": "span",
+            "marks": [],
+            "text": "Анонімні «Дякую, все сподобалось!» працюють у мінус."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t200h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t200f",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Немає адреси і карти на видноті. "
+          },
+          {
+            "_key": "t200g",
+            "_type": "span",
+            "marks": [],
+            "text": "Локальний бізнес без локації — червоний прапорець."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t200i",
+        "_type": "blogImage",
+        "alt": "Сучасна рецепція медичного центру",
+        "asset": {
+          "_ref": "image-adf45c250c9161155652fbb1ead72d0e63523419-1600x2133-jpg",
+          "_type": "reference"
+        },
+        "caption": "Довіра починається до візиту: сайт — це рецепція, яку пацієнт бачить першою"
+      },
+      {
+        "_key": "t200j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t200k",
+            "_type": "span",
+            "marks": [],
+            "text": "Помилки конверсії"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t200n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t200l",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Немає онлайн-запису. "
+          },
+          {
+            "_key": "t200m",
+            "_type": "span",
+            "marks": [],
+            "text": "60% дзвінків — у неробочий час. Форма «передзвонимо» не рятує: молодша аудиторія не дзвонить."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t200q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t200o",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Кнопку запису треба шукати. "
+          },
+          {
+            "_key": "t200p",
+            "_type": "span",
+            "marks": [],
+            "text": "Вона має бути на кожному екрані, а не тільки в шапці."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t200t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t200r",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Форма на 8 полів. "
+          },
+          {
+            "_key": "t200s",
+            "_type": "span",
+            "marks": [],
+            "text": "Імʼя і телефон — усе, що потрібно для першого контакту."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t200w",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t200u",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Одна сторінка «Послуги» списком. "
+          },
+          {
+            "_key": "t200v",
+            "_type": "span",
+            "marks": [],
+            "text": "Кожна послуга — окрема сторінка з ціною і лікарем. Інакше ні пацієнти, ні Google її не знайдуть."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t200z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t200x",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Попапи й каруселі. "
+          },
+          {
+            "_key": "t200y",
+            "_type": "span",
+            "marks": [],
+            "text": "«Акція −30% на імплантацію!» в перші 3 секунди — це медицина, а не розпродаж."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2010",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2011",
+            "_type": "span",
+            "marks": [],
+            "text": "Технічні і SEO-помилки"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t2014",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2012",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Повільне завантаження. "
+          },
+          {
+            "_key": "t2013",
+            "_type": "span",
+            "marks": [],
+            "text": "Понад 2 секунди на мобільному — і частина пацієнтів уже повернулась у видачу."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t2017",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2015",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Незручний мобільний. "
+          },
+          {
+            "_key": "t2016",
+            "_type": "span",
+            "marks": [],
+            "text": "70%+ трафіку клінік — з телефонів. Десктопний сайт, стиснутий у телефон, не рахується."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t201a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t2018",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Немає Schema.org розмітки. "
+          },
+          {
+            "_key": "t2019",
+            "_type": "span",
+            "marks": [],
+            "text": "Без MedicalOrganization Google не показує розширені сніпети — конкуренти виглядають багатше у видачі."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t201d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t201b",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Сайт не оновлюється роками. "
+          },
+          {
+            "_key": "t201c",
+            "_type": "span",
+            "marks": [],
+            "text": "Ціни 2022 року і «новини» трирічної давнини вбивають довіру."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t201g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t201e",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Немає аналітики. "
+          },
+          {
+            "_key": "t201f",
+            "_type": "span",
+            "marks": [],
+            "text": "Без Search Console і GA4 ви не знаєте, звідки пацієнти і що зламано."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t201h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t201i",
+            "_type": "span",
+            "marks": [],
+            "text": "Що з цим робити"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t201n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t201j",
+            "_type": "span",
+            "marks": [],
+            "text": "Хороша новина: більшість пунктів виправляється без повної переробки — онлайн-запис, форми, розмітка і швидкість чиняться на наявному сайті, якщо він не на конструкторі. Погана: якщо сайт на конструкторі або старому шаблоні, половину списку виправити неможливо технічно — тоді чесніше порахувати "
+          },
+          {
+            "_key": "t201l",
+            "_type": "span",
+            "marks": [
+              "t201k"
+            ],
+            "text": "новий сайт клініки"
+          },
+          {
+            "_key": "t201m",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "t201k",
+            "_type": "link",
+            "href": "/blog/rozrobka-saitu-medychnoho-tsentru-pid-kliuch",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t201o",
+        "_type": "ctaCallout",
+        "ctaHref": "/sites-for/medicine",
+        "ctaLabel": "Отримати розбір",
+        "ctaSecondaryHref": "/calculator",
+        "ctaSecondaryLabel": "Порахувати новий сайт",
+        "eyebrow": "Безкоштовний розбір",
+        "heading": "Скільки з цих 15 помилок — на вашому сайті?",
+        "sub": "Надішліть посилання — за 24 години повернемо розбір із пріоритетами: що втрачає пацієнтів уже сьогодні і скільки коштує виправити."
+      }
+    ]
+  },
+  "slug": "15-pomylok-na-saitakh-klinik"
+}

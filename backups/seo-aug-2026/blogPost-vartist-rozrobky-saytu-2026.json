@@ -1,0 +1,2005 @@
+{
+  "_id": "kSKPKaUF67MMZcPKqwVwa6",
+  "body": {
+    "en": [
+      {
+        "_key": "a1-1",
+        "_type": "tldrBox",
+        "items": [
+          "A custom website in the UK costs **£800 to £14,000+** in 2026. The number tracks scope.",
+          "**Landing page:** from £800 (1–2 weeks)",
+          "**Corporate website:** from £3,500 (4–8 weeks)",
+          "**Custom platform:** from £6,000 (8–16 weeks)",
+          "Every quote should cover design, build, CMS, hosting setup, launch and a year of support.",
+          "At Code-Site.Art the price is fixed in the contract before work starts."
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "a1-3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2",
+            "_type": "span",
+            "marks": [],
+            "text": "What affects the price of a custom website?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-4",
+            "_type": "span",
+            "marks": [],
+            "text": "A business owner types \"how much does a custom website cost\" into Google and gets two hundred studios quoting prices that vary by a factor of thirty. The reason is dull: most agencies were never taught to break a price into line items, so they hand over one big number and ask for a brief. Five things actually move that number."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-6",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Scope: pages and how many are bespoke. "
+          },
+          {
+            "_key": "a1-7",
+            "_type": "span",
+            "marks": [],
+            "text": "Five plain pages and five pages with calculators, filtered listings or a booking flow are not the same job. Each unique template adds design and build time, so a site with many similar pages costs far less per page than one with many one-off layouts."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-9",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Integrations. "
+          },
+          {
+            "_key": "a1-a",
+            "_type": "span",
+            "marks": [],
+            "text": "A contact form is close to free. A booking system that writes to your calendar, a CRM hand-off, Stripe payments or a second language each add real hours of build and testing. This is where most surprise costs hide on other studios’ quotes."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-c",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Content. "
+          },
+          {
+            "_key": "a1-d",
+            "_type": "span",
+            "marks": [],
+            "text": "If you supply the copy, you save the studio’s copywriting time. If the studio writes it, that work goes into the quote. Either way the cost should be stated, not buried."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-f",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Speed. "
+          },
+          {
+            "_key": "a1-g",
+            "_type": "span",
+            "marks": [],
+            "text": "A compressed timeline means reordering other work and sometimes adding a second developer, and that carries a premium. A normal timeline does not."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-i",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Who you hire. "
+          },
+          {
+            "_key": "a1-j",
+            "_type": "span",
+            "marks": [],
+            "text": "A boutique studio carries less overhead than a large agency, so the same corporate site can cost meaningfully less without cutting quality. Design complexity, by contrast, moves the price by a fraction, not a multiple; engineering and integrations take the bulk of the budget."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-l",
+            "_type": "span",
+            "marks": [],
+            "text": "UK website pricing breakdown, tier by tier"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-n",
+        "_type": "blogTable",
+        "headers": [
+          "Tier",
+          "Price",
+          "Timeline",
+          "What’s included",
+          "Best for"
+        ],
+        "rows": [
+          {
+            "_key": "a1-o",
+            "_type": "blogTableRow",
+            "cells": [
+              "Landing page",
+              "from £800",
+              "1–2 weeks",
+              "Design, responsive build, form, SEO structure",
+              "Campaigns, launches, a single service"
+            ]
+          },
+          {
+            "_key": "a1-p",
+            "_type": "blogTableRow",
+            "cells": [
+              "Corporate website",
+              "from £3,500",
+              "4–8 weeks",
+              "CMS, blog, 5+ integrations, multilingual, GDPR",
+              "SMBs, professional services, healthcare"
+            ]
+          },
+          {
+            "_key": "a1-q",
+            "_type": "blogTableRow",
+            "cells": [
+              "Custom platform",
+              "from £6,000",
+              "8–16 weeks",
+              "Architecture session, dedicated team, SLA, custom integrations",
+              "SaaS, marketplaces, complex products"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a1-v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-r",
+            "_type": "span",
+            "marks": [],
+            "text": "Every tier ships with the same foundation, whatever the price: copywriting, UI design in Figma, a hand-built front end on Next.js, a Sanity CMS you can edit from your phone, domain and hosting setup, launch, and a full year of support. The full list is on our "
+          },
+          {
+            "_key": "a1-t",
+            "_type": "span",
+            "marks": [
+              "a1-s"
+            ],
+            "text": "pricing page"
+          },
+          {
+            "_key": "a1-u",
+            "_type": "span",
+            "marks": [],
+            "text": ". You are not paying for a stripped-down version at the bottom and the \"real\" thing at the top. You are paying for scope."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "a1-s",
+            "_type": "link",
+            "href": "/en/pricing",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "en02n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "en02d",
+            "_type": "span",
+            "marks": [],
+            "text": "Each format has its own breakdown page: "
+          },
+          {
+            "_key": "en02f",
+            "_type": "span",
+            "marks": [
+              "en02e"
+            ],
+            "text": "Landing page from £800"
+          },
+          {
+            "_key": "en02g",
+            "_type": "span",
+            "marks": [],
+            "text": ", "
+          },
+          {
+            "_key": "en02i",
+            "_type": "span",
+            "marks": [
+              "en02h"
+            ],
+            "text": "Corporate website"
+          },
+          {
+            "_key": "en02j",
+            "_type": "span",
+            "marks": [],
+            "text": " and "
+          },
+          {
+            "_key": "en02l",
+            "_type": "span",
+            "marks": [
+              "en02k"
+            ],
+            "text": "Online store"
+          },
+          {
+            "_key": "en02m",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "en02e",
+            "_type": "link",
+            "href": "/en/landing",
+            "newTab": false
+          },
+          {
+            "_key": "en02h",
+            "_type": "link",
+            "href": "/en/corporate-site",
+            "newTab": false
+          },
+          {
+            "_key": "en02k",
+            "_type": "link",
+            "href": "/en/online-store",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-w",
+            "_type": "span",
+            "marks": [],
+            "text": "Fixed price vs hourly rate: what UK businesses should know"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-y",
+            "_type": "span",
+            "marks": [],
+            "text": "Most of the budget pain owners describe comes from hourly contracts, where the scope is loose and the invoice keeps climbing. You approve a design, the build starts, and three weeks in the estimate has quietly doubled because \"the integration took longer than expected.\" You carry that risk, not the studio."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-11",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-10",
+            "_type": "span",
+            "marks": [],
+            "text": "A fixed price flips it. The scope is locked in the contract, the number does not move unless you ask for something new in writing, and the warranty is part of the deal. You can plan cashflow around it."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-16",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-12",
+            "_type": "span",
+            "marks": [],
+            "text": "At Code-Site.Art every project is fixed price, agreed before a line of code is written. Across "
+          },
+          {
+            "_key": "a1-14",
+            "_type": "span",
+            "marks": [
+              "a1-13"
+            ],
+            "text": "50+ projects in seven countries"
+          },
+          {
+            "_key": "a1-15",
+            "_type": "span",
+            "marks": [],
+            "text": " we have not missed the price range on a single one. That is not talent; it is having seen 47 similar projects and knowing what each part actually costs."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "a1-13",
+            "_type": "link",
+            "href": "/en/portfolio",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-18",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-17",
+            "_type": "span",
+            "marks": [],
+            "text": "What a UK web design agency does not include in the price"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-1a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-19",
+            "_type": "span",
+            "marks": [],
+            "text": "An honest quote is as clear about what is out as what is in. These usually sit outside a website build, and any studio worth hiring will tell you so up front:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-1c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-1b",
+            "_type": "span",
+            "marks": [],
+            "text": "Product photography and video"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-1e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-1d",
+            "_type": "span",
+            "marks": [],
+            "text": "Branding from scratch (logo and brand book)"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-1g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-1f",
+            "_type": "span",
+            "marks": [],
+            "text": "Google Ads and Meta Ads campaigns"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-1i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-1h",
+            "_type": "span",
+            "marks": [],
+            "text": "SEO campaigns after the warranty year"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-1k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-1j",
+            "_type": "span",
+            "marks": [],
+            "text": "Hosting after year one, once the accounts are handed to you"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-1m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-1l",
+            "_type": "span",
+            "marks": [],
+            "text": "None of these are hidden costs when they are stated. They become hidden costs when a studio quotes low, wins the job, then bills them as \"extras\" later."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-1o",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-1n",
+            "_type": "span",
+            "marks": [],
+            "text": "How to compare quotes from UK web studios: 5 things to check"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-1q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-1p",
+            "_type": "span",
+            "marks": [],
+            "text": "Before you sign anything, ask every studio the same five questions, which doubles as a quick contract check:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-1t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-1r",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Is the price fixed or hourly? "
+          },
+          {
+            "_key": "a1-1s",
+            "_type": "span",
+            "marks": [],
+            "text": "\"Roughly\" or \"depends\" is not a quote; it is marketing."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-1w",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-1u",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Is copywriting included? "
+          },
+          {
+            "_key": "a1-1v",
+            "_type": "span",
+            "marks": [],
+            "text": "This is a £200–£2,000 line on its own and should be spelled out."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-1z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-1x",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "What is the warranty period? "
+          },
+          {
+            "_key": "a1-1y",
+            "_type": "span",
+            "marks": [],
+            "text": "Around four in five studios include no support year. Confirm it."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-22",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-20",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Do you get the GitHub repo and every account? "
+          },
+          {
+            "_key": "a1-21",
+            "_type": "span",
+            "marks": [],
+            "text": "If not, you are renting your own website."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-25",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-23",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "What happens if the deadline slips? "
+          },
+          {
+            "_key": "a1-24",
+            "_type": "span",
+            "marks": [],
+            "text": "With no penalty clause, a deadline is a hope, not a commitment."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-26",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/calculator",
+        "ctaLabel": "Try the calculator",
+        "ctaSecondaryHref": "/en/contacts",
+        "ctaSecondaryLabel": "Get a free estimate",
+        "eyebrow": "Get a number",
+        "heading": "Not sure which tier fits your project?",
+        "sub": "Use the online calculator for an instant estimate, or book a free 30-minute call and we’ll scope it together. Fixed price, no surprises."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "a1-27",
+        "_type": "tldrBox",
+        "items": [
+          "Сайт в Украине в 2026 стоит **от $800 до $6,000+**. Цифра зависит от объёма.",
+          "**Лендинг:** от $800 (1–2 недели)",
+          "**Корпоративный сайт:** от $3,500 (4–8 недель)",
+          "**Интернет-магазин:** $6,000–$10,000 (6–10 недель)",
+          "**Кастомная платформа:** от $6,000 (8–16 недель)",
+          "В Code-Site.Art сумма фиксируется в договоре до старта работ."
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "a1-29",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-28",
+            "_type": "span",
+            "marks": [],
+            "text": "4 фактора, которые формируют цену"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-2b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2a",
+            "_type": "span",
+            "marks": [],
+            "text": "Владелец бизнеса пишет в Google «сколько стоит сайт» и получает 200 студий с ценами, различающимися в 30 раз. Причина скучная: большинство подрядчиков не умеют разложить цену по статьям, поэтому дают одну цифру и просят ТЗ. На самом деле цену формируют четыре вещи."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-2e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2c",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Объём: страницы и сколько из них кастомные."
+          },
+          {
+            "_key": "a1-2d",
+            "_type": "span",
+            "marks": [],
+            "text": "5 простых страниц и 5 страниц с калькуляторами или бронированием — это разная работа. Каждый уникальный шаблон добавляет часы, поэтому сайт из многих похожих страниц стоит дешевле за страницу, чем сайт со многими уникальными макетами."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-2h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2f",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Интеграции."
+          },
+          {
+            "_key": "a1-2g",
+            "_type": "span",
+            "marks": [],
+            "text": "Форма обратной связи почти бесплатна. Бронирование с синхронизацией календаря, передача в CRM, оплата Stripe или LiqPay, второй язык: каждая добавляет реальные часы разработки и тестирования. Именно здесь в сметах других студий прячутся сюрпризы."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-2k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2i",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Контент."
+          },
+          {
+            "_key": "a1-2j",
+            "_type": "span",
+            "marks": [],
+            "text": "Пишете текст сами — экономите студии копирайтинг ($1,500–$2,500). Пишет студия — и эта работа в смете. В любом случае сумма должна быть названа, а не спрятана."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-2n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2l",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Кого вы нанимаете."
+          },
+          {
+            "_key": "a1-2m",
+            "_type": "span",
+            "marks": [],
+            "text": "Бутиковая студия имеет меньше накладных, чем большое агентство, поэтому тот же сайт под отрасль стоит ощутимо меньше без потери качества. Сложность дизайна, наоборот, меняет цену на 0–40%, а не в разы; основную часть забирают инженерия и интеграции."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-2p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2o",
+            "_type": "span",
+            "marks": [],
+            "text": "Тарифы, пакет за пакетом"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-2q",
+        "_type": "blogTable",
+        "headers": [
+          "Пакет",
+          "Цена",
+          "Срок",
+          "Что входит",
+          "Кому"
+        ],
+        "rows": [
+          {
+            "_key": "a1-2r",
+            "_type": "blogTableRow",
+            "cells": [
+              "Лендинг",
+              "от $800",
+              "1–2 недели",
+              "Дизайн, адаптив, форма, SEO-структура",
+              "Кампании, запуски, одна услуга"
+            ]
+          },
+          {
+            "_key": "a1-2s",
+            "_type": "blogTableRow",
+            "cells": [
+              "Корпоративный сайт",
+              "от $3,500",
+              "4–8 недель",
+              "CMS, блог, 5+ интеграций, два языка, compliance",
+              "МСБ, услуги, медицина"
+            ]
+          },
+          {
+            "_key": "a1-2t",
+            "_type": "blogTableRow",
+            "cells": [
+              "Кастомная платформа",
+              "от $6,000",
+              "8–16 недель",
+              "Архитектурная сессия, отдельная команда, SLA, кастомные интеграции",
+              "SaaS, маркетплейсы, сложные продукты"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a1-2y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2u",
+            "_type": "span",
+            "marks": [],
+            "text": "Каждый пакет имеет одинаковый фундамент, независимо от цены: копирайтинг, дизайн в Figma, фронтенд на Next.js, Sanity CMS с редактированием даже с телефона, настройка домена и хостинга, релиз и год поддержки. Полный перечень смотрите на странице"
+          },
+          {
+            "_key": "a1-2w",
+            "_type": "span",
+            "marks": [
+              "a1-2v"
+            ],
+            "text": "цен"
+          },
+          {
+            "_key": "a1-2x",
+            "_type": "span",
+            "marks": [],
+            "text": ". Вы не платите за «урезанную» версию внизу и «настоящую» вверху. Вы платите за объём."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "a1-2v",
+            "_type": "link",
+            "href": "/pricing",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "en02c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "en022",
+            "_type": "span",
+            "marks": [],
+            "text": "Детальный разбор каждого формата — на отдельных страницах: "
+          },
+          {
+            "_key": "en024",
+            "_type": "span",
+            "marks": [
+              "en023"
+            ],
+            "text": "Лендинг от $800"
+          },
+          {
+            "_key": "en025",
+            "_type": "span",
+            "marks": [],
+            "text": ", "
+          },
+          {
+            "_key": "en027",
+            "_type": "span",
+            "marks": [
+              "en026"
+            ],
+            "text": "Корпоративный сайт"
+          },
+          {
+            "_key": "en028",
+            "_type": "span",
+            "marks": [],
+            "text": " и "
+          },
+          {
+            "_key": "en02a",
+            "_type": "span",
+            "marks": [
+              "en029"
+            ],
+            "text": "Интернет-магазин"
+          },
+          {
+            "_key": "en02b",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "en023",
+            "_type": "link",
+            "href": "/ru/landing",
+            "newTab": false
+          },
+          {
+            "_key": "en026",
+            "_type": "link",
+            "href": "/ru/corporate-site",
+            "newTab": false
+          },
+          {
+            "_key": "en029",
+            "_type": "link",
+            "href": "/ru/online-store",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-30",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2z",
+            "_type": "span",
+            "marks": [],
+            "text": "Фиксированная цена vs почасовая"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-32",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-31",
+            "_type": "span",
+            "marks": [],
+            "text": "Почти вся боль с бюджетом, которую описывают владельцы, происходит от почасовых договоров: объём размыт, счёт растёт. Вы утвердили дизайн, началась разработка, а через три недели оценка тихо удвоилась, потому что «интеграция оказалась сложнее». Риск несёте вы, а не студия."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-34",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-33",
+            "_type": "span",
+            "marks": [],
+            "text": "Фиксированная цена переворачивает это. Объём зафиксирован в договоре, цифра не двигается, пока вы сами не попросите что-то новое письменно, а гарантия входит в соглашение. Под неё можно планировать кэш."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-39",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-35",
+            "_type": "span",
+            "marks": [],
+            "text": "В Code-Site.Art каждый проект имеет фиксированную цену, согласованную до первой строки кода. За"
+          },
+          {
+            "_key": "a1-37",
+            "_type": "span",
+            "marks": [
+              "a1-36"
+            ],
+            "text": "50+ проектов в 7 странах"
+          },
+          {
+            "_key": "a1-38",
+            "_type": "span",
+            "marks": [],
+            "text": "мы не промахнулись с вилкой цены ни в одном. Это не гениальность, а 47 похожих проектов за плечами и понимание, сколько реально уходит на что."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "a1-36",
+            "_type": "link",
+            "href": "/portfolio",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3a",
+            "_type": "span",
+            "marks": [],
+            "text": "Что НЕ входит в цену сайта"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-3d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3c",
+            "_type": "span",
+            "marks": [],
+            "text": "Честная смета так же ясно говорит, что за пределами, как и то, что внутри. Обычно вне стоимости сайта остаётся:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3e",
+            "_type": "span",
+            "marks": [],
+            "text": "Предметная фотография и видео"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3g",
+            "_type": "span",
+            "marks": [],
+            "text": "Брендинг с нуля (логотип и брендбук)"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3i",
+            "_type": "span",
+            "marks": [],
+            "text": "Рекламные кампании Google Ads / Meta Ads"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3k",
+            "_type": "span",
+            "marks": [],
+            "text": "SEO-продвижение после гарантийного года"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3m",
+            "_type": "span",
+            "marks": [],
+            "text": "Хостинг после первого года, когда аккаунты переданы вам"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3o",
+            "_type": "span",
+            "marks": [],
+            "text": "Это не скрытые расходы, когда они названы. Скрытыми они становятся, когда студия даёт низкую цену, выигрывает проект, а потом выставляет их «допами»."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3q",
+            "_type": "span",
+            "marks": [],
+            "text": "Как проверить, что смета честная: 5 вопросов"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-3t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3s",
+            "_type": "span",
+            "marks": [],
+            "text": "Перед подписанием задайте любой студии те же пять вопросов (это и короткая проверка договора):"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3w",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3u",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Сумма фиксированная или почасовая?"
+          },
+          {
+            "_key": "a1-3v",
+            "_type": "span",
+            "marks": [],
+            "text": "«Примерно» или «зависит» — это не смета, а маркетинг."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3x",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Входит ли год поддержки?"
+          },
+          {
+            "_key": "a1-3y",
+            "_type": "span",
+            "marks": [],
+            "text": "У ~80% студий его нет. Уточните."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-42",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-40",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Расписана ли работа по статьям?"
+          },
+          {
+            "_key": "a1-41",
+            "_type": "span",
+            "marks": [],
+            "text": "Если видите только «разработка $X» — половина работы может исчезнуть по дороге."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-45",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-43",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Вы получаете GitHub-репозиторий и все аккаунты?"
+          },
+          {
+            "_key": "a1-44",
+            "_type": "span",
+            "marks": [],
+            "text": "Если нет, вы арендуете собственный сайт."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-48",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-46",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Что будет, если сорвут срок?"
+          },
+          {
+            "_key": "a1-47",
+            "_type": "span",
+            "marks": [],
+            "text": "Без неустойки срок — это ориентир, а не обязательство."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-49",
+        "_type": "ctaCallout",
+        "ctaHref": "/calculator",
+        "ctaLabel": "Рассчитать цену",
+        "ctaSecondaryHref": "/contacts",
+        "ctaSecondaryLabel": "Записаться на звонок",
+        "eyebrow": "Калькулятор",
+        "heading": "Хотите цифру под ваш проект?",
+        "sub": "Калькулятор за 60 секунд: тип сайта, страницы, языки, интеграции — и вы видите вилку с разбивкой. Без email и разговора с sales."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "a1-27",
+        "_type": "tldrBox",
+        "items": [
+          "Сайт в Україні у 2026 коштує **від $800 до $6,000+**. Цифра залежить від обсягу.",
+          "**Лендинг:** від $800 (1–2 тижні)",
+          "**Корпоративний сайт:** від $3,500 (4–8 тижнів)",
+          "**Інтернет-магазин:** $6,000–$10,000 (6–10 тижнів)",
+          "**Кастомна платформа:** від $6,000 (8–16 тижнів)",
+          "У Code-Site.Art сума фіксується в договорі до старту робіт."
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "a1-29",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-28",
+            "_type": "span",
+            "marks": [],
+            "text": "4 фактори, які формують ціну"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-2b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2a",
+            "_type": "span",
+            "marks": [],
+            "text": "Власник бізнесу пише в Google «скільки коштує сайт» і отримує 200 студій із цінами, що різняться в 30 разів. Причина нудна: більшість підрядників не вміють розкласти ціну на статті, тож дають одну цифру і просять ТЗ. Насправді ціну формують чотири речі."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-2e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2c",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Обсяг: сторінки і скільки з них кастомні. "
+          },
+          {
+            "_key": "a1-2d",
+            "_type": "span",
+            "marks": [],
+            "text": "5 простих сторінок і 5 сторінок із калькуляторами чи бронюванням це різна робота. Кожен унікальний шаблон додає години, тож сайт із багатьох схожих сторінок коштує дешевше за сторінку, ніж сайт із багатьма унікальними макетами."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-2h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2f",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Інтеграції. "
+          },
+          {
+            "_key": "a1-2g",
+            "_type": "span",
+            "marks": [],
+            "text": "Форма зворотного зв’язку майже безкоштовна. Бронювання з синхронізацією календаря, передача в CRM, оплата Stripe чи LiqPay, друга мова: кожна додає реальні години розробки й тестування. Саме тут у кошторисах інших студій ховаються сюрпризи."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-2k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2i",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Контент. "
+          },
+          {
+            "_key": "a1-2j",
+            "_type": "span",
+            "marks": [],
+            "text": "Пишете текст самі, економите студії копірайтинг ($1,500–$2,500). Пише студія, і ця робота в кошторисі. У будь-якому разі сума має бути названа, а не захована."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-2n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2l",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Хто ви наймаєте. "
+          },
+          {
+            "_key": "a1-2m",
+            "_type": "span",
+            "marks": [],
+            "text": "Бутикова студія має менше накладних, ніж велика агенція, тож той самий сайт під галузь коштує відчутно менше без втрати якості. Складність дизайну, навпаки, змінює ціну на 0–40%, а не в рази; основну частину забирають інженерія та інтеграції."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-2p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2o",
+            "_type": "span",
+            "marks": [],
+            "text": "Тарифи, пакет за пакетом"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-2q",
+        "_type": "blogTable",
+        "headers": [
+          "Пакет",
+          "Ціна",
+          "Термін",
+          "Що входить",
+          "Кому"
+        ],
+        "rows": [
+          {
+            "_key": "a1-2r",
+            "_type": "blogTableRow",
+            "cells": [
+              "Лендинг",
+              "від $800",
+              "1–2 тижні",
+              "Дизайн, адаптив, форма, SEO-структура",
+              "Кампанії, запуски, одна послуга"
+            ]
+          },
+          {
+            "_key": "a1-2s",
+            "_type": "blogTableRow",
+            "cells": [
+              "Корпоративний сайт",
+              "від $3,500",
+              "4–8 тижнів",
+              "CMS, блог, 5+ інтеграцій, дві мови, compliance",
+              "МСБ, послуги, медицина"
+            ]
+          },
+          {
+            "_key": "a1-2t",
+            "_type": "blogTableRow",
+            "cells": [
+              "Кастомна платформа",
+              "від $6,000",
+              "8–16 тижнів",
+              "Архітектурна сесія, окрема команда, SLA, кастомні інтеграції",
+              "SaaS, маркетплейси, складні продукти"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a1-2y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2u",
+            "_type": "span",
+            "marks": [],
+            "text": "Кожен пакет має однаковий фундамент, незалежно від ціни: копірайтинг, дизайн у Figma, фронтенд на Next.js, Sanity CMS із редагуванням навіть із телефона, налаштування домену й хостингу, реліз і рік підтримки. Повний перелік дивіться на сторінці "
+          },
+          {
+            "_key": "a1-2w",
+            "_type": "span",
+            "marks": [
+              "a1-2v"
+            ],
+            "text": "цін"
+          },
+          {
+            "_key": "a1-2x",
+            "_type": "span",
+            "marks": [],
+            "text": ". Ви не платите за «урізану» версію внизу і «справжню» вгорі. Ви платите за обсяг."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "a1-2v",
+            "_type": "link",
+            "href": "/pricing",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "en021",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "en01r",
+            "_type": "span",
+            "marks": [],
+            "text": "Детальний розбір кожного формату — на окремих сторінках: "
+          },
+          {
+            "_key": "en01t",
+            "_type": "span",
+            "marks": [
+              "en01s"
+            ],
+            "text": "Лендінг від $800"
+          },
+          {
+            "_key": "en01u",
+            "_type": "span",
+            "marks": [],
+            "text": ", "
+          },
+          {
+            "_key": "en01w",
+            "_type": "span",
+            "marks": [
+              "en01v"
+            ],
+            "text": "Корпоративний сайт"
+          },
+          {
+            "_key": "en01x",
+            "_type": "span",
+            "marks": [],
+            "text": " та "
+          },
+          {
+            "_key": "en01z",
+            "_type": "span",
+            "marks": [
+              "en01y"
+            ],
+            "text": "Інтернет-магазин"
+          },
+          {
+            "_key": "en020",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "en01s",
+            "_type": "link",
+            "href": "/landing",
+            "newTab": false
+          },
+          {
+            "_key": "en01v",
+            "_type": "link",
+            "href": "/corporate-site",
+            "newTab": false
+          },
+          {
+            "_key": "en01y",
+            "_type": "link",
+            "href": "/online-store",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-30",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-2z",
+            "_type": "span",
+            "marks": [],
+            "text": "Фіксована ціна vs погодинна"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-32",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-31",
+            "_type": "span",
+            "marks": [],
+            "text": "Майже весь біль із бюджетом, який описують власники, походить від погодинних договорів: обсяг розмитий, рахунок росте. Ви затвердили дизайн, почалась розробка, а через три тижні оцінка тихо подвоїлась, бо «інтеграція виявилась складнішою». Ризик несете ви, а не студія."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-34",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-33",
+            "_type": "span",
+            "marks": [],
+            "text": "Фіксована ціна перевертає це. Обсяг зафіксований у договорі, цифра не рухається, поки ви самі не попросите щось нове письмово, а гарантія входить в угоду. Під неї можна планувати кеш."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-39",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-35",
+            "_type": "span",
+            "marks": [],
+            "text": "У Code-Site.Art кожен проєкт має фіксовану ціну, узгоджену до першого рядка коду. За "
+          },
+          {
+            "_key": "a1-37",
+            "_type": "span",
+            "marks": [
+              "a1-36"
+            ],
+            "text": "50+ проєктів у 7 країнах"
+          },
+          {
+            "_key": "a1-38",
+            "_type": "span",
+            "marks": [],
+            "text": " ми не промахнулись із вилкою ціни в жодному. Це не геніальність, а 47 схожих проєктів за плечима і розуміння, скільки реально йде на що."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "a1-36",
+            "_type": "link",
+            "href": "/portfolio",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3a",
+            "_type": "span",
+            "marks": [],
+            "text": "Що НЕ входить у ціну сайту"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-3d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3c",
+            "_type": "span",
+            "marks": [],
+            "text": "Чесний кошторис так само ясно каже, що поза межами, як і те, що всередині. Зазвичай поза вартістю сайту лишається:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3e",
+            "_type": "span",
+            "marks": [],
+            "text": "Предметна фотографія і відео"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3g",
+            "_type": "span",
+            "marks": [],
+            "text": "Брендинг з нуля (логотип і брендбук)"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3i",
+            "_type": "span",
+            "marks": [],
+            "text": "Рекламні кампанії Google Ads / Meta Ads"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3k",
+            "_type": "span",
+            "marks": [],
+            "text": "SEO-просування після гарантійного року"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3m",
+            "_type": "span",
+            "marks": [],
+            "text": "Хостинг після першого року, коли акаунти передані вам"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3o",
+            "_type": "span",
+            "marks": [],
+            "text": "Це не приховані витрати, коли вони названі. Прихованими вони стають, коли студія дає низьку ціну, виграє проєкт, а потім виставляє їх «допами»."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3q",
+            "_type": "span",
+            "marks": [],
+            "text": "Як перевірити, що кошторис чесний: 5 запитань"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a1-3t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3s",
+            "_type": "span",
+            "marks": [],
+            "text": "Перед підписанням постав будь-якій студії ті самі п’ять запитань (це й коротка перевірка договору):"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3w",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3u",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Сума фіксована чи погодинна? "
+          },
+          {
+            "_key": "a1-3v",
+            "_type": "span",
+            "marks": [],
+            "text": "«Приблизно» або «залежить» це не кошторис, а маркетинг."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-3z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-3x",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Чи входить рік підтримки? "
+          },
+          {
+            "_key": "a1-3y",
+            "_type": "span",
+            "marks": [],
+            "text": "У ~80% студій його немає. Уточни."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-42",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-40",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Чи розписана робота по статтях? "
+          },
+          {
+            "_key": "a1-41",
+            "_type": "span",
+            "marks": [],
+            "text": "Якщо бачиш лише «розробка $X», і половина роботи може зникнути по дорозі."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-45",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-43",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Ти отримуєш GitHub-репозиторій і всі акаунти? "
+          },
+          {
+            "_key": "a1-44",
+            "_type": "span",
+            "marks": [],
+            "text": "Якщо ні, ти орендуєш власний сайт."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-48",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a1-46",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Що буде, якщо зірвуть термін? "
+          },
+          {
+            "_key": "a1-47",
+            "_type": "span",
+            "marks": [],
+            "text": "Без неустойки термін це орієнтир, а не зобов’язання."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a1-49",
+        "_type": "ctaCallout",
+        "ctaHref": "/calculator",
+        "ctaLabel": "Розрахувати ціну",
+        "ctaSecondaryHref": "/contacts",
+        "ctaSecondaryLabel": "Записатись на дзвінок",
+        "eyebrow": "Калькулятор",
+        "heading": "Хочете цифру під ваш проєкт?",
+        "sub": "Калькулятор за 60 секунд: тип сайту, сторінки, мови, інтеграції, і ви бачите вилку з розбивкою. Без email і розмови з sales."
+      }
+    ]
+  },
+  "slug": "vartist-rozrobky-saytu-2026"
+}

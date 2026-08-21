@@ -1,0 +1,26 @@
+{
+  "_id": "6tWqPRZWZzG4Lv3HK7J6bl",
+  "metricsLine": {
+    "en": "4 service packages · 1 interactive AI demo · 5+ service directions · 1 inquiry-generation structure",
+    "ru": "4 пакета услуг · 1 интерактивная AI-демонстрация · 5+ направлений: SEO, AI, CRM, web, media · 1 структура генерации заявок",
+    "uk": "4 пакети послуг · 1 інтерактивна AI-демонстрація · 5+ напрямів: SEO, AI, CRM, web, media · 1 структура генерації заявок"
+  },
+  "seo": {
+    "description": {
+      "en": "➤ AI automation services website ✔️ Demo-led conversion architecture ✔️ Local SEO optimised ✔️ B2B lead generation ➡ See the full case study.",
+      "ru": "Сайт объясняет сложные AI-решения понятным языком, демонстрирует автоматизацию через демо-блок и ведёт бизнес к консультации.",
+      "uk": "Сайт пояснює складні AI-рішення зрозумілою мовою, демонструє автоматизацію через демо-блок і веде бізнес до консультації."
+    },
+    "title": {
+      "en": "ᐈ Clarion Solutions — AI Automation & Local SEO Website Case Study | Code-Site.Art",
+      "ru": "Clarion Solutions — кейс | Code-Site.Art",
+      "uk": "Clarion Solutions — кейс | Code-Site.Art"
+    }
+  },
+  "slug": "clarion-solutions",
+  "title": {
+    "en": "Clarion Solutions",
+    "ru": "Clarion Solutions",
+    "uk": "Clarion Solutions"
+  }
+}

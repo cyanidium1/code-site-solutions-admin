@@ -1,0 +1,37 @@
+{
+  "_id": "kSKPKaUF67MMZcPKqwVz1e",
+  "lede": {
+    "en": "A straight technical read on Next.js vs WordPress for a business site — performance, SEO, cost and when each stack is the right call.",
+    "ru": "Прямое техническое сравнение Next.js, WordPress и конструкторов для бизнес-сайта — скорость, SEO, стоимость и когда какой стек уместен.",
+    "uk": "Пряме технічне порівняння Next.js, WordPress і конструкторів для бізнес-сайту — швидкість, SEO, вартість і коли який стек доречний."
+  },
+  "metaDescription": {
+    "en": "Technical comparison: Next.js vs WordPress for UK business websites. Performance benchmarks, SEO, cost and scalability, and when to choose each stack.",
+    "ru": "Техническое сравнение: Next.js, WordPress и конструкторы (Tilda/Wix) для бизнес-сайта. Скорость, SEO, стоимость и когда какой стек выбрать.",
+    "uk": "Технічне порівняння: Next.js, WordPress і конструктори (Tilda/Wix) для бізнес-сайту. Швидкість, SEO, вартість і коли який стек обрати."
+  },
+  "metaTitle": {
+    "en": "Next.js vs WordPress for Business Websites in 2026 | Code-Site.Art",
+    "ru": "Next.js против WordPress и конструкторов в 2026 | Code-Site.Art",
+    "uk": "Next.js проти WordPress і конструкторів у 2026 | Code-Site.Art"
+  },
+  "slugs": {
+    "en": {
+      "_type": "slug",
+      "current": "nextjs-vs-wordpress-for-business-2026"
+    },
+    "ru": {
+      "_type": "slug",
+      "current": "nextjs-protiv-wordpress-i-konstruktorov"
+    },
+    "uk": {
+      "_type": "slug",
+      "current": "nextjs-proty-wordpress-ta-konstruktoriv"
+    }
+  },
+  "title": {
+    "en": "Next.js vs WordPress for Business Websites in 2026",
+    "ru": "Next.js против WordPress и конструкторов в 2026",
+    "uk": "Next.js проти WordPress і конструкторів у 2026"
+  }
+}

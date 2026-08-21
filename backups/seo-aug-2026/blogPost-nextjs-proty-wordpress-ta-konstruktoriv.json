@@ -1,0 +1,1532 @@
+{
+  "_id": "kSKPKaUF67MMZcPKqwVz1e",
+  "body": {
+    "en": [
+      {
+        "_key": "a3-1",
+        "_type": "tldrBox",
+        "items": [
+          "**Next.js** is stronger for performance, SEO and scalability. **WordPress** is stronger for large-scale content and self-editing teams.",
+          "Next.js with Sanity lands Lighthouse **95–98**; WordPress with standard plugins sits at **50–70**.",
+          "For most UK SMBs with 5–20 pages that care about rankings and leads, Next.js is the better 2026 choice.",
+          "For large publishing sites, daily non-technical edits, or 500+ product shops, WordPress still holds up."
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "a3-3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2",
+            "_type": "span",
+            "marks": [],
+            "text": "What is Next.js?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-4",
+            "_type": "span",
+            "marks": [],
+            "text": "Next.js is a React framework built by Vercel. It renders pages on the server, regenerates them on a schedule, and can serve most of a site as static files from an edge network close to the visitor. Nike, TikTok and Notion run on it. It isn’t a CMS by itself; it’s the rendering layer. We pair it with Sanity, which handles the content side, so editors get a dashboard and the site keeps its speed."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-7",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-6",
+            "_type": "span",
+            "marks": [],
+            "text": "Performance comparison: real numbers"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-9",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-8",
+            "_type": "span",
+            "marks": [],
+            "text": "These are the metrics Google actually weighs for ranking. The Next.js column reflects our own builds; the WordPress columns reflect widely-reported market ranges."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-a",
+        "_type": "blogTable",
+        "headers": [
+          "Metric",
+          "Next.js (our builds)",
+          "WordPress (standard)",
+          "WordPress (optimised)"
+        ],
+        "rows": [
+          {
+            "_key": "a3-b",
+            "_type": "blogTableRow",
+            "cells": [
+              "Lighthouse",
+              "95–98",
+              "35–55",
+              "60–75"
+            ]
+          },
+          {
+            "_key": "a3-c",
+            "_type": "blogTableRow",
+            "cells": [
+              "LCP",
+              "0.6–1.2s",
+              "3–6s",
+              "1.8–3s"
+            ]
+          },
+          {
+            "_key": "a3-d",
+            "_type": "blogTableRow",
+            "cells": [
+              "INP",
+              "< 100ms",
+              "200–400ms",
+              "150–250ms"
+            ]
+          },
+          {
+            "_key": "a3-e",
+            "_type": "blogTableRow",
+            "cells": [
+              "CLS",
+              "< 0.01",
+              "0.05–0.2",
+              "0.02–0.08"
+            ]
+          },
+          {
+            "_key": "a3-f",
+            "_type": "blogTableRow",
+            "cells": [
+              "Time to first byte",
+              "< 200ms (Vercel edge)",
+              "400–800ms",
+              "200–400ms"
+            ]
+          },
+          {
+            "_key": "a3-g",
+            "_type": "blogTableRow",
+            "cells": [
+              "Plugin dependencies",
+              "0",
+              "15–40",
+              "10–20"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a3-l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-h",
+            "_type": "span",
+            "marks": [],
+            "text": "Our "
+          },
+          {
+            "_key": "a3-j",
+            "_type": "span",
+            "marks": [
+              "a3-i"
+            ],
+            "text": "Efedra Clinic build"
+          },
+          {
+            "_key": "a3-k",
+            "_type": "span",
+            "marks": [],
+            "text": " holds an LCP of 0.8 seconds and a Lighthouse score of 98, figures that come from not loading code the page doesn’t need, rather than from a caching plugin patching over a heavy theme."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "a3-i",
+            "_type": "link",
+            "href": "/en/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-m",
+            "_type": "span",
+            "marks": [],
+            "text": "SEO: which stack helps you rank?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-o",
+            "_type": "span",
+            "marks": [],
+            "text": "Server-side rendering is the quiet advantage. With Next.js, Googlebot receives full HTML on the first request, so there’s no wait for JavaScript to paint the content. Structured data sits in the templates, no plugin required."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-r",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-q",
+            "_type": "span",
+            "marks": [],
+            "text": "WordPress can rank well, and Yoast or RankMath do help. They also add page weight, and the default category and tag archives can spawn duplicate-content problems if no one prunes them. The gap shows in practice: after moving from a slow platform to Next.js, Efedra reached the top three on Google for its primary keyword within three months."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-t",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-s",
+            "_type": "span",
+            "marks": [],
+            "text": "Developer experience and cost"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-u",
+            "_type": "span",
+            "marks": [],
+            "text": "For a technical reader weighing the hire, the trade-offs are concrete."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-w",
+        "_type": "blogTable",
+        "headers": [
+          "Factor",
+          "Next.js",
+          "WordPress"
+        ],
+        "rows": [
+          {
+            "_key": "a3-x",
+            "_type": "blogTableRow",
+            "cells": [
+              "Language",
+              "TypeScript / JavaScript (React)",
+              "PHP + JavaScript"
+            ]
+          },
+          {
+            "_key": "a3-y",
+            "_type": "blogTableRow",
+            "cells": [
+              "Developer pool (UK)",
+              "Smaller, specialist",
+              "Large, commoditised"
+            ]
+          },
+          {
+            "_key": "a3-z",
+            "_type": "blogTableRow",
+            "cells": [
+              "Hourly rate (UK)",
+              "£60–£120/hr",
+              "£30–£80/hr"
+            ]
+          },
+          {
+            "_key": "a3-10",
+            "_type": "blogTableRow",
+            "cells": [
+              "Update complexity",
+              "npm packages, predictable",
+              "Plugin conflicts, a common cause of breakage"
+            ]
+          },
+          {
+            "_key": "a3-11",
+            "_type": "blogTableRow",
+            "cells": [
+              "Hosting",
+              "Vercel: edge network, auto-scale",
+              "Managed WP hosting required"
+            ]
+          },
+          {
+            "_key": "a3-12",
+            "_type": "blogTableRow",
+            "cells": [
+              "Security patches",
+              "Framework-level, rare",
+              "Weekly plugin and core updates"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a3-14",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-13",
+            "_type": "span",
+            "marks": [],
+            "text": "A Next.js developer costs more per hour. The codebase is also cleaner to hand over, so you spend fewer of those hours chasing a plugin conflict that broke a page after an update."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-16",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-15",
+            "_type": "span",
+            "marks": [],
+            "text": "Content editing: WordPress wins here"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-18",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-17",
+            "_type": "span",
+            "marks": [],
+            "text": "This is the honest counterpoint. If your site’s main job is publishing (a newsroom, a high-volume blog, a team of non-technical editors filing daily), the WordPress dashboard is hard to beat. It’s familiar, and the editing workflow is built for that pace. Sanity is good, and most clients edit from it happily, but it’s a different model. If you need ten or more posts a week from staff who don’t touch code, WordPress makes sense."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-1a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-19",
+            "_type": "span",
+            "marks": [],
+            "text": "When to choose Next.js"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-1c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-1b",
+            "_type": "span",
+            "marks": [],
+            "text": "Performance is a priority; Core Web Vitals are a ranking factor, and local SEO rewards speed"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-1e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-1d",
+            "_type": "span",
+            "marks": [],
+            "text": "You need custom integrations: booking, CRM, payments, more than one language"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-1g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-1f",
+            "_type": "span",
+            "marks": [],
+            "text": "Your site is five to twenty-five pages and doesn’t need daily multi-author publishing"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-1i",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-1h",
+            "_type": "span",
+            "marks": [],
+            "text": "You want a fixed price and full code ownership, with the GitHub repo"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-1k",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-1j",
+            "_type": "span",
+            "marks": [],
+            "text": "You’re building a SaaS or product site that has to scale"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-1m",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-1l",
+            "_type": "span",
+            "marks": [],
+            "text": "When to stick with WordPress"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-1o",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-1n",
+            "_type": "span",
+            "marks": [],
+            "text": "You publish twenty or more articles a month with a non-technical editorial team"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-1q",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-1p",
+            "_type": "span",
+            "marks": [],
+            "text": "You run WooCommerce for 200+ products with complex inventory"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-1s",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-1r",
+            "_type": "span",
+            "marks": [],
+            "text": "You already have a large WordPress site and the migration ROI is unclear"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-1u",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-1t",
+            "_type": "span",
+            "marks": [],
+            "text": "Your budget is under £1,500 and a template approach is acceptable"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-1v",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/portfolio",
+        "ctaLabel": "See the portfolio",
+        "ctaSecondaryHref": "/en/contacts",
+        "ctaSecondaryLabel": "Book a free call",
+        "eyebrow": "See it in action",
+        "heading": "Want to see Next.js performance for yourself?",
+        "sub": "Browse the portfolio or book a free call. We’ll tell you honestly whether Next.js or WordPress fits your project."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "a3-1w",
+        "_type": "tldrBox",
+        "items": [
+          "**Next.js** сильнее для скорости, SEO и масштабирования. **WordPress** лучше для контент-тяжёлых сайтов. **Конструкторы** подходят для теста гипотез и промо.",
+          "Next.js с Sanity держит Lighthouse **95–98**; WordPress даёт **50–70**; конструктор даёт 50–70 и 2–4с на мобильном.",
+          "Для большинства украинского МСБ на 5–20 страниц, кому важны позиции в Google и заявки, Next.js будет лучшим выбором.",
+          "Вопрос не в том, что новее, а должен ли сайт ранжироваться и конвертировать, или публиковать большой объём контента."
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "a3-1y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-1x",
+            "_type": "span",
+            "marks": [],
+            "text": "Что такое Next.js?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-20",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-1z",
+            "_type": "span",
+            "marks": [],
+            "text": "Next.js — это React-фреймворк от Vercel. Он рендерит страницы на сервере, обновляет их по расписанию и отдаёт большую часть сайта как статику из edge-сети рядом с посетителем. На нём работают Nike, TikTok, Notion. Сам по себе это не CMS, а слой рендеринга. Мы соединяем его с Sanity, который отвечает за контент: редактор получает удобную панель, а сайт сохраняет скорость."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-22",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-21",
+            "_type": "span",
+            "marks": [],
+            "text": "Сравнение скорости: реальные цифры"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-24",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-23",
+            "_type": "span",
+            "marks": [],
+            "text": "В колонке Next.js — наши проекты; WordPress и конструктор показывают типичные рыночные диапазоны."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-25",
+        "_type": "blogTable",
+        "headers": [
+          "Метрика",
+          "Next.js (наши)",
+          "WordPress",
+          "Конструктор (Tilda/Wix)"
+        ],
+        "rows": [
+          {
+            "_key": "a3-26",
+            "_type": "blogTableRow",
+            "cells": [
+              "Lighthouse",
+              "95–98",
+              "35–55",
+              "50–70"
+            ]
+          },
+          {
+            "_key": "a3-27",
+            "_type": "blogTableRow",
+            "cells": [
+              "LCP",
+              "0.6–1.2с",
+              "3–6с",
+              "2–4с"
+            ]
+          },
+          {
+            "_key": "a3-28",
+            "_type": "blogTableRow",
+            "cells": [
+              "INP",
+              "< 100мс",
+              "200–400мс",
+              "150–300мс"
+            ]
+          },
+          {
+            "_key": "a3-29",
+            "_type": "blogTableRow",
+            "cells": [
+              "CLS",
+              "< 0.01",
+              "0.05–0.2",
+              "0.05–0.15"
+            ]
+          },
+          {
+            "_key": "a3-2a",
+            "_type": "blogTableRow",
+            "cells": [
+              "Плагины/зависимости",
+              "0",
+              "15–40",
+              "платформенные, без контроля"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a3-2f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2b",
+            "_type": "span",
+            "marks": [],
+            "text": "Наш проект"
+          },
+          {
+            "_key": "a3-2d",
+            "_type": "span",
+            "marks": [
+              "a3-2c"
+            ],
+            "text": "«Эфедра»"
+          },
+          {
+            "_key": "a3-2e",
+            "_type": "span",
+            "marks": [],
+            "text": "держит LCP 0.8с и Lighthouse 98 — не благодаря кэш-плагину, а потому что страница не грузит лишнего."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "a3-2c",
+            "_type": "link",
+            "href": "/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-2h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2g",
+            "_type": "span",
+            "marks": [],
+            "text": "SEO: какой стек помогает ранжироваться"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-2j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2i",
+            "_type": "span",
+            "marks": [],
+            "text": "Server-side рендеринг даёт тихое преимущество. С Next.js Googlebot получает полный HTML сразу, без ожидания JS. Schema лежит в шаблонах, без плагина. WordPress может ранжироваться (Yoast, RankMath помогают), но добавляет вес, а архивы категорий и тегов плодят дубликаты, если их не чистить. Конструктор даёт лишь базовый контроль над SEO, без SSR и программных лендингов. На практике: после перехода на Next.js «Эфедра» вышла в топ-3 Google по основному запросу за 3 месяца."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-2l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2k",
+            "_type": "span",
+            "marks": [],
+            "text": "Разработка и стоимость"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-2n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2m",
+            "_type": "span",
+            "marks": [],
+            "text": "Для технического читателя компромиссы конкретны. Разработчик Next.js стоит за час дороже WP-разработчика, а конструктор «разработчика» почти не требует, пока вам не нужно выйти за пределы шаблона — и тогда вы упираетесь в потолок платформы. Кодовая база Next.js чище при передаче: любой React-разработчик подхватит проект, потому что нет клубка плагинов, который ломается после обновления."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-2o",
+        "_type": "blogTable",
+        "headers": [
+          "Фактор",
+          "Next.js",
+          "WordPress",
+          "Конструктор"
+        ],
+        "rows": [
+          {
+            "_key": "a3-2p",
+            "_type": "blogTableRow",
+            "cells": [
+              "Язык",
+              "TypeScript / React",
+              "PHP + JS",
+              "нет (визуальный редактор)"
+            ]
+          },
+          {
+            "_key": "a3-2q",
+            "_type": "blogTableRow",
+            "cells": [
+              "Обновления",
+              "npm, предсказуемо",
+              "конфликты плагинов",
+              "платформа сама"
+            ]
+          },
+          {
+            "_key": "a3-2r",
+            "_type": "blogTableRow",
+            "cells": [
+              "Хостинг",
+              "Vercel, edge, авто-скейл",
+              "управляемый WP-хостинг",
+              "в подписке"
+            ]
+          },
+          {
+            "_key": "a3-2s",
+            "_type": "blogTableRow",
+            "cells": [
+              "Собственность кода",
+              "репозиторий ваш",
+              "ваш, но WP-экосистема",
+              "кода нет"
+            ]
+          },
+          {
+            "_key": "a3-2t",
+            "_type": "blogTableRow",
+            "cells": [
+              "Потолок возможностей",
+              "высокий",
+              "средний",
+              "низкий"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a3-2v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2u",
+            "_type": "span",
+            "marks": [],
+            "text": "Редактирование контента: здесь выигрывает WordPress"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-2x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2w",
+            "_type": "span",
+            "marks": [],
+            "text": "Честный контраргумент. Если главная работа сайта — это публикация (новостной сайт, блог на большом объёме, команда нетехнических редакторов каждый день), панель WordPress трудно превзойти. Sanity хорош, и большинство клиентов редактируют в нём без проблем, но это другая парадигма. Нужно 10+ статей в неделю от людей, не касающихся кода, — тогда WordPress имеет смысл."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-2z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2y",
+            "_type": "span",
+            "marks": [],
+            "text": "Когда выбрать Next.js"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-31",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-30",
+            "_type": "span",
+            "marks": [],
+            "text": "Скорость в приоритете: Core Web Vitals влияют на ранжирование, локальный SEO любит скорость"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-33",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-32",
+            "_type": "span",
+            "marks": [],
+            "text": "Нужны интеграции: бронирование, CRM, оплата, несколько языков"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-35",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-34",
+            "_type": "span",
+            "marks": [],
+            "text": "Сайт на 5–25 страниц без ежедневной многоавторской публикации"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-37",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-36",
+            "_type": "span",
+            "marks": [],
+            "text": "Вы хотите фиксированную цену и полное владение кодом"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-39",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-38",
+            "_type": "span",
+            "marks": [],
+            "text": "Вы строите SaaS или продуктовый сайт, который будет масштабироваться"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-3b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-3a",
+            "_type": "span",
+            "marks": [],
+            "text": "Когда остаться на WordPress или конструкторе"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-3d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-3c",
+            "_type": "span",
+            "marks": [],
+            "text": "Вы публикуете 20+ статей в месяц нетехнической редакцией → WordPress"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-3f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-3e",
+            "_type": "span",
+            "marks": [],
+            "text": "WooCommerce на 200+ товаров со сложной логистикой → WordPress"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-3h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-3g",
+            "_type": "span",
+            "marks": [],
+            "text": "Тест гипотезы или промо на 1–3 месяца → конструктор"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-3j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-3i",
+            "_type": "span",
+            "marks": [],
+            "text": "Бюджет до $800 и шаблон устраивает → конструктор"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-3k",
+        "_type": "ctaCallout",
+        "ctaHref": "/portfolio",
+        "ctaLabel": "Смотреть портфолио",
+        "ctaSecondaryHref": "/contacts",
+        "ctaSecondaryLabel": "Записаться на звонок",
+        "eyebrow": "Посмотреть вживую",
+        "heading": "Хотите увидеть скорость Next.js на деле?",
+        "sub": "Просмотрите портфолио или запишитесь на звонок — и честно скажем, что вам подходит: Next.js, WordPress или конструктор."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "a3-1w",
+        "_type": "tldrBox",
+        "items": [
+          "**Next.js** сильніший для швидкості, SEO і масштабування. **WordPress** краще для контент-важких сайтів. **Конструктори** підходять для тесту гіпотез і промо.",
+          "Next.js із Sanity тримає Lighthouse **95–98**; WordPress дає **50–70**; конструктор дає 50–70 і 2–4с на мобільному.",
+          "Для більшості українського МСБ на 5–20 сторінок, кому важливі позиції в Google і заявки, Next.js буде кращим вибором.",
+          "Питання не в тому, що новіше, а чи має сайт ранжуватись і конвертувати, чи публікувати великий обсяг контенту."
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "a3-1y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-1x",
+            "_type": "span",
+            "marks": [],
+            "text": "Що таке Next.js?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-20",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-1z",
+            "_type": "span",
+            "marks": [],
+            "text": "Next.js це React-фреймворк від Vercel. Він рендерить сторінки на сервері, оновлює їх за розкладом і віддає більшу частину сайту як статику з edge-мережі поруч із відвідувачем. На ньому працюють Nike, TikTok, Notion. Сам по собі це не CMS, а шар рендерингу. Ми поєднуємо його з Sanity, який відповідає за контент: редактор отримує зручну панель, а сайт зберігає швидкість."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-22",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-21",
+            "_type": "span",
+            "marks": [],
+            "text": "Порівняння швидкості: реальні цифри"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-24",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-23",
+            "_type": "span",
+            "marks": [],
+            "text": "У колонці Next.js наші проєкти; WordPress і конструктор показують типові ринкові діапазони."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-25",
+        "_type": "blogTable",
+        "headers": [
+          "Метрика",
+          "Next.js (наші)",
+          "WordPress",
+          "Конструктор (Tilda/Wix)"
+        ],
+        "rows": [
+          {
+            "_key": "a3-26",
+            "_type": "blogTableRow",
+            "cells": [
+              "Lighthouse",
+              "95–98",
+              "35–55",
+              "50–70"
+            ]
+          },
+          {
+            "_key": "a3-27",
+            "_type": "blogTableRow",
+            "cells": [
+              "LCP",
+              "0.6–1.2с",
+              "3–6с",
+              "2–4с"
+            ]
+          },
+          {
+            "_key": "a3-28",
+            "_type": "blogTableRow",
+            "cells": [
+              "INP",
+              "< 100мс",
+              "200–400мс",
+              "150–300мс"
+            ]
+          },
+          {
+            "_key": "a3-29",
+            "_type": "blogTableRow",
+            "cells": [
+              "CLS",
+              "< 0.01",
+              "0.05–0.2",
+              "0.05–0.15"
+            ]
+          },
+          {
+            "_key": "a3-2a",
+            "_type": "blogTableRow",
+            "cells": [
+              "Плагіни/залежності",
+              "0",
+              "15–40",
+              "платформенні, без контролю"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a3-2f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2b",
+            "_type": "span",
+            "marks": [],
+            "text": "Наш проєкт "
+          },
+          {
+            "_key": "a3-2d",
+            "_type": "span",
+            "marks": [
+              "a3-2c"
+            ],
+            "text": "«Ефедра»"
+          },
+          {
+            "_key": "a3-2e",
+            "_type": "span",
+            "marks": [],
+            "text": " тримає LCP 0.8с і Lighthouse 98, не завдяки кеш-плагіну, а тому що сторінка не вантажить зайвого."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "a3-2c",
+            "_type": "link",
+            "href": "/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-2h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2g",
+            "_type": "span",
+            "marks": [],
+            "text": "SEO: який стек допомагає ранжуватись"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-2j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2i",
+            "_type": "span",
+            "marks": [],
+            "text": "Server-side рендеринг дає тиху перевагу. З Next.js Googlebot отримує повний HTML одразу, без очікування JS. Schema лежить у шаблонах, без плагіна. WordPress може ранжуватись (Yoast, RankMath допомагають), але додає вагу, а архіви категорій і тегів плодять дублікати, якщо їх не чистити. Конструктор дає лише базовий контроль над SEO, без SSR і програмних landing. На практиці: після переходу на Next.js «Ефедра» вийшла в топ-3 Google за основним запитом за 3 місяці."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-2l",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2k",
+            "_type": "span",
+            "marks": [],
+            "text": "Розробка і вартість"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-2n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2m",
+            "_type": "span",
+            "marks": [],
+            "text": "Для технічного читача компроміси конкретні. Розробник Next.js коштує за годину дорожче за WP-розробника, а конструктор «розробника» майже не вимагає, поки вам не треба вийти за межі шаблону, і тоді ви впираєтесь у стелю платформи. Кодова база Next.js чистіша при передачі: будь-який React-розробник підхопить проєкт, бо немає клубка плагінів, який ламається після оновлення."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-2o",
+        "_type": "blogTable",
+        "headers": [
+          "Фактор",
+          "Next.js",
+          "WordPress",
+          "Конструктор"
+        ],
+        "rows": [
+          {
+            "_key": "a3-2p",
+            "_type": "blogTableRow",
+            "cells": [
+              "Мова",
+              "TypeScript / React",
+              "PHP + JS",
+              "немає (візуальний редактор)"
+            ]
+          },
+          {
+            "_key": "a3-2q",
+            "_type": "blogTableRow",
+            "cells": [
+              "Оновлення",
+              "npm, передбачувано",
+              "конфлікти плагінів",
+              "платформа сама"
+            ]
+          },
+          {
+            "_key": "a3-2r",
+            "_type": "blogTableRow",
+            "cells": [
+              "Хостинг",
+              "Vercel, edge, авто-скейл",
+              "керований WP-хостинг",
+              "у підписці"
+            ]
+          },
+          {
+            "_key": "a3-2s",
+            "_type": "blogTableRow",
+            "cells": [
+              "Власність коду",
+              "репозиторій ваш",
+              "ваш, але WP-екосистема",
+              "коду немає"
+            ]
+          },
+          {
+            "_key": "a3-2t",
+            "_type": "blogTableRow",
+            "cells": [
+              "Стеля можливостей",
+              "висока",
+              "середня",
+              "низька"
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a3-2v",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2u",
+            "_type": "span",
+            "marks": [],
+            "text": "Редагування контенту: тут виграє WordPress"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-2x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2w",
+            "_type": "span",
+            "marks": [],
+            "text": "Чесний контраргумент. Якщо головна робота сайту це публікація (новинний сайт, блог на великому обсязі, команда нетехнічних редакторів щодня), панель WordPress важко перевершити. Sanity хороший, і більшість клієнтів редагують у ньому без проблем, але це інша парадигма. Треба 10+ статей на тиждень від людей, що не торкаються коду, тоді WordPress має сенс."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-2z",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-2y",
+            "_type": "span",
+            "marks": [],
+            "text": "Коли обрати Next.js"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-31",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-30",
+            "_type": "span",
+            "marks": [],
+            "text": "Швидкість у пріоритеті: Core Web Vitals впливають на ранжування, локальний SEO любить швидкість"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-33",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-32",
+            "_type": "span",
+            "marks": [],
+            "text": "Потрібні інтеграції: бронювання, CRM, оплата, кілька мов"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-35",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-34",
+            "_type": "span",
+            "marks": [],
+            "text": "Сайт на 5–25 сторінок без щоденної багатоавторської публікації"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-37",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-36",
+            "_type": "span",
+            "marks": [],
+            "text": "Ви хочете фіксовану ціну і повне володіння кодом"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-39",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-38",
+            "_type": "span",
+            "marks": [],
+            "text": "Ви будуєте SaaS чи продуктовий сайт, який масштабуватиметься"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-3b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-3a",
+            "_type": "span",
+            "marks": [],
+            "text": "Коли лишитись на WordPress чи конструкторі"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "a3-3d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-3c",
+            "_type": "span",
+            "marks": [],
+            "text": "Ви публікуєте 20+ статей на місяць нетехнічною редакцією → WordPress"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-3f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-3e",
+            "_type": "span",
+            "marks": [],
+            "text": "WooCommerce на 200+ товарів зі складною логістикою → WordPress"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-3h",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-3g",
+            "_type": "span",
+            "marks": [],
+            "text": "Тест гіпотези чи промо на 1–3 місяці → конструктор"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-3j",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3-3i",
+            "_type": "span",
+            "marks": [],
+            "text": "Бюджет до $800 і шаблон влаштовує → конструктор"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a3-3k",
+        "_type": "ctaCallout",
+        "ctaHref": "/portfolio",
+        "ctaLabel": "Дивитись портфоліо",
+        "ctaSecondaryHref": "/contacts",
+        "ctaSecondaryLabel": "Записатись на дзвінок",
+        "eyebrow": "Подивитись наживо",
+        "heading": "Хочете побачити швидкість Next.js на ділі?",
+        "sub": "Перегляньте портфоліо або запишіться на дзвінок, і чесно скажемо, що вам підходить: Next.js, WordPress чи конструктор."
+      }
+    ]
+  },
+  "slug": "nextjs-proty-wordpress-ta-konstruktoriv"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "4f9a00a0-5012-4caf-8bca-86e78ea425c3",
+  "lede": {
+    "en": "\"We refreshed the site and traffic vanished\" — a real fear with real causes. Code-Site.Art's lead designer covers 5 rules of a safe redesign and a case where traffic quadrupled after the refresh.",
+    "ru": "«Обновили сайт — пропал трафик» — реальный страх с реальными причинами. Лид-дизайнер Code-Site.Art разбирает 5 правил безопасного редизайна и кейс, где трафик после обновления вырос вчетверо.",
+    "uk": "«Оновили сайт — зник трафік» — реальний страх із реальними причинами. Лід-дизайнерка Code-Site.Art розбирає 5 правил безпечного редизайну і кейс, де трафік після оновлення виріс учетверо."
+  },
+  "metaDescription": {
+    "en": "➤ A redesign doesn't kill traffic if URLs and meaning survive ✔️ A 301 map, 30-day monitoring, a pre-launch checklist ✔️ Case: 4× traffic ➡ The breakdown.",
+    "ru": "➤ Редизайн не убивает трафик, если сохранить URL и смыслы ✔️ Карта 301, мониторинг 30 дней, чек-лист перед запуском ✔️ Кейс: ×4 трафика ➡ Разбор.",
+    "uk": "➤ Редизайн не вбиває трафік, якщо зберегти URL і сенси ✔️ Карта 301, моніторинг 30 днів, чек-лист перед запуском ✔️ Кейс: ×4 трафіку ➡ Розбір."
+  },
+  "metaTitle": {
+    "en": "Redesign Without Losing SEO: 5 Rules & a Checklist | Code-Site.Art",
+    "ru": "Редизайн без потери SEO: 5 правил и чек-лист | Code-Site.Art",
+    "uk": "Редизайн без втрати SEO: 5 правил і чек-лист | Code-Site.Art"
+  },
+  "slugs": {
+    "en": {
+      "_type": "slug",
+      "current": "redesign-without-losing-seo"
+    },
+    "ru": {
+      "_type": "slug",
+      "current": "redizayn-bez-poteri-seo"
+    },
+    "uk": {
+      "_type": "slug",
+      "current": "redyzain-bez-vtraty-seo"
+    }
+  },
+  "title": {
+    "en": "A Redesign Without Losing SEO: How to Refresh a Site and Keep Your Rankings",
+    "ru": "Редизайн без потери SEO: как обновить сайт и не потерять позиции",
+    "uk": "Редизайн без втрати SEO: як оновити сайт і не втратити позиції"
+  }
+}

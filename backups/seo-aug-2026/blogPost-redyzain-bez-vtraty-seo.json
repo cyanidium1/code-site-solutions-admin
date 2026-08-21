@@ -1,0 +1,1185 @@
+{
+  "_id": "4f9a00a0-5012-4caf-8bca-86e78ea425c3",
+  "body": {
+    "en": [
+      {
+        "_key": "b40df",
+        "_type": "tldrBox",
+        "items": [
+          "A redesign only kills traffic when **URLs change without redirects** or ranking content disappears.",
+          "The golden rule: change the design, **keep the addresses and the meaning**",
+          "A mandatory 301 map + 30 days of Search Console monitoring after launch",
+          "The Efedra case: redesign + migration = traffic didn't dip, it quadrupled in 6 months"
+        ],
+        "title": "In 60 seconds"
+      },
+      {
+        "_key": "b40dg",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40dh",
+            "_type": "span",
+            "marks": [],
+            "text": "Where the \"redesign kills traffic\" fear comes from — and when it's justified"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40di",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40dj",
+            "_type": "span",
+            "marks": [],
+            "text": "Stories of \"we refreshed the site and traffic vanished\" are everywhere, and they're real. But it's not the new design that kills — it's a careless move: ranking pages vanished or moved to new addresses without redirects; the copy people found you by got \"cleaned up for beauty\". Google doesn't punish a new look — it simply loses what it knew about you."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40dk",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40dl",
+            "_type": "span",
+            "marks": [],
+            "text": "Five rules of a safe redesign"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40do",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40dm",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Keep URLs where you can. "
+          },
+          {
+            "_key": "b40dn",
+            "_type": "span",
+            "marks": [],
+            "text": "A page's old address is its accumulated history. There's no reason to change /services/implants \"for style\"."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40dr",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40dp",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "If addresses change — a 301 map. "
+          },
+          {
+            "_key": "b40dq",
+            "_type": "span",
+            "marks": [],
+            "text": "Every old URL → its matching new one. Not wholesale to the home page — page by page."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40du",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ds",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Preserve the meaning of working pages. "
+          },
+          {
+            "_key": "b40dt",
+            "_type": "span",
+            "marks": [],
+            "text": "Check Search Console for the pages bringing traffic, and don't rewrite their H1s and topics beyond recognition."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40dx",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40dv",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Don't lose speed. "
+          },
+          {
+            "_key": "b40dw",
+            "_type": "span",
+            "marks": [],
+            "text": "A new design with heavy animation can be slower than the old one — and speed is a ranking factor."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40e0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40dy",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Monitor for 30 days. "
+          },
+          {
+            "_key": "b40dz",
+            "_type": "span",
+            "marks": [],
+            "text": "Search Console daily for the first month: indexing errors and sagging pages show immediately, while they're still easy to recover."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40e1",
+        "_type": "blogImage",
+        "alt": "Sketches of a new website design on paper",
+        "asset": {
+          "_ref": "image-861c49b3271ce43c3af59f38aaa1a18e739c56be-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "A new design starts on paper — a safe redesign starts with a map of the old URLs"
+      },
+      {
+        "_key": "b40e2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40e3",
+            "_type": "span",
+            "marks": [],
+            "text": "Redesign, migration, or a new site?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40e4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40e5",
+            "_type": "span",
+            "marks": [],
+            "text": "A redesign is a new look on the same platform. A migration is a move to another platform (say, WordPress to custom code) with content and addresses preserved. In practice they usually happen together: the platform aged, and so did the design. That's fine — the rules are the same, the redirect map is just bigger."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40e6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40e7",
+            "_type": "span",
+            "marks": [],
+            "text": "Case: Efedra — the redesign after which traffic grew"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40ec",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40e8",
+            "_type": "span",
+            "marks": [],
+            "text": "The clinic moved off an old site with a full change of design and structure. We preserved the working meaning, built the redirect map, and monitored Search Console after launch. Six months on: 1,460 visits versus 340 — traffic never dipped for a single week. Full breakdown — "
+          },
+          {
+            "_key": "b40ea",
+            "_type": "span",
+            "marks": [
+              "b40e9"
+            ],
+            "text": "in the case study"
+          },
+          {
+            "_key": "b40eb",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "b40e9",
+            "_type": "link",
+            "href": "/en/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "b40ed",
+        "_type": "blogImage",
+        "alt": "The Efedra clinic website after the redesign",
+        "asset": {
+          "_ref": "image-0f9f63b7b74b1dbef84b9097aabceb69f206475e-2896x2172-png",
+          "_type": "reference"
+        },
+        "caption": "Efedra: a full redesign without a single week of traffic decline"
+      },
+      {
+        "_key": "b40ee",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ef",
+            "_type": "span",
+            "marks": [],
+            "text": "The checklist before you hit \"Publish\""
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40eg",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40eh",
+            "_type": "span",
+            "marks": [],
+            "text": "All old URLs exported (Search Console → Pages)"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40ei",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ej",
+            "_type": "span",
+            "marks": [],
+            "text": "The 301 map written and tested page by page"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40ek",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40el",
+            "_type": "span",
+            "marks": [],
+            "text": "H1s and topics of breadwinner pages preserved"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40em",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40en",
+            "_type": "span",
+            "marks": [],
+            "text": "New version's speed ≥ the old one's (PageSpeed before/after)"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40eo",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ep",
+            "_type": "span",
+            "marks": [],
+            "text": "Sitemap updated, Search Console notified"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40eq",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40er",
+            "_type": "span",
+            "marks": [],
+            "text": "Calendar: 30 days of daily monitoring booked"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40es",
+        "_type": "ctaCallout",
+        "ctaHref": "/en/contacts",
+        "ctaLabel": "Discuss the project",
+        "ctaSecondaryHref": "/en/vs-wordpress",
+        "ctaSecondaryLabel": "WordPress migration",
+        "eyebrow": "Redesign",
+        "heading": "Planning a site refresh?",
+        "sub": "Tell us what you have now — we'll say honestly whether a redesign is enough or it's migration time, and how to keep every Google position."
+      }
+    ],
+    "ru": [
+      {
+        "_key": "b40c1",
+        "_type": "tldrBox",
+        "items": [
+          "Редизайн убивает трафик только тогда, когда **меняются URL без редиректов** или исчезает контент, который ранжировался.",
+          "Золотое правило: дизайн меняем, **адреса и смыслы сохраняем**",
+          "Обязательная карта 301-редиректов + мониторинг Search Console 30 дней после запуска",
+          "Кейс Efedra: редизайн + переезд = трафик не упал, а вырос вчетверо за 6 месяцев"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "b40c2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40c3",
+            "_type": "span",
+            "marks": [],
+            "text": "Откуда страх «редизайн убьёт трафик» — и когда он оправдан"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40c4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40c5",
+            "_type": "span",
+            "marks": [],
+            "text": "Историй про «обновили сайт — пропал трафик» полно, и они настоящие. Но убивает не новый дизайн, а неаккуратный переезд: страницы, которые ранжировались, исчезли или переехали на новые адреса без редиректов; тексты, по которым вас находили, «почистили для красоты». Google не наказывает за новый вид — он просто теряет то, что знал о вас."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40c6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40c7",
+            "_type": "span",
+            "marks": [],
+            "text": "Пять правил безопасного редизайна"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40ca",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40c8",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Сохраните URL, где возможно. "
+          },
+          {
+            "_key": "b40c9",
+            "_type": "span",
+            "marks": [],
+            "text": "Старый адрес страницы — это её накопленная история. Нет причины менять /uslugi/implantaciya на /services/implants «для красоты»."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40cd",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40cb",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Если адреса меняются — карта 301. "
+          },
+          {
+            "_key": "b40cc",
+            "_type": "span",
+            "marks": [],
+            "text": "Каждый старый URL → соответствующий новый. Не на главную «оптом», а постранично."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40cg",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ce",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Сохраните смыслы работающих страниц. "
+          },
+          {
+            "_key": "b40cf",
+            "_type": "span",
+            "marks": [],
+            "text": "Посмотрите в Search Console, какие страницы приводят трафик, и не переписывайте их H1 и темы до неузнаваемости."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40cj",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ch",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Не потеряйте скорость. "
+          },
+          {
+            "_key": "b40ci",
+            "_type": "span",
+            "marks": [],
+            "text": "Новый дизайн с тяжёлыми анимациями может быть медленнее старого — а скорость это фактор ранжирования."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40cm",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ck",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Мониторьте 30 дней. "
+          },
+          {
+            "_key": "b40cl",
+            "_type": "span",
+            "marks": [],
+            "text": "Search Console ежедневно первый месяц: ошибки индексации и просевшие страницы видны сразу, пока их легко вернуть."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40cn",
+        "_type": "blogImage",
+        "alt": "Эскизы нового дизайна сайта на бумаге",
+        "asset": {
+          "_ref": "image-861c49b3271ce43c3af59f38aaa1a18e739c56be-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Новый дизайн начинается на бумаге — а безопасный редизайн начинается с карты старых URL"
+      },
+      {
+        "_key": "b40co",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40cp",
+            "_type": "span",
+            "marks": [],
+            "text": "Редизайн, миграция или новый сайт?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40cq",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40cr",
+            "_type": "span",
+            "marks": [],
+            "text": "Редизайн — новый вид на той же платформе. Миграция — переезд на другую платформу (например, с WordPress на custom-код) с сохранением контента и адресов. Чаще всего в реальности это происходит вместе: платформа устарела, и дизайн тоже. Это нормально — правила те же, просто карта редиректов больше."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40cs",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ct",
+            "_type": "span",
+            "marks": [],
+            "text": "Кейс: Efedra — редизайн, после которого трафик вырос"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40cy",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40cu",
+            "_type": "span",
+            "marks": [],
+            "text": "Клиника переезжала со старого сайта с полной сменой дизайна и структуры. Мы сохранили рабочие смыслы, построили карту редиректов и мониторили Search Console после запуска. Результат за 6 месяцев: 1 460 переходов против 340 — трафик не просел ни на неделю. Полный разбор — "
+          },
+          {
+            "_key": "b40cw",
+            "_type": "span",
+            "marks": [
+              "b40cv"
+            ],
+            "text": "в кейсе"
+          },
+          {
+            "_key": "b40cx",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "b40cv",
+            "_type": "link",
+            "href": "/ru/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "b40cz",
+        "_type": "blogImage",
+        "alt": "Сайт клиники Efedra после редизайна",
+        "asset": {
+          "_ref": "image-0f9f63b7b74b1dbef84b9097aabceb69f206475e-2896x2172-png",
+          "_type": "reference"
+        },
+        "caption": "Efedra: полный редизайн без единой недели проседания трафика"
+      },
+      {
+        "_key": "b40d0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40d1",
+            "_type": "span",
+            "marks": [],
+            "text": "Чек-лист перед нажатием «Опубликовать»"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40d2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40d3",
+            "_type": "span",
+            "marks": [],
+            "text": "Список всех старых URL выгружен (Search Console → Страницы)"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40d4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40d5",
+            "_type": "span",
+            "marks": [],
+            "text": "Карта 301 написана и протестирована постранично"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40d6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40d7",
+            "_type": "span",
+            "marks": [],
+            "text": "H1 и темы страниц-кормильцев сохранены"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40d8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40d9",
+            "_type": "span",
+            "marks": [],
+            "text": "Скорость новой версии ≥ старой (PageSpeed до/после)"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40da",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40db",
+            "_type": "span",
+            "marks": [],
+            "text": "Sitemap обновлён, Search Console уведомлён"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40dc",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40dd",
+            "_type": "span",
+            "marks": [],
+            "text": "Календарь: 30 дней ежедневного мониторинга назначено"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40de",
+        "_type": "ctaCallout",
+        "ctaHref": "/ru/contacts",
+        "ctaLabel": "Обсудить проект",
+        "ctaSecondaryHref": "/ru/vs-wordpress",
+        "ctaSecondaryLabel": "Миграция с WordPress",
+        "eyebrow": "Редизайн",
+        "heading": "Планируете обновление сайта?",
+        "sub": "Расскажите, что есть сейчас — скажем честно: достаточно редизайна или время миграции, и как сохранить каждую позицию в Google."
+      }
+    ],
+    "uk": [
+      {
+        "_key": "b40an",
+        "_type": "tldrBox",
+        "items": [
+          "Редизайн вбиває трафік лише тоді, коли **міняються URL без редіректів** або зникає контент, який ранжувався.",
+          "Золоте правило: дизайн міняємо, **адреси і сенси зберігаємо**",
+          "Обовʼязкова карта 301-редіректів + моніторинг Search Console 30 днів після запуску",
+          "Кейс Efedra: редизайн + переїзд = трафік не впав, а виріс учетверо за 6 місяців"
+        ],
+        "title": "За 60 секунд"
+      },
+      {
+        "_key": "b40ao",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ap",
+            "_type": "span",
+            "marks": [],
+            "text": "Звідки страх «редизайн уб'є трафік» — і коли він виправданий"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40aq",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ar",
+            "_type": "span",
+            "marks": [],
+            "text": "Історій про «оновили сайт — зник трафік» повно, і вони справжні. Але вбиває не новий дизайн, а неохайний переїзд: сторінки, які ранжувались, зникли або переїхали на нові адреси без редіректів; тексти, за якими вас знаходили, «почистили для краси». Google не карає за новий вигляд — він просто втрачає те, що знав про вас."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40as",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40at",
+            "_type": "span",
+            "marks": [],
+            "text": "Пʼять правил безпечного редизайну"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40aw",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40au",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Збережіть URL, де можливо. "
+          },
+          {
+            "_key": "b40av",
+            "_type": "span",
+            "marks": [],
+            "text": "Стара адреса сторінки — це її накопичена історія. Немає причини міняти /poslugy/implantatsiya на /services/implants «для краси»."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40az",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40ax",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Якщо адреси міняються — карта 301. "
+          },
+          {
+            "_key": "b40ay",
+            "_type": "span",
+            "marks": [],
+            "text": "Кожен старий URL → відповідний новий. Не на головну «оптом», а посторінково."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40b2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40b0",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Збережіть сенси сторінок, що працюють. "
+          },
+          {
+            "_key": "b40b1",
+            "_type": "span",
+            "marks": [],
+            "text": "Подивіться в Search Console, які сторінки приводять трафік, і не переписуйте їхні H1 і теми до невпізнаваності."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40b5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40b3",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Не втратьте швидкість. "
+          },
+          {
+            "_key": "b40b4",
+            "_type": "span",
+            "marks": [],
+            "text": "Новий дизайн із важкими анімаціями може бути повільнішим за старий — а швидкість це фактор ранжування."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40b8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40b6",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Моніторте 30 днів. "
+          },
+          {
+            "_key": "b40b7",
+            "_type": "span",
+            "marks": [],
+            "text": "Search Console щодня перший місяць: помилки індексації і просілі сторінки видно одразу, поки їх легко повернути."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40b9",
+        "_type": "blogImage",
+        "alt": "Ескізи нового дизайну сайту на папері",
+        "asset": {
+          "_ref": "image-861c49b3271ce43c3af59f38aaa1a18e739c56be-1600x1067-jpg",
+          "_type": "reference"
+        },
+        "caption": "Новий дизайн починається на папері — а безпечний редизайн починається з карти старих URL"
+      },
+      {
+        "_key": "b40ba",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40bb",
+            "_type": "span",
+            "marks": [],
+            "text": "Редизайн, міграція чи новий сайт?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40bc",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40bd",
+            "_type": "span",
+            "marks": [],
+            "text": "Редизайн — новий вигляд на тій самій платформі. Міграція — переїзд на іншу платформу (наприклад, з WordPress на custom-код) зі збереженням контенту й адрес. Найчастіше в реальності це відбувається разом: платформа застаріла, і дизайн теж. Це нормально — правила ті самі, просто карта редіректів більша."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40be",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40bf",
+            "_type": "span",
+            "marks": [],
+            "text": "Кейс: Efedra — редизайн, після якого трафік виріс"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40bk",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40bg",
+            "_type": "span",
+            "marks": [],
+            "text": "Клініка переїжджала зі старого сайту з повною зміною дизайну і структури. Ми зберегли робочі сенси, побудували карту редіректів і моніторили Search Console після запуску. Результат за 6 місяців: 1 460 переходів проти 340 — трафік не просів ні на тиждень. Повний розбір — "
+          },
+          {
+            "_key": "b40bi",
+            "_type": "span",
+            "marks": [
+              "b40bh"
+            ],
+            "text": "у кейсі"
+          },
+          {
+            "_key": "b40bj",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "b40bh",
+            "_type": "link",
+            "href": "/portfolio/efedra-clinic",
+            "newTab": false
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "b40bl",
+        "_type": "blogImage",
+        "alt": "Сайт клініки Efedra після редизайну",
+        "asset": {
+          "_ref": "image-0f9f63b7b74b1dbef84b9097aabceb69f206475e-2896x2172-png",
+          "_type": "reference"
+        },
+        "caption": "Efedra: повний редизайн без жодного тижня просідання трафіку"
+      },
+      {
+        "_key": "b40bm",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40bn",
+            "_type": "span",
+            "marks": [],
+            "text": "Чек-лист перед натисканням «Опублікувати»"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "b40bo",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40bp",
+            "_type": "span",
+            "marks": [],
+            "text": "Список усіх старих URL вивантажено (Search Console → Сторінки)"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40bq",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40br",
+            "_type": "span",
+            "marks": [],
+            "text": "Карта 301 написана і протестована посторінково"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40bs",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40bt",
+            "_type": "span",
+            "marks": [],
+            "text": "H1 і теми сторінок-годувальниць збережені"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40bu",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40bv",
+            "_type": "span",
+            "marks": [],
+            "text": "Швидкість нової версії ≥ старої (PageSpeed до/після)"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40bw",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40bx",
+            "_type": "span",
+            "marks": [],
+            "text": "Sitemap оновлено, Search Console повідомлено"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40by",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b40bz",
+            "_type": "span",
+            "marks": [],
+            "text": "Календар: 30 днів щоденного моніторингу призначено"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b40c0",
+        "_type": "ctaCallout",
+        "ctaHref": "/contacts",
+        "ctaLabel": "Обговорити проєкт",
+        "ctaSecondaryHref": "/vs-wordpress",
+        "ctaSecondaryLabel": "Міграція з WordPress",
+        "eyebrow": "Редизайн",
+        "heading": "Плануєте оновлення сайту?",
+        "sub": "Розкажіть, що є зараз — скажемо чесно: досить редизайну чи час міграції, і як зберегти кожну позицію в Google."
+      }
+    ]
+  },
+  "slug": "redyzain-bez-vtraty-seo"
+}
