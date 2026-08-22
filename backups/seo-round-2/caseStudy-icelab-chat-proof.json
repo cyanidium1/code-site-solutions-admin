@@ -1,0 +1,1319 @@
+{
+  "_createdAt": "2026-08-19T11:01:38Z",
+  "_id": "teYo5SgUrFJ21nkOqz75NQ",
+  "_rev": "xkh1LdmYAxvLYj0567GBHP",
+  "_type": "caseStudy",
+  "_updatedAt": "2026-08-22T13:51:26Z",
+  "client": "IceLab",
+  "country": {
+    "_ref": "6tWqPRZWZzG4Lv3HK7JDxa",
+    "_type": "reference"
+  },
+  "coverImage": {
+    "_type": "imageWithLocalizedAlt",
+    "alt": {
+      "_type": "localizedString",
+      "en": "IceLab - dry ice online store on laptop and phone",
+      "ru": "IceLab — интернет-магазин сухого льда на ноутбуке и телефоне",
+      "uk": "IceLab — інтернет-магазин сухого льоду на ноутбуці і телефоні"
+    },
+    "image": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-265ff82037ef7420c6b8b901bee30e1f304d4b3f-2884x2058-png",
+        "_type": "reference"
+      }
+    }
+  },
+  "featured": false,
+  "hero": {
+    "eyebrow": {
+      "_type": "localizedString",
+      "en": "/ CASE STUDY",
+      "ru": "/ CASE STUDY",
+      "uk": "/ CASE STUDY"
+    },
+    "heading": {
+      "_type": "localizedString",
+      "en": "IceLab - a dry ice online store ranking *2nd for commercial queries*",
+      "ru": "IceLab — интернет-магазин сухого льда с *позицией 2* по коммерческим запросам",
+      "uk": "IceLab — інтернет-магазин сухого льоду з *позицією 2* за комерційними запитами"
+    },
+    "heroImage": {
+      "_type": "imageWithLocalizedAlt",
+      "alt": {
+        "_type": "localizedString",
+        "en": "IceLab website shown on laptop and phone with the dry ice homepage",
+        "ru": "Сайт IceLab на ноутбуке и телефоне с главной страницей о сухом льде",
+        "uk": "Сайт IceLab на ноутбуці і телефоні з головною сторінкою про сухий лід"
+      },
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-e79ddb7b741830b121902994ceadada50025130e-1199x1133-png",
+          "_type": "reference"
+        }
+      }
+    },
+    "link": {
+      "_type": "ctaAction",
+      "href": "https://icelab.com.ua",
+      "type": "custom"
+    },
+    "subheading": {
+      "_type": "localizedString",
+      "en": "IceLab is a Ukrainian dry ice manufacturer with its own facilities in Kyiv and Lviv. We built an online store that serves both retail and wholesale customers and attracts new audience from Google: 212 clicks, 3.67k impressions in 28 days and position 2 for commercial queries.",
+      "ru": "IceLab — украинский производитель сухого льда с собственными мощностями в Киеве и Львове. Мы создали интернет-магазин, который работает с розничными и оптовыми клиентами и привлекает аудиторию из Google: за 28 дней — 212 переходов, 3,67 тыс. показов и позиция 2 по коммерческим запросам.",
+      "uk": "IceLab — український виробник сухого льоду з власними потужностями у Києві та Львові. Ми створили інтернет-магазин, який працює з роздрібними та оптовими клієнтами й залучає аудиторію з Google: за 28 днів — 212 переходів, 3,67 тис. показів і позиція 2 за комерційними запитами."
+    }
+  },
+  "industry": {
+    "_ref": "DHIwRDN3sEoI638qoYRvv5",
+    "_type": "reference"
+  },
+  "metricsLine": {
+    "_type": "localizedString",
+    "en": "212 Google clicks · 5.8% CTR · position 2 on commercial queries",
+    "ru": "212 переходов из Google · CTR 5,8% · позиция 2 по коммерческим запросам",
+    "uk": "212 переходів із Google · CTR 5,8% · позиція 2 за комерційними запитами"
+  },
+  "order": 10,
+  "region": {
+    "_type": "localizedString",
+    "en": "Kyiv and Lviv, Ukraine",
+    "ru": "Киев и Львов, Украина",
+    "uk": "Київ і Львів, Україна"
+  },
+  "sections": [
+    {
+      "_key": "icl-stats",
+      "_type": "statsBlock",
+      "items": [
+        {
+          "_key": "icl-m-1",
+          "_type": "metric",
+          "label": {
+            "en": "Google clicks in 28 days",
+            "ru": "переходов из Google за 28 дней",
+            "uk": "переходів із Google за 28 днів"
+          },
+          "value": {
+            "en": "212",
+            "ru": "212",
+            "uk": "212"
+          }
+        },
+        {
+          "_key": "icl-m-2",
+          "_type": "metric",
+          "label": {
+            "en": "search impressions",
+            "ru": "показов в поиске",
+            "uk": "показів у пошуку"
+          },
+          "value": {
+            "en": "3.67k",
+            "ru": "3,67 тыс.",
+            "uk": "3,67 тис."
+          }
+        },
+        {
+          "_key": "icl-m-3",
+          "_type": "metric",
+          "label": {
+            "en": "average CTR",
+            "ru": "средний CTR",
+            "uk": "середній CTR"
+          },
+          "value": {
+            "en": "5.8%",
+            "ru": "5,8%",
+            "uk": "5,8%"
+          }
+        },
+        {
+          "_key": "icl-m-4",
+          "_type": "metric",
+          "label": {
+            "en": "Google position, commercial queries",
+            "ru": "позиция в Google по коммерческим запросам",
+            "uk": "позиція в Google за комерційними запитами"
+          },
+          "value": {
+            "en": "2",
+            "ru": "2",
+            "uk": "2"
+          }
+        }
+      ]
+    },
+    {
+      "_key": "icl-meaning",
+      "_type": "imageTextBlock",
+      "body": {
+        "en": [
+          {
+            "_key": "icl-b-mn-en",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-mn-en",
+                "_type": "span",
+                "marks": [],
+                "text": "Position 2 on commercial queries means IceLab sits at the top of the first page exactly where buying intent is: people deliberately searching for dry ice, thermoboxes, wholesale supply and delivery in their city. A 5.8% CTR shows users see a relevant answer to their query and click through. Google became a standalone client-acquisition channel, not a source of accidental traffic."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "ru": [
+          {
+            "_key": "icl-b-mn-ru",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-mn-ru",
+                "_type": "span",
+                "marks": [],
+                "text": "Позиция 2 по коммерческим запросам означает, что IceLab стоит в самом верху первой страницы Google там, где есть намерение купить: компанию видят люди, которые целенаправленно ищут сухой лёд, термобоксы, оптовые поставки и доставку в своём городе. CTR 5,8% показывает, что пользователи видят релевантный ответ на свой запрос и переходят на сайт. Google стал для компании отдельным каналом привлечения клиентов, а не источником случайной посещаемости."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "uk": [
+          {
+            "_key": "icl-b-mn-uk",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-mn-uk",
+                "_type": "span",
+                "marks": [],
+                "text": "Позиція 2 за комерційними запитами означає, що IceLab стоїть у самому верху першої сторінки Google там, де є намір купити: компанію бачать люди, які цілеспрямовано шукають сухий лід, термобокси, оптові поставки та доставку у своєму місті. CTR 5,8% показує, що користувачі бачать релевантну відповідь на свій запит і переходять на сайт. Google став для компанії окремим каналом залучення клієнтів, а не джерелом випадкової відвідуваності."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ]
+      },
+      "eyebrow": {
+        "_type": "localizedString",
+        "en": "/ IMPACT",
+        "ru": "/ IMPACT",
+        "uk": "/ IMPACT"
+      },
+      "heading": {
+        "_type": "localizedString",
+        "en": "What this means *for the business*",
+        "ru": "Что это значит *для бизнеса*",
+        "uk": "Що це означає *для бізнесу*"
+      },
+      "variant": "centered"
+    },
+    {
+      "_key": "icl-seo-structure",
+      "_type": "imageTextBlock",
+      "body": {
+        "en": [
+          {
+            "_key": "icl-b-seo-en",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-seo-en",
+                "_type": "span",
+                "marks": [],
+                "text": "We built SEO directly into the site structure rather than as a separate service after development. Instead of one generic page - a system of landing pages for different query groups: each one answers a specific user need and leads to a product, a consultation or an order."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "ru": [
+          {
+            "_key": "icl-b-seo-ru",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-seo-ru",
+                "_type": "span",
+                "marks": [],
+                "text": "Мы заложили SEO не отдельной услугой после завершения разработки, а непосредственно в структуру сайта. Вместо одной общей страницы — система посадочных страниц под разные группы запросов: каждая закрывает конкретную потребность пользователя и ведёт его к товару, консультации или оформлению заказа."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "uk": [
+          {
+            "_key": "icl-b-seo-uk",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-seo-uk",
+                "_type": "span",
+                "marks": [],
+                "text": "Ми заклали SEO не окремою послугою після завершення розробки, а безпосередньо у структуру сайту. Замість однієї загальної сторінки — система посадкових сторінок під різні групи запитів: кожна закриває конкретну потребу користувача й веде його до товару, консультації або оформлення замовлення."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ]
+      },
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "icl-li-seo-1",
+          "en": "Dry ice and food-grade ice categories",
+          "ru": "Категории сухого и пищевого льда",
+          "uk": "Категорії сухого та харчового льоду"
+        },
+        {
+          "_key": "icl-li-seo-2",
+          "en": "Thermoboxes and ready-made ice boxes",
+          "ru": "Термобоксы и готовые боксы со льдом",
+          "uk": "Термобокси та готові бокси з льодом"
+        },
+        {
+          "_key": "icl-li-seo-3",
+          "en": "Dry ice blasting equipment",
+          "ru": "Оборудование для очистки сухим льдом",
+          "uk": "Обладнання для очищення сухим льодом"
+        },
+        {
+          "_key": "icl-li-seo-4",
+          "en": "A dedicated funnel for wholesale and B2B clients",
+          "ru": "Отдельное направление для оптовых и B2B-клиентов",
+          "uk": "Окремий напрям для оптових і B2B-клієнтів"
+        },
+        {
+          "_key": "icl-li-seo-5",
+          "en": "Production, delivery and application pages",
+          "ru": "Страницы о производстве, доставке и применении",
+          "uk": "Сторінки про виробництво, доставку та застосування"
+        },
+        {
+          "_key": "icl-li-seo-6",
+          "en": "FAQ and informational blog articles",
+          "ru": "FAQ и информационные статьи в блоге",
+          "uk": "FAQ та інформаційні статті у блозі"
+        },
+        {
+          "_key": "icl-li-seo-7",
+          "en": "Local pages for 10 Ukrainian cities",
+          "ru": "Локальные страницы под 10 городов Украины",
+          "uk": "Локальні сторінки під 10 міст України"
+        }
+      ],
+      "eyebrow": {
+        "_type": "localizedString",
+        "en": "/ SEO",
+        "ru": "/ SEO",
+        "uk": "/ SEO"
+      },
+      "heading": {
+        "_type": "localizedString",
+        "en": "How the site gets *traffic from Google*",
+        "ru": "Как сайт получает *трафик из Google*",
+        "uk": "Як сайт отримує *трафік із Google*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "en": "IceLab blog with informational dry ice articles",
+          "ru": "Блог IceLab с информационными статьями о сухом льде",
+          "uk": "Блог IceLab з інформаційними статтями про сухий лід"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-00b422636a3307c7c18f6c2771f99eda5b50db19-2880x1800-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageRight",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "icl-challenge",
+      "_type": "imageTextBlock",
+      "body": {
+        "en": [
+          {
+            "_key": "icl-b-ch-en",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-ch-en",
+                "_type": "span",
+                "marks": [],
+                "text": "Dry ice serves very different jobs: food cooling, logistics, medicine, restaurants, special effects and industrial cleaning. A private buyer, a restaurant, a lab and a large production facility have different needs and order volumes. Every user had to quickly find the right product format, understand the difference between granules, see the current price and proceed to an order - while the site showcased the company’s production capacity and stayed comfortable on a phone."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "ru": [
+          {
+            "_key": "icl-b-ch-ru",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-ch-ru",
+                "_type": "span",
+                "marks": [],
+                "text": "Сухой лёд используют для разных задач: охлаждение продуктов, логистика, медицина, ресторанная сфера, спецэффекты и промышленная очистка. Частный покупатель, ресторан, лаборатория и крупное производство имеют разные потребности и объёмы заказа. Нужно было, чтобы каждый пользователь быстро нашёл нужный формат продукции, понял разницу между гранулами, увидел актуальную цену и смог перейти к заказу — а сайт показывал производственные мощности компании и был удобным на телефоне."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "uk": [
+          {
+            "_key": "icl-b-ch-uk",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-ch-uk",
+                "_type": "span",
+                "marks": [],
+                "text": "Сухий лід використовують для різних задач: охолодження продуктів, логістики, медицини, ресторанної сфери, спецефектів і промислового очищення. Приватний покупець, ресторан, лабораторія та велике виробництво мають різні потреби й обсяги замовлення. Потрібно було, щоб кожен користувач швидко знайшов потрібний формат продукції, зрозумів різницю між гранулами, побачив актуальну ціну та зміг перейти до замовлення — а сайт показував виробничі потужності компанії та був зручним на телефоні."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ]
+      },
+      "bulletIcon": "dot",
+      "bulletList": [
+        {
+          "_key": "icl-li-ch-1",
+          "en": "Separate the retail and wholesale funnels",
+          "ru": "Разделить розничное и оптовое направления",
+          "uk": "Розділити роздрібний та оптовий напрями"
+        },
+        {
+          "_key": "icl-li-ch-2",
+          "en": "Present a complex, unusual product clearly",
+          "ru": "Понятно подать сложный и необычный продукт",
+          "uk": "Зрозуміло подати складний і незвичний продукт"
+        },
+        {
+          "_key": "icl-li-ch-3",
+          "en": "Show granule sizes, packaging and prices",
+          "ru": "Показать размеры гранул, фасовку и цены",
+          "uk": "Показати розміри гранул, фасування та ціни"
+        },
+        {
+          "_key": "icl-li-ch-4",
+          "en": "Build a catalogue with a simple path to ordering",
+          "ru": "Создать каталог с простым путём к заказу",
+          "uk": "Створити каталог із простим шляхом до замовлення"
+        },
+        {
+          "_key": "icl-li-ch-5",
+          "en": "Explain storage, usage and delivery",
+          "ru": "Объяснить хранение, использование и доставку",
+          "uk": "Пояснити зберігання, використання та доставку"
+        },
+        {
+          "_key": "icl-li-ch-6",
+          "en": "Prepare the site for local SEO promotion",
+          "ru": "Подготовить сайт к локальному SEO-продвижению",
+          "uk": "Підготувати сайт до локального SEO-просування"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "_type": "localizedString",
+        "en": "/ CHALLENGE",
+        "ru": "/ CHALLENGE",
+        "uk": "/ CHALLENGE"
+      },
+      "heading": {
+        "_type": "localizedString",
+        "en": "The project *challenge*",
+        "ru": "Задачи *проекта*",
+        "uk": "Завдання *проєкту*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "en": "IceLab wholesale page on a phone",
+          "ru": "Страница оптовых заказов IceLab на телефоне",
+          "uk": "Сторінка оптових замовлень IceLab на телефоні"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-8e7a0c8b478e033842c61d8f669fba41fb7ecbf7-734x922-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "image2": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "en": "IceLab dry ice applications page on a laptop",
+          "ru": "Страница применения сухого льда IceLab на ноутбуке",
+          "uk": "Сторінка застосування сухого льоду IceLab на ноутбуці"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-3ab485784c7ede8416c8bd09329e5618cc66c4cf-1288x1162-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "variant": "centered"
+    },
+    {
+      "_key": "icl-solution",
+      "_type": "imageTextBlock",
+      "body": {
+        "en": [
+          {
+            "_key": "icl-b-sol-en",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-sol-en",
+                "_type": "span",
+                "marks": [],
+                "text": "We built an online store that combines product sales, a production showcase and SEO. On the homepage the user immediately sees the core IceLab offer, available ice formats, the starting price and two scenarios: a quick order or a jump into the catalogue."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "ru": [
+          {
+            "_key": "icl-b-sol-ru",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-sol-ru",
+                "_type": "span",
+                "marks": [],
+                "text": "Мы создали интернет-магазин, который объединяет продажу продукции, презентацию производства и SEO-продвижение. На главной странице пользователь сразу видит основное предложение IceLab, доступные форматы льда, стартовую стоимость и два сценария действия: быстрый заказ или переход в каталог."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "uk": [
+          {
+            "_key": "icl-b-sol-uk",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-sol-uk",
+                "_type": "span",
+                "marks": [],
+                "text": "Ми створили інтернет-магазин, який поєднує продаж продукції, презентацію виробництва та SEO-просування. На головній сторінці користувач одразу бачить основну пропозицію IceLab, доступні формати льоду, стартову вартість і два сценарії дії: швидке замовлення або перехід до каталогу."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ]
+      },
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "icl-li-sol-1",
+          "en": "Custom design and marketing structure",
+          "ru": "Индивидуальный дизайн и маркетинговая структура",
+          "uk": "Індивідуальний дизайн і маркетингова структура"
+        },
+        {
+          "_key": "icl-li-sol-2",
+          "en": "Catalogue: 5 categories and 19 product cards",
+          "ru": "Каталог: 5 категорий и 19 карточек товаров",
+          "uk": "Каталог: 5 категорій і 19 карток товарів"
+        },
+        {
+          "_key": "icl-li-sol-3",
+          "en": "Cart, checkout and a quick enquiry form",
+          "ru": "Корзина, оформление заказа и быстрая форма обращения",
+          "uk": "Кошик, оформлення замовлення та швидка форма звернення"
+        },
+        {
+          "_key": "icl-li-sol-4",
+          "en": "A dedicated wholesale / B2B section",
+          "ru": "Отдельный раздел для оптовых и B2B-клиентов",
+          "uk": "Окремий розділ для оптових і B2B-клієнтів"
+        },
+        {
+          "_key": "icl-li-sol-5",
+          "en": "About and own-production pages",
+          "ru": "Страницы о компании и собственном производстве",
+          "uk": "Сторінки про компанію та власне виробництво"
+        },
+        {
+          "_key": "icl-li-sol-6",
+          "en": "FAQ, blog and dry ice application pages",
+          "ru": "FAQ, блог и страницы применения сухого льда",
+          "uk": "FAQ, блог і сторінки застосування сухого льоду"
+        },
+        {
+          "_key": "icl-li-sol-7",
+          "en": "Dedicated SEO pages for Ukrainian cities",
+          "ru": "Отдельные SEO-страницы под города Украины",
+          "uk": "Окремі SEO-сторінки під міста України"
+        },
+        {
+          "_key": "icl-li-sol-8",
+          "en": "All pages adapted for mobile devices",
+          "ru": "Адаптация всех страниц под мобильные устройства",
+          "uk": "Адаптація всіх сторінок під мобільні пристрої"
+        }
+      ],
+      "eyebrow": {
+        "_type": "localizedString",
+        "en": "/ SOLUTION",
+        "ru": "/ SOLUTION",
+        "uk": "/ SOLUTION"
+      },
+      "heading": {
+        "_type": "localizedString",
+        "en": "What we *did*",
+        "ru": "Что мы *сделали*",
+        "uk": "Що ми *зробили*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "en": "IceLab homepage with dry ice formats and quick ordering",
+          "ru": "Главная страница IceLab с форматами сухого льда и быстрым заказом",
+          "uk": "Головна сторінка IceLab з форматами сухого льоду і швидким замовленням"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-56586cc0cc5be42329e07726b0fc4a576e19d848-2880x1800-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "icl-catalog",
+      "_type": "imageTextBlock",
+      "body": {
+        "en": [
+          {
+            "_key": "icl-b-cat-en",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-cat-en",
+                "_type": "span",
+                "marks": [],
+                "text": "We did not overload the first screen with technical details: the site first helps choose the right direction, then shows specific products, packaging and specs. Cards immediately show availability, granule size, weight, price and an add-to-cart button - no need to message a manager just to learn the basic terms."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "ru": [
+          {
+            "_key": "icl-b-cat-ru",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-cat-ru",
+                "_type": "span",
+                "marks": [],
+                "text": "Мы не перегружали пользователя технической информацией на первом экране: сайт сначала помогает выбрать нужное направление, а затем показывает конкретные товары, фасовку и характеристики. В карточках сразу видны наличие, размер гранулы, вес, стоимость и кнопка корзины — не нужно писать менеджеру, чтобы узнать базовые условия заказа."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "uk": [
+          {
+            "_key": "icl-b-cat-uk",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-cat-uk",
+                "_type": "span",
+                "marks": [],
+                "text": "Ми не перевантажували користувача технічною інформацією на першому екрані: сайт спочатку допомагає обрати потрібний напрям, а потім показує конкретні товари, фасування та характеристики. У картках одразу видно наявність, розмір гранули, вагу, вартість і кнопку кошика — не потрібно писати менеджеру, щоб дізнатися базові умови замовлення."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ]
+      },
+      "bulletIcon": "dot",
+      "bulletList": [
+        {
+          "_key": "icl-li-cat-1",
+          "en": "Dry ice - 3, 16 and 19 mm granules",
+          "ru": "Сухой лёд — гранулы 3, 16 и 19 мм",
+          "uk": "Сухий лід — гранули 3, 16 і 19 мм"
+        },
+        {
+          "_key": "icl-li-cat-2",
+          "en": "Food-grade ice",
+          "ru": "Пищевой лёд",
+          "uk": "Харчовий лід"
+        },
+        {
+          "_key": "icl-li-cat-3",
+          "en": "Thermoboxes",
+          "ru": "Термобоксы",
+          "uk": "Термобокси"
+        },
+        {
+          "_key": "icl-li-cat-4",
+          "en": "Ready-made dry ice boxes",
+          "ru": "Готовые боксы с сухим льдом",
+          "uk": "Готові бокси із сухим льодом"
+        },
+        {
+          "_key": "icl-li-cat-5",
+          "en": "Dry ice blasting equipment",
+          "ru": "Оборудование для очистки сухим льдом",
+          "uk": "Обладнання для очищення сухим льодом"
+        }
+      ],
+      "eyebrow": {
+        "_type": "localizedString",
+        "en": "/ CATALOG",
+        "ru": "/ CATALOG",
+        "uk": "/ CATALOG"
+      },
+      "heading": {
+        "_type": "localizedString",
+        "en": "The catalogue and the *path to ordering*",
+        "ru": "Каталог и путь *к заказу*",
+        "uk": "Каталог і шлях *до замовлення*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "en": "IceLab product card with granule size, weight, price and cart button",
+          "ru": "Карточка товара IceLab с размером гранулы, весом, ценой и корзиной",
+          "uk": "Картка товару IceLab з розміром гранули, вагою, ціною і кошиком"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-5a97e42facf2098372e2d47d2eb07403c26a85a2-2880x1800-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageRight",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "icl-b2b",
+      "_type": "imageTextBlock",
+      "body": {
+        "en": [
+          {
+            "_key": "icl-b-b2b-en",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-b2b-en",
+                "_type": "span",
+                "marks": [],
+                "text": "For wholesale clients we created a dedicated landing page with volume-based pricing, regular supply terms, logistics and the advantages of working directly with the manufacturer. Large recurring supplies no longer mix with ordinary retail orders, forming a separate funnel for higher-value B2B enquiries."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "ru": [
+          {
+            "_key": "icl-b-b2b-ru",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-b2b-ru",
+                "_type": "span",
+                "marks": [],
+                "text": "Для оптовых клиентов мы создали отдельную посадочную страницу с ценами в зависимости от объёма, условиями регулярных поставок, логистикой и преимуществами работы напрямую с производителем. Это позволило не смешивать крупные регулярные поставки с обычными розничными заказами и сформировать отдельную воронку для более дорогих B2B-обращений."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "uk": [
+          {
+            "_key": "icl-b-b2b-uk",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-b2b-uk",
+                "_type": "span",
+                "marks": [],
+                "text": "Для оптових клієнтів ми створили окрему посадкову сторінку з цінами залежно від обсягу, умовами регулярних поставок, логістикою та перевагами роботи напряму з виробником. Це дозволило не змішувати великі регулярні поставки зі звичайними роздрібними замовленнями та сформувати окрему воронку для дорожчих B2B-звернень."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ]
+      },
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "icl-li-b2b-1",
+          "en": "Volume-based pricing and regular supply terms",
+          "ru": "Цены в зависимости от объёма и условия регулярных поставок",
+          "uk": "Ціни залежно від обсягу та умови регулярних поставок"
+        },
+        {
+          "_key": "icl-li-b2b-2",
+          "en": "Logistics and working directly with the manufacturer",
+          "ru": "Логистика и работа напрямую с производителем",
+          "uk": "Логістика й робота напряму з виробником"
+        },
+        {
+          "_key": "icl-li-b2b-3",
+          "en": "For HoReCa, catering, production, labs and pharma",
+          "ru": "Под HoReCa, кейтеринг, производства, лаборатории и фарму",
+          "uk": "Під HoReCa, кейтеринг, виробництва, лабораторії та фарму"
+        },
+        {
+          "_key": "icl-li-b2b-4",
+          "en": "A separate funnel for event agencies and industrial companies",
+          "ru": "Отдельная воронка для ивент-агентств и промышленных предприятий",
+          "uk": "Окрема воронка для івент-агенцій і промислових підприємств"
+        }
+      ],
+      "eyebrow": {
+        "_type": "localizedString",
+        "en": "/ B2B",
+        "ru": "/ B2B",
+        "uk": "/ B2B"
+      },
+      "heading": {
+        "_type": "localizedString",
+        "en": "A separate solution *for B2B*",
+        "ru": "Отдельное решение *для B2B*",
+        "uk": "Окреме рішення *для B2B*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "en": "IceLab B2B page with volume-based wholesale pricing",
+          "ru": "B2B-страница IceLab с оптовыми ценами в зависимости от объёма",
+          "uk": "B2B-сторінка IceLab з оптовими цінами залежно від обсягу"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-2725c4f2b1d07445ee6d209e19e9c30867d9434e-2880x1800-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageLeft",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "icl-design",
+      "_type": "imageTextBlock",
+      "body": {
+        "en": [
+          {
+            "_key": "icl-b-des-en",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-des-en",
+                "_type": "span",
+                "marks": [],
+                "text": "The design is built around the product itself: cold, ice, vapour and industrial production. The light first screen feels like frosty air, deep blue blocks add contrast, and large accent headings, gradients, dry ice photography and translucent cards form the recognizable IceLab style. The visuals carry the character of the product while keeping prices, specs and order buttons the primary elements of every page."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "ru": [
+          {
+            "_key": "icl-b-des-ru",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-des-ru",
+                "_type": "span",
+                "marks": [],
+                "text": "Дизайн построен вокруг свойств самого продукта: холода, льда, пара и технологичного производства. Светлый первый экран создаёт ощущение морозного воздуха, глубокие синие блоки добавляют контраста, а крупные акцентные заголовки, градиенты, фотографии сухого льда и полупрозрачные карточки формируют узнаваемый стиль IceLab. Визуал передаёт характер продукта, но оставляет цены, характеристики и кнопки заказа главными элементами страницы."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "uk": [
+          {
+            "_key": "icl-b-des-uk",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-des-uk",
+                "_type": "span",
+                "marks": [],
+                "text": "Дизайн побудований навколо властивостей самого продукту: холоду, льоду, пари та технологічного виробництва. Світлий перший екран створює відчуття морозного повітря, глибокі сині блоки додають контрасту, а великі акцентні заголовки, градієнти, фотографії сухого льоду та напівпрозорі картки формують упізнаваний стиль IceLab. Візуал передає характер продукту, але залишає ціни, характеристики та кнопки замовлення головними елементами сторінки."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ]
+      },
+      "eyebrow": {
+        "_type": "localizedString",
+        "en": "/ DESIGN",
+        "ru": "/ DESIGN",
+        "uk": "/ DESIGN"
+      },
+      "heading": {
+        "_type": "localizedString",
+        "en": "The visual *concept*",
+        "ru": "Визуальная *концепция*",
+        "uk": "Візуальна *концепція*"
+      },
+      "variant": "centered"
+    },
+    {
+      "_key": "icl-gallery",
+      "_type": "mediaGalleryBlock",
+      "enableLightbox": true,
+      "images": [
+        {
+          "_key": "icl-g-1",
+          "_type": "mediaGalleryImageItem",
+          "alt": {
+            "_type": "localizedString",
+            "en": "Dry ice category in the IceLab catalogue",
+            "ru": "Категория «Сухой лёд» в каталоге IceLab",
+            "uk": "Категорія «Сухий лід» у каталозі IceLab"
+          },
+          "caption": {
+            "_type": "localizedString",
+            "en": "Catalogue",
+            "ru": "Каталог",
+            "uk": "Каталог"
+          },
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-6e696b395ffb42a768671a87e83a889f4126c96e-2880x1800-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "icl-g-2",
+          "_type": "mediaGalleryImageItem",
+          "alt": {
+            "_type": "localizedString",
+            "en": "IceLab FAQ answering common dry ice questions",
+            "ru": "FAQ IceLab с ответами на вопросы о сухом льде",
+            "uk": "FAQ IceLab з відповідями на запитання про сухий лід"
+          },
+          "caption": {
+            "_type": "localizedString",
+            "en": "FAQ",
+            "ru": "FAQ",
+            "uk": "FAQ"
+          },
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-c4db1c150c7cd43a610d3608a3da1ad2b1b38ea4-2880x1800-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "icl-g-3",
+          "_type": "mediaGalleryImageItem",
+          "alt": {
+            "_type": "localizedString",
+            "en": "IceLab delivery and payment page",
+            "ru": "Страница доставки и оплаты IceLab",
+            "uk": "Сторінка доставки та оплати IceLab"
+          },
+          "caption": {
+            "_type": "localizedString",
+            "en": "Delivery and payment",
+            "ru": "Доставка и оплата",
+            "uk": "Доставка та оплата"
+          },
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-4ae661167d28c7fe0beb516313fe28697596c5e9-2880x1800-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        },
+        {
+          "_key": "icl-g-4",
+          "_type": "mediaGalleryImageItem",
+          "alt": {
+            "_type": "localizedString",
+            "en": "IceLab about page",
+            "ru": "Страница о компании IceLab",
+            "uk": "Сторінка про компанію IceLab"
+          },
+          "caption": {
+            "_type": "localizedString",
+            "en": "About",
+            "ru": "О компании",
+            "uk": "Про компанію"
+          },
+          "displayMode": "general",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-54cf928b7b7ec2d1a6d08bbc646a24ae7d998884-2880x1800-png",
+              "_type": "reference"
+            }
+          },
+          "objectPosition": "center"
+        }
+      ]
+    },
+    {
+      "_key": "icl-local-seo",
+      "_type": "imageTextBlock",
+      "body": {
+        "en": [
+          {
+            "_key": "icl-b-loc-en",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-loc-en",
+                "_type": "span",
+                "marks": [],
+                "text": "A separate part of the work was the structure for dry ice searches across Ukrainian cities. Each local page gives the user delivery and pickup information, current prices and dry ice use cases for their region. This lets Google surface the most relevant page for a specific local query instead of one generic company page."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "ru": [
+          {
+            "_key": "icl-b-loc-ru",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-loc-ru",
+                "_type": "span",
+                "marks": [],
+                "text": "Отдельной частью работы стала структура под поиск сухого льда в разных городах Украины. На каждой локальной странице пользователь получает информацию о доставке, самовывозе, актуальных ценах и вариантах использования сухого льда в своём регионе. Это помогает Google показывать не одну общую страницу компании, а максимально релевантную страницу под конкретный локальный запрос."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "uk": [
+          {
+            "_key": "icl-b-loc-uk",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-loc-uk",
+                "_type": "span",
+                "marks": [],
+                "text": "Окремою частиною роботи стала структура під пошук сухого льоду в різних містах України. На кожній локальній сторінці користувач отримує інформацію про доставку, самовивіз, актуальні ціни та варіанти використання сухого льоду у своєму регіоні. Це допомагає Google показувати не одну загальну сторінку компанії, а максимально релевантну сторінку під конкретний локальний запит."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ]
+      },
+      "bulletIcon": "dot",
+      "bulletList": [
+        {
+          "_key": "icl-li-loc-1",
+          "en": "Kyiv, Lviv, Dnipro, Odesa, Kharkiv",
+          "ru": "Киев, Львов, Днепр, Одесса, Харьков",
+          "uk": "Київ, Львів, Дніпро, Одеса, Харків"
+        },
+        {
+          "_key": "icl-li-loc-2",
+          "en": "Zaporizhzhia, Kryvyi Rih, Vinnytsia, Ivano-Frankivsk, Poltava",
+          "ru": "Запорожье, Кривой Рог, Винница, Ивано-Франковск, Полтава",
+          "uk": "Запоріжжя, Кривий Ріг, Вінниця, Івано-Франківськ, Полтава"
+        },
+        {
+          "_key": "icl-li-loc-3",
+          "en": "Delivery, pickup and prices for each city",
+          "ru": "Доставка, самовывоз и цены для каждого города",
+          "uk": "Доставка, самовивіз і ціни для кожного міста"
+        },
+        {
+          "_key": "icl-li-loc-4",
+          "en": "A relevant page for each specific local query",
+          "ru": "Релевантная страница под конкретный локальный запрос",
+          "uk": "Релевантна сторінка під конкретний локальний запит"
+        }
+      ],
+      "eyebrow": {
+        "_type": "localizedString",
+        "en": "/ LOCAL SEO",
+        "ru": "/ LOCAL SEO",
+        "uk": "/ LOCAL SEO"
+      },
+      "heading": {
+        "_type": "localizedString",
+        "en": "Local *SEO promotion*",
+        "ru": "Локальное *SEO-продвижение*",
+        "uk": "Локальне *SEO-просування*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "en": "IceLab local SEO page for dry ice in Kyiv",
+          "ru": "Локальная SEO-страница «Сухой лёд в Киеве» на сайте IceLab",
+          "uk": "Локальна SEO-сторінка «Сухий лід у Києві» на сайті IceLab"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-ef0996d9bb43b370e0a515bfd537ed498b8cf4df-2880x1800-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "imageVariant": "imageRight",
+      "variant": "side-with-list"
+    },
+    {
+      "_key": "icl-outcome",
+      "_type": "imageTextBlock",
+      "body": {
+        "en": [
+          {
+            "_key": "icl-b-out-en",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-out-en",
+                "_type": "span",
+                "marks": [],
+                "text": "IceLab got a full online sales and search acquisition system, not just a showcase site. In 28 days it earned 3.67k impressions and 212 clicks from Google, position 2 for commercial queries and a 5.8% CTR. The result comes from the right structure: dedicated pages for categories, products, cities, the B2B funnel and specific buyer needs."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "ru": [
+          {
+            "_key": "icl-b-out-ru",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-out-ru",
+                "_type": "span",
+                "marks": [],
+                "text": "IceLab получил не просто презентационный сайт, а полноценную систему онлайн-продаж и привлечения клиентов из поиска. За 28 дней сайт получил 3,67 тыс. показов и 212 переходов из Google, позицию 2 по коммерческим запросам и CTR 5,8%. Этот результат стал следствием правильной структуры: отдельных страниц под категории, товары, города, B2B-направление и конкретные потребности покупателей."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "uk": [
+          {
+            "_key": "icl-b-out-uk",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "icl-s-out-uk",
+                "_type": "span",
+                "marks": [],
+                "text": "IceLab отримав не просто презентаційний сайт, а повноцінну систему онлайн-продажів і залучення клієнтів із пошуку. За 28 днів сайт отримав 3,67 тис. показів і 212 переходів із Google, позицію 2 за комерційними запитами та CTR 5,8%. Цей результат став наслідком правильної структури: окремих сторінок під категорії, товари, міста, B2B-напрям і конкретні потреби покупців."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ]
+      },
+      "bulletIcon": "check",
+      "bulletList": [
+        {
+          "_key": "icl-li-out-1",
+          "en": "Presents the company as a manufacturer, not a reseller",
+          "ru": "Презентует компанию как производителя, а не посредника",
+          "uk": "Презентує компанію як виробника, а не посередника"
+        },
+        {
+          "_key": "icl-li-out-2",
+          "en": "Lets customers place retail orders online",
+          "ru": "Позволяет оформить розничный заказ онлайн",
+          "uk": "Дозволяє оформити роздрібне замовлення онлайн"
+        },
+        {
+          "_key": "icl-li-out-3",
+          "en": "Collects separate enquiries from wholesale clients",
+          "ru": "Собирает отдельные обращения от оптовых клиентов",
+          "uk": "Збирає окремі звернення від оптових клієнтів"
+        },
+        {
+          "_key": "icl-li-out-4",
+          "en": "Ranks for category and local search queries",
+          "ru": "Продвигается по категорийным и локальным запросам",
+          "uk": "Просувається за категорійними й локальними запитами"
+        },
+        {
+          "_key": "icl-li-out-5",
+          "en": "Answers questions before a manager is even contacted",
+          "ru": "Отвечает на вопросы ещё до обращения к менеджеру",
+          "uk": "Відповідає на запитання ще до звернення до менеджера"
+        },
+        {
+          "_key": "icl-li-out-6",
+          "en": "Works as a long-term client acquisition channel",
+          "ru": "Работает как долгосрочный канал привлечения клиентов",
+          "uk": "Працює як довгостроковий канал залучення клієнтів"
+        }
+      ],
+      "centeredLayout": "horizontal",
+      "eyebrow": {
+        "_type": "localizedString",
+        "en": "/ OUTCOME",
+        "ru": "/ OUTCOME",
+        "uk": "/ OUTCOME"
+      },
+      "heading": {
+        "_type": "localizedString",
+        "en": "The result *for the client*",
+        "ru": "Результат *для клиента*",
+        "uk": "Результат *для клієнта*"
+      },
+      "image": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "en": "IceLab Kyiv dry ice page on a phone",
+          "ru": "Локальная страница сухого льда в Киеве на телефоне",
+          "uk": "Локальна сторінка сухого льоду в Києві на телефоні"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-26b502067ad5cccf3402ffcf8f0c4d24558cfa79-734x922-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "image2": {
+        "_type": "imageWithLocalizedAlt",
+        "alt": {
+          "_type": "localizedString",
+          "en": "IceLab dry ice production page on a laptop",
+          "ru": "Страница производства сухого льда IceLab на ноутбуке",
+          "uk": "Сторінка виробництва сухого льоду IceLab на ноутбуці"
+        },
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-8d647610defb955b9051514ff84686c22b8ea34d-1288x1162-png",
+            "_type": "reference"
+          }
+        }
+      },
+      "variant": "centered"
+    },
+    {
+      "_key": "icl-testimonial",
+      "_type": "testimonialBlock",
+      "authorName": "IceLab",
+      "authorRole": {
+        "_type": "localizedString",
+        "en": "dry ice manufacturer, Kyiv and Lviv",
+        "ru": "производитель сухого льда, Киев и Львов",
+        "uk": "виробник сухого льоду, Київ і Львів"
+      },
+      "quote": {
+        "_type": "localizedText",
+        "en": "In the first month after launch — 30+ enquiries from Google and a large B2B contract.\nThe client found us in search on their own, we signed the deal and have already made the first shipment.\nIt was the site's SEO structure that delivered, not ads.",
+        "ru": "За первый месяц после запуска — более 30 заявок из Google и крупный B2B-контракт.\nКлиент нашёл нас сам в поиске, мы подписали договор и уже сделали первую отгрузку.\nСработала именно SEO-структура сайта, а не реклама.",
+        "uk": "За перший місяць після запуску — понад 30 заявок із Google і великий B2B-контракт.\nКлієнт знайшов нас сам у пошуку, ми підписали договір і вже зробили перше відвантаження.\nСпрацювала саме SEO-структура сайту, а не реклама."
+      },
+      "rating": 5,
+      "reviewDate": "2026-08-22"
+    }
+  ],
+  "seo": {
+    "description": {
+      "en": "IceLab — a Code-Site.Art case study: a dry ice store at position 2 for commercial queries, 212 Google clicks and 5.8% CTR in 28 days. Full breakdown inside.",
+      "ru": "IceLab — интернет-магазин сухого льда: каталог с заказом, B2B-раздел, 10 локальных SEO-страниц и позиция 2 в Google по коммерческим запросам.",
+      "uk": "IceLab — інтернет-магазин сухого льоду: каталог із замовленням, B2B-розділ, 10 локальних SEO-сторінок і позиція 2 в Google за комерційними запитами."
+    },
+    "title": {
+      "en": "ᐈ IceLab — Dry Ice Online Store Case Study | Code-Site.Art",
+      "ru": "IceLab — кейс разработки сайта | Code-Site.Art",
+      "uk": "IceLab — кейс розробки сайту | Code-Site.Art"
+    }
+  },
+  "slug": {
+    "_type": "slug",
+    "current": "icelab"
+  },
+  "stack": [
+    "Next.js",
+    "Vercel"
+  ],
+  "status": "published",
+  "title": {
+    "en": "IceLab",
+    "ru": "IceLab",
+    "uk": "IceLab"
+  },
+  "year": 2026
+}
