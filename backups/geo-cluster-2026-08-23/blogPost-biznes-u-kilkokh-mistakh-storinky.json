@@ -1,0 +1,1061 @@
+{
+  "_createdAt": "2026-08-23T15:54:23Z",
+  "_id": "503852a9-3821-46cb-9711-d728e8c63a2d",
+  "_rev": "BWwrg34TMlo0XK6a4KidJS",
+  "_type": "blogPost",
+  "_updatedAt": "2026-08-23T15:55:50Z",
+  "author": {
+    "bio": "SEO-спеціалістка Code-Site.Art. Веде пошукові кампанії клієнтів студії — від локального SEO клінік до e-commerce.",
+    "name": "Кристина Бондаренко",
+    "photoUrl": "/team/kristina.jpg",
+    "role": "SEO Specialist"
+  },
+  "body": {
+    "uk": [
+      {
+        "_key": "g3lm2ce",
+        "_type": "tldrBox",
+        "items": [
+          "Окрема сторінка під місто виправдана, коли є **фізична різниця**: адреса, команда, ціни, терміни",
+          "Правило перевірки: **400 слів**, які не можна скопіювати на сусідню сторінку, замінивши назву міста",
+          "Немає різниці — робіть одну сильну сторінку і показуйте географію через кейси",
+          "IceLab: 10 локальних сторінок дали позицію 2 і CTR 5,8% — але там була реальна різниця між містами"
+        ],
+        "title": "Коротко"
+      },
+      {
+        "_key": "g3nmekc",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g3mm8gd",
+            "_type": "span",
+            "marks": [],
+            "text": "Запит «ремонт квартир Київ» і запит «ремонт квартир Дніпро» — це два різні запити з двома різними видачами. Здавалося б, звідси прямо випливає: треба дві сторінки. Але це вірно лише наполовину."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g3pmqsa",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g3omkob",
+            "_type": "span",
+            "marks": [],
+            "text": "Google давно навчився відрізняти сторінку, зроблену для людини в конкретному місті, від сторінки, зробленої для робота. Різниця — не в кількості згадок назви міста, а в тому, чи є на сторінці інформація, яка існує тільки для цього міста."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g3rn308",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g3qmww9",
+            "_type": "span",
+            "marks": [],
+            "text": "Коли окремі сторінки виправдані"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "g3tnf86",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g3sn947",
+            "_type": "span",
+            "marks": [],
+            "text": "Перевірка проста: випишіть, що відрізняється між містами. Якщо в списку є хоча б три пункти з наведених нижче — окремі сторінки потрібні."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g3vnrg4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g3unlc5",
+            "_type": "span",
+            "marks": [],
+            "text": "Різні фізичні адреси, куди може приїхати клієнт"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g3xo3o2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g3wnxk3",
+            "_type": "span",
+            "marks": [],
+            "text": "Різні команди або майстри, яких можна назвати поіменно"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g3zofw0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g3yo9s1",
+            "_type": "span",
+            "marks": [],
+            "text": "Різні ціни або умови — доставка, виїзд, терміни"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g41os3y",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g40olzz",
+            "_type": "span",
+            "marks": [],
+            "text": "Різні виконані об'єкти, які можна показати"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g43p4bw",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g42oy7x",
+            "_type": "span",
+            "marks": [],
+            "text": "Різні локальні особливості — законодавство, сезонність, типова забудова"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g48pyvr",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g44pafv",
+            "_type": "span",
+            "marks": [],
+            "text": "Наш кейс "
+          },
+          {
+            "_key": "g46pmnt",
+            "_type": "span",
+            "marks": [
+              "g45pgju"
+            ],
+            "text": "IceLab"
+          },
+          {
+            "_key": "g47psrs",
+            "_type": "span",
+            "marks": [],
+            "text": " — виробник сухого льоду з потужностями у Києві та Львові. Там різниця реальна: власні склади в обох містах, різна логістика, різні умови для оптових клієнтів. Тому десять локальних сторінок — обґрунтоване рішення, а не спроба обдурити пошук. Результат: позиція 2 за комерційними запитами, 212 переходів з Google і CTR 5,8% за 28 днів."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "g45pgju",
+            "_type": "link",
+            "href": "/portfolio/icelab"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "g4aqb3p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g49q4zq",
+            "_type": "span",
+            "marks": [],
+            "text": "Коли окремі сторінки шкодять"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "g4cqnbn",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g4bqh7o",
+            "_type": "span",
+            "marks": [],
+            "text": "Зворотна ситуація трапляється частіше. Бізнес працює віддалено або з однієї точки, але хоче «охопити всі обласні центри». З'являється двадцять сторінок, де відрізняється тільки назва міста в заголовку і в тексті."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g4hrhvi",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g4dqtfm",
+            "_type": "span",
+            "marks": [],
+            "text": "Такі сторінки не просто не працюють. Вони тягнуть сайт униз: розмивають релевантність основної сторінки послуги, витрачають краулінговий бюджет і потрапляють під визначення дорвеїв у документації Google. Де саме проходить ця межа — розбираємо в матеріалі про "
+          },
+          {
+            "_key": "g4fr5nk",
+            "_type": "span",
+            "marks": [
+              "g4eqzjl"
+            ],
+            "text": "локальні сторінки і дорвеї"
+          },
+          {
+            "_key": "g4grbrj",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "g4eqzjl",
+            "_type": "link",
+            "href": "/blog/lokalni-storinky-chy-dorveii"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "g4jru3g",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g4irnzh",
+            "_type": "span",
+            "marks": [],
+            "text": "Правило 400 слів"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "g4nsijc",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g4ks07f",
+            "_type": "span",
+            "marks": [],
+            "text": "Робоча перевірка перед тим, як створювати сторінку: чи зможете ви написати про це місто 400 слів, які "
+          },
+          {
+            "_key": "g4ls6be",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "фізично неможливо"
+          },
+          {
+            "_key": "g4mscfd",
+            "_type": "span",
+            "marks": [],
+            "text": " перенести на сторінку іншого міста простою заміною назви?"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g4psura",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g4osonb",
+            "_type": "span",
+            "marks": [],
+            "text": "Якщо так — сторінка має право на існування. Якщо ні — не створюйте її. Порожня сторінка гірша за її відсутність: вона забирає вагу і нічого не повертає."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g4rt6z8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g4qt0v9",
+            "_type": "span",
+            "marks": [],
+            "text": "Як виглядає сторінка, що пройшла перевірку"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "g4ttj76",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g4std37",
+            "_type": "span",
+            "marks": [],
+            "text": "Візьмімо будівельну компанію, яка справді працює у двох містах. Сторінка під кожне з них тримається на чотирьох речах, і жодна з них не є текстом заради тексту."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g4wu1j3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g4utpb5",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Конкретика виїзду."
+          },
+          {
+            "_key": "g4vtvf4",
+            "_type": "span",
+            "marks": [],
+            "text": " Не «працюємо по місту», а скільки їхати в лівобережні райони і скільки в правобережні, і як це впливає на дату старту робіт."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g4zujv0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g4xu7n2",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Типова забудова району."
+          },
+          {
+            "_key": "g4yudr1",
+            "_type": "span",
+            "marks": [],
+            "text": " У кожному місті свій житловий фонд: десь панель 80-х, десь новобудови без опорядження, десь стара цегла з перекриттями, які не можна чіпати. Це те, що клієнт відчуває як «вони розуміють, з чим працюють»."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g52v26x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g50upyz",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Виконані об'єкти саме тут."
+          },
+          {
+            "_key": "g51uw2y",
+            "_type": "span",
+            "marks": [],
+            "text": " Три-чотири адреси з фотографіями важать більше за сторінку тексту."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g55vkiu",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g53v8aw",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Люди."
+          },
+          {
+            "_key": "g54veev",
+            "_type": "span",
+            "marks": [],
+            "text": " Ім'я майстра або керівника напрямку в цьому місті. Це найдешевший спосіб перетворити анонімну сторінку на сторінку живої компанії."
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g57vwqs",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g56vqmt",
+            "_type": "span",
+            "marks": [],
+            "text": "Складіть ці чотири блоки — і 400 слів унікального тексту набираються самі, без спроб «розтягнути» контент."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g59w8yq",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g58w2ur",
+            "_type": "span",
+            "marks": [],
+            "text": "Найчастіші помилки наповнення"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "g5cwran",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g5awf2p",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Довідка про місто."
+          },
+          {
+            "_key": "g5bwl6o",
+            "_type": "span",
+            "marks": [],
+            "text": " Абзац про населення і історію не допомагає ранжуватись і не переконує людину: вона прийшла шукати виконавця, а не читати енциклопедію."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g5fx9mk",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g5dwxem",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Список районів через кому."
+          },
+          {
+            "_key": "g5ex3il",
+            "_type": "span",
+            "marks": [],
+            "text": " Перелік із тридцяти мікрорайонів у підвалі сторінки — класична ознака сторінки, зробленої для робота. Google це давно розпізнає, а людина просто прокручує повз."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g5ixryh",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g5gxfqj",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Однакові відгуки на всіх сторінках."
+          },
+          {
+            "_key": "g5hxlui",
+            "_type": "span",
+            "marks": [],
+            "text": " Якщо відгук той самий, а місто різне — сторінка сама себе видає."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g5lyaae",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g5jxy2g",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Підміна адреси."
+          },
+          {
+            "_key": "g5ky46f",
+            "_type": "span",
+            "marks": [],
+            "text": " Вказувати офіс там, де його немає, — не сіра оптимізація, а пряма проблема: у картах це призводить до блокування профілю, а на дзвінку — до втрати клієнта."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g5nymic",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g5myged",
+            "_type": "span",
+            "marks": [],
+            "text": "Що робити, якщо різниці немає"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "g5pyyqa",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g5oysmb",
+            "_type": "span",
+            "marks": [],
+            "text": "Це нормальна ситуація, і в неї є хороше рішення. Одна сильна сторінка послуги плюс географія, показана через докази."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g5uzta5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g5qz4u9",
+            "_type": "span",
+            "marks": [],
+            "text": "Кейси з прив'язкою до міста в портфоліо — так робить "
+          },
+          {
+            "_key": "g5szh27",
+            "_type": "span",
+            "marks": [
+              "g5rzay8"
+            ],
+            "text": "Mono Pools"
+          },
+          {
+            "_key": "g5tzn66",
+            "_type": "span",
+            "marks": [],
+            "text": " у Дніпрі з позиціями Top-1 / Top-2 приблизно за два місяці"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [
+          {
+            "_key": "g5rzay8",
+            "_type": "link",
+            "href": "/portfolio/mono-pools"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "g5w105i3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g5vzze4",
+            "_type": "span",
+            "marks": [],
+            "text": "Відгуки з зазначенням міста клієнта"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g5y10hq1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g5x10bm2",
+            "_type": "span",
+            "marks": [],
+            "text": "Блок «де ми працюємо» з чесним переліком і умовами виїзду"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g6010txz",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g5z10nu0",
+            "_type": "span",
+            "marks": [],
+            "text": "Заповнений профіль у Google Business Profile — він закриває локальний інтент краще за слабку сторінку"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g621165x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g611101y",
+            "_type": "span",
+            "marks": [],
+            "text": "Ця схема виглядає скромніше, ніж двадцять сторінок, але вона не створює ризику і не вимагає підтримки контенту, якого у вас немає."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g6411idv",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g6311c9w",
+            "_type": "span",
+            "marks": [],
+            "text": "Як не зламати те, що вже працює"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "g6611ult",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g6511ohu",
+            "_type": "span",
+            "marks": [],
+            "text": "Окрема пастка виникає, коли локальні сторінки додають до сайту, який уже ранжується. Нова сторінка «послуга в Києві» починає конкурувати з основною сторінкою послуги за той самий запит — і Google обирає між ними сам, часто не на вашу користь."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g68126tr",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g67120ps",
+            "_type": "span",
+            "marks": [],
+            "text": "Щоб цього не сталось, розведіть їх за призначенням. Основна сторінка відповідає на питання «що це за послуга і скільки коштує» — вона цілиться в загальний запит без міста. Локальна відповідає на питання «чи працюєте ви в моєму місті і на яких умовах» — і цілиться в запит із назвою міста."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g6a12j1p",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g6912cxq",
+            "_type": "span",
+            "marks": [],
+            "text": "Технічно це підкріплюється трьома речами: різні заголовки без дублювання формулювань, різні meta description, і перелінковка згори вниз — з основної сторінки на локальні, а не навпаки хаотично. Якщо через два місяці в Search Console обидві сторінки показуються за одним запитом і жодна не тримає позицію — вони конкурують, і одну треба переорієнтувати."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g6c12v9n",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g6b12p5o",
+            "_type": "span",
+            "marks": [],
+            "text": "Як перевірити результат"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "g6e137hl",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g6d131dm",
+            "_type": "span",
+            "marks": [],
+            "text": "Через 8–10 тижнів після запуску відкрийте Search Console і подивіться на кожну локальну сторінку окремо. Далі три можливі картини."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g6h13pti",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g6f13dlk",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Покази ростуть, кліки є."
+          },
+          {
+            "_key": "g6g13jpj",
+            "_type": "span",
+            "marks": [],
+            "text": " Сторінка працює, її можна поглиблювати — додавати кейси і відгуки з цього міста."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g6k1485f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g6i13vxh",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Покази є, кліків немає."
+          },
+          {
+            "_key": "g6j1421g",
+            "_type": "span",
+            "marks": [],
+            "text": " Сторінка ранжується, але сніпет не переконує. Проблема в title і description, а не в тексті сторінки."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g6n14qhc",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g6l14e9e",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Показів немає взагалі."
+          },
+          {
+            "_key": "g6m14kdd",
+            "_type": "span",
+            "marks": [],
+            "text": " Сторінка не ранжується ні за чим. Найчастіша причина — вона недостатньо відрізняється від сусідніх. Тут чесніше об'єднати її з основною сторінкою послуги і поставити 301, ніж чекати ще квартал."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g6s15l17",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g6o14wlb",
+            "_type": "span",
+            "marks": [],
+            "text": "Як читати ці звіти детальніше — у матеріалі "
+          },
+          {
+            "_key": "g6q158t9",
+            "_type": "span",
+            "marks": [
+              "g6p152pa"
+            ],
+            "text": "про Google Search Console для власника бізнесу"
+          },
+          {
+            "_key": "g6r15ex8",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "g6p152pa",
+            "_type": "link",
+            "href": "/blog/yak-chytaty-google-search-console"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "g6u15x95",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g6t15r56",
+            "_type": "span",
+            "marks": [],
+            "text": "Порядок дій"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "g6w169h3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g6v163d4",
+            "_type": "span",
+            "marks": [],
+            "text": "Випишіть, що реально відрізняється між містами. Чесно, без натяжок."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g6y16lp1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g6x16fl2",
+            "_type": "span",
+            "marks": [],
+            "text": "Для міст із реальною різницею — окремі сторінки з унікальними 400+ словами."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g7016xwz",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g6z16rt0",
+            "_type": "span",
+            "marks": [],
+            "text": "Для решти — одна сторінка послуги плюс кейси і відгуки з географією."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g7217a4x",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g711740y",
+            "_type": "span",
+            "marks": [],
+            "text": "Профіль у картах — для кожної фізичної адреси, і тільки для фізичної."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g7417mcv",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "g7317g8w",
+            "_type": "span",
+            "marks": [],
+            "text": "Через 8–10 тижнів звіряйтесь із Search Console: які сторінки набирають покази, а які лишились нулями."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "g7517sgu",
+        "_type": "ctaCallout",
+        "buttonHref": "/contacts",
+        "buttonLabel": "Отримати розбір",
+        "text": "Подивимось вашу нішу і географію та скажемо, де окремі сторінки спрацюють, а де лише зашкодять.",
+        "title": "Порахуємо, скільки сторінок під міста потрібно вашому сайту"
+      }
+    ]
+  },
+  "category": {
+    "_ref": "65de7a1a-bfde-4e47-ab70-7e0ecf161f0a",
+    "_type": "reference"
+  },
+  "eyebrow": {
+    "_type": "localizedString",
+    "uk": "СТРУКТУРА САЙТУ"
+  },
+  "faq": [
+    {
+      "_key": "g7617ykt",
+      "_type": "faqItem",
+      "answer": {
+        "_type": "localizedText",
+        "uk": "Стільки, скільки ви можете наповнити унікальним контентом і підтримувати актуальним. Десять якісних сторінок працюють краще за п'ятдесят порожніх. IceLab зупинився на десяти — і цього вистачило для позиції 2."
+      },
+      "question": {
+        "_type": "localizedString",
+        "uk": "Скільки міст можна закрити локальними сторінками?"
+      }
+    },
+    {
+      "_key": "g77184os",
+      "_type": "faqItem",
+      "answer": {
+        "_type": "localizedText",
+        "uk": "Згадувати як зону обслуговування — можна і потрібно. Створювати під це окрему посадкову сторінку і видавати себе за місцеву компанію з адресою — ні. Друге порушує правила Google і руйнує довіру клієнта на першому ж дзвінку."
+      },
+      "question": {
+        "_type": "localizedString",
+        "uk": "Чи можна згадувати місто, якщо в нас там немає офісу?"
+      }
+    },
+    {
+      "_key": "g7818asr",
+      "_type": "faqItem",
+      "answer": {
+        "_type": "localizedText",
+        "uk": "Терміни виїзду саме в це місто, виконані там об'єкти, імена майстрів, місцеві особливості — типова забудова, сезонність, вимоги ОСББ. Тобто те, що знає лише той, хто справді там працює."
+      },
+      "question": {
+        "_type": "localizedString",
+        "uk": "Що писати на локальній сторінці, крім адреси?"
+      }
+    },
+    {
+      "_key": "g7918gwq",
+      "_type": "faqItem",
+      "answer": {
+        "_type": "localizedText",
+        "uk": "У Search Console вона місяцями має нуль показів або показів багато, а кліків немає. Перше означає, що сторінка не ранжується взагалі, друге — що сніпет не відповідає запиту. В обох випадках краще об'єднати її з основною сторінкою послуги."
+      },
+      "question": {
+        "_type": "localizedString",
+        "uk": "Як зрозуміти, що локальна сторінка не працює?"
+      }
+    }
+  ],
+  "lede": {
+    "_type": "localizedString",
+    "uk": "Це найдорожче рішення в гео-SEO: помилитесь у будь-який бік — втратите або видачу, або довіру Google. Розбираємо на прикладі проєкту з десятьма локальними сторінками, який вийшов на позицію 2."
+  },
+  "metaDescription": {
+    "_type": "localizedString",
+    "uk": "➤ Коли окрема сторінка під місто виправдана, а коли шкодить ✔️ Правило 400 слів ✔️ Приклад із 10 локальними сторінками і позицією 2 ➡ Розбір на цифрах."
+  },
+  "metaTitle": {
+    "_type": "localizedString",
+    "uk": "Сторінки під міста: окремі чи одна — як вирішити"
+  },
+  "publishedAt": "2026-08-23T09:00:00.000Z",
+  "readingTimeMinutes": 8,
+  "relatedPostSlugs": [
+    "geo-seo-dlia-ukrainskoho-biznesu",
+    "lokalni-storinky-chy-dorveii"
+  ],
+  "slugs": {
+    "uk": {
+      "_type": "slug",
+      "current": "biznes-u-kilkokh-mistakh-storinky"
+    }
+  },
+  "status": "published",
+  "tags": [
+    "локальне SEO",
+    "структура сайту",
+    "посадкові сторінки"
+  ],
+  "title": {
+    "_type": "localizedString",
+    "uk": "Бізнес у кількох містах: одна сторінка чи окрема під кожне"
+  },
+  "updatedAt": "2026-08-23T09:00:00.000Z"
+}
