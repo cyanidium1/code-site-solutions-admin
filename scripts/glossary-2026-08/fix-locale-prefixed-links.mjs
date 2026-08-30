@@ -50,12 +50,18 @@ for (const post of posts) {
     const walk = (node) => {
       if (Array.isArray(node)) return node.forEach(walk);
       if (!node || typeof node !== "object") return;
-      if (typeof node.href === "string" && REHREF[node.href]) {
-        node.href = REHREF[node.href];
-        touched = true;
-        links++;
+      // Ссылки лежат не только в markDefs.href — у CTA-блоков это ctaHref,
+      // ctaPrimaryHref, ctaSecondaryHref, buttonHref. Ловим любое поле,
+      // в имени которого есть href.
+      for (const [key, value] of Object.entries(node)) {
+        if (typeof value === "string" && /href/i.test(key) && REHREF[value]) {
+          node[key] = REHREF[value];
+          touched = true;
+          links++;
+        } else {
+          walk(value);
+        }
       }
-      Object.values(node).forEach(walk);
     };
     walk(next);
     if (touched) patch[field] = next;
