@@ -57,6 +57,19 @@ const client = createClient({
 });
 
 const raw = await readFile(file);
+
+// Проверка пропорций — не педантизм. Скачивание из редактора картинок ChatGPT
+// один раз отдало совершенно другой файл (1230x1278 вместо 1672x941), и он
+// молча уехал в CMS как обложка. Обложка обязана быть широкой.
+const meta = await sharp(raw).metadata();
+const ratio = meta.width / meta.height;
+if (ratio < 1.5 || ratio > 2.1) {
+  throw new Error(
+    `${meta.width}x${meta.height} (соотношение ${ratio.toFixed(2)}) — не похоже на обложку 16:9. ` +
+      `Скорее всего скачался не тот файл. Проверьте и перекачайте.`,
+  );
+}
+
 const optimised = await sharp(raw)
   .resize({ width: 1600, withoutEnlargement: true })
   .webp({ quality: 82 })
