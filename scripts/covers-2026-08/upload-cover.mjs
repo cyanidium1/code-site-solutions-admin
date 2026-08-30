@@ -78,11 +78,16 @@ const optimised = await sharp(raw)
 const kb = (n) => `${Math.round(n / 1024)} КБ`;
 console.log(`${file}\n  ${kb(raw.length)} → ${kb(optimised.length)} webp`);
 
+// Ищем по uk-слагу, а если его нет — по en. Две статьи в блоге существуют
+// только на английском (web-design-for-accountants, websites-for-solicitors),
+// и по uk они не находятся вовсе.
 const post = await client.fetch(
-  '*[_type=="blogPost" && slugs.uk.current==$s][0]{_id, "hasCover": defined(cover.image.asset)}',
+  `*[_type=="blogPost" && (slugs.uk.current==$s || slugs.en.current==$s)][0]{
+     _id, "hasCover": defined(cover.image.asset)
+   }`,
   { s: postSlug },
 );
-if (!post) throw new Error(`нет поста с uk-слагом ${postSlug}`);
+if (!post) throw new Error(`нет поста со слагом ${postSlug} (ни uk, ни en)`);
 if (post.hasCover) console.log("  внимание: у поста уже есть обложка, будет заменена");
 
 if (DRY) {

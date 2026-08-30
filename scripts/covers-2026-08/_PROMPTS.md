@@ -1,6 +1,9 @@
 # Обложки блога — промпты для генерации
 
-59 постов, из них 57 с украинскими слагами и 2 только на ru/en.
+**Статус: сделано 30.08.2026 — обложки есть у всех 59 постов.**
+
+59 постов, из них 57 с украинскими слагами и 2 только на английском
+(`web-design-for-accountants`, `websites-for-solicitors`).
 На 30.08.2026 обложек нет ни у одного: две существовавшие (`vartist-rozrobky-saytu-2026`,
 `tilda-vs-kastomnyy-sayt-2026`) были старыми картинками с текстом, вшитым прямо в
 изображение, и подлежат замене.
@@ -63,7 +66,7 @@
 | Слаг | Focal motif |
 |---|---|
 | `vartist-rozrobky-saytu-2026` | measured segments of very different lengths aligned to a single baseline |
-| `shcho-vkhodyt-u-vartist-rozrobky-saitu` | ✅ загружено 30.08 — stacked layers rising as steps |
+| `shcho-vkhodyt-u-vartist-rozrobky-saitu` | stacked layers rising as steps |
 | `skilky-koshtuye-sait-dlia-kliniky-2026` | a medical cross dissolving into a column of price-tier bars |
 | `prosuvannia-saitu-tsina-2026` | a slow ascending curve climbing across months marked as faint vertical ticks |
 | `tilda-vs-kastomnyy-sayt-2026` | one rigid prefabricated block beside one freely assembled structure of the same volume |
@@ -147,3 +150,32 @@ SANITY_WRITE_TOKEN=… node scripts/covers-2026-08/upload-cover.mjs \
 
 Alt описывает, что на картинке, а не повторяет заголовок статьи — это разная
 работа: заголовок уже есть рядом в разметке, alt нужен тем, кто картинку не видит.
+
+## Что вышло
+
+Стиль разведён по кластерам — так решил владелец, посмотрев первые две пробы:
+
+- **словарь, SEO, цены, дизайн — строгая абстракция.** В промпт добавляется строка
+  «Keep it strictly abstract: pure geometry only, no recognisable real-world objects».
+- **города, ниши, медицина, магазины — предметные образы.** Вместо неё идёт
+  «One recognisable subject rendered as a delicate luminous wireframe, everything
+  around it abstract».
+
+Остальной блок арт-дирекции одинаковый во всех 59 промптах — это и держит серию.
+
+Технически: все обложки 1600×900 WebP, alt на трёх языках у всех 59.
+Исходники ChatGPT весят 1.2–2.1 МБ, после сжатия — 26–314 КБ.
+
+Скачивание через UI редактора картинок один раз отдало посторонний файл, поэтому
+рабочий способ другой: забирать блоб прямо со страницы с нужным именем файла.
+В консоли вкладки ChatGPT:
+
+```js
+const g = [...document.querySelectorAll('img')].filter(i => /^Generated image:/.test(i.alt || ''));
+const img = g[g.length - 1];
+const b = await (await fetch(img.currentSrc || img.src)).blob();
+const a = document.createElement('a');
+a.href = URL.createObjectURL(b);
+a.download = 'cover-<slug>.png';
+a.click();
+```
