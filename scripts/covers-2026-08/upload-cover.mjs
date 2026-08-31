@@ -18,6 +18,7 @@
  *     --post <uk-slug> \
  *     --alt-uk "…" --alt-ru "…" --alt-en "…" [--dry]
  */
+import "dotenv/config";
 import { createClient } from "@sanity/client";
 import { readFile } from "node:fs/promises";
 import { createRequire } from "node:module";
