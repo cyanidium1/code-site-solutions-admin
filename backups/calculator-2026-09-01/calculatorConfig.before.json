@@ -1,0 +1,740 @@
+{
+  "_createdAt": "2026-06-30T20:01:40Z",
+  "_id": "calculatorConfig",
+  "_rev": "W3ZXxmqSHEBDdxSind37oE",
+  "_type": "calculatorConfig",
+  "_updatedAt": "2026-08-29T21:18:08Z",
+  "cmsUpgrades": [
+    {
+      "_key": "sanitySetup",
+      "hint": {
+        "en": "Included in all packages.",
+        "ru": "Включено во все пакеты.",
+        "uk": "Включено у всі пакети."
+      },
+      "included": true,
+      "label": {
+        "en": "CMS setup",
+        "ru": "Настройка CMS",
+        "uk": "Налаштування CMS"
+      },
+      "optionKey": "sanitySetup",
+      "price": 0
+    },
+    {
+      "_key": "mobileAdmin",
+      "hint": {
+        "en": "Included in all packages.",
+        "ru": "Включено во все пакеты.",
+        "uk": "Включено у всі пакети."
+      },
+      "included": true,
+      "label": {
+        "en": "Mobile-friendly admin",
+        "ru": "Мобильная админка",
+        "uk": "Мобільна адмінка"
+      },
+      "optionKey": "mobileAdmin",
+      "price": 0
+    },
+    {
+      "_key": "advancedBuilder",
+      "hint": {
+        "en": "Manage reusable sections, landing pages, SEO pages, and content blocks without developer changes.",
+        "ru": "Управление секциями, лендингами, SEO-страницами без разработчика.",
+        "uk": "Керування секціями, лендингами, SEO-сторінками без розробника."
+      },
+      "included": false,
+      "label": {
+        "en": "Advanced page builder",
+        "ru": "Продвинутый page builder",
+        "uk": "Просунутий page builder"
+      },
+      "optionKey": "advancedBuilder",
+      "price": 1200
+    },
+    {
+      "_key": "blogSystem",
+      "hint": {
+        "en": "Admin-managed posts, categories, SEO fields, cover images.",
+        "ru": "Посты, категории, SEO-поля, обложки.",
+        "uk": "Пости, категорії, SEO-поля, обкладинки."
+      },
+      "included": false,
+      "label": {
+        "en": "Blog/news system",
+        "ru": "Блог/новости",
+        "uk": "Блог/новини"
+      },
+      "optionKey": "blogSystem",
+      "price": 400
+    },
+    {
+      "_key": "caseSystem",
+      "included": false,
+      "label": {
+        "en": "Case studies/portfolio system",
+        "ru": "Кейсы/портфолио",
+        "uk": "Кейси/портфоліо"
+      },
+      "optionKey": "caseSystem",
+      "price": 350
+    },
+    {
+      "_key": "teamServices",
+      "included": false,
+      "label": {
+        "en": "Team/services dynamic sections",
+        "ru": "Команда/услуги",
+        "uk": "Команда/послуги"
+      },
+      "optionKey": "teamServices",
+      "price": 300
+    }
+  ],
+  "contentOptions": [
+    {
+      "_key": "clientProvided",
+      "label": {
+        "en": "Client provides all text",
+        "ru": "Клиент предоставляет весь текст",
+        "uk": "Клієнт надає весь текст"
+      },
+      "optionKey": "clientProvided",
+      "price": 0
+    },
+    {
+      "_key": "lightPolishing",
+      "label": {
+        "en": "Light copy polishing",
+        "ru": "Лёгкая корректура",
+        "uk": "Легка коректура"
+      },
+      "optionKey": "lightPolishing",
+      "price": 300
+    },
+    {
+      "_key": "fullCopywriting",
+      "label": {
+        "en": "Full copywriting for core pages",
+        "ru": "Полный копирайтинг ядра",
+        "uk": "Повний копірайтинг ядра"
+      },
+      "optionKey": "fullCopywriting",
+      "price": 1500
+    },
+    {
+      "_key": "seoCopywriting",
+      "label": {
+        "en": "SEO copywriting package",
+        "ru": "SEO-копирайтинг",
+        "uk": "SEO-копірайтинг"
+      },
+      "optionKey": "seoCopywriting",
+      "price": 2000
+    }
+  ],
+  "defaultProjectType": "multiPage",
+  "design": [
+    {
+      "_key": "simple",
+      "hint": {
+        "en": "Minimal design focused on clarity and speed.",
+        "ru": "Минималистичный дизайн, фокус на скорости.",
+        "uk": "Мінімалістичний дизайн, фокус на швидкості."
+      },
+      "label": {
+        "en": "Simple / clean",
+        "ru": "Простое / чистое",
+        "uk": "Просте / чисте"
+      },
+      "optionKey": "simple",
+      "percent": 0
+    },
+    {
+      "_key": "custom",
+      "hint": {
+        "en": "Branded layout with stronger visual identity.",
+        "ru": "Брендированная вёрстка с более сильной визуальной идентичностью.",
+        "uk": "Брендована верстка з сильнішою візуальною ідентичністю."
+      },
+      "label": {
+        "en": "Custom branded",
+        "ru": "Брендовый",
+        "uk": "Брендовий"
+      },
+      "optionKey": "custom",
+      "percent": 0.2
+    },
+    {
+      "_key": "advanced",
+      "hint": {
+        "en": "Complex layouts, animations, and premium UI interactions.",
+        "ru": "Сложные раскладки, анимации, премиум UI.",
+        "uk": "Складні розкладки, анімації, преміум UI."
+      },
+      "label": {
+        "en": "Advanced / premium",
+        "ru": "Премиум",
+        "uk": "Преміум"
+      },
+      "optionKey": "advanced",
+      "percent": 0.4
+    }
+  ],
+  "features": [
+    {
+      "_key": "contactForm",
+      "featureGroup": "leadCapture",
+      "included": true,
+      "label": {
+        "en": "Contact form",
+        "ru": "Контактная форма",
+        "uk": "Контактна форма"
+      },
+      "optionKey": "contactForm",
+      "price": 0
+    },
+    {
+      "_key": "leadForm",
+      "featureGroup": "leadCapture",
+      "hint": {
+        "en": "Collect qualified leads with the right questions.",
+        "ru": "Сбор квалифицированных лидов.",
+        "uk": "Збір кваліфікованих лідів."
+      },
+      "included": false,
+      "label": {
+        "en": "Lead form with custom fields",
+        "ru": "Лид-форма с кастомными полями",
+        "uk": "Лід-форма з кастомними полями"
+      },
+      "optionKey": "leadForm",
+      "price": 250
+    },
+    {
+      "_key": "email",
+      "featureGroup": "leadCapture",
+      "hint": {
+        "en": "Get new enquiries sent directly to your inbox.",
+        "ru": "Новые заявки сразу в инбокс.",
+        "uk": "Нові заявки одразу в інбокс."
+      },
+      "included": false,
+      "label": {
+        "en": "Email notifications",
+        "ru": "Email-уведомления",
+        "uk": "Email-сповіщення"
+      },
+      "optionKey": "email",
+      "price": 150
+    },
+    {
+      "_key": "telegram",
+      "featureGroup": "leadCapture",
+      "hint": {
+        "en": "Receive new leads instantly in WhatsApp.",
+        "ru": "Заявки мгновенно в Telegram.",
+        "uk": "Заявки миттєво в Telegram."
+      },
+      "included": false,
+      "label": {
+        "en": "WhatsApp notifications",
+        "ru": "Telegram-уведомления",
+        "uk": "Telegram-сповіщення"
+      },
+      "optionKey": "telegram",
+      "price": 150
+    },
+    {
+      "_key": "crm",
+      "featureGroup": "leadCapture",
+      "hint": {
+        "en": "Push leads automatically into your sales pipeline.",
+        "ru": "Лиды автоматически в вашу воронку.",
+        "uk": "Ліди автоматично у вашу воронку."
+      },
+      "included": false,
+      "label": {
+        "en": "CRM integration",
+        "ru": "CRM-интеграция",
+        "uk": "CRM-інтеграція"
+      },
+      "optionKey": "crm",
+      "price": 500
+    },
+    {
+      "_key": "analytics",
+      "featureGroup": "conversion",
+      "hint": {
+        "en": "Track key actions and improve conversion over time.",
+        "ru": "Отслеживание ключевых действий.",
+        "uk": "Відстеження ключових дій."
+      },
+      "included": false,
+      "label": {
+        "en": "Analytics/events setup",
+        "ru": "Аналитика/события",
+        "uk": "Аналітика/події"
+      },
+      "optionKey": "analytics",
+      "price": 500
+    },
+    {
+      "_key": "adsTracking",
+      "featureGroup": "conversion",
+      "hint": {
+        "en": "Measure campaign ROI with conversion events.",
+        "ru": "ROI кампаний с конверсиями.",
+        "uk": "ROI кампаній з конверсіями."
+      },
+      "included": false,
+      "label": {
+        "en": "Meta Pixel / Google Ads conversion tracking",
+        "ru": "Meta Pixel / Google Ads",
+        "uk": "Meta Pixel / Google Ads"
+      },
+      "optionKey": "adsTracking",
+      "price": 500
+    },
+    {
+      "_key": "reviews",
+      "featureGroup": "conversion",
+      "hint": {
+        "en": "Show social proof where users make decisions.",
+        "ru": "Социальное доказательство.",
+        "uk": "Соціальний доказ."
+      },
+      "included": false,
+      "label": {
+        "en": "Reviews/testimonials module",
+        "ru": "Отзывы/testimonials",
+        "uk": "Відгуки/testimonials"
+      },
+      "optionKey": "reviews",
+      "price": 250
+    },
+    {
+      "_key": "faqSchema",
+      "featureGroup": "conversion",
+      "hint": {
+        "en": "Answer objections and improve search visibility.",
+        "ru": "Возражения + видимость в поиске.",
+        "uk": "Заперечення + видимість у пошуку."
+      },
+      "included": false,
+      "label": {
+        "en": "FAQ module with schema markup",
+        "ru": "FAQ со схемами",
+        "uk": "FAQ зі схемами"
+      },
+      "optionKey": "faqSchema",
+      "price": 250
+    },
+    {
+      "_key": "payments",
+      "featureGroup": "advancedUx",
+      "hint": {
+        "en": "Accept payments online without manual follow-ups.",
+        "ru": "Онлайн-оплаты без ручного фоллоу-апа.",
+        "uk": "Онлайн-оплати без ручного fall-up."
+      },
+      "included": false,
+      "label": {
+        "en": "Payment integration",
+        "ru": "Платежи",
+        "uk": "Платежі"
+      },
+      "optionKey": "payments",
+      "price": 900
+    },
+    {
+      "_key": "booking",
+      "featureGroup": "advancedUx",
+      "hint": {
+        "en": "Let customers pick time slots and book faster.",
+        "ru": "Клиенты бронируют слоты сами.",
+        "uk": "Клієнти бронюють слоти самі."
+      },
+      "included": false,
+      "label": {
+        "en": "Booking/calendar integration",
+        "ru": "Календарь/booking",
+        "uk": "Календар/booking"
+      },
+      "optionKey": "booking",
+      "price": 600
+    },
+    {
+      "_key": "accounts",
+      "featureGroup": "advancedUx",
+      "hint": {
+        "en": "Give users a personal area for repeat actions.",
+        "ru": "Личный кабинет.",
+        "uk": "Особистий кабінет."
+      },
+      "included": false,
+      "label": {
+        "en": "User accounts/auth",
+        "ru": "Аккаунты/аутентификация",
+        "uk": "Акаунти/автентифікація"
+      },
+      "optionKey": "accounts",
+      "price": 1200
+    },
+    {
+      "_key": "uploads",
+      "featureGroup": "advancedUx",
+      "hint": {
+        "en": "Allow clients to send briefs, docs, or media files.",
+        "ru": "Брифы, документы, медиа.",
+        "uk": "Брифи, документи, медіа."
+      },
+      "included": false,
+      "label": {
+        "en": "File upload forms",
+        "ru": "Загрузка файлов",
+        "uk": "Завантаження файлів"
+      },
+      "optionKey": "uploads",
+      "price": 500
+    },
+    {
+      "_key": "search",
+      "featureGroup": "advancedUx",
+      "hint": {
+        "en": "Help visitors find products or services faster.",
+        "ru": "Более быстрый поиск товаров/услуг.",
+        "uk": "Швидший пошук товарів/послуг."
+      },
+      "included": false,
+      "label": {
+        "en": "Advanced filters/search",
+        "ru": "Фильтры/поиск",
+        "uk": "Фільтри/пошук"
+      },
+      "optionKey": "search",
+      "price": 1000
+    },
+    {
+      "_key": "mapBasic",
+      "featureGroup": "advancedUx",
+      "hint": {
+        "en": "Simple location display for office or store.",
+        "ru": "Простое отображение локации.",
+        "uk": "Просте відображення локації."
+      },
+      "included": false,
+      "label": {
+        "en": "Basic map",
+        "ru": "Базовая карта",
+        "uk": "Базова карта"
+      },
+      "optionKey": "mapBasic",
+      "price": 150
+    },
+    {
+      "_key": "mapInteractive",
+      "featureGroup": "advancedUx",
+      "hint": {
+        "en": "Custom markers, filters, and advanced UX.",
+        "ru": "Маркеры, фильтры, более сложный UX.",
+        "uk": "Маркери, фільтри, складніший UX."
+      },
+      "included": false,
+      "label": {
+        "en": "Interactive map",
+        "ru": "Интерактивная карта",
+        "uk": "Інтерактивна карта"
+      },
+      "optionKey": "mapInteractive",
+      "price": 600
+    },
+    {
+      "_key": "cookie",
+      "featureGroup": "advancedUx",
+      "hint": {
+        "en": "Cover basic consent requirements from launch day.",
+        "ru": "Базовые требования к согласию.",
+        "uk": "Базові вимоги до згоди."
+      },
+      "included": false,
+      "label": {
+        "en": "Cookie banner/basic consent",
+        "ru": "Cookie-баннер",
+        "uk": "Cookie-банер"
+      },
+      "optionKey": "cookie",
+      "price": 250
+    }
+  ],
+  "languages": [
+    {
+      "_key": "one",
+      "label": {
+        "en": "One language",
+        "ru": "Один язык",
+        "uk": "Одна мова"
+      },
+      "optionKey": "one",
+      "percent": 0
+    },
+    {
+      "_key": "two",
+      "label": {
+        "en": "Two languages",
+        "ru": "Два языка",
+        "uk": "Дві мови"
+      },
+      "optionKey": "two",
+      "percent": 0.15
+    },
+    {
+      "_key": "three",
+      "label": {
+        "en": "Three languages",
+        "ru": "Три языка",
+        "uk": "Три мови"
+      },
+      "optionKey": "three",
+      "percent": 0.25
+    },
+    {
+      "_key": "fourPlus",
+      "label": {
+        "en": "Four+ languages",
+        "ru": "Четыре+",
+        "uk": "Чотири+"
+      },
+      "optionKey": "fourPlus",
+      "percent": 0.35
+    }
+  ],
+  "productComplexity": [
+    {
+      "_key": "simple",
+      "hint": {
+        "en": "Basic catalogue and standard product pages to start sales quickly.",
+        "ru": "Базовый каталог и стандартные страницы товаров.",
+        "uk": "Базовий каталог і стандартні сторінки товарів."
+      },
+      "label": {
+        "en": "Small store (up to ~50 products)",
+        "ru": "Малый магазин (до ~50 товаров)",
+        "uk": "Малий магазин (до ~50 товарів)"
+      },
+      "optionKey": "simple",
+      "price": 0
+    },
+    {
+      "_key": "medium",
+      "hint": {
+        "en": "Filters, categories, and stronger structure for scaling campaigns.",
+        "ru": "Фильтры, категории, более прочная структура.",
+        "uk": "Фільтри, категорії, міцніша структура."
+      },
+      "label": {
+        "en": "Growing store (50-500 products)",
+        "ru": "Растущий магазин (50-500 товаров)",
+        "uk": "Зростаючий магазин (50-500 товарів)"
+      },
+      "optionKey": "medium",
+      "price": 700
+    },
+    {
+      "_key": "advanced",
+      "hint": {
+        "en": "Complex catalogue logic, custom flows, and advanced UX for conversion growth.",
+        "ru": "Сложная логика каталога и продвинутый UX.",
+        "uk": "Складна логіка каталогу та просунутий UX."
+      },
+      "label": {
+        "en": "Advanced store",
+        "ru": "Продвинутый магазин",
+        "uk": "Просунутий магазин"
+      },
+      "optionKey": "advanced",
+      "price": 1400
+    }
+  ],
+  "projectTypes": [
+    {
+      "_key": "landing",
+      "basePrice": 800,
+      "hasProductComplexity": false,
+      "hint": {
+        "en": "Best for one offer, service, event, MVP, or focused lead generation.",
+        "ru": "Лучше всего для одного оффера, услуги, события, MVP или сфокусированной лидогенерации.",
+        "uk": "Найкраще для одного офера, послуги, події, MVP, або фокусованої лідогенерації."
+      },
+      "label": {
+        "en": "Landing page",
+        "ru": "Лендинг",
+        "uk": "Лендінг"
+      },
+      "pages": {
+        "defaultValue": 7,
+        "extraPrice": 150,
+        "included": 7,
+        "max": 16,
+        "min": 5
+      },
+      "projectKey": "landing"
+    },
+    {
+      "_key": "multiPage",
+      "basePrice": 2500,
+      "hasProductComplexity": false,
+      "hint": {
+        "en": "Best for companies that need service pages, about page, cases, blog, SEO structure.",
+        "ru": "Для компаний, которым нужны страницы услуг, о нас, кейсы, блог, SEO.",
+        "uk": "Для компаній, яким потрібні сторінки послуг, про нас, кейси, блог, SEO."
+      },
+      "label": {
+        "en": "Multi-page website",
+        "ru": "Многостраничный сайт",
+        "uk": "Багатосторінковий сайт"
+      },
+      "pages": {
+        "defaultValue": 5,
+        "extraPrice": 220,
+        "included": 5,
+        "max": 30,
+        "min": 3
+      },
+      "projectKey": "multiPage"
+    },
+    {
+      "_key": "ecommerce",
+      "basePrice": 6000,
+      "hasProductComplexity": true,
+      "hint": {
+        "en": "Best for product catalogue, cart, checkout flow, product pages, filters, and admin-managed products.",
+        "ru": "Для каталога товаров, корзины, чекаута, фильтров и управления продуктами из админки.",
+        "uk": "Для каталогу товарів, кошика, чекауту, фільтрів та керування продуктами з адмінки."
+      },
+      "label": {
+        "en": "E-commerce",
+        "ru": "E-commerce",
+        "uk": "E-commerce"
+      },
+      "pages": {
+        "defaultValue": 5,
+        "extraPrice": 180,
+        "included": 5,
+        "max": 30,
+        "min": 3
+      },
+      "projectKey": "ecommerce"
+    }
+  ],
+  "roundStep": 50,
+  "seoOptions": [
+    {
+      "_key": "basicSeo",
+      "hint": {
+        "en": "Metadata, semantic headings, sitemap-ready structure included.",
+        "ru": "Мета, заголовки, sitemap-структура.",
+        "uk": "Мета, заголовки, sitemap-структура."
+      },
+      "included": true,
+      "label": {
+        "en": "Basic technical SEO",
+        "ru": "Базовое техническое SEO",
+        "uk": "Базове технічне SEO"
+      },
+      "optionKey": "basicSeo",
+      "price": 0
+    },
+    {
+      "_key": "advancedLandingSeo",
+      "hint": {
+        "en": "For scalable pages by service, city, language, category, or niche.",
+        "ru": "Для масштабируемых страниц по услугам/городам/языкам.",
+        "uk": "Для масштабованих сторінок за послугами/містами/мовами."
+      },
+      "included": false,
+      "label": {
+        "en": "Advanced SEO landing architecture",
+        "ru": "Продвинутая SEO-архитектура лендингов",
+        "uk": "Просунута SEO-архітектура лендингів"
+      },
+      "optionKey": "advancedLandingSeo",
+      "price": 1200
+    },
+    {
+      "_key": "blogSeoSetup",
+      "included": false,
+      "label": {
+        "en": "Blog SEO setup",
+        "ru": "SEO-настройка блога",
+        "uk": "SEO-налаштування блогу"
+      },
+      "optionKey": "blogSeoSetup",
+      "price": 400
+    },
+    {
+      "_key": "programmaticSeo",
+      "hint": {
+        "en": "For many structured landing pages generated from CMS data.",
+        "ru": "Много структурированных страниц из CMS-данных.",
+        "uk": "Багато структурованих сторінок з CMS-даних."
+      },
+      "included": false,
+      "label": {
+        "en": "Programmatic SEO structure",
+        "ru": "Программатическое SEO",
+        "uk": "Програматичне SEO"
+      },
+      "optionKey": "programmaticSeo",
+      "price": 2500
+    }
+  ],
+  "timeline": [
+    {
+      "_key": "standard",
+      "hint": {
+        "en": "Regular delivery schedule.",
+        "ru": "Обычный график.",
+        "uk": "Звичайний графік."
+      },
+      "label": {
+        "en": "Standard timeline",
+        "ru": "Стандартный срок",
+        "uk": "Стандартний термін"
+      },
+      "optionKey": "standard",
+      "price": 0
+    },
+    {
+      "_key": "faster",
+      "hint": {
+        "en": "We allocate more parallel capacity to launch sooner.",
+        "ru": "Больше параллельных мощностей.",
+        "uk": "Більше паралельних потужностей."
+      },
+      "label": {
+        "en": "Faster delivery",
+        "ru": "Быстрее",
+        "uk": "Швидше"
+      },
+      "optionKey": "faster",
+      "price": 600
+    },
+    {
+      "_key": "urgent",
+      "hint": {
+        "en": "Priority execution with increased team load and coordination.",
+        "ru": "Приоритетное выполнение с координацией.",
+        "uk": "Пріоритетне виконання з координацією."
+      },
+      "label": {
+        "en": "Urgent launch",
+        "ru": "Срочный",
+        "uk": "Терміновий"
+      },
+      "optionKey": "urgent",
+      "price": 1200
+    }
+  ]
+}
