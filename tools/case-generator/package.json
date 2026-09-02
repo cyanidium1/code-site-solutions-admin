@@ -1,0 +1,14 @@
+{
+  "name": "case-generator",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Dev-only Playwright section-screenshot tool for portfolio case studies.",
+  "scripts": {
+    "case:crawl": "node crawl.mjs",
+    "case:inspect": "node crawl.mjs --inspect"
+  },
+  "devDependencies": {
+    "playwright": "^1.48.0"
+  }
+}

@@ -1,0 +1,3 @@
+# Screenshot artifacts — never commit these
+/output
+/node_modules

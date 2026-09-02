@@ -1,0 +1,139 @@
+{
+  "_notes": [
+    "One entry per case-study site. `slug` MUST match the caseStudy.slug.current in Sanity",
+    "so the uploader can match screenshots to the right document.",
+    "`sections` are captured as cropped element screenshots (NOT full-page).",
+    "Fill `selector` with a CSS selector for the block. Use the first matching element.",
+    "If you don't know the selector yet, run `npm run case:inspect -- --site <slug>`",
+    "to print candidate landmarks, then edit this file.",
+    "`priority` controls cover-image pick order in the uploader (lower = preferred)."
+  ],
+  "viewports": {
+    "desktop": {"width": 1440, "height": 900, "deviceScaleFactor": 2},
+    "mobile": {"width": 390, "height": 844, "deviceScaleFactor": 3, "isMobile": true}
+  },
+  "cookieDismissSelectors": [
+    "#onetrust-accept-btn-handler",
+    "button[aria-label*='accept' i]",
+    "button:has-text('Accept')",
+    "button:has-text('Allow all')",
+    "button:has-text('Прийняти')",
+    "button:has-text('Погоджуюсь')",
+    "[class*='cookie'] button",
+    "[id*='cookie'] button"
+  ],
+  "sites": [
+    {
+      "name": "Aleko Course",
+      "url": "https://www.alekocourse.com/uk",
+      "slug": "aleko-course",
+      "stackHint": [],
+      "businessHint": "Освітній курс / онлайн-навчання",
+      "sections": [
+        {"name": "hero", "selector": "header, section:first-of-type, .hero", "priority": 1},
+        {"name": "services", "selector": "[class*='program'], [class*='course'], [class*='services']", "priority": 2},
+        {"name": "advantages", "selector": "[class*='benefit'], [class*='advantage'], [class*='feature']", "priority": 3},
+        {"name": "cta", "selector": "[class*='cta'], [class*='signup'], form", "priority": 4},
+        {"name": "contact", "selector": "footer, [class*='contact']", "priority": 5}
+      ]
+    },
+    {
+      "name": "Tatarka Franchise",
+      "url": "https://www.tatarka-franchise.com/",
+      "slug": "tatarka-franchise",
+      "stackHint": [],
+      "businessHint": "Франшиза / HoReCa",
+      "sections": [
+        {"name": "hero", "selector": "header, section:first-of-type, .hero", "priority": 1},
+        {"name": "services", "selector": "[class*='offer'], [class*='franchise'], [class*='services']", "priority": 2},
+        {"name": "advantages", "selector": "[class*='benefit'], [class*='advantage'], [class*='why']", "priority": 3},
+        {"name": "cta", "selector": "[class*='cta'], form", "priority": 4},
+        {"name": "contact", "selector": "footer, [class*='contact']", "priority": 5}
+      ]
+    },
+    {
+      "name": "Clarion Solutions",
+      "url": "https://www.clarionsol.com/",
+      "slug": "clarion-solutions",
+      "stackHint": [],
+      "businessHint": "B2B послуги / консалтинг",
+      "sections": [
+        {"name": "hero", "selector": "header, section:first-of-type, .hero", "priority": 1},
+        {"name": "services", "selector": "[class*='service'], [class*='solution']", "priority": 2},
+        {"name": "advantages", "selector": "[class*='benefit'], [class*='advantage'], [class*='value']", "priority": 3},
+        {"name": "cta", "selector": "[class*='cta'], form", "priority": 4},
+        {"name": "contact", "selector": "footer, [class*='contact']", "priority": 5}
+      ]
+    },
+    {
+      "name": "Efedra Beauty",
+      "url": "https://www.efedra-beauty.com/",
+      "slug": "e-fedra-beauty",
+      "stackHint": [],
+      "businessHint": "Б'юті / салон / косметологія",
+      "sections": [
+        {"name": "hero", "selector": "header, section:first-of-type, .hero", "priority": 1},
+        {"name": "services", "selector": "[class*='service'], [class*='treatment'], [class*='procedure']", "priority": 2},
+        {"name": "gallery", "selector": "[class*='gallery'], [class*='portfolio']", "priority": 3},
+        {"name": "cta", "selector": "[class*='cta'], [class*='booking'], form", "priority": 4},
+        {"name": "contact", "selector": "footer, [class*='contact']", "priority": 5}
+      ]
+    },
+    {
+      "name": "Boulevard Salon",
+      "url": "https://www.boulevardsalon.dk/",
+      "slug": "boulevard-salon",
+      "stackHint": [],
+      "businessHint": "Салон краси (Данія)",
+      "sections": [
+        {"name": "hero", "selector": "header, section:first-of-type, .hero", "priority": 1},
+        {"name": "services", "selector": "[class*='service'], [class*='treatment']", "priority": 2},
+        {"name": "gallery", "selector": "[class*='gallery'], [class*='portfolio']", "priority": 3},
+        {"name": "cta", "selector": "[class*='cta'], [class*='booking'], form", "priority": 4},
+        {"name": "contact", "selector": "footer, [class*='contact']", "priority": 5}
+      ]
+    },
+    {
+      "name": "Glenn Garbo",
+      "url": "https://www.glenngarbo.com/",
+      "slug": "glenn-garbo",
+      "stackHint": [],
+      "businessHint": "Персональний бренд / портфоліо",
+      "sections": [
+        {"name": "hero", "selector": "header, section:first-of-type, .hero", "priority": 1},
+        {"name": "services", "selector": "[class*='service'], [class*='work']", "priority": 2},
+        {"name": "gallery", "selector": "[class*='gallery'], [class*='portfolio'], [class*='project']", "priority": 3},
+        {"name": "cta", "selector": "[class*='cta'], form", "priority": 4},
+        {"name": "contact", "selector": "footer, [class*='contact']", "priority": 5}
+      ]
+    },
+    {
+      "name": "UR Models",
+      "url": "https://www.urmodels.com/",
+      "slug": "urmodels",
+      "stackHint": [],
+      "businessHint": "Модельне агентство",
+      "sections": [
+        {"name": "hero", "selector": "header, section:first-of-type, .hero", "priority": 1},
+        {"name": "catalog", "selector": "[class*='models'], [class*='catalog'], [class*='grid']", "priority": 2},
+        {"name": "advantages", "selector": "[class*='benefit'], [class*='about']", "priority": 3},
+        {"name": "cta", "selector": "[class*='cta'], [class*='apply'], form", "priority": 4},
+        {"name": "contact", "selector": "footer, [class*='contact']", "priority": 5}
+      ]
+    },
+    {
+      "name": "CO2 Lab",
+      "url": "https://www.co2lab.pro/",
+      "slug": "co2lab",
+      "stackHint": [],
+      "businessHint": "Технології / лабораторія / промисловість",
+      "sections": [
+        {"name": "hero", "selector": "header, section:first-of-type, .hero", "priority": 1},
+        {"name": "services", "selector": "[class*='service'], [class*='product'], [class*='solution']", "priority": 2},
+        {"name": "advantages", "selector": "[class*='benefit'], [class*='advantage'], [class*='feature']", "priority": 3},
+        {"name": "cta", "selector": "[class*='cta'], form", "priority": 4},
+        {"name": "contact", "selector": "footer, [class*='contact']", "priority": 5}
+      ]
+    }
+  ]
+}
