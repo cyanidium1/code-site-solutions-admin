@@ -1,6 +1,10 @@
 # Обложки блога — промпты для генерации
 
-**Статус: сделано 30.08.2026 — обложки есть у всех 59 постов.**
+**Как это делать — `docs/blog-covers.md`.** Здесь только реестр мотивов:
+одна строка на пост, дописывается при каждом новом.
+
+**Статус на 02.09.2026: обложки есть у всех 67 постов.**
+Батч 30.08 закрыл первые 59; 31.08–02.09 добавились ещё 8.
 
 59 постов, из них 57 с украинскими слагами и 2 только на английском
 (`web-design-for-accountants`, `websites-for-solicitors`).
@@ -52,6 +56,7 @@
 | `shcho-take-lending` | one single tall vertical panel, isolated and lit, where a multi-panel grid would normally be |
 | `shcho-take-seo` | a magnifier-like circular lens over a field of ranked horizontal bars, top ones brighter |
 | `shcho-take-yuzabiliti` | a path through a geometric maze, the shortest route glowing, dead ends left dark |
+| `etapy-stvorennia-saitu` | six sequential luminous segments along a single baseline, one segment stretched far longer than the others |
 
 ### Города
 
@@ -60,6 +65,9 @@
 | `rozrobka-saitu-lviv` | dense cluster of overlapping luminous rings, crowded and competitive, centre hard to reach |
 | `rozrobka-saitu-kyiv` | one large radial hub with many spokes of very different thicknesses fanning out |
 | `rozrobka-saitu-vinnytsia` | a wide sparse field with one lone bright marker and a lot of unclaimed dark space |
+| `rozrobka-saitu-dnipro` | a wide river bend crossed by several long bridges seen from above, one bridge line noticeably brighter and reaching further |
+| `rozrobka-saitu-kharkiv` | a vast rectangular constructivist square with a monumental stepped block, one long line leaving it toward a small distant point |
+| `rozrobka-saitu-odesa` | a seaport with a long monumental stairway and quay cranes, a soft band of light above rising and falling in a slow rhythm |
 
 ### Цены и выбор подрядчика
 
