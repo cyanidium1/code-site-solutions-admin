@@ -1,0 +1,342 @@
+[
+ {
+  "_key": "mt0ae",
+  "_type": "tldrBox",
+  "items": [
+   "80% пацієнтів не гортають далі **першої сторінки** Google.",
+   "Головна битва клініки — **локальний пошук**: «стоматолог + район» конвертує краще за «стоматолог Київ»",
+   "Google Business Profile з відгуками — **половина результату**",
+   "Кожна послуга = окрема сторінка; одна сторінка «послуги» списком не ранжується",
+   "Перші результати — **3–6 місяців**; кампанія для клінік — $300–500/міс"
+  ],
+  "title": "За 60 секунд"
+ },
+ {
+  "_key": "mt0af",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0ag",
+    "_type": "span",
+    "marks": [],
+    "text": "Чому медичне SEO — особливе"
+   }
+  ],
+  "markDefs": [],
+  "style": "h2"
+ },
+ {
+  "_key": "mt0ah",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0ai",
+    "_type": "span",
+    "marks": [],
+    "text": "Google відносить медицину до YMYL-тематик («your money or your life») — і судить її суворіше за інші. Для медичних сайтів вище вимоги до достовірності: хто автор контенту, чи є в клініки ліцензія, чи справжні відгуки. Тому трюки, які ще працюють у інших нішах, у медицині приводять не в топ, а під фільтр. Робочий шлях один: реальна експертиза, показана правильно."
+   }
+  ],
+  "markDefs": [],
+  "style": "normal"
+ },
+ {
+  "_key": "mt0aj",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0ak",
+    "_type": "span",
+    "marks": [],
+    "text": "Локальний пошук: ваша головна битва"
+   }
+  ],
+  "markDefs": [],
+  "style": "h2"
+ },
+ {
+  "_key": "mt0al",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0am",
+    "_type": "span",
+    "marks": [],
+    "text": "Пацієнт із зубним болем не шукає «найкраща стоматологія України» — він шукає «стоматолог Оболонь» або «стоматологія біля мене». Локальні запити менш конкурентні й краще конвертують: людина вже готова прийти. Що на це працює: Google Business Profile із заповненим профілем, фото і свіжими відгуками; адреса й райони обслуговування на сайті; сторінки під «послуга + район», якщо у вас кілька філій."
+   }
+  ],
+  "markDefs": [],
+  "style": "normal"
+ },
+ {
+  "_key": "mt0an",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0ao",
+    "_type": "span",
+    "marks": [],
+    "text": "Сторінка під кожну послугу"
+   }
+  ],
+  "markDefs": [],
+  "style": "h2"
+ },
+ {
+  "_key": "mt0ap",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0aq",
+    "_type": "span",
+    "marks": [],
+    "text": "«Лікування карієсу», «імплантація», «брекети», «чистка» — кожну з цих послуг шукають окремо. Сторінка «наші послуги» списком не ранжується за жодним із цих запитів. Робоча структура: окрема сторінка на кожну ключову послугу — з ціною, відповідями на типові питання, фото лікаря, який її виконує, і кнопкою запису. 10 сторінок послуг = 10 точок входу з пошуку."
+   }
+  ],
+  "markDefs": [],
+  "style": "normal"
+ },
+ {
+  "_key": "mt0ar",
+  "_type": "blogImage",
+  "alt": "Аналітика пошукового трафіку медичного сайту на ноутбуці",
+  "asset": {
+   "_ref": "image-f98a00d895a1b8c71cf1145f6e02cac6823de4e7-1600x1067-jpg",
+   "_type": "reference"
+  },
+  "caption": "Позиції і трафік — єдині чесні метрики SEO-звіту"
+ },
+ {
+  "_key": "mt0as",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0at",
+    "_type": "span",
+    "marks": [],
+    "text": "Технічна база: що перевіряє Google"
+   }
+  ],
+  "markDefs": [],
+  "style": "h2"
+ },
+ {
+  "_key": "mt0au",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0av",
+    "_type": "span",
+    "marks": [],
+    "text": "Швидкість: до 2 секунд на мобільному — далі пацієнти йдуть"
+   }
+  ],
+  "level": 1,
+  "listItem": "bullet",
+  "markDefs": [],
+  "style": "normal"
+ },
+ {
+  "_key": "mt0aw",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0ax",
+    "_type": "span",
+    "marks": [],
+    "text": "Schema.org MedicalOrganization: розмітка, яка дає розширені сніпети"
+   }
+  ],
+  "level": 1,
+  "listItem": "bullet",
+  "markDefs": [],
+  "style": "normal"
+ },
+ {
+  "_key": "mt0ay",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0az",
+    "_type": "span",
+    "marks": [],
+    "text": "Мобільна версія: 70%+ медичного трафіку — з телефонів"
+   }
+  ],
+  "level": 1,
+  "listItem": "bullet",
+  "markDefs": [],
+  "style": "normal"
+ },
+ {
+  "_key": "mt0b0",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0b1",
+    "_type": "span",
+    "marks": [],
+    "text": "HTTPS і коректна обробка персональних даних у формах"
+   }
+  ],
+  "level": 1,
+  "listItem": "bullet",
+  "markDefs": [],
+  "style": "normal"
+ },
+ {
+  "_key": "mt0b2",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0b3",
+    "_type": "span",
+    "marks": [],
+    "text": "Реальний приклад: Efedra"
+   }
+  ],
+  "markDefs": [],
+  "style": "h2"
+ },
+ {
+  "_key": "mt0b8",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0b4",
+    "_type": "span",
+    "marks": [],
+    "text": "Клініка з Одеси після редизайну і 6 місяців роботи з пошуком: 1 460 переходів із Google проти 340 за попередні пів року, покази зросли з 1 820 до 13 000. Це не магія — це сторінки під послуги, локальна оптимізація і швидкий сайт. Повний розбір — "
+   },
+   {
+    "_key": "mt0b6",
+    "_type": "span",
+    "marks": [
+     "mt0b5"
+    ],
+    "text": "у кейсі"
+   },
+   {
+    "_key": "mt0b7",
+    "_type": "span",
+    "marks": [],
+    "text": "."
+   }
+  ],
+  "markDefs": [
+   {
+    "_key": "mt0b5",
+    "_type": "link",
+    "href": "/portfolio/efedra-clinic",
+    "newTab": false
+   }
+  ],
+  "style": "normal"
+ },
+ {
+  "_key": "mt0b9",
+  "_type": "blogImage",
+  "alt": "Звіт Google Search Console клініки Efedra: зростання з 340 до 1 460 переходів за 6 місяців",
+  "asset": {
+   "_ref": "image-069db3eb09c671f0c05d24e83203744402b348f1-1882x877-jpg",
+   "_type": "reference"
+  },
+  "caption": "Efedra у Search Console: 340 → 1 460 переходів за 6 місяців роботи"
+ },
+ {
+  "_key": "mt0ba",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0bb",
+    "_type": "span",
+    "marks": [],
+    "text": "Скільки коштує і скільки чекати"
+   }
+  ],
+  "markDefs": [],
+  "style": "h2"
+ },
+ {
+  "_key": "mt0bg",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "mt0bc",
+    "_type": "span",
+    "marks": [],
+    "text": "Разовий SEO-аудит — $300: список правок за пріоритетами. Кампанія для клініки — зазвичай $300–500/міс: техніка, контент, локальне SEO, посилання, щомісячний звіт із позиціями і трафіком. Перші вимірні результати — за 3–6 місяців. Що саме входить щомісяця — на "
+   },
+   {
+    "_key": "mt0be",
+    "_type": "span",
+    "marks": [
+     "mt0bd"
+    ],
+    "text": "сторінці SEO-послуги"
+   },
+   {
+    "_key": "mt0bf",
+    "_type": "span",
+    "marks": [],
+    "text": "."
+   }
+  ],
+  "markDefs": [
+   {
+    "_key": "mt0bd",
+    "_type": "link",
+    "href": "/seo",
+    "newTab": false
+   }
+  ],
+  "style": "normal"
+ },
+ {
+  "_key": "mt0bh",
+  "_type": "ctaCallout",
+  "ctaHref": "/contacts",
+  "ctaLabel": "Замовити аудит",
+  "ctaMode": "modal",
+  "ctaSecondaryHref": "/sites-for/medicine",
+  "ctaSecondaryLabel": "Рішення для клінік",
+  "eyebrow": "SEO-аудит",
+  "heading": "Дізнайтесь, де ваш сайт втрачає пацієнтів",
+  "leadSource": "blog-seo-dlia-medychnykh-saitiv",
+  "sub": "Аудит за $300: технічний і контентний розбір із пріоритетами. Корисно, навіть якщо просуватись будете з іншим підрядником."
+ },
+ {
+  "_key": "seolnk24mt49rjbw",
+  "_type": "block",
+  "children": [
+   {
+    "_key": "seolnk25mt49rjbw",
+    "_type": "span",
+    "marks": [],
+    "text": "Технічну основу — швидкість, Schema.org, онлайн-запис — закриває "
+   },
+   {
+    "_key": "seolnk26mt49rjbw",
+    "_type": "span",
+    "marks": [
+     "seolnk23mt49rjbw"
+    ],
+    "text": "створення медичних сайтів"
+   },
+   {
+    "_key": "seolnk27mt49rjbw",
+    "_type": "span",
+    "marks": [],
+    "text": ": сайт будується SEO-ready з першого дня."
+   }
+  ],
+  "markDefs": [
+   {
+    "_key": "seolnk23mt49rjbw",
+    "_type": "link",
+    "href": "/sites-for/medicine",
+    "newTab": false
+   }
+  ],
+  "style": "normal"
+ }
+]

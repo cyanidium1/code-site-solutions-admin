@@ -1,0 +1,1337 @@
+[
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/sites-for/medicine",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   null,
+   "/ru/portfolio/efedra-clinic",
+   null
+  ],
+  "s": "skorost-medicinskogo-sayta"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": "/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/pricing",
+   "/ru/seo",
+   null,
+   "/ru/sites-for/medicine",
+   null
+  ],
+  "s": "prodvizhenie-sayta-cena-2026"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": "/vs-wordpress"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/portfolio/efedra-clinic",
+   null,
+   null
+  ],
+  "s": "redizayn-bez-poteri-seo"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": "/ru/sites-for/medicine"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/portfolio/efedra-clinic",
+   null,
+   null
+  ],
+  "s": "dizayn-sayta-medicinskogo-centra"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": "/ru/seo"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/blog/seo-dlya-medicinskih-saytov",
+   null,
+   null
+  ],
+  "s": "kak-chitat-google-search-console"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": "/ru/portfolio"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/blog/dizayn-sayta-medicinskogo-centra",
+   "/ru/blog/9-dizayn-priyomov-dlya-konversii",
+   null
+  ],
+  "s": "tyomnaya-ili-svetlaya-tema-sayta"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": "/ru/seo"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   null
+  ],
+  "s": "lokalnoe-seo-top-3-google-maps"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/calculator",
+    "ctaSecondaryHref": "/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/landing",
+   "/portfolio/efedra-clinic",
+   null,
+   null
+  ],
+  "s": "skolko-stoit-sayt-dlya-kliniki-2026"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": "/ru/blog/kak-chitat-google-search-console"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/seo",
+   null
+  ],
+  "s": "ai-poisk-kak-popast-v-otvety"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/sites-for/medicine",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/blog/razrabotka-sayta-medicinskogo-centra-pod-klyuch",
+   null
+  ],
+  "s": "15-oshibok-na-saytah-klinik"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/contacts",
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/rozrobka-saitiv",
+   null,
+   "/ru/pricing"
+  ],
+  "s": "etapy-sozdaniya-sayta"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/audit",
+    "ctaHref": "/ru/audit",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   "/ru/lokalne-seo"
+  ],
+  "s": "konversiya-sayta-kak-schitat"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/contacts",
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   null,
+   null,
+   null,
+   "/ru/seo",
+   "/ru/lokalne-seo"
+  ],
+  "s": "seo-ili-kontekstnaya-reklama"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/contacts",
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   null,
+   null,
+   null,
+   "/ru/seo"
+  ],
+  "s": "chto-takoe-llms-txt"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/audit",
+    "ctaHref": "/audit",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   null,
+   null,
+   "/ru/blog/chto-takoe-core-web-vitals",
+   null,
+   "/ru/audit"
+  ],
+  "s": "skorost-zagruzki-sayta"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/sites-for/medicine",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   null,
+   "/ru/blog/skolko-stoit-sayt-dlya-kliniki-2026",
+   "/ru/sites-for/medicine",
+   null
+  ],
+  "s": "razrabotka-sayta-medicinskogo-centra-pod-klyuch"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": null,
+    "ctaSecondaryHref": null
+   },
+   {
+    "buttonHref": null,
+    "ctaHref": null,
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   null,
+   null,
+   null
+  ],
+  "s": "kak-rabotaet-admin-panel-sayta"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": "/ru/sites-for/medicine"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/portfolio/efedra-clinic",
+   null,
+   "/ru/seo",
+   null
+  ],
+  "s": "seo-dlya-medicinskih-saytov"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/calculator",
+    "ctaSecondaryHref": "/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/landing",
+   "/ru/corporate-site",
+   "/portfolio/nbyg-kobenhavn",
+   null,
+   null
+  ],
+  "s": "sayt-dlya-stroitelnoy-kompanii-2026"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/contacts",
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/portfolio/icelab",
+   "/ru/lokalne-seo",
+   null,
+   "/ru/rozrobka-saitiv",
+   "/ru/pricing",
+   null
+  ],
+  "s": "razrabotka-sayta-dnepr"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/contacts",
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/portfolio/icelab",
+   "/ru/lokalne-seo",
+   null,
+   "/ru/rozrobka-saitiv",
+   "/ru/pricing",
+   null
+  ],
+  "s": "razrabotka-sayta-harkov"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   null,
+   "/ru/pricing",
+   "/ru/calculator",
+   "/ru/blog/skolko-stoit-sayt-2026",
+   null,
+   "/ru/audit",
+   "/ru/redesign",
+   "/ru/portfolio"
+  ],
+  "s": "razrabotka-sayta-kiev"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   null,
+   "/ru/pricing",
+   "/ru/calculator",
+   "/ru/blog/skolko-stoit-sayt-2026",
+   null,
+   "/ru/audit",
+   "/ru/redesign",
+   "/ru/blog/lokalnoe-seo-top-3-google-maps",
+   "/ru/portfolio"
+  ],
+  "s": "razrabotka-sayta-lvov"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/contacts",
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/portfolio/icelab",
+   "/ru/lokalne-seo",
+   null,
+   "/ru/rozrobka-saitiv",
+   "/ru/pricing",
+   null
+  ],
+  "s": "razrabotka-sayta-odessa"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   null,
+   null,
+   "/ru/pricing",
+   "/ru/calculator",
+   "/ru/blog/skolko-stoit-sayt-2026",
+   null,
+   "/ru/audit",
+   "/ru/blog/lokalnoe-seo-top-3-google-maps",
+   "/ru/redesign",
+   "/ru/portfolio"
+  ],
+  "s": "razrabotka-sayta-vinnitsa"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": "/ru/portfolio"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/blog/dizayn-sayta-medicinskogo-centra",
+   null,
+   null
+  ],
+  "s": "9-dizayn-priyomov-dlya-konversii"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": "/ru/portfolio"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/blog/9-dizayn-priyomov-dlya-konversii",
+   "/ru/blog/redizayn-bez-poteri-seo",
+   null
+  ],
+  "s": "trendy-veb-dizayna-2026"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": "/ru/blog/kak-chitat-google-search-console"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/seo",
+   null
+  ],
+  "s": "seo-audit-svoimi-rukami"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   null,
+   "/ru/blog/skolko-stoit-sayt-dlya-kliniki-2026",
+   "/ru/blog/razrabotka-sayta-medicinskogo-centra-pod-klyuch",
+   null
+  ],
+  "s": "sayt-dlya-bolnicy-vs-chastnyy-kabinet"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/contacts",
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/online-store",
+   "/ru/corporate-site",
+   "/ru/portfolio/raul-avto",
+   null,
+   "/ru/blog/chto-takoe-cms",
+   "/ru/blog/kak-rabotaet-admin-panel-sayta"
+  ],
+  "s": "chto-takoe-api"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   "/ru/blog/kak-rabotaet-admin-panel-sayta",
+   null,
+   null,
+   "/ru/blog/chto-takoe-api",
+   null,
+   "/vs-wordpress",
+   "/ru/corporate-site",
+   null
+  ],
+  "s": "chto-takoe-cms"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/seo",
+    "ctaHref": "/ru/seo",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/blog/skorost-medicinskogo-sayta",
+   "/ru/blog/kak-chitat-google-search-console",
+   "/ru/portfolio/efedra-clinic",
+   "/ru/seo",
+   null
+  ],
+  "s": "chto-takoe-core-web-vitals"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/blog/9-dizayn-priyomov-dlya-konversii",
+   "/ru/blog/chto-takoe-lending",
+   "/ru/landing",
+   null
+  ],
+  "s": "chto-takoe-cta"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/landing",
+    "ctaHref": "/ru/landing",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/blog/chto-takoe-hosting",
+   null,
+   "/ru/pricing",
+   "/ru/corporate-site"
+  ],
+  "s": "chto-takoe-domen"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/pricing",
+    "ctaHref": "/ru/pricing",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/blog/trendy-veb-dizayna-2026",
+   "/ru/blog/tyomnaya-ili-svetlaya-tema-sayta",
+   "/ru/landing",
+   "/ru/pricing",
+   "/support",
+   null
+  ],
+  "s": "chto-takoe-favicon"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/support",
+    "ctaHref": "/support",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   "/ru/blog/chto-takoe-domen",
+   null,
+   "/vs-constructors",
+   "/ru/blog/chto-takoe-core-web-vitals",
+   "/ru/blog/skorost-medicinskogo-sayta",
+   "/support",
+   "/ru/pricing",
+   null
+  ],
+  "s": "chto-takoe-hosting"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/landing",
+    "ctaHref": "/ru/landing",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   "/ru/blog/chto-takoe-cta",
+   null,
+   "/ru/pricing",
+   "/ru/landing",
+   "/ru/blog/9-dizayn-priyomov-dlya-konversii",
+   "/ru/portfolio/aleko-course",
+   null
+  ],
+  "s": "chto-takoe-lending"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/seo",
+    "ctaHref": "/ru/seo",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   "/ru/blog/chto-takoe-core-web-vitals",
+   null,
+   "/ru/seo",
+   "/ru/blog/prodvizhenie-sayta-cena-2026",
+   "/ru/blog/seo-audit-svoimi-rukami",
+   null
+  ],
+  "s": "chto-takoe-seo"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/contacts",
+    "ctaHref": "/ru/contacts",
+    "ctaSecondaryHref": null
+   }
+  ],
+  "h": [
+   null,
+   "/ru/blog/9-dizayn-priyomov-dlya-konversii",
+   null,
+   "/ru/blog/chto-takoe-cta",
+   "/ru/blog/redizayn-bez-poteri-seo",
+   "/ru/portfolio/efedra-clinic",
+   null
+  ],
+  "s": "chto-takoe-yuzabiliti"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/calculator",
+    "ctaSecondaryHref": "/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   null,
+   "/portfolio/efedra-clinic",
+   null
+  ],
+  "s": "tilda-vs-kastomnyy-sayt-2026"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/calculator",
+    "ctaSecondaryHref": "/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/pricing",
+   "/ru/landing",
+   "/ru/corporate-site",
+   "/ru/online-store",
+   "/portfolio",
+   null
+  ],
+  "s": "skolko-stoit-sayt-2026"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": null,
+    "ctaHref": "/portfolio",
+    "ctaSecondaryHref": "/contacts"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/portfolio/efedra-clinic",
+   null,
+   null
+  ],
+  "s": "nextjs-protiv-wordpress-i-konstruktorov"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   "/ru/blog/nextjs-protiv-wordpress-i-konstruktorov",
+   null,
+   "/ru/sites-for/auto",
+   "/ru/online-store",
+   null,
+   "/ru/blog/skolko-stoit-sayt-2026",
+   "/support",
+   null,
+   "/ru/seo",
+   "/ru/portfolio/raul-avto",
+   "/ru/portfolio/right-cars",
+   "/ru/sites-for/ecommerce",
+   null
+  ],
+  "s": "internet-magazin-avtozapchastey"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   "/ru/portfolio/le-muse-nature",
+   "/ru/blog/internet-magazin-odezhdy",
+   "/ru/sites-for/ecommerce",
+   null,
+   null,
+   "/ru/blog/9-dizayn-priyomov-dlya-konversii",
+   "/ru/online-store",
+   null,
+   "/ru/blog/skolko-stoit-sayt-2026",
+   "/ru/portfolio/le-muse-nature",
+   null
+  ],
+  "s": "internet-magazin-kosmetiki"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   "/ru/sites-for/ecommerce",
+   "/ru/online-store",
+   null,
+   null,
+   null,
+   "/ru/seo",
+   "/ru/portfolio/le-muse-nature",
+   "/ru/portfolio/grontland",
+   "/ru/blog/internet-magazin-avtozapchastey",
+   null
+  ],
+  "s": "internet-magazin-odezhdy"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   "/ru/sites-for/real-estate",
+   null,
+   "/ru/corporate-site",
+   "/ru/seo",
+   "/ru/blog/lokalnoe-seo-top-3-google-maps",
+   null,
+   null,
+   "/ru/pricing",
+   "/ru/blog/skolko-stoit-sayt-2026",
+   "/ru/portfolio/solide-renovation",
+   "/ru/portfolio/nbyg-kobenhavn",
+   "/ru/portfolio/domlivo",
+   "/ru/sites-for/real-estate",
+   null
+  ],
+  "s": "sayt-agentstva-nedvizhimosti"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   "/ru/sites-for/finance",
+   null,
+   "/ru/landing",
+   "/ru/corporate-site",
+   null,
+   "/ru/calculator",
+   null,
+   "/ru/seo",
+   "/ru/blog/sayt-dlya-advokata",
+   "/ru/landing",
+   "/ru/corporate-site",
+   "/ru/blog/skolko-stoit-sayt-2026",
+   "/ru/portfolio/oleksandr-sitnikov",
+   "/ru/portfolio/efedra-clinic",
+   "/ru/portfolio/solide-renovation",
+   null
+  ],
+  "s": "sayt-buhgalterskih-uslug"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   "/ru/sites-for/legal",
+   "/ru/landing",
+   "/ru/corporate-site",
+   null,
+   null,
+   "/ru/blog/skolko-stoit-sayt-2026",
+   null,
+   "/ru/blog/lokalnoe-seo-top-3-google-maps",
+   "/ru/seo",
+   "/ru/sites-for/finance",
+   "/ru/portfolio/oleksandr-sitnikov",
+   "/ru/portfolio/glenn-garbo",
+   "/ru/portfolio/efedra-clinic",
+   null
+  ],
+  "s": "sayt-dlya-advokata"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   "/ru/sites-for/auto",
+   "/ru/blog/lokalnoe-seo-top-3-google-maps",
+   null,
+   "/ru/landing",
+   "/ru/corporate-site",
+   "/ru/blog/skolko-stoit-sayt-2026",
+   null,
+   null,
+   "/ru/blog/9-dizayn-priyomov-dlya-konversii",
+   "/ru/seo",
+   "/ru/portfolio/raul-avto",
+   "/ru/portfolio/right-cars",
+   "/support",
+   null
+  ],
+  "s": "sayt-dlya-avtoservisa"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   "/ru/blog/9-dizayn-priyomov-dlya-konversii",
+   null,
+   null,
+   null,
+   "/ru/landing",
+   "/ru/pricing",
+   "/ru/blog/skolko-stoit-sayt-2026",
+   "/ru/blog/tyomnaya-ili-svetlaya-tema-sayta",
+   "/ru/seo",
+   "/ru/portfolio/urmodels",
+   "/ru/portfolio/glenn-garbo",
+   "/ru/portfolio/oleksandr-sitnikov",
+   null
+  ],
+  "s": "sayt-dlya-fotografa"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/online-store",
+   null,
+   "/ru/landing",
+   "/ru/blog/skolko-stoit-sayt-2026",
+   null,
+   "/ru/portfolio/tatarka-franchise",
+   "/ru/blog/sayt-dlya-restorana-i-dostavki-edy",
+   null
+  ],
+  "s": "sayt-dlya-konditera"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   null,
+   "/ru/seo",
+   "/ru/blog/9-dizayn-priyomov-dlya-konversii",
+   "/ru/blog/tyomnaya-ili-svetlaya-tema-sayta",
+   "/ru/portfolio/oleksandr-sitnikov",
+   "/ru/portfolio/glenn-garbo",
+   null,
+   "/ru/blog/skolko-stoit-sayt-2026",
+   "/ru/pricing",
+   "/ru/calculator",
+   null
+  ],
+  "s": "sayt-dlya-psihologa"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   "/ru/portfolio/tatarka-franchise",
+   "/ru/portfolio/bravo",
+   null,
+   "/ru/landing",
+   "/ru/blog/kak-rabotaet-admin-panel-sayta",
+   "/ru/online-store",
+   "/ru/sites-for/ecommerce",
+   null,
+   null,
+   "/ru/blog/lokalnoe-seo-top-3-google-maps",
+   "/ru/seo",
+   "/ru/process",
+   "/ru/portfolio/tatarka-franchise",
+   "/ru/portfolio/bravo",
+   "/ru/blog/skolko-stoit-sayt-2026",
+   "/ru/blog/9-dizayn-priyomov-dlya-konversii",
+   null
+  ],
+  "s": "sayt-dlya-restorana-i-dostavki-edy"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/blog/9-dizayn-priyomov-dlya-konversii",
+   "/ru/blog/lokalnoe-seo-top-3-google-maps",
+   "/ru/seo",
+   null,
+   "/ru/blog/skolko-stoit-sayt-2026",
+   "/ru/landing",
+   null,
+   "/ru/portfolio/boulevard-salon",
+   "/ru/portfolio/e-fedra-beauty",
+   "/ru/portfolio/glimmer",
+   null
+  ],
+  "s": "sayt-dlya-salona-krasoty"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   "/ru/corporate-site",
+   "/ru/landing",
+   null,
+   null,
+   "/ru/blog/kak-rabotaet-admin-panel-sayta",
+   "/ru/sites-for/courses",
+   "/ru/portfolio/aleko-course",
+   null,
+   "/ru/seo",
+   "/ru/calculator",
+   "/ru/corporate-site",
+   null
+  ],
+  "s": "sayt-dlya-shkoly"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   "/ru/blog/sayt-dlya-salona-krasoty",
+   "/ru/corporate-site",
+   null,
+   "/ru/blog/skolko-stoit-sayt-2026",
+   null,
+   "/ru/landing",
+   "/ru/blog/sayt-dlya-psihologa",
+   "/ru/blog/lokalnoe-seo-top-3-google-maps",
+   "/ru/seo",
+   null,
+   "/ru/portfolio/boulevard-salon",
+   "/ru/portfolio/e-fedra-beauty",
+   "/ru/portfolio/oleksandr-sitnikov",
+   "/ru/portfolio/glenn-garbo",
+   null
+  ],
+  "s": "sayt-fitnes-kluba"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/landing",
+   "/ru/corporate-site",
+   "/ru/blog/skolko-stoit-sayt-2026",
+   "/ru/calculator",
+   null,
+   null,
+   "/ru/blog/9-dizayn-priyomov-dlya-konversii",
+   "/ru/blog/lokalnoe-seo-top-3-google-maps",
+   "/ru/seo",
+   "/ru/portfolio/rich-tour",
+   "/ru/landing",
+   "/ru/corporate-site",
+   "/support",
+   null
+  ],
+  "s": "sayt-otelya-s-bronirovaniem"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/corporate-site",
+   null,
+   "/ru/online-store",
+   "/ru/sites-for/ecommerce",
+   null,
+   "/ru/pricing",
+   "/ru/blog/sayt-dlya-stroitelnoy-kompanii-2026",
+   "/ru/seo",
+   null
+  ],
+  "s": "sayt-mebelnoy-kompanii"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   "/ru/landing",
+   "/ru/corporate-site",
+   null,
+   null,
+   "/ru/seo",
+   "/ru/blog/sayt-otelya-s-bronirovaniem",
+   null,
+   "/ru/portfolio/rich-tour",
+   null
+  ],
+  "s": "sayt-turagentstva"
+ },
+ {
+  "c": [
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   },
+   {
+    "buttonHref": "/ru/calculator",
+    "ctaHref": "/ru/calculator",
+    "ctaSecondaryHref": "/ru/calculator"
+   }
+  ],
+  "h": [
+   null,
+   null,
+   "/ru/corporate-site",
+   "/ru/calculator",
+   null,
+   "/ru/blog/lokalnoe-seo-top-3-google-maps",
+   "/ru/seo",
+   "/ru/blog/prodvizhenie-sayta-cena-2026",
+   null,
+   "/ru/blog/skolko-stoit-sayt-2026",
+   "/ru/landing",
+   "/ru/portfolio/raul-avto",
+   "/ru/portfolio/right-cars",
+   "/ru/portfolio/rich-tour",
+   "/ru/blog/sayt-dlya-avtoservisa",
+   null
+  ],
+  "s": "sayt-gruzoperevozok"
+ }
+]
