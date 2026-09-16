@@ -34,6 +34,12 @@ export const servicesBlock = defineType({
           type: 'image',
           options: {hotspot: true},
         }),
+        defineField({
+          name: 'visual',
+          title: 'Фото біля відгуку (опціонально)',
+          description: 'Реальний сайт клієнта на пристрої. Фронтенд ставить його ліворуч від цитати.',
+          type: 'imageWithLocalizedAlt',
+        }),
       ],
     }),
     defineField({
