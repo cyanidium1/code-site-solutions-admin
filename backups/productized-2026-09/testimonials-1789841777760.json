@@ -1,0 +1,166 @@
+[
+  {
+    "_createdAt": "2026-06-04T17:16:35Z",
+    "_id": "DHIwRDN3sEoI638qoYQ1Yx",
+    "_rev": "rm7122vO7jyxmjuJv9f1fh",
+    "_system": {
+      "base": {
+        "id": "testimonial.nbyg-kobenhavn",
+        "rev": "wgmfEksz86pEwt4hGKhYGZ"
+      }
+    },
+    "_type": "testimonial",
+    "_updatedAt": "2026-09-16T16:21:23Z",
+    "authorInitials": "SH",
+    "authorName": "Søren Hansen",
+    "authorRole": {
+      "en": "Owner, NBYG København Aps",
+      "ru": "Владелец, NBYG København Aps",
+      "uk": "Власник, NBYG København Aps"
+    },
+    "caseLabel": {
+      "en": "See the full case study",
+      "ru": "Посмотреть полный кейс",
+      "uk": "Подивитись повний кейс"
+    },
+    "caseRef": {
+      "_ref": "lOTgaDd8FU4wgJ8F4K9wE8",
+      "_type": "reference"
+    },
+    "featured": true,
+    "mockupLeft": {
+      "_type": "imageWithLocalizedAlt",
+      "alt": {
+        "_type": "localizedString",
+        "en": "NBYG terrace calculator on a phone with material options and area input",
+        "ru": "Калькулятор террасы NBYG на телефоне с выбором материала и площади",
+        "uk": "Калькулятор тераси NBYG на телефоні з вибором матеріалу і площі"
+      },
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-3c73b4b8bb89f46827c0298ce16dac5d18ad9e50-648x804-png",
+          "_type": "reference"
+        }
+      }
+    },
+    "mockupRight": {
+      "_type": "imageWithLocalizedAlt",
+      "alt": {
+        "_type": "localizedString",
+        "en": "NBYG carpentry website homepage on a laptop",
+        "ru": "Главная страница сайта столярной компании NBYG на ноутбуке",
+        "uk": "Головна сторінка сайту столярної компанії NBYG на ноутбуці"
+      },
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-2907b050a9c441384c9d24ef272f12ee079a3cf3-1144x1054-png",
+          "_type": "reference"
+        }
+      }
+    },
+    "order": 0,
+    "quote": {
+      "en": "Before the new site we had 3 enquiries a month. After launch — 24 a month. The team wrote the content, ran QA, and launched it. All we had to do was pick up the keys.",
+      "ru": "До нового сайта у нас было 3 заявки в месяц. После запуска — 24 в месяц. Команда написала контент, провела QA и запустила сайт. Нам осталось только получить ключи.",
+      "uk": "До нового сайту в нас було 3 заявки на місяць. Після запуску — 24 на місяць. Команда написала контент, провела QA й запустила сайт. Нам залишилося тільки отримати ключі."
+    },
+    "rating": 5,
+    "reviewDate": "2026-06-04"
+  },
+  {
+    "_createdAt": "2026-06-04T17:16:36Z",
+    "_id": "DHIwRDN3sEoI638qoYQ1ml",
+    "_rev": "8PZUX3ShTf5214Jw1jHATl",
+    "_type": "testimonial",
+    "_updatedAt": "2026-07-30T17:18:56Z",
+    "authorInitials": "V",
+    "authorName": "Vlad",
+    "authorRole": {
+      "en": "Kondor Device · electronics",
+      "ru": "Kondor Device · электроника",
+      "uk": "Kondor Device · електроніка"
+    },
+    "caseLabel": {
+      "en": "See the full case study",
+      "ru": "Посмотреть полный кейс",
+      "uk": "Подивитись повний кейс"
+    },
+    "caseRef": {
+      "_ref": "a5311634-9a57-4de9-ab72-ec42fcfcc270",
+      "_type": "reference"
+    },
+    "featured": true,
+    "mockupRight": {
+      "_type": "imageWithLocalizedAlt",
+      "alt": {
+        "_type": "localizedString",
+        "en": "Kondor Device website shown on laptop and phone",
+        "ru": "Сайт Kondor Device на ноутбуке и телефоне",
+        "uk": "Сайт Kondor Device на ноутбуці і телефоні"
+      },
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-bd316e99efce95e83ddf61ad58c9a39a15a870d1-1189x1133-png",
+          "_type": "reference"
+        }
+      }
+    },
+    "order": 20,
+    "quote": {
+      "en": "Very happy with the work. The site runs very fast, and the admin panel is incredibly easy to use. We rank at the top of Google for our target queries.",
+      "ru": "Очень довольны работой. Сайт работает очень быстро, а админ-панель невероятно удобная. По целевым запросам мы в топе Google.",
+      "uk": "Дуже задоволені роботою. Сайт працює дуже швидко, а адмін-панель неймовірно зручна. За цільовими запитами ми в топі Google."
+    },
+    "rating": 5
+  },
+  {
+    "_createdAt": "2026-07-17T14:41:15Z",
+    "_id": "s2wDSUpWBbCAmLaTqSJeSh",
+    "_rev": "8PZUX3ShTf5214Jw1jHATl",
+    "_type": "testimonial",
+    "_updatedAt": "2026-07-30T17:18:56Z",
+    "authorInitials": "M",
+    "authorName": "Maria",
+    "authorRole": {
+      "en": "E-Fedra · medicine & aesthetics",
+      "ru": "E-Fedra · медицина и эстетика",
+      "uk": "E-Fedra · медицина та естетика"
+    },
+    "caseLabel": {
+      "en": "See the full case study",
+      "ru": "Посмотреть полный кейс",
+      "uk": "Подивитись повний кейс"
+    },
+    "caseRef": {
+      "_ref": "lOTgaDd8FU4wgJ8F4K9vjD",
+      "_type": "reference"
+    },
+    "featured": true,
+    "mockupRight": {
+      "_type": "imageWithLocalizedAlt",
+      "alt": {
+        "_type": "localizedString",
+        "en": "E-Fedra Beauty website shown on laptop and phone",
+        "ru": "Сайт E-Fedra Beauty на ноутбуке и телефоне",
+        "uk": "Сайт E-Fedra Beauty на ноутбуці і телефоні"
+      },
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-45877ebe7c437a04d62904b6b3bc6cfbf2426f87-1199x1133-png",
+          "_type": "reference"
+        }
+      }
+    },
+    "order": 30,
+    "quote": {
+      "en": "Everything works, I’m delighted. If anyone ever needs your help, I’ll definitely recommend you.",
+      "ru": "Всё работает, я в восторге. Если кому-то понадобится ваша помощь — обязательно вас порекомендую.",
+      "uk": "Все працює, я в захваті. Якщо комусь знадобиться ваша допомога — обов’язково вас порекомендую."
+    },
+    "rating": 5
+  }
+]
