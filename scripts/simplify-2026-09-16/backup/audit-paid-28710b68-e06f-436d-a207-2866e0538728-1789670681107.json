@@ -1,0 +1,1815 @@
+{
+ "_createdAt": "2026-08-15T19:02:43Z",
+ "_id": "28710b68-e06f-436d-a207-2866e0538728",
+ "_rev": "ceBmPJHij4KbxPoCOAeZVO",
+ "_type": "blogPost",
+ "_updatedAt": "2026-09-15T15:30:59Z",
+ "author": {
+  "bio": "Засновник Code-Site.Art. Веду техлід-роботу і пишу про реальні цифри з 50+ проєктів.",
+  "name": "Fedir Alpatov",
+  "photoUrl": "/team/fedir.jpg",
+  "role": "Founder & Tech Lead"
+ },
+ "body": {
+  "en": [
+   {
+    "_key": "cw07j",
+    "_type": "tldrBox",
+    "items": [
+     "SEO for a small-business site costs **£300 to £2,000+ per month** in 2026.",
+     "**One-off SEO audit:** £300 — a prioritised list of fixes",
+     "**Base retainer:** from £300/mo — technical upkeep + steady content",
+     "**Competitive niches** (healthcare, legal, finance): £500–2,000/mo",
+     "**Content:** £200/article from a B2B copywriter",
+     "First measurable results take 3–6 months. \"Guaranteed #1 in a month\" does not exist."
+    ],
+    "title": "In 60 seconds"
+   },
+   {
+    "_key": "cw07k",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw07l",
+      "_type": "span",
+      "marks": [],
+      "text": "What makes up the price of SEO"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw07m",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw07n",
+      "_type": "span",
+      "marks": [],
+      "text": "\"SEO\" isn't one service — it's four blocks of work. The price depends on how much of each your site actually needs:"
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw07q",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw07o",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "1. Technical foundation. "
+     },
+     {
+      "_key": "cw07p",
+      "_type": "span",
+      "marks": [],
+      "text": "Speed, structure, metadata, Schema.org, fixing indexation issues. A big one-off block at the start, then maintenance."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw07t",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw07r",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "2. Content. "
+     },
+     {
+      "_key": "cw07s",
+      "_type": "span",
+      "marks": [],
+      "text": "Pages for commercial queries and articles for informational ones. This is SEO's main fuel: every page is a separate entry point from search."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw07w",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw07u",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "3. Authority. "
+     },
+     {
+      "_key": "cw07v",
+      "_type": "span",
+      "marks": [],
+      "text": "Links, mentions, directories, reviews. The slowest and most expensive block — and the one separating top-3 from page three."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw07z",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw07x",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "4. Local SEO. "
+     },
+     {
+      "_key": "cw07y",
+      "_type": "span",
+      "marks": [],
+      "text": "Google Business Profile, reviews, a \"service + area\" structure. For local businesses — clinics, builders, solicitors — this is half the result."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw080",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw081",
+      "_type": "span",
+      "marks": [],
+      "text": "What it costs: market ranges"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw082",
+    "_type": "blogTable",
+    "headers": [
+     "Format",
+     "Price",
+     "What's in it"
+    ],
+    "rows": [
+     {
+      "_key": "cw083",
+      "_type": "blogTableRow",
+      "cells": [
+       "SEO audit (one-off)",
+       "£300",
+       "Technical + content teardown with a prioritised fix list"
+      ]
+     },
+     {
+      "_key": "cw084",
+      "_type": "blogTableRow",
+      "cells": [
+       "Base retainer",
+       "from £300/mo",
+       "Technical upkeep, 1–2 articles, steady growth"
+      ]
+     },
+     {
+      "_key": "cw085",
+      "_type": "blogTableRow",
+      "cells": [
+       "Competitive niche",
+       "£500–2,000/mo",
+       "Healthcare, legal, finance: more content and links"
+      ]
+     },
+     {
+      "_key": "cw086",
+      "_type": "blogTableRow",
+      "cells": [
+       "Content alone",
+       "£30–100/article",
+       "From a simple post to a researched B2B piece with charts in 3 languages"
+      ]
+     }
+    ]
+   },
+   {
+    "_key": "cw087",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw088",
+      "_type": "span",
+      "marks": [],
+      "text": "Why \"guaranteed #1\" is a red flag"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw089",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw08a",
+      "_type": "span",
+      "marks": [],
+      "text": "Google doesn't sell positions and no contractor controls the algorithm. Honest work sounds like this: \"we'll build the site to the standards Google rewards, then grow content and authority — first results in 3–6 months\". Anyone guaranteeing #1 in a month is either charging for air or using grey tactics that get sites filtered later."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw08f",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw08c",
+      "_type": "span",
+      "marks": [],
+      "text": "Our model is different: every site we build is SEO-ready from day one — structure, 90+ speed scores, Schema.org and local SEO are part of the development price, and a year of technical support is included in every package. A separate SEO retainer isn't for everyone, and rarely from day one — see what's included on the "
+     },
+     {
+      "_key": "cw08d",
+      "_type": "span",
+      "marks": [
+       "cw08b"
+      ],
+      "text": "pricing page"
+     },
+     {
+      "_key": "cw08e",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "cw08b",
+      "_type": "link",
+      "href": "/en/pricing",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "en01p",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "en01l",
+      "_type": "span",
+      "marks": [],
+      "text": "Rates, the full monthly work list and answers to awkward questions — on the "
+     },
+     {
+      "_key": "en01n",
+      "_type": "span",
+      "marks": [
+       "en01m"
+      ],
+      "text": "SEO services"
+     },
+     {
+      "_key": "en01o",
+      "_type": "span",
+      "marks": [],
+      "text": " page."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "en01m",
+      "_type": "link",
+      "href": "/en/seo",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "en01q",
+    "_type": "blogImage",
+    "alt": "Google Search Console report: Google clicks up 4× after 6 months of SEO work",
+    "asset": {
+     "_ref": "image-069db3eb09c671f0c05d24e83203744402b348f1-1882x877-jpg",
+     "_type": "reference"
+    },
+    "caption": "What an honest result looks like: a client's GSC report after 6 months"
+   },
+   {
+    "_key": "cw08g",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw08h",
+      "_type": "span",
+      "marks": [],
+      "text": "When you don't need SEO yet"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw08i",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw08j",
+      "_type": "span",
+      "marks": [],
+      "text": "A new niche with no formed demand — start with ads and validate the offer first"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw08k",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw08l",
+      "_type": "span",
+      "marks": [],
+      "text": "A brochure site with no content — build service pages first, promote second"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw08m",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw08n",
+      "_type": "span",
+      "marks": [],
+      "text": "A budget under £300/mo — better saved for a one-off audit and content than spread thin"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw08o",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw08p",
+      "_type": "span",
+      "marks": [],
+      "text": "Expecting results in a month — SEO doesn't work that way, and it's more honest to say so upfront"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw08q",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw08r",
+      "_type": "span",
+      "marks": [],
+      "text": "A special case: SEO for medical websites"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw08w",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw08t",
+      "_type": "span",
+      "marks": [],
+      "text": "Clinic SEO has its own specifics: local search for \"dentist + area\", MedicalOrganization schema, a page per service and legally correct content. That's why healthcare costs more than a base retainer. How we build clinic websites — on the "
+     },
+     {
+      "_key": "cw08u",
+      "_type": "span",
+      "marks": [
+       "cw08s"
+      ],
+      "text": "healthcare solutions page"
+     },
+     {
+      "_key": "cw08v",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "cw08s",
+      "_type": "link",
+      "href": "/en/sites-for/medicine",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "cw08x",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw08y",
+      "_type": "span",
+      "marks": [],
+      "text": "5 questions to ask any SEO contractor"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw08z",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw090",
+      "_type": "span",
+      "marks": [],
+      "text": "What exactly do you do each month? \"Comprehensive SEO\" without a work list isn't an answer"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw091",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw092",
+      "_type": "span",
+      "marks": [],
+      "text": "What does the report show? Positions and traffic, not \"work performed\""
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw093",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw094",
+      "_type": "span",
+      "marks": [],
+      "text": "Who writes the content, and who fact-checks it?"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw095",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw096",
+      "_type": "span",
+      "marks": [],
+      "text": "What links do you build? Marketplace link packages are a road to a penalty"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw097",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw098",
+      "_type": "span",
+      "marks": [],
+      "text": "What do I keep if we part ways? Content and fixes stay yours forever"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw099",
+    "_type": "ctaCallout",
+    "ctaHref": "/en/contacts",
+    "ctaLabel": "Order an audit",
+    "ctaMode": "modal",
+    "ctaSecondaryHref": "/en/calculator",
+    "ctaSecondaryLabel": "Price a new site",
+    "eyebrow": "SEO audit",
+    "heading": "Start with a £300 audit",
+    "leadSource": "blog-prosuvannia-saitu-tsina-2026",
+    "sub": "A technical and content teardown of your site with a prioritised fix list. Useful even if you end up promoting with another contractor."
+   }
+  ],
+  "ru": [
+   {
+    "_key": "cw05s",
+    "_type": "tldrBox",
+    "items": [
+     "SEO-продвижение сайта стоит **от $300 до $2,000+ в месяц**.",
+     "**Разовый SEO-аудит:** $300 — список правок с приоритетами",
+     "**Базовая кампания:** от $300/мес — техника + контент в спокойном темпе",
+     "**Конкурентные ниши** (медицина, юристы, финансы): $500–2,000/мес",
+     "**Контент:** $200/статья в исполнении B2B-копирайтера",
+     "Первые измеримые результаты — через 3–6 месяцев. «Гарантированный топ-1 за месяц» не существует."
+    ],
+    "title": "За 60 секунд"
+   },
+   {
+    "_key": "cw05t",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw05u",
+      "_type": "span",
+      "marks": [],
+      "text": "Из чего складывается цена продвижения"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw05v",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw05w",
+      "_type": "span",
+      "marks": [],
+      "text": "«Продвижение» — это не одна услуга, а четыре блока работы. Цена зависит от того, сколько каждого из них нужно именно вашему сайту:"
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "ss15ja3vt",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ss15f7roq",
+      "_type": "span",
+      "marks": [],
+      "text": "Наши пакеты и цены в гривнах — на странице "
+     },
+     {
+      "_key": "ss15hgj60",
+      "_type": "span",
+      "marks": [
+       "ss15g17nw"
+      ],
+      "text": "продвижение сайта: цена"
+     },
+     {
+      "_key": "ss15ifi66",
+      "_type": "span",
+      "marks": [],
+      "text": ". Ниже — из чего складывается любой SEO-бюджет и как проверить предложение подрядчика."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "ss15g17nw",
+      "_type": "link",
+      "href": "/ru/seo"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "cw05z",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw05x",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "1. Техническая база. "
+     },
+     {
+      "_key": "cw05y",
+      "_type": "span",
+      "marks": [],
+      "text": "Скорость, структура, метаданные, Schema.org, исправление ошибок индексации. Разовый большой блок на старте, дальше — поддержка."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw062",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw060",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "2. Контент. "
+     },
+     {
+      "_key": "cw061",
+      "_type": "span",
+      "marks": [],
+      "text": "Страницы под коммерческие запросы и статьи под информационные. Это основное топливо SEO: каждая страница — отдельная точка входа из поиска."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw065",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw063",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "3. Авторитет. "
+     },
+     {
+      "_key": "cw064",
+      "_type": "span",
+      "marks": [],
+      "text": "Ссылки, упоминания, каталоги, отзывы. Самый медленный и дорогой блок — и именно он отличает топ-3 от третьей страницы."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw068",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw066",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "4. Локальное SEO. "
+     },
+     {
+      "_key": "cw067",
+      "_type": "span",
+      "marks": [],
+      "text": "Google Business Profile, отзывы, структура под «услуга + город». Для локального бизнеса — клиник, строителей, юристов — это половина результата."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw069",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw06a",
+      "_type": "span",
+      "marks": [],
+      "text": "Сколько это стоит: вилки рынка"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw06b",
+    "_type": "blogTable",
+    "headers": [
+     "Формат",
+     "Цена",
+     "Что входит"
+    ],
+    "rows": [
+     {
+      "_key": "cw06c",
+      "_type": "blogTableRow",
+      "cells": [
+       "SEO-аудит (разово)",
+       "$300",
+       "Технический + контентный разбор, список правок с приоритетами"
+      ]
+     },
+     {
+      "_key": "cw06d",
+      "_type": "blogTableRow",
+      "cells": [
+       "Базовая кампания",
+       "от $300/мес",
+       "Техподдержка, 1–2 статьи, постепенное наращивание"
+      ]
+     },
+     {
+      "_key": "cw06e",
+      "_type": "blogTableRow",
+      "cells": [
+       "Конкурентная ниша",
+       "$500–2,000/мес",
+       "Медицина, юристы, финансы: больше контента и ссылок"
+      ]
+     },
+     {
+      "_key": "cw06f",
+      "_type": "blogTableRow",
+      "cells": [
+       "Контент отдельно",
+       "$30–100/статья",
+       "От простой статьи до B2B-темы с ресёрчем и графиками на 3 языках"
+      ]
+     }
+    ]
+   },
+   {
+    "_key": "cw06g",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw06h",
+      "_type": "span",
+      "marks": [],
+      "text": "Почему «гарантия топ-1» — красный флаг"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw06i",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw06j",
+      "_type": "span",
+      "marks": [],
+      "text": "Google не продаёт позиции, и ни один подрядчик не контролирует алгоритм. Честная работа звучит так: «построим сайт по стандартам, которые Google вознаграждает, и будем наращивать контент и авторитет — первые результаты через 3–6 месяцев». Тот, кто гарантирует топ-1 за месяц, либо берёт деньги за воздух, либо использует серые методы, за которые сайт потом попадает под фильтр."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw06o",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw06l",
+      "_type": "span",
+      "marks": [],
+      "text": "Наша модель другая: сайт с самого начала строится SEO-ready — структура, скорость 90+, Schema.org, локальное SEO заложены в цену разработки, а год технической поддержки входит в каждый пакет. Отдельная SEO-кампания нужна не всем и не сразу — подробнее о том, что входит в сайт, на странице "
+     },
+     {
+      "_key": "cw06m",
+      "_type": "span",
+      "marks": [
+       "cw06k"
+      ],
+      "text": "цен"
+     },
+     {
+      "_key": "cw06n",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "cw06k",
+      "_type": "link",
+      "href": "/ru/pricing",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "en01j",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "en01f",
+      "_type": "span",
+      "marks": [],
+      "text": "Тарифы, полный список ежемесячных работ и ответы на неудобные вопросы — на странице услуги "
+     },
+     {
+      "_key": "en01h",
+      "_type": "span",
+      "marks": [
+       "en01g"
+      ],
+      "text": "SEO-продвижение"
+     },
+     {
+      "_key": "en01i",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "en01g",
+      "_type": "link",
+      "href": "/ru/seo",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "en01k",
+    "_type": "blogImage",
+    "alt": "Отчёт Google Search Console: рост переходов из Google в 4 раза за 6 месяцев продвижения",
+    "asset": {
+     "_ref": "image-069db3eb09c671f0c05d24e83203744402b348f1-1882x877-jpg",
+     "_type": "reference"
+    },
+    "caption": "Так выглядит честный результат: отчёт GSC клиента после 6 месяцев работы"
+   },
+   {
+    "_key": "cw06p",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw06q",
+      "_type": "span",
+      "marks": [],
+      "text": "Когда продвижение вам не нужно"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw06r",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw06s",
+      "_type": "span",
+      "marks": [],
+      "text": "Новая ниша без сформированного спроса — лучше начать с рекламы и проверить оффер"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw06t",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw06u",
+      "_type": "span",
+      "marks": [],
+      "text": "Сайт-визитка без контента — сначала страницы услуг, потом продвижение"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw06v",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw06w",
+      "_type": "span",
+      "marks": [],
+      "text": "Бюджет меньше $300/мес — лучше накопить на разовый аудит и контент, чем размазывать"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw06x",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw06y",
+      "_type": "span",
+      "marks": [],
+      "text": "Ожидание результата за месяц — SEO так не работает, честнее сказать это сразу"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw06z",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw070",
+      "_type": "span",
+      "marks": [],
+      "text": "Отдельный случай: продвижение медицинских сайтов"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw075",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw072",
+      "_type": "span",
+      "marks": [],
+      "text": "Для клиник продвижение имеет свою специфику: локальный поиск «стоматолог + район», Schema.org MedicalOrganization, страницы под каждую услугу и юридически корректный контент. Поэтому медицина и стоит дороже базовой кампании. Как мы строим сайты для клиник — на странице "
+     },
+     {
+      "_key": "cw073",
+      "_type": "span",
+      "marks": [
+       "cw071"
+      ],
+      "text": "решений для медицины"
+     },
+     {
+      "_key": "cw074",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "cw071",
+      "_type": "link",
+      "href": "/ru/sites-for/medicine",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "cw076",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw077",
+      "_type": "span",
+      "marks": [],
+      "text": "5 вопросов, которые стоит задать SEO-подрядчику"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw078",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw079",
+      "_type": "span",
+      "marks": [],
+      "text": "Что конкретно вы делаете каждый месяц? «Комплексное продвижение» без списка работ — не ответ"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw07a",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw07b",
+      "_type": "span",
+      "marks": [],
+      "text": "Как выглядит отчёт? Позиции и трафик, а не «выполненные работы»"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw07c",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw07d",
+      "_type": "span",
+      "marks": [],
+      "text": "Кто пишет контент и кто проверяет его на фактику?"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw07e",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw07f",
+      "_type": "span",
+      "marks": [],
+      "text": "Какие ссылки вы ставите? Биржевые пакеты — путь под фильтр"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw07g",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw07h",
+      "_type": "span",
+      "marks": [],
+      "text": "Что останется мне, если мы расторгнем договор? Контент и правки — ваши навсегда"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw07i",
+    "_type": "ctaCallout",
+    "ctaHref": "/ru/contacts",
+    "ctaLabel": "Заказать аудит",
+    "ctaMode": "modal",
+    "ctaSecondaryHref": "/ru/calculator",
+    "ctaSecondaryLabel": "Посчитать новый сайт",
+    "eyebrow": "SEO-аудит",
+    "heading": "Начните с аудита за $300",
+    "leadSource": "blog-prosuvannia-saitu-tsina-2026",
+    "sub": "Технический и контентный разбор вашего сайта со списком правок по приоритетам. Полезно, даже если продвигать будете с другим подрядчиком."
+   }
+  ],
+  "uk": [
+   {
+    "_key": "cw041",
+    "_type": "tldrBox",
+    "items": [
+     "SEO-просування сайту в Україні коштує **від $300 до $2,000+ на місяць**.",
+     "**Разовий SEO-аудит:** $300 — список правок із пріоритетами",
+     "**Базова кампанія:** від $300/міс — техніка + контент у спокійному темпі",
+     "**Конкурентні ніші** (медицина, юристи, фінанси): $500–2,000/міс",
+     "**Контент:** $200/стаття у виконанні B2B-копірайтера",
+     "Перші вимірні результати — через 3–6 місяців. «Гарантований топ-1 за місяць» не існує."
+    ],
+    "title": "За 60 секунд"
+   },
+   {
+    "_key": "cw042",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw043",
+      "_type": "span",
+      "marks": [],
+      "text": "З чого складається ціна просування"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw044",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw045",
+      "_type": "span",
+      "marks": [],
+      "text": "«Просування» — це не одна послуга, а чотири блоки роботи. Ціна залежить від того, скільки кожного з них потрібно саме вашому сайту:"
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "ss15e5i8p",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ss15aiop9",
+      "_type": "span",
+      "marks": [],
+      "text": "Наші пакети й ціни в гривнях — на сторінці "
+     },
+     {
+      "_key": "ss15cizyp",
+      "_type": "span",
+      "marks": [
+       "ss15bdm4w"
+      ],
+      "text": "просування сайту: ціна"
+     },
+     {
+      "_key": "ss15d2uvh",
+      "_type": "span",
+      "marks": [],
+      "text": ". Нижче — з чого складається будь-який SEO-бюджет і як перевірити пропозицію підрядника."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "ss15bdm4w",
+      "_type": "link",
+      "href": "/seo"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "cw048",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw046",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "1. Технічна база. "
+     },
+     {
+      "_key": "cw047",
+      "_type": "span",
+      "marks": [],
+      "text": "Швидкість, структура, метадані, Schema.org, виправлення помилок індексації. Разовий великий блок на старті, далі — підтримка."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw04b",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw049",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "2. Контент. "
+     },
+     {
+      "_key": "cw04a",
+      "_type": "span",
+      "marks": [],
+      "text": "Сторінки під комерційні запити і статті під інформаційні. Це основне пальне SEO: кожна сторінка — окрема точка входу з пошуку."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw04e",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw04c",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "3. Авторитет. "
+     },
+     {
+      "_key": "cw04d",
+      "_type": "span",
+      "marks": [],
+      "text": "Посилання, згадки, каталоги, відгуки. Найповільніший і найдорожчий блок — і саме він відрізняє топ-3 від третьої сторінки."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw04h",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw04f",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "4. Локальне SEO. "
+     },
+     {
+      "_key": "cw04g",
+      "_type": "span",
+      "marks": [],
+      "text": "Google Business Profile, відгуки, структура під «послуга + місто». Для локального бізнесу — клінік, будівельників, юристів — це половина результату."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw04i",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw04j",
+      "_type": "span",
+      "marks": [],
+      "text": "Скільки це коштує: вилки ринку"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw04k",
+    "_type": "blogTable",
+    "headers": [
+     "Формат",
+     "Ціна",
+     "Що входить"
+    ],
+    "rows": [
+     {
+      "_key": "cw04l",
+      "_type": "blogTableRow",
+      "cells": [
+       "SEO-аудит (разово)",
+       "$300",
+       "Технічний + контентний розбір, список правок із пріоритетами"
+      ]
+     },
+     {
+      "_key": "cw04m",
+      "_type": "blogTableRow",
+      "cells": [
+       "Базова кампанія",
+       "від $300/міс",
+       "Техпідтримка, 1–2 статті, поступове нарощування"
+      ]
+     },
+     {
+      "_key": "cw04n",
+      "_type": "blogTableRow",
+      "cells": [
+       "Конкурентна ніша",
+       "$500–2,000/міс",
+       "Медицина, юристи, фінанси: більше контенту і посилань"
+      ]
+     },
+     {
+      "_key": "cw04o",
+      "_type": "blogTableRow",
+      "cells": [
+       "Контент окремо",
+       "$30–100/стаття",
+       "Від простої статті до B2B-теми з ресерчем і графіками на 3 мовах"
+      ]
+     }
+    ]
+   },
+   {
+    "_key": "cw04p",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw04q",
+      "_type": "span",
+      "marks": [],
+      "text": "Чому «гарантія топ-1» — червоний прапорець"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw04r",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw04s",
+      "_type": "span",
+      "marks": [],
+      "text": "Google не продає позиції, і жоден підрядник не контролює алгоритм. Чесна робота звучить так: «побудуємо сайт за стандартами, які Google винагороджує, і будемо нарощувати контент і авторитет — перші результати через 3–6 місяців». Той, хто гарантує топ-1 за місяць, або бере гроші за повітря, або використовує сірі методи, за які сайт потім потрапляє під фільтр."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw04x",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw04u",
+      "_type": "span",
+      "marks": [],
+      "text": "Наша модель інша: сайт від початку будується SEO-ready — структура, швидкість 90+, Schema.org, локальне SEO закладені в ціну розробки, а рік технічної підтримки входить у кожен пакет. Окрема SEO-кампанія потрібна не всім і не одразу — детальніше про те, що входить у сайт, на сторінці "
+     },
+     {
+      "_key": "cw04v",
+      "_type": "span",
+      "marks": [
+       "cw04t"
+      ],
+      "text": "цін"
+     },
+     {
+      "_key": "cw04w",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "cw04t",
+      "_type": "link",
+      "href": "/pricing",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "en01d",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "en019",
+      "_type": "span",
+      "marks": [],
+      "text": "Тарифи, повний список щомісячних робіт і відповіді на незручні питання — на сторінці послуги "
+     },
+     {
+      "_key": "en01b",
+      "_type": "span",
+      "marks": [
+       "en01a"
+      ],
+      "text": "SEO-просування"
+     },
+     {
+      "_key": "en01c",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "en01a",
+      "_type": "link",
+      "href": "/seo",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "en01e",
+    "_type": "blogImage",
+    "alt": "Звіт Google Search Console: зростання переходів з Google у 4 рази за 6 місяців просування",
+    "asset": {
+     "_ref": "image-069db3eb09c671f0c05d24e83203744402b348f1-1882x877-jpg",
+     "_type": "reference"
+    },
+    "caption": "Так виглядає чесний результат: звіт GSC клієнта після 6 місяців роботи"
+   },
+   {
+    "_key": "cw04y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw04z",
+      "_type": "span",
+      "marks": [],
+      "text": "Коли просування вам не потрібне"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw050",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw051",
+      "_type": "span",
+      "marks": [],
+      "text": "Нова ніша без сформованого попиту — краще почати з реклами і перевірити оффер"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw052",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw053",
+      "_type": "span",
+      "marks": [],
+      "text": "Сайт-візитка без контенту — спершу сторінки послуг, потім просування"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw054",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw055",
+      "_type": "span",
+      "marks": [],
+      "text": "Бюджет менше $300/міс — краще накопичити на разовий аудит і контент, ніж розмазувати"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw056",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw057",
+      "_type": "span",
+      "marks": [],
+      "text": "Очікування результату за місяць — SEO так не працює, чесніше сказати це одразу"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw058",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw059",
+      "_type": "span",
+      "marks": [],
+      "text": "Окремий випадок: просування медичних сайтів"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw05e",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "an7n4y",
+      "_type": "span",
+      "marks": [],
+      "text": "Для клінік просування має свою специфіку: локальний пошук «стоматолог + район», Schema.org MedicalOrganization, сторінки під кожну послугу і юридично коректний контент. Тому медицина і коштує дорожче за базову кампанію. Як ми будуємо сайти для клінік — на сторінці про "
+     },
+     {
+      "_key": "an9n4y",
+      "_type": "span",
+      "marks": [
+       "an8n4y"
+      ],
+      "text": "створення сайту для клініки"
+     },
+     {
+      "_key": "anan4y",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "an8n4y",
+      "_type": "link",
+      "href": "/sites-for/medicine",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "cw05f",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw05g",
+      "_type": "span",
+      "marks": [],
+      "text": "5 питань, які варто поставити SEO-підряднику"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "cw05h",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw05i",
+      "_type": "span",
+      "marks": [],
+      "text": "Що конкретно ви робите щомісяця? «Комплексне просування» без списку робіт — не відповідь"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw05j",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw05k",
+      "_type": "span",
+      "marks": [],
+      "text": "Як виглядає звіт? Позиції і трафік, а не «виконані роботи»"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw05l",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw05m",
+      "_type": "span",
+      "marks": [],
+      "text": "Хто пише контент і хто його перевіряє на фактику?"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw05n",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw05o",
+      "_type": "span",
+      "marks": [],
+      "text": "Які посилання ви ставите? Біржові пакети — шлях під фільтр"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw05p",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "cw05q",
+      "_type": "span",
+      "marks": [],
+      "text": "Що залишиться мені, якщо ми розірвемо договір? Контент і правки — ваші назавжди"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "cw05r",
+    "_type": "ctaCallout",
+    "ctaHref": "/contacts",
+    "ctaLabel": "Замовити аудит",
+    "ctaMode": "modal",
+    "ctaSecondaryHref": "/calculator",
+    "ctaSecondaryLabel": "Порахувати новий сайт",
+    "eyebrow": "SEO-аудит",
+    "heading": "Почніть з аудиту за $300",
+    "leadSource": "blog-prosuvannia-saitu-tsina-2026",
+    "sub": "Технічний і контентний розбір вашого сайту зі списком правок за пріоритетами. Корисно, навіть якщо просувати будете з іншим підрядником."
+   }
+  ]
+ },
+ "category": {
+  "_ref": "65de7a1a-bfde-4e47-ab70-7e0ecf161f0a",
+  "_type": "reference"
+ },
+ "cover": {
+  "_type": "imageWithLocalizedAlt",
+  "alt": {
+   "_type": "localizedString",
+   "en": "A slow ascending curve across faint monthly tick marks",
+   "ru": "Медленная восходящая кривая через вертикальные отметки месяцев",
+   "uk": "Повільна висхідна крива через вертикальні позначки місяців"
+  },
+  "image": {
+   "_type": "image",
+   "asset": {
+    "_ref": "image-b62884b590ce2af63c455581e0aab58956d1cf1e-1600x900-webp",
+    "_type": "reference"
+   }
+  }
+ },
+ "eyebrow": {
+  "en": "Pricing · 7 min read",
+  "ru": "Цены · 7 мин чтения",
+  "uk": "Ціни · 7 хв читання"
+ },
+ "faq": [
+  {
+   "_key": "cw09a",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "A base retainer is from £300/mo. Competitive niches (healthcare, legal, finance) run £500–2,000/mo. A one-off audit with a fix list is £300.",
+    "ru": "Базовая кампания — от $300/мес. Конкурентные ниши (медицина, юристы, финансы) — $500–2,000/мес. Разовый аудит со списком правок — $300.",
+    "uk": "Базова кампанія — від $300/міс. Конкурентні ніші (медицина, юристи, фінанси) — $500–2,000/міс. Разовий аудит із списком правок — $300."
+   },
+   "question": {
+    "en": "How much does SEO cost per month?",
+    "ru": "Сколько стоит продвижение сайта в месяц?",
+    "uk": "Скільки коштує просування сайту на місяць?"
+   }
+  },
+  {
+   "_key": "cw09b",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "First measurable changes take 3–6 months: impressions grow first, then positions, then clicks. Faster only happens in very low-competition niches.",
+    "ru": "Первые измеримые изменения — через 3–6 месяцев: сначала растут показы, потом позиции, потом клики. Быстрее бывает только в очень низкоконкурентных нишах.",
+    "uk": "Перші вимірні зміни — через 3–6 місяців: спершу ростуть покази, потім позиції, потім кліки. Швидше буває тільки в дуже низькоконкурентних нішах."
+   },
+   "question": {
+    "en": "How long until results show?",
+    "ru": "Через сколько времени появятся результаты?",
+    "uk": "Через скільки часу зʼявляться результати?"
+   }
+  },
+  {
+   "_key": "cw09c",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "You can, but with a ceiling: builders cap speed, structure and Schema.org. Migrating to custom code is often cheaper than fighting platform limits for years.",
+    "ru": "Можно, но с потолком: конструкторы ограничивают скорость, структуру и Schema.org. Часто дешевле мигрировать на custom-код, чем годами бороться с ограничениями платформы.",
+    "uk": "Можна, але зі стелею: конструктори обмежують швидкість, структуру і Schema.org. Часто дешевше мігрувати на custom-код, ніж роками боротися з обмеженнями платформи."
+   },
+   "question": {
+    "en": "Can you do SEO on a Wix or builder site?",
+    "ru": "Можно ли продвигать сайт на Tilda или Wix?",
+    "uk": "Чи можна просувати сайт на Tilda або Wix?"
+   }
+  },
+  {
+   "_key": "cw09d",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "A technical teardown (speed, indexation, structure, schema) plus a content one (which queries you're missing and which pages you need). You get a prioritised fix list you can hand to any contractor.",
+    "ru": "Технический разбор (скорость, индексация, структура, Schema) плюс контентный (какие запросы вы теряете и какие страницы нужны). На выходе — список правок с приоритетами, который можно отдать любому подрядчику.",
+    "uk": "Технічний розбір (швидкість, індексація, структура, Schema) плюс контентний (які запити ви втрачаєте і які сторінки потрібні). На виході — список правок із пріоритетами, який можна віддати будь-якому підряднику."
+   },
+   "question": {
+    "en": "What's in the £300 SEO audit?",
+    "ru": "Что входит в SEO-аудит за $300?",
+    "uk": "Що входить у SEO-аудит за $300?"
+   }
+  }
+ ],
+ "lede": {
+  "en": "SEO costs £300 to £2,000+ a month. Here's what makes up the price, why a \"guaranteed #1\" is a red flag, and when you shouldn't buy SEO at all.",
+  "ru": "SEO-продвижение стоит от $300 до $2,000+ в месяц. Разбираем, из чего складывается цена, почему «гарантия топ-1» — красный флаг, и когда продвижение не нужно вообще.",
+  "uk": "SEO-просування коштує від $300 до $2,000+ на місяць. Розбираємо, з чого складається ціна, чому «гарантія топ-1» — червоний прапорець, і коли просування не потрібне взагалі."
+ },
+ "metaDescription": {
+  "en": "➤ SEO costs from £300/mo, a one-off audit is £300 ✔️ What makes up the price ✔️ Contractor red flags ➡ An honest pricing breakdown.",
+  "ru": "➤ Продвижение сайта стоит от $300/мес, аудит — $300 разово ✔️ Из чего складывается цена SEO ✔️ Красные флаги подрядчиков ➡ Честный разбор цен.",
+  "uk": "➤ Вартість просування сайту у 2026: від $300/міс для сайтів послуг, від $500/міс для магазинів ✔️ Разовий аудит $300 ✔️ З чого складається ціна розкрутки ➡ Без «гарантій топ-1»."
+ },
+ "metaTitle": {
+  "en": "SEO Pricing UK 2026 | What SEO Really Costs | Code-Site.Art",
+  "ru": "Бюджет на продвижение сайта 2026: из чего складывается цена SEO",
+  "uk": "Бюджет на просування сайту 2026: з чого складається ціна SEO"
+ },
+ "publishedAt": "2026-08-15T11:00:00.000Z",
+ "readingTimeMinutes": 7,
+ "relatedPostSlugs": [
+  "vartist-rozrobky-saytu-2026",
+  "skilky-koshtuye-sait-dlia-kliniky-2026"
+ ],
+ "slugs": {
+  "en": {
+   "_type": "slug",
+   "current": "seo-pricing-uk-2026"
+  },
+  "ru": {
+   "_type": "slug",
+   "current": "prodvizhenie-sayta-cena-2026"
+  },
+  "uk": {
+   "_type": "slug",
+   "current": "prosuvannia-saitu-tsina-2026"
+  }
+ },
+ "status": "published",
+ "tags": [
+  "pricing",
+  "seo",
+  "promotion"
+ ],
+ "title": {
+  "en": "How Much Does SEO Cost in the UK in 2026? Honest Numbers, No \"#1 Guarantees\"",
+  "ru": "Бюджет на продвижение сайта в 2026: из чего складывается и почему «гарантий топ-1» не бывает",
+  "uk": "Бюджет на просування сайту у 2026: з чого складається і чому «гарантій топ-1» не буває"
+ },
+ "updatedAt": "2026-08-15T11:00:00.000Z"
+}

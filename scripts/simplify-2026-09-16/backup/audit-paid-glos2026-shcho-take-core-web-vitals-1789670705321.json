@@ -1,0 +1,2672 @@
+{
+ "_createdAt": "2026-08-30T00:56:36Z",
+ "_id": "glos2026-shcho-take-core-web-vitals",
+ "_rev": "NwRgfX19a0kC97bursYRg6",
+ "_type": "blogPost",
+ "_updatedAt": "2026-09-15T15:03:26Z",
+ "author": {
+  "bio": "SEO-спеціалістка Code-Site.Art. Веде пошукові кампанії клієнтів студії — від локального SEO клінік до e-commerce.",
+  "name": "Кристина Бондаренко",
+  "photoUrl": "/team/kristina.jpg",
+  "role": "SEO Specialist"
+ },
+ "body": {
+  "en": [
+   {
+    "_key": "lt6010txz",
+    "_type": "tldrBox",
+    "items": [
+     "Three Google metrics from real visits: LCP (main block appears), INP (response to a click), CLS (layout stability).",
+     "Good means LCP under 2.5s, INP under 200ms, CLS under 0.1 across 75% of real visits.",
+     "FID is gone: INP replaced it in March 2024.",
+     "They affect rankings, but weakly. They affect conversion and bounce rate far more.",
+     "PageSpeed lab scores and CrUX field data almost always disagree; judge by field data.",
+     "Every package ships with Lighthouse Performance 90+; our Efedra clinic case runs an LCP of 0.8s."
+    ],
+    "title": "In short"
+   },
+   {
+    "_key": "lt6311c9w",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt611101y",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Core Web Vitals"
+     },
+     {
+      "_key": "lt621165x",
+      "_type": "span",
+      "marks": [],
+      "text": " are three Google metrics that measure how fast and how stable a page feels to a real person: LCP marks when the largest visible element is painted, INP measures how long the browser thinks after a click, and CLS tracks whether content jumps around while the page loads. Google calls the result good when 75% of real visits stay under 2.5 seconds for LCP, 200 milliseconds for INP and 0.1 for CLS."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt6511ohu",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6411idv",
+      "_type": "span",
+      "marks": [],
+      "text": "One confusion worth clearing up: Core Web Vitals are not a site score out of 100. The PageSpeed score comes from a robot on an emulated device; Core Web Vitals come from the Chrome browsers of your actual visitors. A green 95 and red Core Web Vitals in Search Console coexist happily on the same site."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt67120ps",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6611ult",
+      "_type": "span",
+      "marks": [],
+      "text": "In plain English"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt6f13dlk",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt68126tr",
+      "_type": "span",
+      "marks": [],
+      "text": "Think of a website as a coffee shop. "
+     },
+     {
+      "_key": "lt6912cxq",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "LCP"
+     },
+     {
+      "_key": "lt6a12j1p",
+      "_type": "span",
+      "marks": [],
+      "text": " is how long the coffee takes to arrive: until then you stand at the counter, unsure anyone noticed you. "
+     },
+     {
+      "_key": "lt6b12p5o",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "INP"
+     },
+     {
+      "_key": "lt6c12v9n",
+      "_type": "span",
+      "marks": [],
+      "text": " is how fast the barista answers: you tap “Book a call”, and either the form opens or nothing happens and you tap again. "
+     },
+     {
+      "_key": "lt6d131dm",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "CLS"
+     },
+     {
+      "_key": "lt6e137hl",
+      "_type": "span",
+      "marks": [],
+      "text": " is whether the table moves while you sit down: you aim at a button, a banner loads above it, your finger lands elsewhere."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt6h13pti",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6g13jpj",
+      "_type": "span",
+      "marks": [],
+      "text": "None of this is about elegant code — it measures ordinary irritation. Someone who taps a dead button twice rarely finishes the enquiry form."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt6j1421g",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6i13vxh",
+      "_type": "span",
+      "marks": [],
+      "text": "The three metrics: what they measure and what breaks them"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt6l14e9e",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6k1485f",
+      "_type": "span",
+      "marks": [],
+      "text": "The full set as of 2026, with Google's thresholds and the causes we see most often on audits."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt6m14kdd",
+    "_type": "blogTable",
+    "headers": [
+     "Metric",
+     "What it measures",
+     "Good value",
+     "What usually breaks it"
+    ],
+    "rows": [
+     {
+      "_key": "lt6n14qhc",
+      "_type": "blogTableRow",
+      "cells": [
+       "**LCP** (Largest Contentful Paint)",
+       "When the largest visible element is painted — hero image, big heading, main banner",
+       "under 2.5s",
+       "A heavy unprocessed image above the fold, slow hosting, render-blocking fonts and scripts"
+      ]
+     },
+     {
+      "_key": "lt6o14wlb",
+      "_type": "blogTableRow",
+      "cells": [
+       "**INP** (Interaction to Next Paint)",
+       "How long the browser takes to answer a click or tap — the worst interaction of the visit counts",
+       "under 200ms",
+       "A dozen third-party scripts, heavy chat and booking widgets, JavaScript that starts calculating on click"
+      ]
+     },
+     {
+      "_key": "lt6p152pa",
+      "_type": "blogTableRow",
+      "cells": [
+       "**CLS** (Cumulative Layout Shift)",
+       "How much the content jumps while the page loads",
+       "under 0.1",
+       "Images without declared dimensions, banners and cookie bars injected at the top, fonts swapped after load"
+      ]
+     }
+    ]
+   },
+   {
+    "_key": "lt6r15ex8",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6q158t9",
+      "_type": "span",
+      "marks": [],
+      "text": "Why FID is not on the list"
+     }
+    ],
+    "markDefs": [],
+    "style": "h3"
+   },
+   {
+    "_key": "lt6t15r56",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6s15l17",
+      "_type": "span",
+      "marks": [],
+      "text": "Until March 2024 the third metric was FID, First Input Delay. It only measured the delay before the browser began handling the first interaction, so nearly every site passed it even when the interface froze after the click. INP measures the whole round trip: from tap to painted response. A guide that still lists FID is two years out of date."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt6v163d4",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6u15x95",
+      "_type": "span",
+      "marks": [],
+      "text": "Lab data versus field data"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt6x16fl2",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6w169h3",
+      "_type": "span",
+      "marks": [],
+      "text": "PageSpeed Insights shows two blocks and they get mixed up constantly. The top one is field data from CrUX: real Chrome visits over the last 28 days. The bottom one is a Lighthouse lab run on an emulated mid-range phone with a throttled connection."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt6z16rt0",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6y16lp1",
+      "_type": "span",
+      "marks": [],
+      "text": "The numbers rarely match, and that is expected:"
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt711740y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7016xwz",
+      "_type": "span",
+      "marks": [],
+      "text": "Lab is one run on one device. Field is thousands of visits, including old phones on poor connections."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7317g8w",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7217a4x",
+      "_type": "span",
+      "marks": [],
+      "text": "The lab never clicks anything. INP is not truly measured there — only a potential delay is estimated."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7517sgu",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7417mcv",
+      "_type": "span",
+      "marks": [],
+      "text": "Field data accumulates over 28 days. You fixed LCP yesterday; Search Console will show it weeks from now."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt77184os",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7617ykt",
+      "_type": "span",
+      "marks": [],
+      "text": "With little traffic there is no field data at all, and Google reports a group of similar pages instead."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7918gwq",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7818asr",
+      "_type": "span",
+      "marks": [],
+      "text": "The rule: lab data to find the cause, field data to judge the result."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7b18t4o",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7a18n0p",
+      "_type": "span",
+      "marks": [],
+      "text": "Do Core Web Vitals affect rankings?"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt7d195cm",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7c18z8n",
+      "_type": "span",
+      "marks": [],
+      "text": "Honestly: yes, but weakly. They sit inside the page experience signals and work like a tiebreaker — when two pages answer the query equally well, the faster one wins. Green metrics alone will not beat a stronger competitor; relevance and authority weigh more."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7i19zwh",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7e19bgl",
+      "_type": "span",
+      "marks": [],
+      "text": "Revenue is where they hit directly: bounces before anyone reads the offer, missed taps on a shifting layout, double submissions after a laggy click. More detail for healthcare projects: "
+     },
+     {
+      "_key": "lt7g19noj",
+      "_type": "span",
+      "marks": [
+       "lt7f19hkk"
+      ],
+      "text": "medical website speed"
+     },
+     {
+      "_key": "lt7h19tsi",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt7f19hkk",
+      "_type": "link",
+      "href": "/en/blog/medical-website-speed"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7k1ac4f",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7j1a60g",
+      "_type": "span",
+      "marks": [],
+      "text": "How to check your own numbers"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt7q1bcs9",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7l1ai8e",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Google Search Console → Experience → Core Web Vitals."
+     },
+     {
+      "_key": "lt7m1aocd",
+      "_type": "span",
+      "marks": [],
+      "text": " Field data for the whole site, split by mobile and desktop, grouped by page type. New to the panel? Start with "
+     },
+     {
+      "_key": "lt7o1b0kb",
+      "_type": "span",
+      "marks": [
+       "lt7n1augc"
+      ],
+      "text": "Google Search Console for business owners"
+     },
+     {
+      "_key": "lt7p1b6oa",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [
+     {
+      "_key": "lt7n1augc",
+      "_type": "link",
+      "href": "/en/blog/google-search-console-for-business-owners"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7t1bv46",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7r1biw8",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "PageSpeed Insights."
+     },
+     {
+      "_key": "lt7s1bp07",
+      "_type": "span",
+      "marks": [],
+      "text": " One URL: field data on top, the lab run and concrete causes underneath."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7w1cdg3",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7u1c185",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Chrome DevTools: Performance tab and Lighthouse panel."
+     },
+     {
+      "_key": "lt7v1c7c4",
+      "_type": "span",
+      "marks": [],
+      "text": " Where you find the cause — which element is the LCP, which script eats the response time."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7z1cvs0",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7x1cjk2",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "The Web Vitals Chrome extension."
+     },
+     {
+      "_key": "lt7y1cpo1",
+      "_type": "span",
+      "marks": [],
+      "text": " Shows all three metrics as you browse — handy for checking competitors."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt811d7zy",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt801d1vz",
+      "_type": "span",
+      "marks": [],
+      "text": "Common mistakes"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt841dqbv",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt821de3x",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Chasing a score of 100."
+     },
+     {
+      "_key": "lt831dk7w",
+      "_type": "span",
+      "marks": [],
+      "text": " A perfect PageSpeed score adds nothing to rankings. The green band is a threshold, not a competition."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt871e8ns",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt851dwfu",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Optimising lab instead of field."
+     },
+     {
+      "_key": "lt861e2jt",
+      "_type": "span",
+      "marks": [],
+      "text": " The score goes up, real users notice nothing, because their bottleneck was elsewhere — usually third-party scripts the robot barely loads."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt8a1eqzp",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt881eerr",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Looking at a single page."
+     },
+     {
+      "_key": "lt891ekvq",
+      "_type": "span",
+      "marks": [],
+      "text": " Metrics are grouped across similar URLs. A perfect homepage does not help if every service page fails."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt8d1f9bm",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt8b1ex3o",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Ignoring mobile."
+     },
+     {
+      "_key": "lt8c1f37n",
+      "_type": "span",
+      "marks": [],
+      "text": " Most traffic is mobile, and mobile is exactly where LCP and INP tend to fail."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt8g1frnj",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt8e1fffl",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Leaving speed until the end."
+     },
+     {
+      "_key": "lt8f1fljk",
+      "_type": "span",
+      "marks": [],
+      "text": " Light images, sensible fonts and few third-party scripts cost nothing during build and a fortune to retrofit."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt8i1g3vh",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt8h1fxri",
+      "_type": "span",
+      "marks": [],
+      "text": "How we handle it"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt8m1gsbd",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt8j1g9zg",
+      "_type": "span",
+      "marks": [],
+      "text": "Speed is not an upsell here: "
+     },
+     {
+      "_key": "lt8k1gg3f",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Lighthouse Performance 90+ is part of every package"
+     },
+     {
+      "_key": "lt8l1gm7e",
+      "_type": "span",
+      "marks": [],
+      "text": ", from a landing page to a custom platform — written into the terms, not the sales pitch."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt8t1hz36",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt8n1gyfc",
+      "_type": "span",
+      "marks": [],
+      "text": "The clearest example is the "
+     },
+     {
+      "_key": "lt8p1hana",
+      "_type": "span",
+      "marks": [
+       "lt8o1h4jb"
+      ],
+      "text": "Efedra clinic site"
+     },
+     {
+      "_key": "lt8q1hgr9",
+      "_type": "span",
+      "marks": [],
+      "text": ": an "
+     },
+     {
+      "_key": "lt8r1hmv8",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "LCP of 0.8 seconds"
+     },
+     {
+      "_key": "lt8s1hsz7",
+      "_type": "span",
+      "marks": [],
+      "text": " on mobile, three times better than Google's threshold. Nothing clever behind it — modern image formats, static pages, non-blocking fonts, no stray scripts above the fold."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt8o1h4jb",
+      "_type": "link",
+      "href": "/en/portfolio/efedra-clinic"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt8y1itn1",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt8u1i575",
+      "_type": "span",
+      "marks": [],
+      "text": "If your live site is already in the red, we start with a technical audit inside "
+     },
+     {
+      "_key": "lt8w1ihf3",
+      "_type": "span",
+      "marks": [
+       "lt8v1ibb4"
+      ],
+      "text": "SEO support"
+     },
+     {
+      "_key": "lt8x1inj2",
+      "_type": "span",
+      "marks": [],
+      "text": " — work out what actually holds LCP and INP before changing anything. European build quality at sensible rates."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt8v1ibb4",
+      "_type": "link",
+      "href": "/en/seo"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt8z1izr0",
+    "_type": "ctaCallout",
+    "buttonHref": "/en/seo",
+    "buttonLabel": "Request a technical audit",
+    "ctaHref": "/en/seo",
+    "ctaLabel": "Request a technical audit",
+    "heading": "Core Web Vitals in the red?",
+    "sub": "We will read your field data, find the real causes and tell you what actually moves the needle.",
+    "text": "We will read your field data, find the real causes and tell you what actually moves the needle.",
+    "title": "Core Web Vitals in the red?"
+   }
+  ],
+  "ru": [
+   {
+    "_key": "lt30ii0z",
+    "_type": "tldrBox",
+    "items": [
+     "Core Web Vitals — три метрики Google о реальном опыте посетителя: LCP (скорость появления главного блока), INP (скорость реакции на клик), CLS (стабильность вёрстки).",
+     "Хорошо — это LCP до 2,5 с, INP до 200 мс, CLS до 0,1 в 75% реальных визитов.",
+     "FID больше не используется: в марте 2024 его заменил INP.",
+     "На позиции влияют, но слабо. На конверсию и отказы — сильно.",
+     "Лабораторные баллы PageSpeed и полевые данные CrUX почти всегда расходятся. Решения принимают по полевым.",
+     "Во всех наших пакетах Lighthouse Performance 90+, в кейсе клиники Efedra LCP — 0,8 с."
+    ],
+    "title": "Коротко"
+   },
+   {
+    "_key": "lt33j0cw",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt31io4y",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Core Web Vitals"
+     },
+     {
+      "_key": "lt32iu8x",
+      "_type": "span",
+      "marks": [],
+      "text": " — это три показателя Google, которые измеряют, насколько быстро и стабильно страница работает для живого человека: LCP показывает, когда отрисовался самый крупный видимый элемент, INP — сколько браузер думает после клика, CLS — не прыгает ли контент во время загрузки. Google считает результат хорошим, если в 75% реальных визитов LCP не превышает 2,5 секунды, INP — 200 миллисекунд, а CLS — 0,1."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt35jcku",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt34j6gv",
+      "_type": "span",
+      "marks": [],
+      "text": "Сразу снимем главную путаницу: Core Web Vitals — это не «оценка сайта» и не балл от 0 до 100. Балл в PageSpeed Insights считает робот на эмуляции, а Core Web Vitals собираются из браузеров Chrome ваших настоящих посетителей. Поэтому зелёные 95 баллов и красные Core Web Vitals в Search Console спокойно уживаются на одном сайте."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt37joss",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt36jiot",
+      "_type": "span",
+      "marks": [],
+      "text": "Простыми словами"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt3fl1ok",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt38juwr",
+      "_type": "span",
+      "marks": [],
+      "text": "Представьте, что сайт — это кофейня. "
+     },
+     {
+      "_key": "lt39k10q",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "LCP"
+     },
+     {
+      "_key": "lt3ak74p",
+      "_type": "span",
+      "marks": [],
+      "text": " — время, за которое вам вынесли кофе: пока его нет, вы просто стоите у стойки и не понимаете, заметили вас вообще или нет. "
+     },
+     {
+      "_key": "lt3bkd8o",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "INP"
+     },
+     {
+      "_key": "lt3ckjcn",
+      "_type": "span",
+      "marks": [],
+      "text": " — как быстро бариста реагирует на вопрос: вы нажали «Записаться», и дальше либо открывается форма, либо полсекунды не происходит ничего, и вы жмёте ещё раз. "
+     },
+     {
+      "_key": "lt3dkpgm",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "CLS"
+     },
+     {
+      "_key": "lt3ekvkl",
+      "_type": "span",
+      "marks": [],
+      "text": " — не двигают ли под вами стол: вы уже прицелились в кнопку, и в этот момент сверху грузится баннер, всё съезжает вниз, и палец попадает не туда."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt3hldwi",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3gl7sj",
+      "_type": "span",
+      "marks": [],
+      "text": "Это измерение не «красоты кода», а обычного раздражения: человек, дважды ткнувший в кнопку без реакции, редко доходит до заявки."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt3jlq4g",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3ilk0h",
+      "_type": "span",
+      "marks": [],
+      "text": "Три метрики: что измеряют и что их ломает"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt3lm2ce",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3klw8f",
+      "_type": "span",
+      "marks": [],
+      "text": "Состав Core Web Vitals на 2026 год — с порогами Google и самыми частыми причинами провала."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt3mm8gd",
+    "_type": "blogTable",
+    "headers": [
+     "Метрика",
+     "Что измеряет",
+     "Хорошее значение",
+     "Что обычно ломает"
+    ],
+    "rows": [
+     {
+      "_key": "lt3nmekc",
+      "_type": "blogTableRow",
+      "cells": [
+       "**LCP** (Largest Contentful Paint)",
+       "Когда на экране появился самый крупный видимый элемент — баннер, главное фото или большой заголовок",
+       "до 2,5 с",
+       "Тяжёлое необработанное изображение в первом экране, медленный хостинг, шрифты и сторонние скрипты, блокирующие рендер"
+      ]
+     },
+     {
+      "_key": "lt3omkob",
+      "_type": "blogTableRow",
+      "cells": [
+       "**INP** (Interaction to Next Paint)",
+       "Сколько браузер думает после клика, тапа или ввода — берётся худшее взаимодействие за визит",
+       "до 200 мс",
+       "Десяток сторонних скриптов, тяжёлые чаты и виджеты, JavaScript, который начинает считать прямо в момент клика"
+      ]
+     },
+     {
+      "_key": "lt3pmqsa",
+      "_type": "blogTableRow",
+      "cells": [
+       "**CLS** (Cumulative Layout Shift)",
+       "Насколько сильно контент прыгает во время загрузки страницы",
+       "до 0,1",
+       "Изображения без заданных размеров, баннеры и куки-плашки, вставляемые сверху, шрифты, подменяемые после загрузки"
+      ]
+     }
+    ]
+   },
+   {
+    "_key": "lt3rn308",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3qmww9",
+      "_type": "span",
+      "marks": [],
+      "text": "Почему в списке нет FID"
+     }
+    ],
+    "markDefs": [],
+    "style": "h3"
+   },
+   {
+    "_key": "lt3tnf86",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3sn947",
+      "_type": "span",
+      "marks": [],
+      "text": "До марта 2024 третьей метрикой был FID — First Input Delay. Он мерил только задержку до начала обработки первого взаимодействия, поэтому почти все сайты проходили его «на зелёном», даже если после клика интерфейс замирал на секунду. INP мерит весь путь: от касания до момента, когда браузер отрисовал ответ. Если вы читаете статью или чек-лист, где до сих пор фигурирует FID, — материал старше двух лет, и советы там тоже устарели."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt3vnrg4",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3unlc5",
+      "_type": "span",
+      "marks": [],
+      "text": "Лабораторные данные против полевых"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt3xo3o2",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3wnxk3",
+      "_type": "span",
+      "marks": [],
+      "text": "В PageSpeed Insights два блока, и их путают постоянно. Верхний — полевые данные из CrUX: реальные визиты пользователей Chrome за последние 28 дней. Нижний — лабораторный прогон Lighthouse: один запуск робота на эмулированном среднем мобильном с урезанной сетью, без вашего кэша и без реального поведения людей."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt3zofw0",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3yo9s1",
+      "_type": "span",
+      "marks": [],
+      "text": "Цифры расходятся почти всегда, и это нормально:"
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt41os3y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt40olzz",
+      "_type": "span",
+      "marks": [],
+      "text": "Лаборатория — один прогон на одном устройстве. Поле — тысячи визитов, в том числе со старых Android и плохого мобильного интернета."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt43p4bw",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt42oy7x",
+      "_type": "span",
+      "marks": [],
+      "text": "Лаборатория не кликает. INP в ней фактически не измеряется — только оценивается потенциальная задержка."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt45pgju",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt44pafv",
+      "_type": "span",
+      "marks": [],
+      "text": "Поле накапливается 28 дней. Вы починили LCP вчера — в Search Console это проявится через несколько недель."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt47psrs",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt46pmnt",
+      "_type": "span",
+      "marks": [],
+      "text": "Если трафика на странице мало, полевых данных просто не будет, и Google покажет данные по группе похожих страниц."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt49q4zq",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt48pyvr",
+      "_type": "span",
+      "marks": [],
+      "text": "Вывод простой: лаборатория — чтобы найти причину, поле — чтобы оценить результат."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4bqh7o",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4aqb3p",
+      "_type": "span",
+      "marks": [],
+      "text": "Влияют ли Core Web Vitals на позиции"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt4dqtfm",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4cqnbn",
+      "_type": "span",
+      "marks": [],
+      "text": "Честный ответ: да, но это слабый фактор. Core Web Vitals входят в сигналы опыта страницы и работают скорее как тайбрейкер — когда два материала одинаково отвечают запросу, более быстрый получает преимущество. Обогнать более сильного конкурента только за счёт зелёных метрик не выйдет: релевантность и авторитет весят больше."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4irnzh",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4eqzjl",
+      "_type": "span",
+      "marks": [],
+      "text": "Зато на деньги они влияют напрямую. Медленный первый экран — это отказы ещё до того, как человек увидел предложение. Прыгающий макет — промахи по кнопкам и брошенные формы. Задержка после клика — повторные нажатия и дубли заявок. Мы видели это на медицинских проектах: подробный разбор есть в статье "
+     },
+     {
+      "_key": "lt4grbrj",
+      "_type": "span",
+      "marks": [
+       "lt4fr5nk"
+      ],
+      "text": "скорость медицинского сайта"
+     },
+     {
+      "_key": "lt4hrhvi",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt4fr5nk",
+      "_type": "link",
+      "href": "/ru/blog/skorost-medicinskogo-sayta"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4ks07f",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4jru3g",
+      "_type": "span",
+      "marks": [],
+      "text": "Как посмотреть свои цифры"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt4qt0v9",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4ls6be",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Google Search Console → Опыт → Основные интернет-показатели."
+     },
+     {
+      "_key": "lt4mscfd",
+      "_type": "span",
+      "marks": [],
+      "text": " Главный отчёт: полевые данные по всему сайту, отдельно для мобильных и десктопа, сгруппированные по типам страниц. Если вы ещё не ориентируетесь в панели, у нас есть разбор: "
+     },
+     {
+      "_key": "lt4osonb",
+      "_type": "span",
+      "marks": [
+       "lt4nsijc"
+      ],
+      "text": "как читать Google Search Console"
+     },
+     {
+      "_key": "lt4psura",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [
+     {
+      "_key": "lt4nsijc",
+      "_type": "link",
+      "href": "/ru/blog/kak-chitat-google-search-console"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4ttj76",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4rt6z8",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "PageSpeed Insights."
+     },
+     {
+      "_key": "lt4std37",
+      "_type": "span",
+      "marks": [],
+      "text": " Проверка конкретного URL: сверху поле, снизу лаборатория и список конкретных причин."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4wu1j3",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4utpb5",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Chrome DevTools, вкладка Performance и панель Lighthouse."
+     },
+     {
+      "_key": "lt4vtvf4",
+      "_type": "span",
+      "marks": [],
+      "text": " Здесь ищут причину: какой именно элемент является LCP, какой скрипт съедает время до отклика."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4zujv0",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4xu7n2",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Расширение Web Vitals для Chrome."
+     },
+     {
+      "_key": "lt4yudr1",
+      "_type": "span",
+      "marks": [],
+      "text": " Показывает три метрики прямо во время обычного просмотра сайта — удобно для быстрой проверки конкурентов."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt51uw2y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt50upyz",
+      "_type": "span",
+      "marks": [],
+      "text": "Типичные ошибки"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt54veev",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt52v26x",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Погоня за 100 баллами."
+     },
+     {
+      "_key": "lt53v8aw",
+      "_type": "span",
+      "marks": [],
+      "text": " Сто баллов в PageSpeed ничего не добавляют к позициям и не окупают потраченных часов. Зелёная зона — это порог, а не соревнование."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt57vwqs",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt55vkiu",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Оптимизация лабораторных вместо полевых."
+     },
+     {
+      "_key": "lt56vqmt",
+      "_type": "span",
+      "marks": [],
+      "text": " Классическая ловушка: балл вырос, а реальные пользователи ничего не заметили, потому что их проблема была в другом — в сторонних скриптах, которые робота почти не нагружают."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt5awf2p",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt58w2ur",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Смотреть одну страницу."
+     },
+     {
+      "_key": "lt59w8yq",
+      "_type": "span",
+      "marks": [],
+      "text": " Метрики собираются по группам похожих URL. Идеальная главная не спасает, если проседают все карточки услуг."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt5dwxem",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt5bwl6o",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Игнорировать мобильную версию."
+     },
+     {
+      "_key": "lt5cwran",
+      "_type": "span",
+      "marks": [],
+      "text": " Основной трафик мобильный, и именно там LCP и INP обычно проваливаются."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt5gxfqj",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt5ex3il",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Ставить скорость последним пунктом проекта."
+     },
+     {
+      "_key": "lt5fx9mk",
+      "_type": "span",
+      "marks": [],
+      "text": " Лёгкие изображения и минимум сторонних скриптов дешевле заложить на этапе вёрстки, чем переделывать сданный сайт."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt5ixryh",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt5hxlui",
+      "_type": "span",
+      "marks": [],
+      "text": "Как это выглядит у нас"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt5myged",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt5jxy2g",
+      "_type": "span",
+      "marks": [],
+      "text": "Скорость у нас не «дополнительная опция»: "
+     },
+     {
+      "_key": "lt5ky46f",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Lighthouse Performance 90+ входит в каждый пакет"
+     },
+     {
+      "_key": "lt5lyaae",
+      "_type": "span",
+      "marks": [],
+      "text": " — от лендинга до кастомной платформы. Это записано в условиях, а не в обещаниях."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt5tzn66",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt5nymic",
+      "_type": "span",
+      "marks": [],
+      "text": "Самый показательный пример — "
+     },
+     {
+      "_key": "lt5pyyqa",
+      "_type": "span",
+      "marks": [
+       "lt5oysmb"
+      ],
+      "text": "сайт клиники Efedra"
+     },
+     {
+      "_key": "lt5qz4u9",
+      "_type": "span",
+      "marks": [],
+      "text": ": "
+     },
+     {
+      "_key": "lt5rzay8",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "LCP 0,8 секунды"
+     },
+     {
+      "_key": "lt5szh27",
+      "_type": "span",
+      "marks": [],
+      "text": " на мобильном, втрое лучше порога Google. Без магии: современные форматы изображений, статическая генерация, шрифты без блокировки рендера, ноль лишних скриптов в первом экране."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt5oysmb",
+      "_type": "link",
+      "href": "/ru/portfolio/efedra-clinic"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt5y10hq1",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt5uzta5",
+      "_type": "span",
+      "marks": [],
+      "text": "Если метрики уже красные на живом сайте, мы начинаем с технического аудита в рамках "
+     },
+     {
+      "_key": "lt5w105i3",
+      "_type": "span",
+      "marks": [
+       "lt5vzze4"
+      ],
+      "text": "SEO-сопровождения"
+     },
+     {
+      "_key": "lt5x10bm2",
+      "_type": "span",
+      "marks": [],
+      "text": " — сначала ищем, что именно держит LCP и INP, и только потом что-то трогаем."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt5vzze4",
+      "_type": "link",
+      "href": "/ru/seo"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "ss1527gaer",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ss1523ajeo",
+      "_type": "span",
+      "marks": [],
+      "text": "Проверить Core Web Vitals и всё, что тормозит ваш сайт, можно в рамках "
+     },
+     {
+      "_key": "ss15254v7",
+      "_type": "span",
+      "marks": [
+       "ss1524fy4f"
+      ],
+      "text": "аудита сайта за $300"
+     },
+     {
+      "_key": "ss15265ybk",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "ss1524fy4f",
+      "_type": "link",
+      "href": "/ru/audit"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt5z10nu0",
+    "_type": "ctaCallout",
+    "buttonHref": "/ru/seo",
+    "buttonLabel": "Заказать технический аудит",
+    "ctaHref": "/ru/seo",
+    "ctaLabel": "Заказать технический аудит",
+    "heading": "Красные Core Web Vitals в Search Console?",
+    "sub": "Посмотрим полевые данные вашего сайта, найдём реальные причины и скажем, что даст эффект, а что — просто красивый балл.",
+    "text": "Посмотрим полевые данные вашего сайта, найдём реальные причины и скажем, что даст эффект, а что — просто красивый балл.",
+    "title": "Красные Core Web Vitals в Search Console?"
+   }
+  ],
+  "uk": [
+   {
+    "_key": "lt063z",
+    "_type": "tldrBox",
+    "items": [
+     "Core Web Vitals — три метрики Google про реальний досвід відвідувача: LCP (швидкість появи головного блоку), INP (швидкість реакції на клік), CLS (стабільність верстки).",
+     "Добре — це LCP до 2,5 с, INP до 200 мс, CLS до 0,1 у 75% реальних візитів.",
+     "FID більше не використовується: у березні 2024 його замінив INP.",
+     "На позиції впливають, але слабко. На конверсію і відмови — сильно.",
+     "Лабораторні бали PageSpeed і польові дані CrUX майже завжди розходяться. Рішення ухвалюють за польовими.",
+     "У всіх наших пакетах Lighthouse Performance 90+, у кейсі клініки Efedra LCP — 0,8 с."
+    ],
+    "title": "Коротко"
+   },
+   {
+    "_key": "lt3ofw",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1c7y",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Core Web Vitals"
+     },
+     {
+      "_key": "lt2ibx",
+      "_type": "span",
+      "marks": [],
+      "text": " — це три показники Google, які вимірюють, наскільки швидко і стабільно сторінка працює для живої людини: LCP показує, коли намалювався найбільший видимий елемент, INP — скільки браузер думає після кліку, CLS — чи не стрибає контент під час завантаження. Google вважає результат добрим, якщо у 75% реальних візитів LCP не перевищує 2,5 секунди, INP — 200 мілісекунд, а CLS — 0,1."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt510nu",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4ujv",
+      "_type": "span",
+      "marks": [],
+      "text": "Важливо одразу зняти найпоширенішу плутанину: Core Web Vitals — це не «оцінка сайту» і не бал від 0 до 100. Бал у PageSpeed Insights рахує робот на емуляції, а Core Web Vitals збираються з браузерів Chrome ваших справжніх відвідувачів. Тому зелений бал 95 і червоні Core Web Vitals у Search Console спокійно уживаються на одному сайті."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt71cvs",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt616rt",
+      "_type": "span",
+      "marks": [],
+      "text": "Простими словами"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "ltf2prk",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt81izr",
+      "_type": "span",
+      "marks": [],
+      "text": "Уявіть, що сайт — це кав'ярня. "
+     },
+     {
+      "_key": "lt91p3q",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "LCP"
+     },
+     {
+      "_key": "lta1v7p",
+      "_type": "span",
+      "marks": [],
+      "text": " — час, за який вам винесли каву: поки її немає, ви просто стоїте біля стійки і не розумієте, чи вас узагалі помітили. "
+     },
+     {
+      "_key": "ltb21bo",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "INP"
+     },
+     {
+      "_key": "ltc27fn",
+      "_type": "span",
+      "marks": [],
+      "text": " — як швидко бариста реагує, коли ви щось питаєте: ви натиснули «Записатися», і далі або відкривається форма, або нічого не відбувається півсекунди, і ви тиснете ще раз. "
+     },
+     {
+      "_key": "ltd2djm",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "CLS"
+     },
+     {
+      "_key": "lte2jnl",
+      "_type": "span",
+      "marks": [],
+      "text": " — чи не пересувають під вами стіл: ви вже націлилися на кнопку, і в цей момент зверху вантажиться банер, усе з'їжджає вниз, і палець потрапляє не туди."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lth31zi",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ltg2vvj",
+      "_type": "span",
+      "marks": [],
+      "text": "Це вимір не «краси коду», а звичайного роздратування: людина, яка двічі тицьнула в кнопку без реакції, рідко доходить до заявки."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "ltj3e7g",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lti383h",
+      "_type": "span",
+      "marks": [],
+      "text": "Три метрики: що вимірюють і що їх ламає"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "ltl3qfe",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ltk3kbf",
+      "_type": "span",
+      "marks": [],
+      "text": "Склад Core Web Vitals на 2026 рік — з порогами Google і найчастішими причинами провалу."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "ltm3wjd",
+    "_type": "blogTable",
+    "headers": [
+     "Метрика",
+     "Що вимірює",
+     "Добре значення",
+     "Що зазвичай ламає"
+    ],
+    "rows": [
+     {
+      "_key": "ltn42nc",
+      "_type": "blogTableRow",
+      "cells": [
+       "**LCP** (Largest Contentful Paint)",
+       "Коли на екрані з'явився найбільший видимий елемент — банер, головне фото або великий заголовок",
+       "до 2,5 с",
+       "Важке необроблене зображення в першому екрані, повільний хостинг, шрифти і сторонні скрипти, що блокують рендер"
+      ]
+     },
+     {
+      "_key": "lto48rb",
+      "_type": "blogTableRow",
+      "cells": [
+       "**INP** (Interaction to Next Paint)",
+       "Скільки браузер думає після кліку, тапу або вводу — береться найгірша взаємодія за візит",
+       "до 200 мс",
+       "Десяток сторонніх скриптів, важкі чати й віджети, JavaScript, який починає рахувати саме в момент кліку"
+      ]
+     },
+     {
+      "_key": "ltp4eva",
+      "_type": "blogTableRow",
+      "cells": [
+       "**CLS** (Cumulative Layout Shift)",
+       "Наскільки сильно контент стрибає під час завантаження сторінки",
+       "до 0,1",
+       "Зображення без заданих розмірів, банери й куки-плашки, що вставляються зверху, шрифти, які підміняються після завантаження"
+      ]
+     }
+    ]
+   },
+   {
+    "_key": "ltr4r38",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ltq4kz9",
+      "_type": "span",
+      "marks": [],
+      "text": "Чому в списку немає FID"
+     }
+    ],
+    "markDefs": [],
+    "style": "h3"
+   },
+   {
+    "_key": "ltt53b6",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lts4x77",
+      "_type": "span",
+      "marks": [],
+      "text": "До березня 2024 третьою метрикою був FID — First Input Delay. Він міряв лише затримку до початку обробки першої взаємодії, тому майже всі сайти проходили його «на зеленому», навіть якщо після кліку інтерфейс завмирав на секунду. INP міряє повний шлях: від дотику до моменту, коли браузер намалював відповідь на екрані. Якщо ви читаєте статтю чи чекліст, де досі фігурує FID, — це матеріал старший за два роки, і поради там теж застаріли."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "ltv5fj4",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ltu59f5",
+      "_type": "span",
+      "marks": [],
+      "text": "Лабораторні дані проти польових"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "ltx5rr2",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ltw5ln3",
+      "_type": "span",
+      "marks": [],
+      "text": "У PageSpeed Insights два блоки, і плутають їх постійно. Верхній — польові дані з CrUX: реальні візити користувачів Chrome за останні 28 днів. Нижній — лабораторний прогін Lighthouse: один запуск робота на емульованому середньому мобільному з обмеженою мережею, без вашого кешу і без реальної поведінки людей."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "ltz63z0",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lty5xv1",
+      "_type": "span",
+      "marks": [],
+      "text": "Числа розходяться майже завжди, і це нормально:"
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt116g6y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt106a2z",
+      "_type": "span",
+      "marks": [],
+      "text": "Лабораторія — один прогін на одному пристрої. Поле — тисячі візитів, зокрема зі старих Android і поганого мобільного інтернету."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt136sew",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt126max",
+      "_type": "span",
+      "marks": [],
+      "text": "Лабораторія не клікає. INP у ній фактично не міряється — тільки оцінюється потенційна затримка."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1574mu",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt146yiv",
+      "_type": "span",
+      "marks": [],
+      "text": "Поле накопичується 28 днів. Ви виправили LCP учора — у Search Console це проявиться за кілька тижнів."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt177gus",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt167aqt",
+      "_type": "span",
+      "marks": [],
+      "text": "Якщо трафіку на сторінці мало, польових даних просто не буде, і Google покаже дані по групі схожих сторінок."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt197t2q",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt187myr",
+      "_type": "span",
+      "marks": [],
+      "text": "Висновок простий: лабораторія — щоб знайти причину, поле — щоб оцінити результат."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1b85ao",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1a7z6p",
+      "_type": "span",
+      "marks": [],
+      "text": "Чи впливають Core Web Vitals на позиції"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt1d8him",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1c8ben",
+      "_type": "span",
+      "marks": [],
+      "text": "Чесна відповідь: так, але це слабкий фактор. Core Web Vitals входять до сигналів досвіду сторінки і працюють радше як тайбрейкер — коли два матеріали однаково відповідають запиту, швидший має перевагу. Обігнати сильнішого конкурента лише за рахунок зелених метрик не вийде: релевантність і авторитет важать більше."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1i9c2h",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1e8nml",
+      "_type": "span",
+      "marks": [],
+      "text": "Зате на гроші вони впливають напряму. Повільний перший екран — це відмови ще до того, як людина побачила пропозицію. Стрибучий макет — це промахи по кнопках і кинуті форми. Затримка після кліку — це повторні натискання і дублі заявок. Ми бачили це на медичних проєктах: детальний розбір є в статті "
+     },
+     {
+      "_key": "lt1g8zuj",
+      "_type": "span",
+      "marks": [
+       "lt1f8tqk"
+      ],
+      "text": "швидкість медичного сайту"
+     },
+     {
+      "_key": "lt1h95yi",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt1f8tqk",
+      "_type": "link",
+      "href": "/blog/shvydkist-medychnoho-saitu"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1k9oaf",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1j9i6g",
+      "_type": "span",
+      "marks": [],
+      "text": "Як подивитися свої цифри"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt1qaoy9",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1l9uee",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Google Search Console → Досвід → Основні інтернет-показники."
+     },
+     {
+      "_key": "lt1ma0id",
+      "_type": "span",
+      "marks": [],
+      "text": " Головний звіт: польові дані по всьому сайту, окремо для мобільних і десктопу, згруповані за типами сторінок. Якщо ви ще не орієнтуєтесь у панелі, у нас є розбір: "
+     },
+     {
+      "_key": "lt1oacqb",
+      "_type": "span",
+      "marks": [
+       "lt1na6mc"
+      ],
+      "text": "як читати Google Search Console"
+     },
+     {
+      "_key": "lt1paiua",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [
+     {
+      "_key": "lt1na6mc",
+      "_type": "link",
+      "href": "/blog/yak-chytaty-google-search-console"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1tb7a6",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1rav28",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "PageSpeed Insights."
+     },
+     {
+      "_key": "lt1sb167",
+      "_type": "span",
+      "marks": [],
+      "text": " Перевірка конкретного URL: зверху поле, знизу лабораторія і список конкретних причин."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1wbpm3",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1ubde5",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Chrome DevTools, вкладка Performance і панель Lighthouse."
+     },
+     {
+      "_key": "lt1vbji4",
+      "_type": "span",
+      "marks": [],
+      "text": " Тут шукають причину: який саме елемент є LCP, який скрипт з'їдає час до відгуку."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1zc7y0",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1xbvq2",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Розширення Web Vitals для Chrome."
+     },
+     {
+      "_key": "lt1yc1u1",
+      "_type": "span",
+      "marks": [],
+      "text": " Показує три метрики просто під час звичайного перегляду сайту — зручно для швидкої перевірки конкурентів."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt21ck5y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt20ce1z",
+      "_type": "span",
+      "marks": [],
+      "text": "Типові помилки"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt24d2hv",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt22cq9x",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Гонитва за 100 балами."
+     },
+     {
+      "_key": "lt23cwdw",
+      "_type": "span",
+      "marks": [],
+      "text": " Сто балів у PageSpeed нічого не додають до позицій і не окупають витрачених годин. Зелена зона — це поріг, а не змагання."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt27dkts",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt25d8lu",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Оптимізація лабораторних замість польових."
+     },
+     {
+      "_key": "lt26dept",
+      "_type": "span",
+      "marks": [],
+      "text": " Класична пастка: бал виріс, а реальні користувачі нічого не помітили, бо їхня проблема була в іншому — у сторонніх скриптах, які робот майже не навантажує."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2ae35p",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt28dqxr",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Дивитись одну сторінку."
+     },
+     {
+      "_key": "lt29dx1q",
+      "_type": "span",
+      "marks": [],
+      "text": " Метрики збираються по групах схожих URL. Ідеальна головна не рятує, якщо просідають усі картки послуг."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2delhm",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt2be99o",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Ігнорувати мобільну версію."
+     },
+     {
+      "_key": "lt2cefdn",
+      "_type": "span",
+      "marks": [],
+      "text": " Основний трафік мобільний, і саме там LCP і INP зазвичай провалюються."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2gf3tj",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt2eerll",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Ставити швидкість останнім пунктом проєкту."
+     },
+     {
+      "_key": "lt2fexpk",
+      "_type": "span",
+      "marks": [],
+      "text": " Легкі зображення і мінімум сторонніх скриптів дешевше закласти на етапі верстки, ніж переробляти зданий сайт."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2ifg1h",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt2hf9xi",
+      "_type": "span",
+      "marks": [],
+      "text": "Як це виглядає у нас"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt2mg4hd",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt2jfm5g",
+      "_type": "span",
+      "marks": [],
+      "text": "Швидкість у нас не «додаткова опція»: "
+     },
+     {
+      "_key": "lt2kfs9f",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Lighthouse Performance 90+ входить у кожен пакет"
+     },
+     {
+      "_key": "lt2lfyde",
+      "_type": "span",
+      "marks": [],
+      "text": " — від лендінгу до кастомної платформи. Це записано в умовах, а не в обіцянках."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2thb96",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt2ngalc",
+      "_type": "span",
+      "marks": [],
+      "text": "Найпоказовіший приклад — "
+     },
+     {
+      "_key": "lt2pgmta",
+      "_type": "span",
+      "marks": [
+       "lt2oggpb"
+      ],
+      "text": "сайт клініки Efedra"
+     },
+     {
+      "_key": "lt2qgsx9",
+      "_type": "span",
+      "marks": [],
+      "text": ": "
+     },
+     {
+      "_key": "lt2rgz18",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "LCP 0,8 секунди"
+     },
+     {
+      "_key": "lt2sh557",
+      "_type": "span",
+      "marks": [],
+      "text": " на мобільному, втричі краще за поріг Google. Без магії: сучасні формати зображень, статична генерація, шрифти без блокування рендеру, нуль зайвих скриптів у першому екрані."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt2oggpb",
+      "_type": "link",
+      "href": "/portfolio/efedra-clinic"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2yi5t1",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt2uhhd5",
+      "_type": "span",
+      "marks": [],
+      "text": "Якщо метрики вже червоні на живому сайті, ми починаємо з технічного аудиту в межах "
+     },
+     {
+      "_key": "lt2whtl3",
+      "_type": "span",
+      "marks": [
+       "lt2vhnh4"
+      ],
+      "text": "SEO-супроводу"
+     },
+     {
+      "_key": "lt2xhzp2",
+      "_type": "span",
+      "marks": [],
+      "text": " — спершу шукаємо, що саме тримає LCP і INP, і лише потім щось чіпаємо."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt2vhnh4",
+      "_type": "link",
+      "href": "/seo"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "ss15229shs",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ss151ycxzd",
+      "_type": "span",
+      "marks": [],
+      "text": "Перевірити Core Web Vitals і все, що гальмує ваш сайт, можна в межах "
+     },
+     {
+      "_key": "ss152055n3",
+      "_type": "span",
+      "marks": [
+       "ss151z5nre"
+      ],
+      "text": "аудиту сайту за $300"
+     },
+     {
+      "_key": "ss1521khaa",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "ss151z5nre",
+      "_type": "link",
+      "href": "/audit"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2zibx0",
+    "_type": "ctaCallout",
+    "buttonHref": "/seo",
+    "buttonLabel": "Замовити технічний аудит",
+    "ctaHref": "/seo",
+    "ctaLabel": "Замовити технічний аудит",
+    "heading": "Червоні Core Web Vitals у Search Console?",
+    "sub": "Подивимось польові дані вашого сайту, знайдемо реальні причини і скажемо, що дасть ефект, а що — просто гарний бал.",
+    "text": "Подивимось польові дані вашого сайту, знайдемо реальні причини і скажемо, що дасть ефект, а що — просто гарний бал.",
+    "title": "Червоні Core Web Vitals у Search Console?"
+   }
+  ]
+ },
+ "category": {
+  "_ref": "65de7a1a-bfde-4e47-ab70-7e0ecf161f0a",
+  "_type": "reference"
+ },
+ "cover": {
+  "_type": "imageWithLocalizedAlt",
+  "alt": {
+   "_type": "localizedString",
+   "en": "Three light gauges of different heights, one falling short of a threshold line",
+   "ru": "Три световые шкалы разной высоты, одна не дотягивает до пороговой линии",
+   "uk": "Три світлові шкали різної висоти, одна не дотягує до порогової лінії"
+  },
+  "image": {
+   "_type": "image",
+   "asset": {
+    "_ref": "image-8e7560b7cc50dcb2005503cc6cae5ba3fde615f0-1600x900-webp",
+    "_type": "reference"
+   }
+  }
+ },
+ "eyebrow": {
+  "_type": "localizedString",
+  "en": "Glossary",
+  "ru": "Словарь",
+  "uk": "Словник"
+ },
+ "faq": [
+  {
+   "_key": "lt901j5uz",
+   "_type": "faqItem",
+   "answer": {
+    "_type": "localizedText",
+    "en": "They are three numbers Google collects from real visitors' browsers: how fast the main block of the page appeared (LCP), how fast the site responded to a click (INP), and how much the content jumped while loading (CLS). In practice they measure user irritation, not code quality.",
+    "ru": "Это три числа, которые Google собирает из браузеров реальных посетителей: как быстро появился главный блок страницы (LCP), как быстро сайт отреагировал на клик (INP) и насколько контент прыгал при загрузке (CLS). По сути это измерение раздражения пользователя, а не качества кода.",
+    "uk": "Це три числа, які Google збирає з браузерів реальних відвідувачів: як швидко з'явився головний блок сторінки (LCP), як швидко сайт відреагував на клік (INP) і наскільки контент стрибав під час завантаження (CLS). По суті це вимір роздратування користувача, а не якості коду."
+   },
+   "question": {
+    "_type": "localizedString",
+    "en": "What are Core Web Vitals in simple terms?",
+    "ru": "Что такое Core Web Vitals простыми словами?",
+    "uk": "Що таке Core Web Vitals простими словами?"
+   }
+  },
+  {
+   "_key": "lt911jbyy",
+   "_type": "faqItem",
+   "answer": {
+    "_type": "localizedText",
+    "en": "LCP under 2.5 seconds, INP under 200 milliseconds, CLS under 0.1. The detail that matters: the threshold has to hold across 75% of real visits, measured separately for mobile and desktop. One good test on a fast laptop proves nothing.",
+    "ru": "LCP до 2,5 секунды, INP до 200 миллисекунд, CLS до 0,1. Важная деталь: порог должен выдерживаться в 75% реальных визитов, отдельно для мобильных и десктопа. Один удачный тест на быстром ноутбуке ничего не доказывает.",
+    "uk": "LCP до 2,5 секунди, INP до 200 мілісекунд, CLS до 0,1. Важлива деталь: поріг має витримуватись у 75% реальних візитів, окремо для мобільних і десктопу. Один вдалий тест на швидкому ноутбуці нічого не доводить."
+   },
+   "question": {
+    "_type": "localizedString",
+    "en": "What counts as a good Core Web Vitals score?",
+    "ru": "Какие значения Core Web Vitals считаются хорошими?",
+    "uk": "Які значення Core Web Vitals вважаються добрими?"
+   }
+  },
+  {
+   "_key": "lt921ji2x",
+   "_type": "faqItem",
+   "answer": {
+    "_type": "localizedText",
+    "en": "They do, but weakly — more of a tiebreaker between pages that answer the query equally well. Content relevance and domain authority weigh much more. The real payoff of green metrics is fewer bounces and more enquiries, not a jump in the rankings.",
+    "ru": "Влияют, но это слабый фактор — скорее тайбрейкер между страницами, которые одинаково отвечают запросу. Релевантность контента и авторитет домена весят намного больше. Реальная выгода от зелёных метрик — меньше отказов и больше заявок, а не скачок в выдаче.",
+    "uk": "Впливають, але це слабкий фактор — радше тайбрейкер між сторінками, які однаково відповідають запиту. Релевантність контенту і авторитет домену важать значно більше. Реальна вигода від зелених метрик — менше відмов і більше заявок, а не стрибок у видачі."
+   },
+   "question": {
+    "_type": "localizedString",
+    "en": "Do Core Web Vitals affect Google rankings?",
+    "ru": "Влияют ли Core Web Vitals на позиции в Google?",
+    "uk": "Чи впливають Core Web Vitals на позиції в Google?"
+   }
+  },
+  {
+   "_key": "lt931jo6w",
+   "_type": "faqItem",
+   "answer": {
+    "_type": "localizedText",
+    "en": "Because they are different datasets. The PageSpeed score is a lab run by a robot in sterile conditions, while Search Console reports field data from real Chrome users over 28 days: old phones, poor connections, all the third-party scripts running. Judge by the field numbers; the lab run is only there to help you find the cause.",
+    "ru": "Потому что это разные данные. Балл PageSpeed — лабораторный прогон робота в стерильных условиях, а Search Console показывает полевые данные реальных пользователей Chrome за 28 дней: старые телефоны, плохой интернет, включённые сторонние скрипты. Ориентироваться нужно на полевые цифры, лабораторные нужны только для поиска причины.",
+    "uk": "Тому що це різні дані. Бал PageSpeed — лабораторний прогін робота в стерильних умовах, а Search Console показує польові дані реальних користувачів Chrome за 28 днів: старі телефони, поганий інтернет, увімкнені сторонні скрипти. Орієнтуватися треба на польові цифри, лабораторні потрібні лише для пошуку причини."
+   },
+   "question": {
+    "_type": "localizedString",
+    "en": "Why does PageSpeed show 95 while Search Console says “needs improvement”?",
+    "ru": "Почему PageSpeed показывает 95 баллов, а Search Console — «требует улучшения»?",
+    "uk": "Чому PageSpeed показує 95 балів, а Search Console — «потребує покращення»?"
+   }
+  }
+ ],
+ "lede": {
+  "_type": "localizedString",
+  "en": "Three Google metrics, three thresholds and one common mistake: optimising the score instead of the actual users. LCP, INP and CLS, explained without the jargon.",
+  "ru": "Три метрики Google, три порога и одна частая ошибка — оптимизировать балл вместо реальных пользователей. Разбираем LCP, INP и CLS без терминологии ради терминологии.",
+  "uk": "Три метрики Google, три пороги і одна поширена помилка — оптимізувати бал замість реальних користувачів. Розбираємо LCP, INP і CLS без термінології заради термінології."
+ },
+ "metaDescription": {
+  "_type": "localizedString",
+  "en": "➤ Core Web Vitals explained: LCP, INP and CLS. ✔️ What counts as a good value ✔️ Why lab and field data disagree ➡ How to check your own numbers in GSC.",
+  "ru": "➤ Core Web Vitals простыми словами: LCP, INP и CLS. ✔️ Какие значения хорошие ✔️ Чем поле отличается от лаборатории ➡ Как посмотреть свои цифры.",
+  "uk": "➤ Core Web Vitals простими словами: LCP, INP і CLS. ✔️ Які значення добрі ✔️ Чим поле відрізняється від лабораторії ➡ Як подивитися свої цифри."
+ },
+ "metaTitle": {
+  "_type": "localizedString",
+  "en": "What Are Core Web Vitals: LCP, INP, CLS",
+  "ru": "Core Web Vitals — что это простыми словами",
+  "uk": "Core Web Vitals — що це простими словами"
+ },
+ "publishedAt": "2026-08-30T10:00:00.000Z",
+ "readingTimeMinutes": 6,
+ "relatedPostSlugs": [
+  "shvydkist-medychnoho-saitu",
+  "yak-chytaty-google-search-console",
+  "shcho-take-seo"
+ ],
+ "slugs": {
+  "en": {
+   "_type": "slug",
+   "current": "what-are-core-web-vitals"
+  },
+  "ru": {
+   "_type": "slug",
+   "current": "chto-takoe-core-web-vitals"
+  },
+  "uk": {
+   "_type": "slug",
+   "current": "shcho-take-core-web-vitals"
+  }
+ },
+ "status": "published",
+ "tags": [
+  "core web vitals",
+  "швидкість сайту",
+  "технічне SEO"
+ ],
+ "title": {
+  "_type": "localizedString",
+  "en": "What Are Core Web Vitals and How to Read Them",
+  "ru": "Core Web Vitals — что это и как их читать",
+  "uk": "Core Web Vitals — що це і як їх читати"
+ },
+ "updatedAt": "2026-08-30T10:00:00.000Z"
+}

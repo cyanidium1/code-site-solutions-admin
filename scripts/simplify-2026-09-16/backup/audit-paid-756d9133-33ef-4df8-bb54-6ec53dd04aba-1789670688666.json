@@ -1,0 +1,1210 @@
+{
+ "_createdAt": "2026-08-16T09:59:59Z",
+ "_id": "756d9133-33ef-4df8-bb54-6ec53dd04aba",
+ "_rev": "W3ZXxmqSHEBDdxSinfHnyM",
+ "_type": "blogPost",
+ "_updatedAt": "2026-08-30T21:49:14Z",
+ "author": {
+  "bio": "SEO-спеціалістка Code-Site.Art. Веде пошукові кампанії клієнтів студії — від локального SEO клінік до e-commerce.",
+  "name": "Кристина Бондаренко",
+  "photoUrl": "/team/kristina.jpg",
+  "role": "SEO Specialist"
+ },
+ "body": {
+  "en": [
+   {
+    "_key": "b40m4",
+    "_type": "tldrBox",
+    "items": [
+     "AI search is here: Google's **AI Overviews** and ChatGPT answers cite websites — and send clients.",
+     "The good news: LLMs love what Google loves — **structure, facts, direct answers**",
+     "Best-cited formats: FAQ blocks, tables, numbers, plain definitions",
+     "The core currency is fact consistency: one price and one set of numbers on every page"
+    ],
+    "title": "In 60 seconds"
+   },
+   {
+    "_key": "b40m5",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40m6",
+      "_type": "span",
+      "marks": [],
+      "text": "What changed in search"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b40m7",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40m8",
+      "_type": "span",
+      "marks": [],
+      "text": "More and more people ask ChatGPT or see Google's AI answer above the results. The model assembles its answer from websites and cites sources — a new shelf of visibility exists: being the AI's source. It doesn't replace SEO; it extends it. AI answers mostly draw on sites search already treats as authoritative."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40m9",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40ma",
+      "_type": "span",
+      "marks": [],
+      "text": "What language models love"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b40md",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40mb",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Direct answers to questions. "
+     },
+     {
+      "_key": "b40mc",
+      "_type": "span",
+      "marks": [],
+      "text": "A \"How much does X cost?\" block with a concrete number in the first sentence is perfect quoting material. That's why FAQs with FAQPage markup are the best investment."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40mg",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40me",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Tables and structure. "
+     },
+     {
+      "_key": "b40mf",
+      "_type": "span",
+      "marks": [],
+      "text": "Comparisons, tiers, steps — LLMs happily retell tables because the facts are already laid out."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40mj",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40mh",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Numbers and dates. "
+     },
+     {
+      "_key": "b40mi",
+      "_type": "span",
+      "marks": [],
+      "text": "\"In 2026 a landing page costs from £800\" gets cited better than \"prices are affordable\". Freshness counts too: the year in the title works."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40mm",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40mk",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Consistency. "
+     },
+     {
+      "_key": "b40ml",
+      "_type": "span",
+      "marks": [],
+      "text": "If one page says £800 and another £1,000, the model either picks at random or doesn't cite you at all. One fact — one version everywhere."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40mp",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40mn",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Authors and expertise. "
+     },
+     {
+      "_key": "b40mo",
+      "_type": "span",
+      "marks": [],
+      "text": "Bylined articles with real names and roles are the E-E-A-T both Google and the models read."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40mq",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40mr",
+      "_type": "span",
+      "marks": [],
+      "text": "What to do on your site this month"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b40ms",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40mt",
+      "_type": "span",
+      "marks": [],
+      "text": "Add FAQ blocks with schema markup to key pages — with direct answers"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40mu",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40mv",
+      "_type": "span",
+      "marks": [],
+      "text": "Open articles with a \"60-second\" summary block carrying the key numbers"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40mw",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40mx",
+      "_type": "span",
+      "marks": [],
+      "text": "Reconcile facts across pages: prices, timelines, case numbers"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40my",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40mz",
+      "_type": "span",
+      "marks": [],
+      "text": "Byline articles with real authors and roles"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40n0",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40n1",
+      "_type": "span",
+      "marks": [],
+      "text": "Don't block AI bots in robots.txt if you want answer visibility"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40n2",
+    "_type": "blogImage",
+    "alt": "A laptop screen with an analytics interface",
+    "asset": {
+     "_ref": "image-335e5767f1ac6e13732d8190bbf09b28036a4176-1600x1067-jpg",
+     "_type": "reference"
+    },
+    "caption": "AI visibility has no dashboard of its own yet — but ChatGPT referral traffic already shows in GA4"
+   },
+   {
+    "_key": "b40n3",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40n4",
+      "_type": "span",
+      "marks": [],
+      "text": "How to tell it's working"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b40n5",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40n6",
+      "_type": "span",
+      "marks": [],
+      "text": "There's no \"Search Console for ChatGPT\" yet. What you can do: watch referral traffic from chatgpt.com and perplexity.ai in GA4, ask new clients \"how did you hear about us\", and periodically quiz the models about your niche to see if you come up. It's an early market: whoever structures content now collects the citations for years."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40nb",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40n7",
+      "_type": "span",
+      "marks": [],
+      "text": "We build this into every site by default: FAQ markup, structured data, consistent facts — part of the standard described on the "
+     },
+     {
+      "_key": "b40n9",
+      "_type": "span",
+      "marks": [
+       "b40n8"
+      ],
+      "text": "SEO services page"
+     },
+     {
+      "_key": "b40na",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "b40n8",
+      "_type": "link",
+      "href": "/en/seo",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "b40nc",
+    "_type": "ctaCallout",
+    "ctaHref": "/en/contacts",
+    "ctaLabel": "Order an audit",
+    "ctaMode": "modal",
+    "ctaSecondaryHref": "/en/blog/google-search-console-for-business-owners",
+    "ctaSecondaryLabel": "Read the Search Console guide",
+    "eyebrow": "AI readiness",
+    "heading": "Want to know if AI cites you?",
+    "leadSource": "blog-ai-poshuk-yak-potrapyty-u-vidpovidi",
+    "sub": "The £300 SEO audit includes an AI-readiness check: structure, markup, fact consistency and what to fix first."
+   }
+  ],
+  "ru": [
+   {
+    "_key": "b40kv",
+    "_type": "tldrBox",
+    "items": [
+     "AI-поиск уже здесь: **AI Overviews** в Google и ответы ChatGPT цитируют сайты — и приводят клиентов.",
+     "Хорошая новость: LLM любят то же, что и Google — **структуру, факты, чёткие ответы**",
+     "Лучше всего цитируются: FAQ-блоки, таблицы, цифры, прямые определения",
+     "Главная валюта — консистентность фактов: одна цена и одни цифры на всех страницах"
+    ],
+    "title": "За 60 секунд"
+   },
+   {
+    "_key": "b40kw",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40kx",
+      "_type": "span",
+      "marks": [],
+      "text": "Что изменилось в поиске"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b40ky",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40kz",
+      "_type": "span",
+      "marks": [],
+      "text": "Всё больше людей спрашивает ChatGPT или видит AI-ответ Google над результатами. Модель собирает ответ из сайтов и цитирует источники — то есть появилась новая полка видимости: быть источником для ИИ. Это не замена SEO, а его продолжение: в AI-ответы попадают преимущественно те, кого поиск и так считает авторитетным."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40l0",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40l1",
+      "_type": "span",
+      "marks": [],
+      "text": "Что любят языковые модели"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b40l4",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40l2",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Прямые ответы на вопросы. "
+     },
+     {
+      "_key": "b40l3",
+      "_type": "span",
+      "marks": [],
+      "text": "Блок «Сколько стоит X?» с конкретной цифрой в первом предложении — идеальный материал для цитаты. Поэтому FAQ с разметкой FAQPage — лучшая инвестиция."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40l7",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40l5",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Таблицы и структура. "
+     },
+     {
+      "_key": "b40l6",
+      "_type": "span",
+      "marks": [],
+      "text": "Сравнения, тарифы, шаги — LLM охотно пересказывают таблицы, потому что в них факты уже разложены."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40la",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40l8",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Цифры и даты. "
+     },
+     {
+      "_key": "b40l9",
+      "_type": "span",
+      "marks": [],
+      "text": "«В 2026 лендинг стоит от $800» цитируется лучше, чем «цены доступны». Свежесть тоже весит: год в заголовке работает."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40ld",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40lb",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Консистентность. "
+     },
+     {
+      "_key": "b40lc",
+      "_type": "span",
+      "marks": [],
+      "text": "Если на одной странице цена $800, а на другой $1,000 — модель либо выберет наугад, либо не процитирует вообще. Один факт — одна версия везде."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40lg",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40le",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Автора и экспертизу. "
+     },
+     {
+      "_key": "b40lf",
+      "_type": "span",
+      "marks": [],
+      "text": "Подписанные статьи с реальными именами и опытом — это E-E-A-T, который считывают и Google, и модели."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40lh",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40li",
+      "_type": "span",
+      "marks": [],
+      "text": "Что сделать на сайте уже в этом месяце"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b40lj",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40lk",
+      "_type": "span",
+      "marks": [],
+      "text": "Добавить FAQ-блоки со schema-разметкой на ключевые страницы — с прямыми ответами"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40ll",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40lm",
+      "_type": "span",
+      "marks": [],
+      "text": "Начинать статьи с блока-резюме «за 60 секунд» с главными цифрами"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40ln",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40lo",
+      "_type": "span",
+      "marks": [],
+      "text": "Сверить факты между страницами: цены, сроки, цифры кейсов"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40lp",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40lq",
+      "_type": "span",
+      "marks": [],
+      "text": "Подписать статьи реальными авторами с ролями"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40lr",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40ls",
+      "_type": "span",
+      "marks": [],
+      "text": "Не блокировать AI-ботов в robots.txt, если хотите видимость в ответах"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40lt",
+    "_type": "blogImage",
+    "alt": "Экран ноутбука с интерфейсом аналитики",
+    "asset": {
+     "_ref": "image-335e5767f1ac6e13732d8190bbf09b28036a4176-1600x1067-jpg",
+     "_type": "reference"
+    },
+    "caption": "У AI-видимости пока нет своего дашборда — но referral-трафик из ChatGPT уже виден в GA4"
+   },
+   {
+    "_key": "b40lu",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40lv",
+      "_type": "span",
+      "marks": [],
+      "text": "Как понять, что это работает"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b40lw",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40lx",
+      "_type": "span",
+      "marks": [],
+      "text": "Прямой «Search Console для ChatGPT» пока нет. Что можно: смотреть referral-трафик с chatgpt.com и perplexity.ai в GA4, спрашивать новых клиентов «откуда вы о нас узнали», и периодически самим спрашивать модели о своей нише — упоминают ли вас. Это ранний рынок: кто структурировал контент сейчас, тот собирает цитаты следующие годы."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40m2",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40ly",
+      "_type": "span",
+      "marks": [],
+      "text": "Мы строим это в каждый сайт по умолчанию: FAQ-разметка, структурированные данные, консистентные факты — часть стандарта, описанного на "
+     },
+     {
+      "_key": "b40m0",
+      "_type": "span",
+      "marks": [
+       "b40lz"
+      ],
+      "text": "странице SEO-услуги"
+     },
+     {
+      "_key": "b40m1",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "b40lz",
+      "_type": "link",
+      "href": "/ru/seo",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "b40m3",
+    "_type": "ctaCallout",
+    "ctaHref": "/ru/contacts",
+    "ctaLabel": "Заказать аудит",
+    "ctaMode": "modal",
+    "ctaSecondaryHref": "/ru/blog/kak-chitat-google-search-console",
+    "ctaSecondaryLabel": "Читать про Search Console",
+    "eyebrow": "AI-готовность",
+    "heading": "Хотите знать, цитирует ли вас ИИ?",
+    "leadSource": "blog-ai-poshuk-yak-potrapyty-u-vidpovidi",
+    "sub": "В SEO-аудит за $300 входит проверка AI-готовности: структура, разметка, консистентность фактов и что исправить первым."
+   }
+  ],
+  "uk": [
+   {
+    "_key": "b40jm",
+    "_type": "tldrBox",
+    "items": [
+     "AI-пошук уже тут: **AI Overviews** у Google і відповіді ChatGPT цитують сайти — і приводять клієнтів.",
+     "Хороша новина: LLM люблять те саме, що й Google — **структуру, факти, чіткі відповіді**",
+     "Найкраще цитуються: FAQ-блоки, таблиці, цифри, прямі визначення",
+     "Головна валюта — консистентність фактів: одна ціна і одні цифри на всіх сторінках"
+    ],
+    "title": "За 60 секунд"
+   },
+   {
+    "_key": "b40jn",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40jo",
+      "_type": "span",
+      "marks": [],
+      "text": "Що змінилось у пошуку"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b40jp",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40jq",
+      "_type": "span",
+      "marks": [],
+      "text": "Дедалі більше людей питає ChatGPT або бачить AI-відповідь Google над результатами. Модель збирає відповідь із сайтів і цитує джерела — тобто зʼявилась нова полиця видимості: бути джерелом для ШІ. Це не заміна SEO, а його продовження: у AI-відповіді потрапляють переважно ті, кого пошук і так вважає авторитетним."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40jr",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40js",
+      "_type": "span",
+      "marks": [],
+      "text": "Що люблять мовні моделі"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b40jv",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40jt",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Прямі відповіді на питання. "
+     },
+     {
+      "_key": "b40ju",
+      "_type": "span",
+      "marks": [],
+      "text": "Блок «Скільки коштує X?» з конкретною цифрою в першому реченні — ідеальний матеріал для цитати. Тому FAQ із розміткою FAQPage — найкраща інвестиція."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40jy",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40jw",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Таблиці і структура. "
+     },
+     {
+      "_key": "b40jx",
+      "_type": "span",
+      "marks": [],
+      "text": "Порівняння, тарифи, кроки — LLM охоче переказують таблиці, бо в них факти вже розкладені."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40k1",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40jz",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Цифри і дати. "
+     },
+     {
+      "_key": "b40k0",
+      "_type": "span",
+      "marks": [],
+      "text": "«У 2026 лендінг коштує від $800» цитується краще, ніж «ціни доступні». Свіжість теж важить: рік у заголовку працює."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40k4",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40k2",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Консистентність. "
+     },
+     {
+      "_key": "b40k3",
+      "_type": "span",
+      "marks": [],
+      "text": "Якщо на одній сторінці ціна $800, а на іншій $1,000 — модель або обере навмання, або не процитує взагалі. Один факт — одна версія скрізь."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40k7",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40k5",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Автора і експертизу. "
+     },
+     {
+      "_key": "b40k6",
+      "_type": "span",
+      "marks": [],
+      "text": "Підписані статті з реальними іменами і досвідом — це E-E-A-T, який зчитують і Google, і моделі."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40k8",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40k9",
+      "_type": "span",
+      "marks": [],
+      "text": "Що зробити на сайті вже цього місяця"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b40ka",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40kb",
+      "_type": "span",
+      "marks": [],
+      "text": "Додати FAQ-блоки зі schema-розміткою на ключові сторінки — з прямими відповідями"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40kc",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40kd",
+      "_type": "span",
+      "marks": [],
+      "text": "Почати статті з блоку-резюме «за 60 секунд» із головними цифрами"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40ke",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40kf",
+      "_type": "span",
+      "marks": [],
+      "text": "Звірити факти між сторінками: ціни, терміни, цифри кейсів"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40kg",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40kh",
+      "_type": "span",
+      "marks": [],
+      "text": "Підписати статті реальними авторами з ролями"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40ki",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40kj",
+      "_type": "span",
+      "marks": [],
+      "text": "Не блокувати AI-ботів у robots.txt, якщо хочете видимість у відповідях"
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40kk",
+    "_type": "blogImage",
+    "alt": "Екран ноутбука з інтерфейсом аналітики",
+    "asset": {
+     "_ref": "image-335e5767f1ac6e13732d8190bbf09b28036a4176-1600x1067-jpg",
+     "_type": "reference"
+    },
+    "caption": "AI-видимість поки не має власного дашборда — але referral-трафік із ChatGPT уже видно в GA4"
+   },
+   {
+    "_key": "b40kl",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40km",
+      "_type": "span",
+      "marks": [],
+      "text": "Як зрозуміти, що це працює"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b40kn",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40ko",
+      "_type": "span",
+      "marks": [],
+      "text": "Прямої «Search Console для ChatGPT» поки немає. Що можна: дивитись referral-трафік із chatgpt.com і perplexity.ai у GA4, питати нових клієнтів «звідки ви про нас дізнались», і періодично самим питати моделі про свою нішу — чи згадують вас. Це ранній ринок: хто структурував контент зараз, той збирає цитати наступні роки."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40kt",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40kp",
+      "_type": "span",
+      "marks": [],
+      "text": "Ми будуємо це в кожен сайт за замовчуванням: FAQ-розмітка, структуровані дані, консистентні факти — частина стандарту, описаного на "
+     },
+     {
+      "_key": "b40kr",
+      "_type": "span",
+      "marks": [
+       "b40kq"
+      ],
+      "text": "сторінці SEO-послуги"
+     },
+     {
+      "_key": "b40ks",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "b40kq",
+      "_type": "link",
+      "href": "/seo",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "b40ku",
+    "_type": "ctaCallout",
+    "ctaHref": "/contacts",
+    "ctaLabel": "Замовити аудит",
+    "ctaMode": "modal",
+    "ctaSecondaryHref": "/blog/yak-chytaty-google-search-console",
+    "ctaSecondaryLabel": "Читати про Search Console",
+    "eyebrow": "AI-готовність",
+    "heading": "Хочете знати, чи цитує вас ШІ?",
+    "leadSource": "blog-ai-poshuk-yak-potrapyty-u-vidpovidi",
+    "sub": "У SEO-аудит за $300 входить перевірка AI-готовності: структура, розмітка, консистентність фактів і що виправити першим."
+   }
+  ]
+ },
+ "category": {
+  "_ref": "65de7a1a-bfde-4e47-ab70-7e0ecf161f0a",
+  "_type": "reference"
+ },
+ "cover": {
+  "_type": "imageWithLocalizedAlt",
+  "alt": {
+   "_type": "localizedString",
+   "en": "A central void being filled by beams of light converging from many directions",
+   "ru": "Пустота в центре, которую заполняют лучи света с разных сторон",
+   "uk": "Порожнеча в центрі, яку заповнюють промені світла з різних боків"
+  },
+  "image": {
+   "_type": "image",
+   "asset": {
+    "_ref": "image-3edc544393f1bb2c427a2229792faddf76e2c8b3-1600x900-webp",
+    "_type": "reference"
+   }
+  }
+ },
+ "eyebrow": {
+  "en": "SEO · 7 min read",
+  "ru": "SEO · 7 мин чтения",
+  "uk": "SEO · 7 хв читання"
+ },
+ "faq": [
+  {
+   "_key": "b40nd",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "No. Ads are appearing in AI interfaces, but the citations inside answers are organic: models pick sources by relevance and authority. That's exactly the small business's chance against big budgets.",
+    "ru": "Нет. Реклама в AI-интерфейсах появляется, но цитаты в ответах — органические: модели выбирают источники по релевантности и авторитету. Это и есть шанс малого бизнеса против больших бюджетов.",
+    "uk": "Ні. Реклама в AI-інтерфейсах зʼявляється, але цитати у відповідях — органічні: моделі обирають джерела за релевантністю і авторитетом. Це і є шанс малого бізнесу проти великих бюджетів."
+   },
+   "question": {
+    "en": "Can you buy a spot in AI answers?",
+    "ru": "Можно ли купить место в AI-ответах?",
+    "uk": "Чи можна купити місце в AI-відповідях?"
+   }
+  },
+  {
+   "_key": "b40ne",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "AEO (answer engine optimisation) is SEO taken to its sharpest form: direct answers, structure, markup, consistent facts. There's no separate magic — a Google-ready site is nearly AI-ready.",
+    "ru": "AEO (answer engine optimization) — это то же SEO, доведённое до чёткости: прямые ответы, структура, разметка, консистентные факты. Отдельной магии нет — сайт, готовый к Google, почти готов и к ИИ.",
+    "uk": "AEO (answer engine optimization) — це те саме SEO, доведене до чіткості: прямі відповіді, структура, розмітка, консистентні факти. Окремої магії немає — сайт, готовий до Google, майже готовий і до ШІ."
+   },
+   "question": {
+    "en": "How does AEO differ from SEO?",
+    "ru": "Чем AEO отличается от SEO?",
+    "uk": "Чим AEO відрізняється від SEO?"
+   }
+  },
+  {
+   "_key": "b40nf",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "For a business site — no: blocking removes you from answers, and commercial pages usually have nothing to protect. Blocking is for content media that sell the text itself.",
+    "ru": "Для бизнес-сайта — нет: блокировка лишает видимости в ответах, а защищать коммерческим страницам обычно нечего. Блокируют контентные медиа, которые продают сам текст.",
+    "uk": "Для бізнес-сайту — ні: блокування позбавляє видимості у відповідях, а захищати комерційним сторінкам зазвичай нічого. Блокують контентні медіа, які продають сам текст."
+   },
+   "question": {
+    "en": "Should we block AI bots in robots.txt?",
+    "ru": "Стоит ли блокировать AI-ботов в robots.txt?",
+    "uk": "Чи варто блокувати AI-ботів у robots.txt?"
+   }
+  },
+  {
+   "_key": "b40ng",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "It's already flowing, but small — single-digit percentages. The bet isn't today's volume but position: models \"habituate\" to reliable sources, and early structurers get cited more.",
+    "ru": "Он уже идёт, но пока мал — единицы процентов. Ставка не на сегодняшний объём, а на позицию: модели «привыкают» к надёжным источникам, и кто структурировался раньше, того цитируют чаще.",
+    "uk": "Він уже йде, але поки малий — одиниці відсотків. Ставка не на сьогоднішній обсяг, а на позицію: моделі «звикають» до надійних джерел, і хто структурувався раніше, того цитують частіше."
+   },
+   "question": {
+    "en": "When should we expect AI-source traffic?",
+    "ru": "Когда ждать трафик из AI-источников?",
+    "uk": "Коли чекати трафік з AI-джерел?"
+   }
+  }
+ ],
+ "lede": {
+  "en": "AI answers cite websites — and already send clients. Code-Site.Art's SEO specialist explains what language models love, what to do on your site this month, and how to measure it.",
+  "ru": "AI-ответы цитируют сайты — и уже приводят клиентов. SEO-специалист Code-Site.Art объясняет, что любят языковые модели, что сделать на сайте в этом месяце и как измерить результат.",
+  "uk": "AI-відповіді цитують сайти — і вже приводять клієнтів. SEO-спеціалістка Code-Site.Art пояснює, що люблять мовні моделі, що зробити на сайті цього місяця і як виміряти результат."
+ },
+ "metaDescription": {
+  "en": "➤ AI Overviews and ChatGPT cite structured content ✔️ FAQ markup, tables, consistent facts ✔️ 5 steps for this month ➡ A practical breakdown.",
+  "ru": "➤ AI Overviews и ChatGPT цитируют структурированный контент ✔️ FAQ-разметка, таблицы, консистентные факты ✔️ 5 шагов на этот месяц ➡ Практический разбор.",
+  "uk": "➤ AI Overviews і ChatGPT цитують структурований контент ✔️ FAQ-розмітка, таблиці, консистентні факти ✔️ 5 кроків на цей місяць ➡ Практичний розбір."
+ },
+ "metaTitle": {
+  "en": "How to Get Cited by ChatGPT and AI Search | Code-Site.Art",
+  "ru": "Как попасть в ответы ChatGPT и AI-поиск | Code-Site.Art",
+  "uk": "Як потрапити у відповіді ChatGPT і AI-пошук | Code-Site.Art"
+ },
+ "publishedAt": "2026-08-16T22:00:00.000Z",
+ "readingTimeMinutes": 7,
+ "relatedPostSlugs": [
+  "seo-audyt-svoimy-rukamy",
+  "prosuvannia-saitu-tsina-2026"
+ ],
+ "slugs": {
+  "en": {
+   "_type": "slug",
+   "current": "ai-search-how-to-get-cited"
+  },
+  "ru": {
+   "_type": "slug",
+   "current": "ai-poisk-kak-popast-v-otvety"
+  },
+  "uk": {
+   "_type": "slug",
+   "current": "ai-poshuk-yak-potrapyty-u-vidpovidi"
+  }
+ },
+ "status": "published",
+ "tags": [
+  "seo",
+  "ai-search",
+  "aeo"
+ ],
+ "title": {
+  "en": "How to Get Cited by ChatGPT and Google's AI Search",
+  "ru": "Как попасть в ответы ChatGPT и AI-поиск Google",
+  "uk": "Як потрапити у відповіді ChatGPT і AI-пошук Google"
+ },
+ "updatedAt": "2026-08-16T22:00:00.000Z"
+}

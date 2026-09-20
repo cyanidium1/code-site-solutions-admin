@@ -1,0 +1,96 @@
+{
+ "_createdAt": "2026-06-04T17:36:51Z",
+ "_id": "DHIwRDN3sEoI638qoYRuPt",
+ "_rev": "05OFSWoh1BoG8flppJlomc",
+ "_system": {
+  "base": {
+   "id": "pricingPlan.custom",
+   "rev": "tYwdV2ldLdzJB4kwq0RfGY"
+  }
+ },
+ "_type": "pricingPlan",
+ "_updatedAt": "2026-08-15T18:14:40Z",
+ "ctaGhost": true,
+ "ctaLabel": {
+  "en": "Talk to us",
+  "ru": "Связаться",
+  "uk": "Зв'язатися"
+ },
+ "currency": "USD",
+ "excludes": [
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3S8",
+   "en": "Photo/video content creation",
+   "ru": "Создание фото/видео контента",
+   "uk": "Створення фото/відео контенту"
+  },
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3Sg",
+   "en": "Branding from scratch (logo, brand book)",
+   "ru": "Брендинг с нуля (лого, брендбук)",
+   "uk": "Брендинг з нуля (лого, брендбук)"
+  },
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3TE",
+   "en": "Legal consulting",
+   "ru": "Юридический консалтинг",
+   "uk": "Юридичний консалтинг"
+  }
+ ],
+ "excludesHeading": {
+  "en": "Doesn't include",
+  "ru": "Не входит",
+  "uk": "Не входить"
+ },
+ "includes": [
+  {
+   "_key": "pagecount-custom",
+   "en": "No page limit",
+   "ru": "Без лимита страниц",
+   "uk": "Без ліміту сторінок"
+  },
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3Tm",
+   "en": "Architectural session",
+   "ru": "Архитектурная сессия",
+   "uk": "Архітектурна сесія"
+  },
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3UK",
+   "en": "Dedicated team",
+   "ru": "Dedicated team",
+   "uk": "Dedicated team"
+  },
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3Us",
+   "en": "SLA + 24/7 support",
+   "ru": "SLA + 24/7 support",
+   "uk": "SLA + 24/7 support"
+  },
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3VQ",
+   "en": "Custom integrations",
+   "ru": "Custom integrations",
+   "uk": "Custom integrations"
+  }
+ ],
+ "includesHeading": {
+  "en": "Everything in Corporate, plus",
+  "ru": "Всё из Корпоративного +",
+  "uk": "Все з Корпоративного +"
+ },
+ "isPopular": false,
+ "name": {
+  "en": "Custom Platform",
+  "ru": "Кастомная платформа",
+  "uk": "Кастомна платформа"
+ },
+ "order": 20,
+ "planKey": "custom",
+ "priceFrom": 6000,
+ "weeks": {
+  "en": "8–16 weeks",
+  "ru": "8-16 недель",
+  "uk": "8-16 тижнів"
+ }
+}

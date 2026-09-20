@@ -1,0 +1,532 @@
+{
+ "_createdAt": "2026-08-22T11:02:57Z",
+ "_id": "seoArt2026-web-design-for-accountants",
+ "_rev": "eJyqTisNa5YHd4FralOySV",
+ "_type": "blogPost",
+ "_updatedAt": "2026-08-31T00:37:06Z",
+ "author": {
+  "name": "Fedir Alpatov",
+  "role": "Founder, Code-Site.Art"
+ },
+ "body": {
+  "en": [
+   {
+    "_key": "s6-3c",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-3b",
+      "_type": "span",
+      "marks": [],
+      "text": "An accountant's website has one job: make a business owner comfortable enough to hand over their numbers. That is a trust problem, not a decoration problem — and it changes what good web design for accountants looks like."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "s6-3e",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-3d",
+      "_type": "span",
+      "marks": [],
+      "text": "The trust stack: what visitors check before they call"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "s6-3g",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-3f",
+      "_type": "span",
+      "marks": [],
+      "text": "Real people. Photos of the actual partners, names, qualifications (ACCA, ACA, AAT), not stock imagery. Firms are chosen by face and credential."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "s6-3i",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-3h",
+      "_type": "span",
+      "marks": [],
+      "text": "Specialisms spelled out. \"Accounting for contractors\", \"e-commerce VAT\", \"medical practices\" — each niche you serve deserves its own page, because that is exactly how people search."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "s6-3k",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-3j",
+      "_type": "span",
+      "marks": [],
+      "text": "Fee transparency. You do not need a full price list; you need honest starting points. \"Self-assessment from £150\" filters out mismatched clients and reassures the rest."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "s6-3m",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-3l",
+      "_type": "span",
+      "marks": [],
+      "text": "Proof: client logos, review widgets wired to Google, case notes with numbers (\"cut year-end close from 6 weeks to 2\")."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "s6-3o",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-3n",
+      "_type": "span",
+      "marks": [],
+      "text": "Compliance details in the footer: registration numbers, professional-body membership, professional indemnity insurance. Small print that closes deals."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "s6-3q",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-3p",
+      "_type": "span",
+      "marks": [],
+      "text": "Structure that ranks: one service, one page"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "s6-3s",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-3r",
+      "_type": "span",
+      "marks": [],
+      "text": "The single biggest SEO mistake accountancy sites make is one \"Services\" page listing ten services in ten sentences. Google ranks pages, not paragraphs. Bookkeeping, payroll, VAT returns, year-end accounts, tax planning — each needs its own page with its own title tag, its own FAQ, its own call to action. That is how a five-person firm outranks a national chain for \"payroll services + town\"."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "s6-3u",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-3t",
+      "_type": "span",
+      "marks": [],
+      "text": "The mechanics that make it work"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "s6-3w",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "p20n3x",
+      "_type": "span",
+      "marks": [],
+      "text": "Speed that clears Google's bar. Under 2.5 seconds to the largest element on a phone is the line Google calls good. Business owners check sites between meetings, on phones. Every extra second of load time costs enquiries."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "s6-3y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-3x",
+      "_type": "span",
+      "marks": [],
+      "text": "A booking step that isn't \"call us\": a Calendly-style discovery-call slot or a short qualifying form. Accountants lose evening enquiries to voicemail."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "s6-40",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-3z",
+      "_type": "span",
+      "marks": [],
+      "text": "Client portal links where they belong — in the header, not buried in a menu."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "s6-42",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-41",
+      "_type": "span",
+      "marks": [],
+      "text": "Schema.org AccountingService markup, so Google shows ratings and services directly in results."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "p22n3x",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "p21n3x",
+      "_type": "span",
+      "marks": [],
+      "text": "What accountant website design costs"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "p27n3x",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "p23n3x",
+      "_type": "span",
+      "marks": [],
+      "text": "Most agencies in this niche quote on a call, which is exactly what makes two quotes impossible to compare. Ours is fixed in the contract before work starts, and it is the same figure published on our "
+     },
+     {
+      "_key": "p25n3x",
+      "_type": "span",
+      "marks": [
+       "p24n3x"
+      ],
+      "text": "website development pricing page"
+     },
+     {
+      "_key": "p26n3x",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "p24n3x",
+      "_type": "link",
+      "href": "/en/pricing",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "p29n3x",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "p28n3x",
+      "_type": "span",
+      "marks": [],
+      "text": "A one-page site for a sole practitioner — from £800, one to two weeks. Profile, specialisms, starting fees and a booking step."
+     }
+    ],
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "p2bn3x",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "p2an3x",
+      "_type": "span",
+      "marks": [],
+      "text": "A multi-page firm site — from £3,500, four to eight weeks. A page per service and a page per specialism, which is the structure that actually ranks."
+     }
+    ],
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "p2dn3x",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "p2cn3x",
+      "_type": "span",
+      "marks": [],
+      "text": "A platform with integrations or a bespoke client area — from £6,000."
+     }
+    ],
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "p2fn3x",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "p2en3x",
+      "_type": "span",
+      "marks": [],
+      "text": "From year two: support from £200 a month or £40 an hour, and a search campaign, if you want one, from £300 a month."
+     }
+    ],
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "p2hn3x",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "p2gn3x",
+      "_type": "span",
+      "marks": [],
+      "text": "An audit of the site you already have, with no rebuild — £300."
+     }
+    ],
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "p2jn3x",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "p2in3x",
+      "_type": "span",
+      "marks": [],
+      "text": "If a quote you are comparing does not say what year two costs, it is not comparable with one that does. That is the single question that separates a £3,500 site from a £3,500 site plus £4,000 of surprises."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "s6-44",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-43",
+      "_type": "span",
+      "marks": [],
+      "text": "What to ask a web designer before you sign"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "s6-4c",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "s6-45",
+      "_type": "span",
+      "marks": [],
+      "text": "Ask to see the page structure before the design. Ask what happens to your Google rankings during migration. Ask who writes the copy and whether title tags are included, and what the site costs to run in year two. If the answers are vague, the quote is not comparable with one that includes them. Our own answers live on the "
+     },
+     {
+      "_key": "s6-47",
+      "_type": "span",
+      "marks": [
+       "s6-46"
+      ],
+      "text": "websites for finance and accountancy firms"
+     },
+     {
+      "_key": "s6-48",
+      "_type": "span",
+      "marks": [],
+      "text": " page — structure, integrations and timelines — and the numbers are on the "
+     },
+     {
+      "_key": "s6-4a",
+      "_type": "span",
+      "marks": [
+       "s6-49"
+      ],
+      "text": "website development pricing"
+     },
+     {
+      "_key": "s6-4b",
+      "_type": "span",
+      "marks": [],
+      "text": " page, fixed before we start."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "s6-46",
+      "_type": "link",
+      "href": "/en/sites-for/finance",
+      "newTab": false
+     },
+     {
+      "_key": "s6-49",
+      "_type": "link",
+      "href": "/en/pricing",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   }
+  ]
+ },
+ "category": {
+  "_ref": "3dda2459-8805-4c53-ae6f-88ea595e2c0f",
+  "_type": "reference"
+ },
+ "cover": {
+  "_type": "imageWithLocalizedAlt",
+  "alt": {
+   "_type": "localizedString",
+   "en": "A neat wireframe stack of documents with one sheet lifted clear and lit",
+   "ru": "Аккуратная стопка документов в каркасной графике, один лист поднят и подсвечен",
+   "uk": "Акуратна стопка документів у каркасній графіці, один аркуш піднято і підсвічено"
+  },
+  "image": {
+   "_type": "image",
+   "asset": {
+    "_ref": "image-09ebf5353c1b5337da53b8253b906588a0667d33-1600x900-webp",
+    "_type": "reference"
+   }
+  }
+ },
+ "eyebrow": {
+  "en": "/ FINANCE"
+ },
+ "faq": [
+  {
+   "_key": "s6-4d",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "A credible bracket for a custom accountancy-firm site is £3,500–£6,500: service-per-page structure, copywriting, a review widget, booking integration and a year of support. Template rebuilds are cheaper but usually inherit the one-page-services problem that keeps firms invisible in search."
+   },
+   "question": {
+    "en": "How much does web design for accountants cost in the UK?"
+   }
+  },
+  {
+   "_key": "s6-4e",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "Home, one page per service (bookkeeping, payroll, VAT, year-end, tax planning), one page per niche you specialise in, team with credentials, fees, reviews, and a contact page with a discovery-call booking. Typically 10–15 pages for a small firm."
+   },
+   "question": {
+    "en": "What pages should an accountancy website have?"
+   }
+  },
+  {
+   "_key": "s6-4f",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "Show starting points, not a full tariff. \"From £X\" pricing filters out mismatched leads, builds trust, and gives Google a price signal for rich results — three wins for one line of copy."
+   },
+   "question": {
+    "en": "Should accountants show prices on their website?"
+   }
+  },
+  {
+   "_key": "s6-4g",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "You need a clear, prominent link to whichever portal you already use (Xero, QuickBooks, Karbon, a document exchange). Building a custom portal only pays off for larger practices with bespoke workflows."
+   },
+   "question": {
+    "en": "Do accountants need a client portal on the site?"
+   }
+  }
+ ],
+ "lede": {
+  "en": "Most accountancy websites are digital business cards: a stock-photo handshake, four bullet points, a contact form nobody fills in. Here is what web design for accountants should actually deliver — and the checklist to hold any agency against."
+ },
+ "metaDescription": {
+  "en": "➤ Web design for accountants and accountancy firms in the UK ✔️ Fixed prices from £800, no quote-on-a-call ✔️ Trust signals, a page per service, fee transparency ➡ What to ask before you sign."
+ },
+ "metaTitle": {
+  "en": "Accountant Website Design: What It Costs and What It Needs"
+ },
+ "publishedAt": "2026-08-22T11:02:56.352Z",
+ "readingTimeMinutes": 7,
+ "relatedPostSlugs": [
+  "vartist-rozrobky-saytu-2026",
+  "nextjs-proty-wordpress-ta-konstruktoriv"
+ ],
+ "slugs": {
+  "en": {
+   "_type": "slug",
+   "current": "web-design-for-accountants"
+  }
+ },
+ "status": "published",
+ "tags": [
+  "finance",
+  "web design",
+  "accountants"
+ ],
+ "title": {
+  "en": "Web design for accountants: what an accountancy firm's site actually needs"
+ },
+ "updatedAt": "2026-08-22T11:02:56.352Z"
+}

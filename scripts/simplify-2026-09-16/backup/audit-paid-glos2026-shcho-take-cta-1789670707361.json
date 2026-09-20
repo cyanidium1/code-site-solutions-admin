@@ -1,0 +1,2420 @@
+{
+ "_createdAt": "2026-08-30T00:56:39Z",
+ "_id": "glos2026-shcho-take-cta",
+ "_rev": "NwRgfX19a0kC97bursYRg6",
+ "_type": "blogPost",
+ "_updatedAt": "2026-09-15T15:03:26Z",
+ "author": {
+  "bio": "SEO-спеціалістка Code-Site.Art. Веде пошукові кампанії клієнтів студії — від локального SEO клінік до e-commerce.",
+  "name": "Кристина Бондаренко",
+  "photoUrl": "/team/kristina.jpg",
+  "role": "SEO Specialist"
+ },
+ "body": {
+  "en": [
+   {
+    "_key": "lt5gxfqj",
+    "_type": "tldrBox",
+    "items": [
+     "A CTA (call to action) is the button, link or form that moves a visitor to the next step.",
+     "Strong CTAs name the reader's outcome («Get my quote»); weak ones describe the system's job («Submit»).",
+     "Place at least three: above the fold, right after your proof section, and at the very bottom.",
+     "One primary action per page. A quieter secondary link is fine; five competing buttons are not.",
+     "Microcopy under the button removes the fear: «No obligation», «We reply within 4 hours»."
+    ],
+    "title": "CTA in short"
+   },
+   {
+    "_key": "lt5jxy2g",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt5hxlui",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "A CTA is a call to action"
+     },
+     {
+      "_key": "lt5ixryh",
+      "_type": "span",
+      "marks": [],
+      "text": " — the button, link or form that asks a visitor to take one specific next step. On a website that means «Get my quote», «Book a call», «See pricing»: anything that turns a reader into an enquiry in your inbox."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt5lyaae",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt5ky46f",
+      "_type": "span",
+      "marks": [],
+      "text": "Technically it is an ordinary interface element, a rectangle with a label. In practice it is where a page either earns or stays silent: you can spend real money on design, copy and ads, then lose every visitor on a button marked «Submit»."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt5nymic",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt5myged",
+      "_type": "span",
+      "marks": [],
+      "text": "Below: how to word a call to action, where to place it, how many belong on one page, and the mistakes we see most often."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt5pyyqa",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt5oysmb",
+      "_type": "span",
+      "marks": [],
+      "text": "In plain words"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt5rzay8",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt5qz4u9",
+      "_type": "span",
+      "marks": [],
+      "text": "Think of a shop assistant. The bad one stands by the till and waits for you to work out what happens next. The good one says: «Let me price it up — two minutes, nothing to sign». A CTA is that same sentence, on a web page."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt5z10nu0",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt5szh27",
+      "_type": "span",
+      "marks": [],
+      "text": "So a call to action is more than a button. It is three things at once: a "
+     },
+     {
+      "_key": "lt5tzn66",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "promise of an outcome"
+     },
+     {
+      "_key": "lt5uzta5",
+      "_type": "span",
+      "marks": [],
+      "text": " in the label, "
+     },
+     {
+      "_key": "lt5vzze4",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "visual contrast"
+     },
+     {
+      "_key": "lt5w105i3",
+      "_type": "span",
+      "marks": [],
+      "text": " so it is spotted in half a second, and "
+     },
+     {
+      "_key": "lt5x10bm2",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "risk removal"
+     },
+     {
+      "_key": "lt5y10hq1",
+      "_type": "span",
+      "marks": [],
+      "text": " next to it so clicking feels safe. Drop any one of the three and the conversion rate drops with it."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt611101y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6010txz",
+      "_type": "span",
+      "marks": [],
+      "text": "Weak wording versus strong wording"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt6311c9w",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt621165x",
+      "_type": "span",
+      "marks": [],
+      "text": "Rewriting button labels is the fastest improvement available on any page. It costs nothing and needs no developer. These are the swaps we make on client projects."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt6411idv",
+    "_type": "blogTable",
+    "headers": [
+     "Weak label",
+     "Strong label",
+     "Why it works"
+    ],
+    "rows": [
+     {
+      "_key": "lt6511ohu",
+      "_type": "blogTableRow",
+      "cells": [
+       "Submit",
+       "Get my quote",
+       "The reader sees what they receive, not what the system does"
+      ]
+     },
+     {
+      "_key": "lt6611ult",
+      "_type": "blogTableRow",
+      "cells": [
+       "Learn more",
+       "See pricing",
+       "Specific instead of vague: it is clear which page opens next"
+      ]
+     },
+     {
+      "_key": "lt67120ps",
+      "_type": "blogTableRow",
+      "cells": [
+       "Send request",
+       "Calculate my website cost",
+       "The button answers the question the visitor arrived with"
+      ]
+     },
+     {
+      "_key": "lt68126tr",
+      "_type": "blogTableRow",
+      "cells": [
+       "Contact us",
+       "Get a reply within 4 hours",
+       "Adding a timeframe removes the fear of being chased by calls"
+      ]
+     },
+     {
+      "_key": "lt6912cxq",
+      "_type": "blogTableRow",
+      "cells": [
+       "Subscribe",
+       "Get the 20-point checklist",
+       "Trades something concrete for an email instead of a vague sign-up"
+      ]
+     }
+    ]
+   },
+   {
+    "_key": "lt6d131dm",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6a12j1p",
+      "_type": "span",
+      "marks": [],
+      "text": "The rule is simple: the verb in the label should belong to the "
+     },
+     {
+      "_key": "lt6b12p5o",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "customer"
+     },
+     {
+      "_key": "lt6c12v9n",
+      "_type": "span",
+      "marks": [],
+      "text": ", not to the website. «Submit» is what the form does. «Get my quote» is what the person gets."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt6f13dlk",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6e137hl",
+      "_type": "span",
+      "marks": [],
+      "text": "Where to place a CTA"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt6h13pti",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6g13jpj",
+      "_type": "span",
+      "marks": [],
+      "text": "Above the fold"
+     }
+    ],
+    "markDefs": [],
+    "style": "h3"
+   },
+   {
+    "_key": "lt6j1421g",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6i13vxh",
+      "_type": "span",
+      "marks": [],
+      "text": "Some visitors are ready immediately — they have already compared options and arrived looking for a supplier. With no button in the first screen they have to hunt for one, and a share of them simply close the tab. The first CTA should be visible without a single scroll."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt6l14e9e",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6k1485f",
+      "_type": "span",
+      "marks": [],
+      "text": "Straight after your proof"
+     }
+    ],
+    "markDefs": [],
+    "style": "h3"
+   },
+   {
+    "_key": "lt6n14qhc",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6m14kdd",
+      "_type": "span",
+      "marks": [],
+      "text": "Put the second one where doubt has just been answered: after case studies, testimonials, guarantees or a pricing table. That is the warmest point on the page — the reader has just seen evidence and is ready to act on it."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt6p152pa",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6o14wlb",
+      "_type": "span",
+      "marks": [],
+      "text": "At the bottom of the page"
+     }
+    ],
+    "markDefs": [],
+    "style": "h3"
+   },
+   {
+    "_key": "lt6r15ex8",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6q158t9",
+      "_type": "span",
+      "marks": [],
+      "text": "Anyone who reads to the end is the warmest contact you have. Leaving them alone with a footer and no button is the most expensive of the cheap mistakes."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt6t15r56",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6s15l17",
+      "_type": "span",
+      "marks": [],
+      "text": "How many CTAs belong on one page"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt6w169h3",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6u15x95",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "One primary action, repeated as often as it helps."
+     },
+     {
+      "_key": "lt6v163d4",
+      "_type": "span",
+      "marks": [],
+      "text": " A «Get my quote» button can appear five times on a long page: that is not five CTAs, it is one placed at five convenient moments. But «Book a call», «Message us on Telegram», «Join the newsletter», «Download the price list» and «Reserve a consultation» together are five separate decisions asked of one reader."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt711740y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt6x16fl2",
+      "_type": "span",
+      "marks": [],
+      "text": "A secondary action is fine and often useful, as long as it is visually quieter — an outline button or a plain link rather than a second filled block. Primary «Get my quote», secondary «See our work». The hierarchy has to be readable at a glance; we covered more of these hierarchy techniques in our piece on "
+     },
+     {
+      "_key": "lt6z16rt0",
+      "_type": "span",
+      "marks": [
+       "lt6y16lp1"
+      ],
+      "text": "design moves that lift conversion"
+     },
+     {
+      "_key": "lt7016xwz",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt6y16lp1",
+      "_type": "link",
+      "href": "/en/blog/9-design-moves-that-lift-conversion"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7317g8w",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7217a4x",
+      "_type": "span",
+      "marks": [],
+      "text": "Microcopy: the two lines that remove fear"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt7517sgu",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7417mcv",
+      "_type": "span",
+      "marks": [],
+      "text": "People hesitate not because they do not want the thing, but because they do not know what happens after the click. One short line under the button solves that better than any styling:"
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt77184os",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7617ykt",
+      "_type": "span",
+      "marks": [],
+      "text": "«No obligation» — a request is not a contract."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7918gwq",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7818asr",
+      "_type": "span",
+      "marks": [],
+      "text": "«We reply within 4 hours on working days» — sets the expectation on timing."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7b18t4o",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7a18n0p",
+      "_type": "span",
+      "marks": [],
+      "text": "«We message first, we never cold-call» — saves the introverts, and there are more of them than you think."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7d195cm",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7c18z8n",
+      "_type": "span",
+      "marks": [],
+      "text": "«Name and email are enough» — signals that the form is short."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7f19hkk",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7e19bgl",
+      "_type": "span",
+      "marks": [],
+      "text": "Microcopy only works while it is true. If you promise a reply within four hours, reply within four hours: the first missed promise costs more than the conversion it won."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7h19tsi",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7g19noj",
+      "_type": "span",
+      "marks": [],
+      "text": "Three mistakes we see most often"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt7k1ac4f",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7i19zwh",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Five competing calls to action."
+     },
+     {
+      "_key": "lt7j1a60g",
+      "_type": "span",
+      "marks": [],
+      "text": " Every extra option steals attention from the main one. Pick the primary action and turn the volume down on the rest."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7n1augc",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7l1ai8e",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "A button that says «Submit»."
+     },
+     {
+      "_key": "lt7m1aocd",
+      "_type": "span",
+      "marks": [],
+      "text": " The most expensive word on a website: it describes the form's job and gives the reader no reason to press it."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7q1bcs9",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7o1b0kb",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "An empty first screen."
+     },
+     {
+      "_key": "lt7p1b6oa",
+      "_type": "span",
+      "marks": [],
+      "text": " A handsome hero image, a slogan, and no button at all. The hottest visitors leave before they reach your contact details."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7s1bp07",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7r1biw8",
+      "_type": "span",
+      "marks": [],
+      "text": "One quieter failure: a form with no confirmation, so nobody knows whether the enquiry was sent. That destroys trust faster than any wording."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt7u1c185",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7t1bv46",
+      "_type": "span",
+      "marks": [],
+      "text": "Why this matters commercially"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt7w1cdg3",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7v1c7c4",
+      "_type": "span",
+      "marks": [],
+      "text": "A CTA is the cheapest conversion lever available. Rewriting five labels takes an hour, needs no redesign and no extra ad budget. On the same traffic the page starts producing more enquiries, simply because it is finally clear what to do next."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt841dqbv",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt7x1cjk2",
+      "_type": "span",
+      "marks": [],
+      "text": "It matters most on a "
+     },
+     {
+      "_key": "lt7z1cvs0",
+      "_type": "span",
+      "marks": [
+       "lt7y1cpo1"
+      ],
+      "text": "landing page"
+     },
+     {
+      "_key": "lt801d1vz",
+      "_type": "span",
+      "marks": [],
+      "text": ", where the whole page drives one action and a weak call to action wastes the entire campaign budget. If you are planning a "
+     },
+     {
+      "_key": "lt821de3x",
+      "_type": "span",
+      "marks": [
+       "lt811d7zy"
+      ],
+      "text": "single-page site for paid traffic"
+     },
+     {
+      "_key": "lt831dk7w",
+      "_type": "span",
+      "marks": [],
+      "text": " — ours start from £800 — agree the button wording before design starts, not after launch."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt7y1cpo1",
+      "_type": "link",
+      "href": "/en/blog/what-is-a-landing-page"
+     },
+     {
+      "_key": "lt811d7zy",
+      "_type": "link",
+      "href": "/en/landing"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt851dwfu",
+    "_type": "ctaCallout",
+    "buttonHref": "/en/calculator",
+    "buttonLabel": "Send an enquiry",
+    "ctaHref": "/en/calculator",
+    "ctaLabel": "Send an enquiry",
+    "ctaMode": "modal",
+    "ctaSecondaryHref": "/en/calculator",
+    "ctaSecondaryLabel": "Calculate the cost",
+    "heading": "Find out what your buttons are costing you",
+    "leadSource": "blog-shcho-take-cta",
+    "sub": "Open the calculator and build a rough website budget in two minutes — or send us your page and we will review its calls to action for free.",
+    "text": "Open the calculator and build a rough website budget in two minutes — or send us your page and we will review its calls to action for free.",
+    "title": "Find out what your buttons are costing you"
+   }
+  ],
+  "ru": [
+   {
+    "_key": "lt2qgsx9",
+    "_type": "tldrBox",
+    "items": [
+     "CTA (call to action) — это призыв к действию: кнопка, ссылка или форма, ведущие посетителя к следующему шагу.",
+     "Сильный CTA называет результат для человека («Получить расчёт»), слабый описывает работу системы («Отправить»).",
+     "Минимум три места на странице: первый экран, сразу после блока доказательств и в самом конце.",
+     "Один основной призыв на страницу. Вторичный допустим, пять разных — это паралич выбора.",
+     "Микрокопия под кнопкой снимает страх: «без обязательств», «отвечаем за 4 часа»."
+    ],
+    "title": "Коротко о CTA"
+   },
+   {
+    "_key": "lt2thb96",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt2rgz18",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "CTA — это call to action, призыв к действию"
+     },
+     {
+      "_key": "lt2sh557",
+      "_type": "span",
+      "marks": [],
+      "text": ": кнопка, ссылка или форма, которые предлагают посетителю сделать конкретный следующий шаг. На сайте это «Получить расчёт», «Заказать звонок», «Посмотреть цены» — всё, что превращает читателя страницы в заявку у вас в почте."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2vhnh4",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt2uhhd5",
+      "_type": "span",
+      "marks": [],
+      "text": "Технически CTA — обычный элемент интерфейса: прямоугольник с текстом. Практически это место, где страница либо зарабатывает, либо молчит. Можно вложиться в дизайн, тексты и рекламу, привести тысячу человек — и потерять их всех на кнопке «Отправить», которая ничего не обещает и непонятно куда ведёт."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2xhzp2",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt2whtl3",
+      "_type": "span",
+      "marks": [],
+      "text": "Дальше — как формулировать призыв, где его ставить, сколько их должно быть на одной странице и какие ошибки мы чаще всего видим, когда к нам приходят с просьбой «поднять конверсию»."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2zibx0",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt2yi5t1",
+      "_type": "span",
+      "marks": [],
+      "text": "Простыми словами"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt31io4y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt30ii0z",
+      "_type": "span",
+      "marks": [],
+      "text": "Представьте продавца в магазине. Плохой молча стоит у кассы и ждёт, пока вы сами догадаетесь, что делать. Хороший говорит: «Давайте посчитаю стоимость — это две минуты, подписывать ничего не нужно». CTA — та же самая фраза, только на сайте."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt39k10q",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt32iu8x",
+      "_type": "span",
+      "marks": [],
+      "text": "Поэтому призыв к действию — это не просто кнопка. Это три вещи сразу: "
+     },
+     {
+      "_key": "lt33j0cw",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "обещание результата"
+     },
+     {
+      "_key": "lt34j6gv",
+      "_type": "span",
+      "marks": [],
+      "text": " в тексте кнопки, "
+     },
+     {
+      "_key": "lt35jcku",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "визуальный контраст"
+     },
+     {
+      "_key": "lt36jiot",
+      "_type": "span",
+      "marks": [],
+      "text": ", чтобы её было видно за полсекунды, и "
+     },
+     {
+      "_key": "lt37joss",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "снятие риска"
+     },
+     {
+      "_key": "lt38juwr",
+      "_type": "span",
+      "marks": [],
+      "text": " рядом, чтобы нажать было не страшно. Убираете любую из трёх — конверсия падает."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt3bkd8o",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3ak74p",
+      "_type": "span",
+      "marks": [],
+      "text": "Слабые формулировки против сильных"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt3dkpgm",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3ckjcn",
+      "_type": "span",
+      "marks": [],
+      "text": "Самый быстрый способ улучшить страницу — переписать тексты кнопок. Это ничего не стоит и не требует разработчика. Вот типовые замены, которые мы делаем на клиентских проектах."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt3ekvkl",
+    "_type": "blogTable",
+    "headers": [
+     "Слабая формулировка",
+     "Сильная формулировка",
+     "Почему работает"
+    ],
+    "rows": [
+     {
+      "_key": "lt3fl1ok",
+      "_type": "blogTableRow",
+      "cells": [
+       "Отправить",
+       "Получить расчёт",
+       "Человек видит, что получит он, а не что сделает система"
+      ]
+     },
+     {
+      "_key": "lt3gl7sj",
+      "_type": "blogTableRow",
+      "cells": [
+       "Узнать больше",
+       "Посмотреть цены",
+       "Конкретика вместо тумана: понятно, какая именно страница откроется"
+      ]
+     },
+     {
+      "_key": "lt3hldwi",
+      "_type": "blogTableRow",
+      "cells": [
+       "Оставить заявку",
+       "Посчитать стоимость сайта",
+       "Кнопка обещает ответ на тот вопрос, с которым человек пришёл"
+      ]
+     },
+     {
+      "_key": "lt3ilk0h",
+      "_type": "blogTableRow",
+      "cells": [
+       "Связаться с нами",
+       "Получить ответ за 4 часа",
+       "Появляется срок — исчезает страх «меня засыплют звонками»"
+      ]
+     },
+     {
+      "_key": "lt3jlq4g",
+      "_type": "blogTableRow",
+      "cells": [
+       "Подписаться",
+       "Забрать чек-лист из 20 пунктов",
+       "Обмен конкретной ценности на email вместо абстрактной подписки"
+      ]
+     }
+    ]
+   },
+   {
+    "_key": "lt3nmekc",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3klw8f",
+      "_type": "span",
+      "marks": [],
+      "text": "Правило простое: в тексте кнопки должен стоять глагол того, что получает "
+     },
+     {
+      "_key": "lt3lm2ce",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "клиент"
+     },
+     {
+      "_key": "lt3mm8gd",
+      "_type": "span",
+      "marks": [],
+      "text": ", а не того, что делает сайт. «Отправить» — работа формы. «Получить расчёт» — выгода человека."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt3pmqsa",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3omkob",
+      "_type": "span",
+      "marks": [],
+      "text": "Где размещать CTA на странице"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt3rn308",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3qmww9",
+      "_type": "span",
+      "marks": [],
+      "text": "Первый экран"
+     }
+    ],
+    "markDefs": [],
+    "style": "h3"
+   },
+   {
+    "_key": "lt3tnf86",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3sn947",
+      "_type": "span",
+      "marks": [],
+      "text": "Часть посетителей готова действовать сразу — они уже сравнили варианты и пришли за исполнителем. Если на первом экране нет кнопки, эти люди вынуждены искать её сами, а часть просто закроет вкладку. Первый CTA должен быть виден без единого скролла."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt3vnrg4",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3unlc5",
+      "_type": "span",
+      "marks": [],
+      "text": "После блока доказательств"
+     }
+    ],
+    "markDefs": [],
+    "style": "h3"
+   },
+   {
+    "_key": "lt3xo3o2",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3wnxk3",
+      "_type": "span",
+      "marks": [],
+      "text": "Второй призыв ставим там, где сомнение только что снято: после кейсов, отзывов, гарантий или таблицы с ценами. Это самая тёплая точка страницы — человек увидел подтверждение и именно сейчас готов нажать."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt3zofw0",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt3yo9s1",
+      "_type": "span",
+      "marks": [],
+      "text": "В конце страницы"
+     }
+    ],
+    "markDefs": [],
+    "style": "h3"
+   },
+   {
+    "_key": "lt41os3y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt40olzz",
+      "_type": "span",
+      "marks": [],
+      "text": "Тот, кто дочитал до низа, — самый тёплый контакт из всех. Оставлять его наедине с футером без единой кнопки — самая дорогая из дешёвых ошибок. Финальный CTA должен быть крупным и однозначным."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt43p4bw",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt42oy7x",
+      "_type": "span",
+      "marks": [],
+      "text": "Сколько CTA должно быть на странице"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt46pmnt",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt44pafv",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Один основной призыв — и сколько угодно его повторов."
+     },
+     {
+      "_key": "lt45pgju",
+      "_type": "span",
+      "marks": [],
+      "text": " Кнопка «Получить расчёт» может стоять на странице пять раз: это не пять CTA, это один, повторённый в удобных точках. А вот «Заказать звонок», «Написать в Telegram», «Подписаться на рассылку», «Скачать прайс» и «Записаться на консультацию» на одной странице — пять разных решений, которые человек должен принять вместо одного."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4bqh7o",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt47psrs",
+      "_type": "span",
+      "marks": [],
+      "text": "Вторичный призыв допустим и даже полезен — но он должен быть визуально тише: не залитая цветом кнопка, а ссылка или контурная кнопка. Например, основной — «Получить расчёт», вторичный — «Посмотреть портфолио». Иерархия должна читаться с первого взгляда; о других приёмах такой иерархии мы писали в материале про "
+     },
+     {
+      "_key": "lt49q4zq",
+      "_type": "span",
+      "marks": [
+       "lt48pyvr"
+      ],
+      "text": "дизайн-приёмы для конверсии"
+     },
+     {
+      "_key": "lt4aqb3p",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt48pyvr",
+      "_type": "link",
+      "href": "/ru/blog/9-dizayn-priyomov-dlya-konversii"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4dqtfm",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4cqnbn",
+      "_type": "span",
+      "marks": [],
+      "text": "Микрокопия: две строки, которые снимают страх"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt4fr5nk",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4eqzjl",
+      "_type": "span",
+      "marks": [],
+      "text": "Люди не нажимают не потому, что не хотят, а потому что не знают, что будет дальше. Короткая строка под кнопкой убирает эту неизвестность лучше любого дизайна:"
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4hrhvi",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4grbrj",
+      "_type": "span",
+      "marks": [],
+      "text": "«Без обязательств» — снимает страх, что заявка равна договору."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4jru3g",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4irnzh",
+      "_type": "span",
+      "marks": [],
+      "text": "«Отвечаем за 4 часа в рабочие дни» — задаёт ожидание по сроку."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4ls6be",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4ks07f",
+      "_type": "span",
+      "marks": [],
+      "text": "«Не звоним без предупреждения, пишем в мессенджер» — спасает интровертов, а их больше, чем кажется."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4nsijc",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4mscfd",
+      "_type": "span",
+      "marks": [],
+      "text": "«Достаточно имени и телефона» — показывает, что форма короткая."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4psura",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4osonb",
+      "_type": "span",
+      "marks": [],
+      "text": "Микрокопия работает только тогда, когда она правдива. Обещали ответ за 4 часа — отвечайте за 4 часа, иначе первая же просрочка обойдётся дороже всей конверсии."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4rt6z8",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4qt0v9",
+      "_type": "span",
+      "marks": [],
+      "text": "Три ошибки, которые встречаются чаще всего"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt4utpb5",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4std37",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Пять разных призывов на одной странице."
+     },
+     {
+      "_key": "lt4ttj76",
+      "_type": "span",
+      "marks": [],
+      "text": " Каждый лишний вариант забирает внимание у основного. Выберите главное действие и сделайте остальные тише."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt4xu7n2",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4vtvf4",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Кнопка «Отправить»."
+     },
+     {
+      "_key": "lt4wu1j3",
+      "_type": "span",
+      "marks": [],
+      "text": " Самое дорогое слово на сайте: оно описывает работу формы и не даёт человеку ни одной причины нажимать."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt50upyz",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4yudr1",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Пустой первый экран."
+     },
+     {
+      "_key": "lt4zujv0",
+      "_type": "span",
+      "marks": [],
+      "text": " Красивый баннер, слоган — и ни одной кнопки. Самые горячие посетители уходят, не долистав до контактов."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt52v26x",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt51uw2y",
+      "_type": "span",
+      "marks": [],
+      "text": "Отдельным пунктом — кнопка, ведущая в никуда: форма без подтверждения, после которой непонятно, ушла ли заявка. Это убивает доверие быстрее любой формулировки."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt54veev",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt53v8aw",
+      "_type": "span",
+      "marks": [],
+      "text": "Почему это важно для бизнеса"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt56vqmt",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt55vkiu",
+      "_type": "span",
+      "marks": [],
+      "text": "CTA — самый дешёвый рычаг конверсии из существующих. Переписать пять кнопок можно за час, и это не требует ни редизайна, ни нового рекламного бюджета. При том же трафике страница начинает отдавать больше заявок — просто потому, что людям наконец понятно, что делать дальше."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt5ex3il",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt57vwqs",
+      "_type": "span",
+      "marks": [],
+      "text": "Особенно это критично для "
+     },
+     {
+      "_key": "lt59w8yq",
+      "_type": "span",
+      "marks": [
+       "lt58w2ur"
+      ],
+      "text": "лендинга"
+     },
+     {
+      "_key": "lt5awf2p",
+      "_type": "span",
+      "marks": [],
+      "text": ", где вся страница ведёт к одному действию: там слабый призыв обесценивает весь бюджет. Если планируете "
+     },
+     {
+      "_key": "lt5cwran",
+      "_type": "span",
+      "marks": [
+       "lt5bwl6o"
+      ],
+      "text": "одностраничный сайт под рекламу"
+     },
+     {
+      "_key": "lt5dwxem",
+      "_type": "span",
+      "marks": [],
+      "text": " — у нас от $800, — формулировки кнопок стоит согласовать ещё до дизайна, а не после запуска."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt58w2ur",
+      "_type": "link",
+      "href": "/ru/blog/chto-takoe-lending"
+     },
+     {
+      "_key": "lt5bwl6o",
+      "_type": "link",
+      "href": "/ru/landing"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "ss15314o42",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ss152xe6sd",
+      "_type": "span",
+      "marks": [],
+      "text": "Если призывы к действию есть, а заявок нет, проблема обычно в структуре страницы — с этим работает "
+     },
+     {
+      "_key": "ss152z3red",
+      "_type": "span",
+      "marks": [
+       "ss152yd1gd"
+      ],
+      "text": "редизайн сайта без потери позиций"
+     },
+     {
+      "_key": "ss1530ce4u",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "ss152yd1gd",
+      "_type": "link",
+      "href": "/ru/redesign"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt5fx9mk",
+    "_type": "ctaCallout",
+    "buttonHref": "/ru/calculator",
+    "buttonLabel": "Оставить заявку",
+    "ctaHref": "/ru/calculator",
+    "ctaLabel": "Оставить заявку",
+    "ctaMode": "modal",
+    "ctaSecondaryHref": "/ru/calculator",
+    "ctaSecondaryLabel": "Посчитать стоимость",
+    "heading": "Посчитаем, сколько заявок теряют ваши кнопки",
+    "leadSource": "blog-shcho-take-cta",
+    "sub": "Откройте калькулятор и соберите ориентировочный бюджет сайта за две минуты — или напишите нам, и мы бесплатно посмотрим на CTA вашей страницы.",
+    "text": "Откройте калькулятор и соберите ориентировочный бюджет сайта за две минуты — или напишите нам, и мы бесплатно посмотрим на CTA вашей страницы.",
+    "title": "Посчитаем, сколько заявок теряют ваши кнопки"
+   }
+  ],
+  "uk": [
+   {
+    "_key": "lt063z",
+    "_type": "tldrBox",
+    "items": [
+     "CTA (call to action) — це заклик до дії: кнопка, посилання або форма, які ведуть відвідувача до наступного кроку.",
+     "Сильний CTA називає результат для людини («Отримати розрахунок»), слабкий описує роботу системи («Відправити»).",
+     "Мінімум три місця на сторінці: перший екран, одразу після блоку доказів і в самому кінці.",
+     "Один основний заклик на сторінку. Вторинний допустимий, п'ять різних — це вже параліч вибору.",
+     "Мікрокопія під кнопкою знімає страх: «без зобов'язань», «відповідаємо за 4 години»."
+    ],
+    "title": "Коротко про CTA"
+   },
+   {
+    "_key": "lt3ofw",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1c7y",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "CTA — це call to action, заклик до дії"
+     },
+     {
+      "_key": "lt2ibx",
+      "_type": "span",
+      "marks": [],
+      "text": ": кнопка, посилання або форма, які пропонують відвідувачу зробити конкретний наступний крок. На сайті це «Отримати розрахунок», «Замовити дзвінок», «Подивитися ціни» — усе, що перетворює читача сторінки на заявку у вашій пошті."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt510nu",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt4ujv",
+      "_type": "span",
+      "marks": [],
+      "text": "Технічно CTA — звичайний елемент інтерфейсу: прямокутник з текстом. Практично це місце, де сторінка або заробляє, або мовчить. Ви можете вкласти гроші в дизайн, тексти і рекламу, привести на сайт тисячу людей — і втратити їх усіх на кнопці «Відправити», яка нічого не обіцяє і нікуди явно не веде."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt71cvs",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt616rt",
+      "_type": "span",
+      "marks": [],
+      "text": "Нижче — як формулювати заклик, де його ставити, скільки їх має бути на одній сторінці і які помилки ми найчастіше бачимо, коли до нас приходять із проханням «підняти конверсію»."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt91p3q",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt81izr",
+      "_type": "span",
+      "marks": [],
+      "text": "Простими словами"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "ltb21bo",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lta1v7p",
+      "_type": "span",
+      "marks": [],
+      "text": "Уявіть продавця у магазині. Поганий продавець мовчки стоїть біля каси і чекає, поки ви самі здогадаєтесь, що робити далі. Хороший каже: «Давайте я порахую вартість — це дві хвилини, нічого підписувати не треба». CTA — це та сама фраза, тільки на сайті."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "ltj3e7g",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ltc27fn",
+      "_type": "span",
+      "marks": [],
+      "text": "Тому заклик до дії — це не просто кнопка. Це три речі разом: "
+     },
+     {
+      "_key": "ltd2djm",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "обіцянка результату"
+     },
+     {
+      "_key": "lte2jnl",
+      "_type": "span",
+      "marks": [],
+      "text": " в тексті кнопки, "
+     },
+     {
+      "_key": "ltf2prk",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "візуальний контраст"
+     },
+     {
+      "_key": "ltg2vvj",
+      "_type": "span",
+      "marks": [],
+      "text": ", щоб її було видно за півсекунди, і "
+     },
+     {
+      "_key": "lth31zi",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "зняття ризику"
+     },
+     {
+      "_key": "lti383h",
+      "_type": "span",
+      "marks": [],
+      "text": " поруч, щоб натиснути було не страшно. Прибираєте будь-яку з трьох — конверсія падає."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "ltl3qfe",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ltk3kbf",
+      "_type": "span",
+      "marks": [],
+      "text": "Слабкі формулювання проти сильних"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "ltn42nc",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ltm3wjd",
+      "_type": "span",
+      "marks": [],
+      "text": "Найшвидший спосіб покращити сторінку — переписати текст кнопок. Це нічого не коштує і не вимагає розробника. Ось типові заміни, які ми робимо на клієнтських проєктах."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lto48rb",
+    "_type": "blogTable",
+    "headers": [
+     "Слабке формулювання",
+     "Сильне формулювання",
+     "Чому це працює"
+    ],
+    "rows": [
+     {
+      "_key": "ltp4eva",
+      "_type": "blogTableRow",
+      "cells": [
+       "Відправити",
+       "Отримати розрахунок",
+       "Людина бачить, що отримає вона, а не що зробить система"
+      ]
+     },
+     {
+      "_key": "ltq4kz9",
+      "_type": "blogTableRow",
+      "cells": [
+       "Дізнатися більше",
+       "Подивитися ціни",
+       "Конкретика замість туману: зрозуміло, яка саме сторінка відкриється"
+      ]
+     },
+     {
+      "_key": "ltr4r38",
+      "_type": "blogTableRow",
+      "cells": [
+       "Залишити заявку",
+       "Порахувати вартість сайту",
+       "Кнопка обіцяє відповідь на те питання, з яким людина прийшла"
+      ]
+     },
+     {
+      "_key": "lts4x77",
+      "_type": "blogTableRow",
+      "cells": [
+       "Зв'язатися з нами",
+       "Отримати відповідь за 4 години",
+       "З'являється строк — зникає страх «мене засипле дзвінками»"
+      ]
+     },
+     {
+      "_key": "ltt53b6",
+      "_type": "blogTableRow",
+      "cells": [
+       "Підписатися",
+       "Забрати чек-лист із 20 пунктів",
+       "Обмін конкретної цінності на email замість абстрактної підписки"
+      ]
+     }
+    ]
+   },
+   {
+    "_key": "ltx5rr2",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ltu59f5",
+      "_type": "span",
+      "marks": [],
+      "text": "Правило просте: у тексті кнопки має бути дієслово того, що отримує "
+     },
+     {
+      "_key": "ltv5fj4",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "клієнт"
+     },
+     {
+      "_key": "ltw5ln3",
+      "_type": "span",
+      "marks": [],
+      "text": ", а не того, що робить сайт. «Відправити» — робота форми. «Отримати розрахунок» — вигода людини."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "ltz63z0",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lty5xv1",
+      "_type": "span",
+      "marks": [],
+      "text": "Де розміщувати CTA на сторінці"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt116g6y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt106a2z",
+      "_type": "span",
+      "marks": [],
+      "text": "Перший екран"
+     }
+    ],
+    "markDefs": [],
+    "style": "h3"
+   },
+   {
+    "_key": "lt136sew",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt126max",
+      "_type": "span",
+      "marks": [],
+      "text": "Частина відвідувачів готова діяти одразу — вони вже порівняли варіанти і прийшли по виконавця. Якщо на першому екрані немає кнопки, ці люди змушені шукати її самі, а частина просто закриє вкладку. Перший CTA має бути видно без жодного скролу."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1574mu",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt146yiv",
+      "_type": "span",
+      "marks": [],
+      "text": "Після блоку доказів"
+     }
+    ],
+    "markDefs": [],
+    "style": "h3"
+   },
+   {
+    "_key": "lt177gus",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt167aqt",
+      "_type": "span",
+      "marks": [],
+      "text": "Другий заклик ставимо там, де сумнів щойно знято: після кейсів, відгуків, гарантій або таблиці з цінами. Це найтепліша точка сторінки — людина щойно побачила підтвердження і саме зараз готова натиснути."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt197t2q",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt187myr",
+      "_type": "span",
+      "marks": [],
+      "text": "У кінці сторінки"
+     }
+    ],
+    "markDefs": [],
+    "style": "h3"
+   },
+   {
+    "_key": "lt1b85ao",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1a7z6p",
+      "_type": "span",
+      "marks": [],
+      "text": "Той, хто дочитав до низу, — найтепліший контакт з усіх. Залишати його наодинці з футером без жодної кнопки — найдорожча помилка з усіх дешевих. Фінальний CTA має бути великим і однозначним."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1d8him",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1c8ben",
+      "_type": "span",
+      "marks": [],
+      "text": "Скільки CTA має бути на сторінці"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt1g8zuj",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1e8nml",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Один основний заклик — і скільки завгодно його повторів."
+     },
+     {
+      "_key": "lt1f8tqk",
+      "_type": "span",
+      "marks": [],
+      "text": " Кнопка «Отримати розрахунок» може стояти на сторінці п'ять разів: це не п'ять CTA, це один, повторений у зручних точках. А от «Замовити дзвінок», «Написати в Telegram», «Підписатися на розсилку», «Завантажити прайс» і «Записатися на консультацію» на одній сторінці — це п'ять різних рішень, які людина мусить прийняти замість одного."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1l9uee",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1h95yi",
+      "_type": "span",
+      "marks": [],
+      "text": "Вторинний заклик допустимий і навіть корисний — але він має бути візуально тихішим: не залита кольором кнопка, а посилання або контурна кнопка. Наприклад, основний — «Отримати розрахунок», вторинний — «Подивитися портфоліо». Ієрархія має читатися з першого погляду; про інші прийоми такої ієрархії ми писали в матеріалі про "
+     },
+     {
+      "_key": "lt1j9i6g",
+      "_type": "span",
+      "marks": [
+       "lt1i9c2h"
+      ],
+      "text": "дизайн-прийоми для конверсії"
+     },
+     {
+      "_key": "lt1k9oaf",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt1i9c2h",
+      "_type": "link",
+      "href": "/blog/9-dyzain-pryiomiv-dlia-konversii"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1na6mc",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1ma0id",
+      "_type": "span",
+      "marks": [],
+      "text": "Мікрокопія: два рядки, які знімають страх"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt1paiua",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1oacqb",
+      "_type": "span",
+      "marks": [],
+      "text": "Люди не натискають не тому, що не хочуть, а тому що не знають, що станеться далі. Короткий рядок під кнопкою прибирає цю невідомість краще за будь-який дизайн:"
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1rav28",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1qaoy9",
+      "_type": "span",
+      "marks": [],
+      "text": "«Без зобов'язань» — знімає страх, що заявка = договір."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1tb7a6",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1sb167",
+      "_type": "span",
+      "marks": [],
+      "text": "«Відповідаємо за 4 години в робочі дні» — задає очікування щодо строку."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1vbji4",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1ubde5",
+      "_type": "span",
+      "marks": [],
+      "text": "«Не телефонуємо без попередження, пишемо в месенджер» — рятує інтровертів, а їх більше, ніж здається."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1xbvq2",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1wbpm3",
+      "_type": "span",
+      "marks": [],
+      "text": "«Достатньо імені та телефона» — показує, що форма коротка."
+     }
+    ],
+    "level": 1,
+    "listItem": "bullet",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt1zc7y0",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt1yc1u1",
+      "_type": "span",
+      "marks": [],
+      "text": "Мікрокопія працює тільки тоді, коли вона правдива. Обіцяли відповідь за 4 години — відповідайте за 4 години, інакше перша ж прострочка коштує дорожче за всю конверсію."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt21ck5y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt20ce1z",
+      "_type": "span",
+      "marks": [],
+      "text": "Три помилки, які трапляються найчастіше"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt24d2hv",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt22cq9x",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "П'ять різних закликів на одній сторінці."
+     },
+     {
+      "_key": "lt23cwdw",
+      "_type": "span",
+      "marks": [],
+      "text": " Кожен додатковий варіант забирає увагу в основного. Виберіть головну дію і зробіть решту тихішими."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt27dkts",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt25d8lu",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Кнопка «Відправити»."
+     },
+     {
+      "_key": "lt26dept",
+      "_type": "span",
+      "marks": [],
+      "text": " Це найдорожче слово на сайті: воно описує роботу форми і не дає людині жодної причини натискати."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2ae35p",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt28dqxr",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Порожній перший екран."
+     },
+     {
+      "_key": "lt29dx1q",
+      "_type": "span",
+      "marks": [],
+      "text": " Гарний банер, слоган — і жодної кнопки. Найгарячіші відвідувачі йдуть, не долиставши до контактів."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2cefdn",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt2be99o",
+      "_type": "span",
+      "marks": [],
+      "text": "Окремим пунктом — кнопка, яка веде в нікуди: форма без підтвердження, після якої незрозуміло, чи заявка відправилась. Це вбиває довіру швидше за будь-яке формулювання."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2eerll",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt2delhm",
+      "_type": "span",
+      "marks": [],
+      "text": "Чому це важливо для бізнесу"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "lt2gf3tj",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt2fexpk",
+      "_type": "span",
+      "marks": [],
+      "text": "CTA — найдешевший важіль конверсії з усіх, що є. Переписати п'ять кнопок можна за годину, і це не вимагає ні редизайну, ні нового бюджету на рекламу. При тому самому трафіку сторінка починає віддавати більше заявок — просто тому, що людям нарешті зрозуміло, що робити далі."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2oggpb",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "lt2hf9xi",
+      "_type": "span",
+      "marks": [],
+      "text": "Особливо це критично для "
+     },
+     {
+      "_key": "lt2jfm5g",
+      "_type": "span",
+      "marks": [
+       "lt2ifg1h"
+      ],
+      "text": "лендінгу"
+     },
+     {
+      "_key": "lt2kfs9f",
+      "_type": "span",
+      "marks": [],
+      "text": ", де вся сторінка веде до однієї дії: там слабкий заклик знецінює весь бюджет. Якщо ви плануєте "
+     },
+     {
+      "_key": "lt2mg4hd",
+      "_type": "span",
+      "marks": [
+       "lt2lfyde"
+      ],
+      "text": "односторінковий сайт під рекламу"
+     },
+     {
+      "_key": "lt2ngalc",
+      "_type": "span",
+      "marks": [],
+      "text": " — від $800 у нас, — формулювання кнопок варто узгодити ще до дизайну, а не після запуску."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "lt2ifg1h",
+      "_type": "link",
+      "href": "/blog/shcho-take-lending"
+     },
+     {
+      "_key": "lt2lfyde",
+      "_type": "link",
+      "href": "/landing"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "ss152w4m1f",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "ss152s7p03",
+      "_type": "span",
+      "marks": [],
+      "text": "Якщо заклики до дії є, а заявок немає, проблема зазвичай у структурі сторінки — з цим працює "
+     },
+     {
+      "_key": "ss152uf0un",
+      "_type": "span",
+      "marks": [
+       "ss152ta60o"
+      ],
+      "text": "редизайн сайту без втрати позицій"
+     },
+     {
+      "_key": "ss152v15hk",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "ss152ta60o",
+      "_type": "link",
+      "href": "/redesign"
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "lt2pgmta",
+    "_type": "ctaCallout",
+    "buttonHref": "/calculator",
+    "buttonLabel": "Залишити заявку",
+    "ctaHref": "/calculator",
+    "ctaLabel": "Залишити заявку",
+    "ctaMode": "modal",
+    "ctaSecondaryHref": "/calculator",
+    "ctaSecondaryLabel": "Порахувати вартість",
+    "heading": "Порахуємо, скільки заявок втрачають ваші кнопки",
+    "leadSource": "blog-shcho-take-cta",
+    "sub": "Відкрийте калькулятор і зберіть орієнтовний бюджет сайту за дві хвилини — або напишіть нам, і ми безкоштовно подивимося на CTA вашої сторінки.",
+    "text": "Відкрийте калькулятор і зберіть орієнтовний бюджет сайту за дві хвилини — або напишіть нам, і ми безкоштовно подивимося на CTA вашої сторінки.",
+    "title": "Порахуємо, скільки заявок втрачають ваші кнопки"
+   }
+  ]
+ },
+ "category": {
+  "_ref": "65de7a1a-bfde-4e47-ab70-7e0ecf161f0a",
+  "_type": "reference"
+ },
+ "cover": {
+  "_type": "imageWithLocalizedAlt",
+  "alt": {
+   "_type": "localizedString",
+   "en": "Many faint parallel paths converging into one bright arrow",
+   "ru": "Множество тусклых параллельных путей сходятся в одну яркую стрелку",
+   "uk": "Багато тьмяних паралельних шляхів сходяться в одну яскраву стрілку"
+  },
+  "image": {
+   "_type": "image",
+   "asset": {
+    "_ref": "image-759cecd3e734efb4d658a8d1032cdb48c3e65953-1600x900-webp",
+    "_type": "reference"
+   }
+  }
+ },
+ "eyebrow": {
+  "_type": "localizedString",
+  "en": "Glossary",
+  "ru": "Словарь терминов",
+  "uk": "Словник термінів"
+ },
+ "faq": [
+  {
+   "_key": "lt861e2jt",
+   "_type": "faqItem",
+   "answer": {
+    "_type": "localizedText",
+    "en": "A CTA (call to action) is the button, link or form that asks a visitor to take one specific next step — «Get my quote» or «See pricing», for example. Without one, people finish reading and leave, because nothing tells them what to do next.",
+    "ru": "CTA (call to action) — это призыв к действию: кнопка, ссылка или форма, предлагающие посетителю сделать конкретный следующий шаг. Например, «Получить расчёт» или «Посмотреть цены». Без него человек дочитывает страницу и уходит, потому что не понимает, что делать дальше.",
+    "uk": "CTA (call to action) — це заклик до дії: кнопка, посилання або форма, які пропонують відвідувачу зробити конкретний наступний крок. Наприклад, «Отримати розрахунок» або «Подивитися ціни». Без нього людина дочитує сторінку і йде, бо не розуміє, що робити далі."
+   },
+   "question": {
+    "_type": "localizedString",
+    "en": "What is a CTA in simple terms?",
+    "ru": "Что такое CTA простыми словами?",
+    "uk": "Що таке CTA простими словами?"
+   }
+  },
+  {
+   "_key": "lt871e8ns",
+   "_type": "faqItem",
+   "answer": {
+    "_type": "localizedText",
+    "en": "One primary action, repeated at a few natural points: above the fold, after your proof section and at the bottom. A secondary action is fine if it is visually quieter — an outline button or a link. Five competing buttons make people choose instead of act.",
+    "ru": "Один основной призыв, повторённый в нескольких точках: на первом экране, после блока доказательств и в конце страницы. Вторичное действие допустимо, но должно быть визуально тише — ссылка или контурная кнопка. Пять разных призывов заставляют человека выбирать вместо того, чтобы действовать.",
+    "uk": "Один основний заклик, повторений у кількох точках: на першому екрані, після блоку доказів і в кінці сторінки. Вторинна дія допустима, але вона має бути візуально тихішою — посилання або контурна кнопка. П'ять різних закликів змушують людину обирати замість того, щоб діяти."
+   },
+   "question": {
+    "_type": "localizedString",
+    "en": "How many CTAs should one page have?",
+    "ru": "Сколько CTA должно быть на одной странице?",
+    "uk": "Скільки CTA має бути на одній сторінці?"
+   }
+  },
+  {
+   "_key": "lt881eerr",
+   "_type": "faqItem",
+   "answer": {
+    "_type": "localizedText",
+    "en": "Name the outcome the reader gets: «Get my quote», «Calculate my website cost», «Get a reply within 4 hours». «Submit» describes the form's job and gives nobody a reason to press it. Rewriting labels is the cheapest change that moves conversion at all.",
+    "ru": "Формулировкой результата, который получает человек: «Получить расчёт», «Посчитать стоимость сайта», «Получить ответ за 4 часа». «Отправить» описывает работу формы и не даёт ни одной причины нажимать. Замена текста кнопки — самое дешёвое изменение из всех, что влияют на конверсию.",
+    "uk": "Формулюванням результату, який отримує людина: «Отримати розрахунок», «Порахувати вартість сайту», «Отримати відповідь за 4 години». «Відправити» описує роботу форми і не дає жодної причини натискати. Заміна тексту кнопки — найдешевша зміна з усіх, що впливають на конверсію."
+   },
+   "question": {
+    "_type": "localizedString",
+    "en": "What should replace a «Submit» button?",
+    "ru": "Чем заменить кнопку «Отправить»?",
+    "uk": "Чим замінити кнопку «Відправити»?"
+   }
+  },
+  {
+   "_key": "lt891ekvq",
+   "_type": "faqItem",
+   "answer": {
+    "_type": "localizedText",
+    "en": "One short line that removes risk: «No obligation», «We reply within 4 hours», «Name and email are enough», «We message first, we never cold-call». The one condition is that it must be true — a missed promise costs more than the extra clicks were worth.",
+    "ru": "Короткую строку, снимающую риск: «без обязательств», «отвечаем за 4 часа», «достаточно имени и телефона», «не звоним без предупреждения». Главное условие — обещание должно быть правдивым: просроченный ответ обойдётся дороже прироста конверсии.",
+    "uk": "Короткий рядок, який знімає ризик: «без зобов'язань», «відповідаємо за 4 години», «достатньо імені та телефона», «не телефонуємо без попередження». Головна умова — обіцянка має бути правдивою: прострочена відповідь коштує дорожче за приріст конверсії."
+   },
+   "question": {
+    "_type": "localizedString",
+    "en": "What microcopy should go under the button?",
+    "ru": "Что писать под кнопкой, чтобы на неё чаще нажимали?",
+    "uk": "Що писати під кнопкою, щоб на неї частіше натискали?"
+   }
+  }
+ ],
+ "lede": {
+  "_type": "localizedString",
+  "en": "A CTA is a call to action: the button or link that moves a visitor to the next step. Wording, placement and the mistakes that quietly cost you enquiries.",
+  "ru": "CTA — это call to action, призыв к действию: кнопка или ссылка, ведущие посетителя к следующему шагу. Разбираем формулировки, размещение и ошибки, которые стоят заявок.",
+  "uk": "CTA — це call to action, заклик до дії: кнопка або посилання, які ведуть відвідувача до наступного кроку. Розбираємо формулювання, розміщення і помилки, що коштують заявок."
+ },
+ "metaDescription": {
+  "_type": "localizedString",
+  "en": "➤ A CTA is a call to action ✔️ weak versus strong button wording ✔️ where to place them and how many ➡ examples, microcopy and common mistakes",
+  "ru": "➤ CTA это призыв к действию ✔️ слабые и сильные формулировки кнопок ✔️ где размещать и сколько нужно ➡ примеры, микрокопия и типичные ошибки",
+  "uk": "➤ CTA це заклик до дії ✔️ слабкі та сильні формулювання кнопок ✔️ де розміщувати і скільки їх треба ➡ приклади, мікрокопія та типові помилки"
+ },
+ "metaTitle": {
+  "_type": "localizedString",
+  "en": "What Is a CTA? Call to Action Explained",
+  "ru": "CTA это: что такое призыв к действию",
+  "uk": "CTA це: що таке заклик до дії на сайті"
+ },
+ "publishedAt": "2026-08-26T12:00:00.000Z",
+ "readingTimeMinutes": 5,
+ "relatedPostSlugs": [
+  "9-dyzain-pryiomiv-dlia-konversii",
+  "shcho-take-lending",
+  "shcho-take-yuzabiliti"
+ ],
+ "slugs": {
+  "en": {
+   "_type": "slug",
+   "current": "what-is-a-cta"
+  },
+  "ru": {
+   "_type": "slug",
+   "current": "chto-takoe-cta"
+  },
+  "uk": {
+   "_type": "slug",
+   "current": "shcho-take-cta"
+  }
+ },
+ "status": "published",
+ "tags": [
+  "CTA",
+  "конверсія",
+  "UX"
+ ],
+ "title": {
+  "_type": "localizedString",
+  "en": "What is a CTA and how it brings you enquiries",
+  "ru": "CTA — это что: как призыв к действию приносит заявки",
+  "uk": "CTA — що це і як він приносить заявки"
+ },
+ "updatedAt": "2026-08-26T12:00:00.000Z"
+}

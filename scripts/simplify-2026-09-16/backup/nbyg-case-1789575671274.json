@@ -1,0 +1,1094 @@
+{
+ "_createdAt": "2026-06-04T17:10:00Z",
+ "_id": "lOTgaDd8FU4wgJ8F4K9wE8",
+ "_rev": "fCAHs6BVkQK6W5F4ZSCDPV",
+ "_system": {
+  "base": {
+   "id": "lOTgaDd8FU4wgJ8F4K9wE8",
+   "rev": "arEKRV0Zhtdp43SHoz3WLI"
+  }
+ },
+ "_type": "caseStudy",
+ "_updatedAt": "2026-08-28T17:35:01Z",
+ "budgetBucket": {
+  "_ref": "lOTgaDd8FU4wgJ8F4KAXLu",
+  "_type": "reference"
+ },
+ "client": "Анна",
+ "country": {
+  "_ref": "DHIwRDN3sEoI638qoYQ0tX",
+  "_type": "reference"
+ },
+ "coverImage": {
+  "_type": "imageWithLocalizedAlt",
+  "alt": {
+   "_type": "localizedString",
+   "en": "NBYG København — site for a Copenhagen construction and renovation firm",
+   "ru": "NBYG København — сайт для строительной компании из Копенгагена",
+   "uk": "NBYG København — сайт для будівельної компанії з Копенгагена"
+  },
+  "image": {
+   "_type": "image",
+   "asset": {
+    "_ref": "image-5bc6d1c53c532509f4c3072f369ffcad13d39b26-2560x1762-png",
+    "_type": "reference"
+   }
+  }
+ },
+ "duration": {
+  "en": "6 weeks",
+  "ru": "6 недель",
+  "uk": "6 тижнів"
+ },
+ "featured": true,
+ "hero": {
+  "eyebrow": {
+   "en": "/ CASE STUDY",
+   "ru": "/ CASE STUDY",
+   "uk": "/ CASE STUDY"
+  },
+  "heading": {
+   "en": "NBYG København: a website that brought in 300+ enquiries in a year",
+   "ru": "NBYG København: сайт, который принёс 300+ заявок за год",
+   "uk": "NBYG København: сайт, який приніс 300+ заявок за рік"
+  },
+  "heroImage": {
+   "_type": "imageWithLocalizedAlt",
+   "alt": {
+    "_type": "localizedString",
+    "en": "NBYG website shown on laptop and phone",
+    "ru": "Сайт NBYG на ноутбуке и телефоне",
+    "uk": "Сайт NBYG на ноутбуці і телефоні"
+   },
+   "image": {
+    "_type": "image",
+    "asset": {
+     "_ref": "image-889f454747dc0c92f06510cd730cd315d3e7c35c-1211x1133-png",
+     "_type": "reference"
+    }
+   }
+  },
+  "link": {
+   "_type": "ctaAction",
+   "href": "https://www.xn--nbygkbenhavn-zjb.dk/",
+   "label": {
+    "_type": "localizedString",
+    "en": "Visit site",
+    "ru": "Посмотреть сайт",
+    "uk": "Переглянути сайт"
+   },
+   "type": "custom"
+  },
+  "subheading": {
+   "en": "A Danish construction firm came to us for a new website. The brief wasn't just to \"make it look good\" — it was to build a site that wins new customers through Google. The build cost a fixed $4,000. After launch the client stayed on for ongoing SEO, and in the first year the site brought in 300+ enquiries. For construction in Denmark that's a strong result: these jobs are high-value, so a single solid enquiry can be worth a great deal to the business.",
+   "ru": "Клиент обратился к нам за сайтом для строительной компании в Дании. Задача была не просто “сделать красиво”, а создать сайт, который поможет бизнесу получать новых клиентов из Google. Стоимость разработки сайта составила $4 000. После запуска клиент продолжил SEO-продвижение с нами, и за первый год сайт принёс 300+ заявок. Для строительной ниши в Дании это сильный результат, потому что стоимость таких услуг высокая, а каждая качественная заявка может принести бизнесу серьёзный доход.",
+   "uk": "Клієнт звернувся до нас за сайтом для будівельної компанії в Данії. Задача була не просто “зробити красиво”, а створити сайт, який допоможе бізнесу отримувати нових клієнтів з Google. Вартість розробки сайту склала $4 000. Після запуску клієнт продовжив SEO-просування з нами, і за перший рік сайт приніс 300+ заявок. Для будівельної ніші в Данії це сильний результат, тому що вартість таких послуг висока, а кожна якісна заявка може принести бізнесу серйозний дохід."
+  }
+ },
+ "industry": {
+  "_ref": "lOTgaDd8FU4wgJ8F4KCHn9",
+  "_type": "reference"
+ },
+ "metricsLine": {
+  "en": "300+ enquiries for the client in the first year · 1,100 Google conversions in the last 6 months · 302,000 Google impressions, so more searchers saw the site",
+  "ru": "300+ заявок получил клиент за первый год · 1100 переходов из Google за последние 6 месяцев · 302 000 показов в Google сайт чаще видели люди в поиске",
+  "uk": "300+ заявок отримав клієнт за перший рік · 1100 переходів з Google за останні 6 місяців · 302 000 показів у Google сайт частіше бачили люди в пошуку"
+ },
+ "order": 0,
+ "region": {
+  "en": "Copenhagen + Bornholm, Denmark",
+  "ru": "Копенгаген + Борнхольм, Дания",
+  "uk": "Копенгаген + Борнгольм, Данія"
+ },
+ "sections": [
+  {
+   "_key": "sec1",
+   "_type": "statsBlock",
+   "items": [
+    {
+     "_key": "m2",
+     "label": {
+      "en": "for the client in the first year",
+      "ru": "получил клиент за первый год",
+      "uk": "отримав клієнт за перший рік"
+     },
+     "value": {
+      "en": "300+ enquiries",
+      "ru": "300+ заявок",
+      "uk": "300+ заявок"
+     }
+    },
+    {
+     "_key": "m3",
+     "label": {
+      "en": "in the last 6 months",
+      "ru": "за последние 6 месяцев",
+      "uk": "за останні 6 місяців"
+     },
+     "value": {
+      "en": "1,100 conversions from Google",
+      "ru": "1 100 переходов из Google",
+      "uk": "1 100 переходів з Google"
+     }
+    },
+    {
+     "_key": "m4",
+     "label": {
+      "en": "the website was seen more often by people in search",
+      "ru": "302,000 impressions on Google",
+      "uk": "302,000 impressions on Google"
+     },
+     "value": {
+      "en": "302,000 Google impressions",
+      "ru": "302 000 показов в Google",
+      "uk": "302 000 показів у Google"
+     }
+    },
+    {
+     "_key": "m5",
+     "label": {
+      "en": "people clicked contact buttons, reached the contact details and sent forms",
+      "ru": "люди нажимали кнопки связи, переходили к контактам и оставляли формы",
+      "uk": "люди натискали кнопки зв’язку, переходили до контактів і залишали форми"
+     },
+     "value": {
+      "en": "300+ actions on the site",
+      "ru": "300+ действий на сайте",
+      "uk": "300+ дій на сайті"
+     }
+    }
+   ]
+  },
+  {
+   "_key": "fe3377ebc5f2",
+   "_type": "imageTextBlock",
+   "body": {
+    "en": [
+     {
+      "_key": "7642a7700034",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "887234cf01eb",
+        "_type": "span",
+        "marks": [],
+        "text": "These numbers are about more than traffic. They show the site doing its main job: bringing potential customers to the business. People found the company on Google, visited the site, looked over the services and got in touch. The site stopped being an online brochure and became a real channel for winning customers."
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ],
+    "ru": [
+     {
+      "_key": "a47ab252ab5b4b93b3a13da2086731ca",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "b0c08fb273ea462fab269df773843c83",
+        "_type": "span",
+        "marks": [],
+        "text": "Эти цифры показывают не просто посещаемость сайта. Они показывают, что сайт начал выполнять свою главную задачу:\nприводить потенциальных клиентов в бизнес. Люди находили компанию в Google, переходили на сайт, смотрели услуги и оставляли заявки. То есть сайт стал не просто онлайн-визиткой, а полноценным каналом привлечения клиентов."
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ],
+    "uk": [
+     {
+      "_key": "b6515b1fcd51",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "ba70679b8566",
+        "_type": "span",
+        "marks": [],
+        "text": "Ці цифри показують не просто відвідуваність сайту. Вони показують, що сайт почав виконувати свою головну задачу:\nприводити потенційних клієнтів у бізнес. Люди знаходили компанію в Google, переходили на сайт, дивилися послуги та залишали заявки. Тобто сайт став не просто онлайн-візиткою, а повноцінним каналом залучення клієнтів."
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ]
+   },
+   "bulletIcon": "check",
+   "centeredLayout": "horizontal",
+   "cta": {
+    "_type": "ctaAction",
+    "type": "custom"
+   },
+   "heading": {
+    "_type": "localizedText",
+    "en": "What this means *for business*",
+    "ru": "Что это значит *для бизнеса*",
+    "uk": "Що це означає *для бізнесу*"
+   },
+   "variant": "centered"
+  },
+  {
+   "_key": "0eb227ff2f05",
+   "_type": "imageTextBlock",
+   "body": {
+    "en": [
+     {
+      "_key": "7e5682ecb556",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "7dac57cc869f",
+        "_type": "span",
+        "marks": [],
+        "text": "Over the past 6 months the site recorded 1,100 Google conversions, up from 677 in the 6 months before. In short, once the new site launched and SEO kicked in, far more people found the company through Google. The site also showed up in search 302,000 times across those 6 months, so more people looking for construction services saw it. More visibility on Google means more visitors, and more visitors means more chances of an enquiry."
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ],
+    "ru": [
+     {
+      "_key": "a466d0ac7ac64ce08955bf541100870e",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "f50e4bba1be74f5b8049a175177acc74",
+        "_type": "span",
+        "marks": [],
+        "text": "За последние 6 месяцев сайт получил 1 100 переходов из Google. Для сравнения: за предыдущие 6 месяцев было 677 переходов. То есть после запуска сайта и SEO-продвижения больше людей стали находить компанию через Google. Также сайт появлялся в поиске 302 000 раз за 6 месяцев. Это значит, что компанию стали чаще видеть люди, которые ищут строительные услуги. Больше людей видят сайт в Google → больше людей переходят на сайт → больше шансов получить заявку."
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ],
+    "uk": [
+     {
+      "_key": "8507e27cc471",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "5bd4480382a4",
+        "_type": "span",
+        "marks": [],
+        "text": "За останні 6 місяців сайт отримав 1 100 переходів з Google. Для порівняння: за попередні 6 місяців було 677 переходів. Тобто після запуску сайту та SEO-просування більше людей почали знаходити компанію через Google. Також сайт з’являвся в пошуку 302 000 разів за 6 місяців. Це означає, що компанію стали частіше бачити люди, які шукають будівельні послуги. Більше людей бачать сайт у Google → більше людей переходять на сайт → більше шансів отримати заявку."
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ]
+   },
+   "bulletIcon": "check",
+   "centeredLayout": "vertical",
+   "cta": {
+    "_type": "ctaAction",
+    "type": "custom"
+   },
+   "heading": {
+    "_type": "localizedText",
+    "en": "How the site began to *grow on Google*",
+    "ru": "Как сайт начал *расти в Google*",
+    "uk": "Як сайт почав *рости в Google*"
+   },
+   "image": {
+    "_type": "imageWithLocalizedAlt",
+    "alt": {
+     "_type": "localizedString",
+     "en": "Google Search Console report with six-month growth in clicks and impressions for the NBYG site",
+     "ru": "Отчёт Google Search Console с ростом кликов и показов сайта NBYG за полгода",
+     "uk": "Звіт Google Search Console зі зростанням кліків і показів сайту NBYG за пів року"
+    },
+    "image": {
+     "_type": "image",
+     "asset": {
+      "_ref": "image-87b9d3cc179ceb81dff192b9904093b170634aee-1253x589-png",
+      "_type": "reference"
+     }
+    }
+   },
+   "imageFit": "natural",
+   "imageVariant": "imageLeft",
+   "variant": "side"
+  },
+  {
+   "_key": "sec6",
+   "_type": "imageTextBlock",
+   "body": {
+    "en": [
+     {
+      "_key": "46e2241f59a5",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "53eea5eb1d28",
+        "_type": "span",
+        "marks": [],
+        "text": "Before the rebuild, the site wasn't pulling its weight. The company had the services, the experience and the completed projects, but the old site didn't do enough to sell them."
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ],
+    "ru": [
+     {
+      "_key": "bcf70d984bbf4d158f7a5c4a5fa4e96b",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "4d686c9d2b744edb932b86efe5a1d9f1",
+        "_type": "span",
+        "marks": [],
+        "text": "У клиента был устаревший сайт на WordPress 2018 года с 5 платными плагинами. Сайт не ранжировался в локальном поиске Копенгагена и Борнхольма, имел слабый мобильный UX и получал лишь 3 заявки в месяц — недостаточно для загрузки команды в обеих локациях."
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ],
+    "uk": [
+     {
+      "_key": "b7",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "s8",
+        "_type": "span",
+        "marks": [],
+        "text": "Клієнт мав застарілий сайт на WordPress 2018 року з 5 платними плагінами. Сайт не ранжувався в локальному пошуку Копенгагена і Борнгольма, мав слабкий мобільний UX і отримував лише 3 заявки на місяць — недостатньо для завантаження команди в обидвох локаціях."
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ]
+   },
+   "bulletIcon": "cross",
+   "bulletList": [
+    {
+     "_key": "2KB7PmPZrihzQa1edpl6l6",
+     "en": "The site read more like a brochure than a tool for generating enquiries",
+     "ru": "Сайт больше выглядел как визитка, а не как инструмент для заявок",
+     "uk": "Сайт більше виглядав як візитка, а не як інструмент для заявок"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl6mC",
+     "en": "It wasn't clear at a glance what the company actually does",
+     "ru": "Людям было не сразу понятно, чем занимается компания",
+     "uk": "Людям було не одразу зрозуміло, чим займається компанія"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl6nI",
+     "en": "The services weren't presented clearly enough",
+     "ru": "Услуги были поданы недостаточно чётко",
+     "uk": "Послуги були подані недостатньо чітко"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl6oO",
+     "en": "The site was poorly set up for Google",
+     "ru": "Сайт был слабо подготовлен для продвижения в Google",
+     "uk": "Сайт був слабко підготовлений для просування в Google"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl6pU",
+     "en": "It was harder than it should be to reach the contact details",
+     "ru": "Пользователю было сложнее быстро перейти к контакту",
+     "uk": "Користувачу було складніше швидко перейти до контакту"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl6qa",
+     "en": "Updating content on the site was awkward for the client",
+     "ru": "Клиенту было неудобно обновлять информацию на сайте",
+     "uk": "Клієнту було незручно оновлювати інформацію на сайті"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl6rg",
+     "en": "No proper split between the two locations (Copenhagen vs Bornholm)",
+     "ru": "Не было разделения на две локации (Копенгаген vs Борнхольм)",
+     "uk": "Не було розділення на дві локації (Копенгаген vs Борнгольм)"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl6sm",
+     "en": "Admin on mobile was unusable",
+     "ru": "Админка на телефоне была нечитаемой",
+     "uk": "Адмінка на телефоні була нечитабельна"
+    }
+   ],
+   "eyebrow": {
+    "en": "/ 02 PROBLEM",
+    "ru": "/ PROBLEM",
+    "uk": "/ PROBLEM"
+   },
+   "heading": {
+    "en": "What was *before our work*",
+    "ru": "Что было *до нашей работы*",
+    "uk": "Що було *до нашої роботи*"
+   },
+   "image": {
+    "_type": "imageWithLocalizedAlt",
+    "alt": {
+     "_type": "localizedString",
+     "en": "NBYG before the new site launched — old Nbyg Bornholm homepage",
+     "ru": "NBYG до запуска нового сайта — старая главная страница Nbyg Bornholm",
+     "uk": "NBYG до запуску нового сайту — стара головна сторінка Nbyg Bornholm"
+    },
+    "image": {
+     "_type": "image",
+     "asset": {
+      "_ref": "image-f5f750e15bc4967519e3e7909dc9a7968a8ebe48-2420x1624-png",
+      "_type": "reference"
+     }
+    }
+   },
+   "imageVariant": "imageRight",
+   "variant": "side-with-list"
+  },
+  {
+   "_key": "secb",
+   "_type": "imageTextBlock",
+   "body": {
+    "en": [
+     {
+      "_key": "d01a1456a561",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "35253724ef86",
+        "_type": "span",
+        "marks": [],
+        "text": "We built a site that helps the company win enquiries from search.\nThe work included:"
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ],
+    "ru": [
+     {
+      "_key": "7dac28a5a797499482053bfc4a4fd88e",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "745015c152f84f7caa9a7dfea6403380",
+        "_type": "span",
+        "marks": [],
+        "text": "Мы разработали сайт, который помогает компании получать заявки из поиска.\nВ работу вошло:"
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ],
+    "uk": [
+     {
+      "_key": "bc",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "sd",
+        "_type": "span",
+        "marks": [],
+        "text": "Ми розробили сайт, який допомагає компанії отримувати заявки з пошуку.\nУ роботу увійшло:"
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ]
+   },
+   "bulletIcon": "check",
+   "bulletList": [
+    {
+     "_key": "2KB7PmPZrihzQa1edpl6ts",
+     "en": "New site design",
+     "ru": "Новый дизайн сайта",
+     "uk": "Новий дизайн сайту"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl6uy",
+     "en": "Clear structure for construction services",
+     "ru": "Понятная структура под строительные услуги",
+     "uk": "Зрозуміла структура під будівельні послуги"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl6w4",
+     "en": "Separate pages for the different areas of work",
+     "ru": "Отдельные страницы под разные направления работы",
+     "uk": "Окремі сторінки під різні напрямки роботи"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl6xA",
+     "en": "Copy and structure that perform better on Google",
+     "ru": "Тексты и структура, которые лучше работают в Google",
+     "uk": "Тексти та структура, які краще працюють у Google"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl6yG",
+     "en": "Clear contact buttons",
+     "ru": "Удобные кнопки для связи",
+     "uk": "Зручні кнопки для зв’язку"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl6zM",
+     "en": "Enquiry forms",
+     "ru": "Формы заявки",
+     "uk": "Форми заявки"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl70S",
+     "en": "Mobile-responsive design",
+     "ru": "Адаптация под телефон",
+     "uk": "Адаптація під телефон"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl71Y",
+     "en": "Fast page loads",
+     "ru": "Быстрая загрузка сайта",
+     "uk": "Швидке завантаження сайту"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl72e",
+     "en": "An easy admin so the client can edit content themselves;",
+     "ru": "Удобная админка, чтобы клиент мог сам менять контент",
+     "uk": "Зручна адмінка, щоб клієнт міг сам змінювати контент"
+    },
+    {
+     "_key": "2KB7PmPZrihzQa1edpl73k",
+     "en": "Ongoing SEO after launch",
+     "ru": "Дальнейшее SEO-продвижение после запуска",
+     "uk": "Подальше SEO-просування після запуску"
+    }
+   ],
+   "eyebrow": {
+    "en": "/ 03 SOLUTION",
+    "ru": "/ SOLUTION",
+    "uk": "/ SOLUTION"
+   },
+   "heading": {
+    "en": "What we *did*",
+    "ru": "Что мы *сделали*",
+    "uk": "Що ми *зробили*"
+   },
+   "image": {
+    "_type": "imageWithLocalizedAlt",
+    "alt": {
+     "_type": "localizedString",
+     "en": "NBYG's new homepage with hero heading, contact buttons and a section about the firm",
+     "ru": "Новая главная страница сайта NBYG с заголовком, кнопками связи и разделом о фирме",
+     "uk": "Нова головна сторінка сайту NBYG із заголовком, кнопками зв'язку та розділом про фірму"
+    },
+    "image": {
+     "_type": "image",
+     "asset": {
+      "_ref": "image-18b7e1be43671e71da319e88a6b2d3cbb5f69fc7-2420x1998-png",
+      "_type": "reference"
+     }
+    }
+   },
+   "imageVariant": "imageLeft",
+   "variant": "side-with-list"
+  },
+  {
+   "_key": "4858544c3b87",
+   "_type": "imageTextBlock",
+   "body": {
+    "en": [
+     {
+      "_key": "a8b858f3996a",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "ca1491d1c495",
+        "_type": "span",
+        "marks": [],
+        "text": "Analytics showed people weren't just visiting — they were taking the kind of actions that lead to an enquiry. Over 360 days the site logged what users did, and the pattern is clear: visitors arrived and went looking for a way to contact the company."
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ],
+    "ru": [
+     {
+      "_key": "bd39030ce0a041de8a1873c874eccaa4",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "ef6f966aa3d64972941f1bc11d390da5",
+        "_type": "span",
+        "marks": [],
+        "text": "Аналитика показала, что люди не просто заходили на сайт, а выполняли действия, которые могут привести к заявке. За 360 дней на сайте были зафиксированы действия пользователей. Эти данные показывают главное:\nлюди заходили на сайт и искали способ связаться с компанией."
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ],
+    "uk": [
+     {
+      "_key": "ec2cb91840d3",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "0eeeaae238fc",
+        "_type": "span",
+        "marks": [],
+        "text": "Аналітика показала, що люди не просто заходили на сайт, а виконували дії, які можуть привести до заявки. За 360 днів на сайті було зафіксовано дії користувачів. Ці дані показують головне:\nлюди заходили на сайт і шукали спосіб зв’язатися з компанією.\n"
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ]
+   },
+   "bulletIcon": "check",
+   "bulletList": [
+    {
+     "_key": "f926356529d0",
+     "_type": "localizedString",
+     "en": "166 clicks on \"Contact us\"",
+     "ru": "166 раз пользователи нажимали Contact us",
+     "uk": "166 разів користувачі натискали Contact us"
+    },
+    {
+     "_key": "d491f3268ef1",
+     "_type": "localizedString",
+     "en": "104 clicks on external links",
+     "ru": "104 раза переходили по внешним ссылкам",
+     "uk": "104 рази переходили за зовнішніми посиланнями"
+    },
+    {
+     "_key": "cfd022658a52",
+     "_type": "localizedString",
+     "en": "50 form submissions",
+     "ru": "50 раз отправляли форму",
+     "uk": "50 разів відправляли форму"
+    },
+    {
+     "_key": "31f7429d00ee",
+     "_type": "localizedString",
+     "en": "14 clicks on the \"Kontakt os\" button",
+     "ru": "14 раз нажимали кнопку Kontakt os",
+     "uk": "14 разів натискали кнопку Kontakt os"
+    }
+   ],
+   "centeredLayout": "vertical",
+   "cta": {
+    "_type": "ctaAction",
+    "type": "custom"
+   },
+   "heading": {
+    "_type": "localizedText",
+    "en": "What people *did on the site*",
+    "ru": "Что люди *делали на сайте*",
+    "uk": "Що люди *робили на сайті*"
+   },
+   "image": {
+    "_type": "imageWithLocalizedAlt",
+    "alt": {
+     "_type": "localizedString",
+     "en": "Microsoft Clarity dashboard with NBYG site events: contact clicks and submitted forms",
+     "ru": "Панель Microsoft Clarity с событиями на сайте NBYG: обращения, клики и отправленные формы",
+     "uk": "Панель Microsoft Clarity з подіями на сайті NBYG: звернення, кліки та надіслані форми"
+    },
+    "image": {
+     "_type": "image",
+     "asset": {
+      "_ref": "image-aab778156d4206b5fcdac048a6e859ff5f708702-3000x2250-png",
+      "_type": "reference"
+     }
+    }
+   },
+   "imageVariant": "imageRight",
+   "variant": "side"
+  },
+  {
+   "_key": "27444650b95d",
+   "_type": "mediaGalleryBlock",
+   "enableLightbox": true,
+   "images": [
+    {
+     "_key": "bb109334d995",
+     "_type": "mediaGalleryImageItem",
+     "alt": {
+      "_type": "localizedString",
+      "en": "NBYG case slide: laptop with the new site and a short project overview",
+      "ru": "Слайд кейса NBYG: ноутбук с новым сайтом и краткое описание проекта",
+      "uk": "Слайд кейсу NBYG: ноутбук із новим сайтом і короткий опис проєкту"
+     },
+     "displayMode": "general",
+     "image": {
+      "_type": "image",
+      "asset": {
+       "_ref": "image-9b1ab14bd9bf09e4f3e4f9f3fee40f98d67325f7-2560x1896-png",
+       "_type": "reference"
+      }
+     },
+     "objectPosition": "center"
+    },
+    {
+     "_key": "789e2b135904",
+     "_type": "mediaGalleryImageItem",
+     "alt": {
+      "_type": "localizedString",
+      "en": "NBYG inner pages on two laptops: new tile roof and windows, doors and extensions with prices",
+      "ru": "Внутренние страницы сайта NBYG на двух ноутбуках: новая крыша и окна, двери, пристройки",
+      "uk": "Внутрішні сторінки сайту NBYG на двох ноутбуках: новий дах і вікна, двері, прибудови"
+     },
+     "displayMode": "general",
+     "image": {
+      "_type": "image",
+      "asset": {
+       "_ref": "image-c8c4b521c73c1b7763a8c19bfd5162902cd580fc-2560x1748-png",
+       "_type": "reference"
+      }
+     },
+     "objectPosition": "center"
+    },
+    {
+     "_key": "c808a9d3a272",
+     "_type": "mediaGalleryImageItem",
+     "alt": {
+      "_type": "localizedString",
+      "en": "NBYG homepage",
+      "ru": "Главная страница сайта NBYG",
+      "uk": "Головна сторінка сайту NBYG"
+     },
+     "displayMode": "general",
+     "image": {
+      "_type": "image",
+      "asset": {
+       "_ref": "image-104bd3a770fcb47c04f033b10f5a2dbb8e73210f-2560x1748-png",
+       "_type": "reference"
+      }
+     },
+     "objectPosition": "center"
+    },
+    {
+     "_key": "0d6b5a0a502c",
+     "_type": "mediaGalleryImageItem",
+     "alt": {
+      "_type": "localizedString",
+      "en": "Terrace cost calculator on the NBYG site with material and area selection",
+      "ru": "Калькулятор стоимости террасы на сайте NBYG: выбор материала и площади",
+      "uk": "Калькулятор вартості тераси на сайті NBYG: вибір матеріалу та площі"
+     },
+     "displayMode": "general",
+     "image": {
+      "_type": "image",
+      "asset": {
+       "_ref": "image-6fd6686bb52420c78f61b9cb7f7a609511f36aa1-2560x1748-png",
+       "_type": "reference"
+      }
+     },
+     "objectPosition": "center"
+    },
+    {
+     "_key": "5f9154d95701",
+     "_type": "mediaGalleryImageItem",
+     "alt": {
+      "_type": "localizedString",
+      "en": "NBYG website on mobile",
+      "ru": "Мобильная версия сайта NBYG",
+      "uk": "Мобільна версія сайту NBYG"
+     },
+     "displayMode": "general",
+     "image": {
+      "_type": "image",
+      "asset": {
+       "_ref": "image-e0b0c663acebe6d30cdac9e82b591037d7e6412f-2560x1500-png",
+       "_type": "reference"
+      }
+     },
+     "objectPosition": "center"
+    },
+    {
+     "_key": "ab5a4a33df92",
+     "_type": "mediaGalleryImageItem",
+     "alt": {
+      "_type": "localizedString",
+      "en": "Sanity CMS admin panel on the NBYG site with the list of service pages",
+      "ru": "Админ-панель Sanity CMS сайта NBYG со списком страниц услуг",
+      "uk": "Адмін-панель Sanity CMS сайту NBYG зі списком сторінок послуг"
+     },
+     "displayMode": "general",
+     "image": {
+      "_type": "image",
+      "asset": {
+       "_ref": "image-248500fe331ee3c4c1ad82c9d2975eb9335ec77c-1280x610-jpg",
+       "_type": "reference"
+      }
+     },
+     "objectPosition": "center"
+    },
+    {
+     "_key": "gsccompare",
+     "_type": "mediaGalleryImageItem",
+     "alt": {
+      "_type": "localizedString",
+      "en": "Google Search Console report for the NBYG website: six-month performance comparison",
+      "ru": "Отчёт Google Search Console для сайта NBYG: сравнение производительности за два полугодовых периода",
+      "uk": "Звіт Google Search Console для сайту NBYG: порівняння продуктивності за два піврічні періоди"
+     },
+     "displayMode": "general",
+     "fit": "contain",
+     "image": {
+      "_type": "image",
+      "asset": {
+       "_ref": "image-87b9d3cc179ceb81dff192b9904093b170634aee-1253x589-png",
+       "_type": "reference"
+      }
+     },
+     "objectPosition": "center"
+    },
+    {
+     "_key": "gsc3mo",
+     "_type": "mediaGalleryImageItem",
+     "alt": {
+      "_type": "localizedString",
+      "en": "Google Search Console performance for the NBYG website over the last 3 months",
+      "ru": "Производительность сайта NBYG в Google Search Console за последние 3 месяца",
+      "uk": "Продуктивність сайту NBYG у Google Search Console за останні 3 місяці"
+     },
+     "displayMode": "general",
+     "fit": "contain",
+     "image": {
+      "_type": "image",
+      "asset": {
+       "_ref": "image-0485e2822408e29199ffe229b6189df0a868d0cd-1259x588-png",
+       "_type": "reference"
+      }
+     },
+     "objectPosition": "center"
+    }
+   ]
+  },
+  {
+   "_key": "secg",
+   "_type": "imageTextBlock",
+   "body": {
+    "en": [
+     {
+      "_key": "793f0e82f3fd",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "2ab2e8981357",
+        "_type": "span",
+        "marks": [],
+        "text": "After the site launched and SEO got going, the client was seeing 300+ enquiries a year. For a Danish construction firm that's especially valuable, since a single won project can be worth far more than the whole build. At a fixed $4,000, the site wasn't just a design cost for the client — it became a tool that brings in new business. \nThe result didn't come from a \"nice website\" on its own. The site started working because we:"
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ],
+    "ru": [
+     {
+      "_key": "3830d4ecdfdb4ed18d81a9d43e20d3bb",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "bb8baa9eeab14a35abd9c1557e830fe1",
+        "_type": "span",
+        "marks": [],
+        "text": "После запуска сайта и SEO-продвижения клиент получил 300+ заявок за год. Для строительной компании в Дании это особенно ценно, потому что даже один закрытый проект может стоить значительно больше, чем разработка сайта. Сайт за $4 000 стал для клиента не просто расходом на дизайн, а инструментом, который помогает получать новых клиентов."
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     },
+     {
+      "_key": "3ee91cfa3cf9468e8a2bbb708fb545d3",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "8f35d0f281c74a10a859baee0b109116",
+        "_type": "span",
+        "marks": [],
+        "text": "Результат появился не из-за “красивого сайта самого по себе”. Сайт начал работать, потому что мы:"
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ],
+    "uk": [
+     {
+      "_key": "bh",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "si",
+        "_type": "span",
+        "marks": [],
+        "text": "Після запуску сайту та SEO-просування клієнт отримав 300+ заявок за рік. Для будівельної компанії в Данії це особливо цінно, тому що навіть один закритий проєкт може коштувати значно більше, ніж розробка сайту. Сайт за $4 000 став для клієнта не просто витратою на дизайн, а інструментом, який допомагає отримувати нових клієнтів."
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     },
+     {
+      "_key": "e7f67de6db24",
+      "_type": "block",
+      "children": [
+       {
+        "_key": "722a7fc7740e",
+        "_type": "span",
+        "marks": [],
+        "text": "Результат з’явився не через “гарний сайт сам по собі”. Сайт почав працювати, тому що ми:"
+       }
+      ],
+      "markDefs": [],
+      "style": "normal"
+     }
+    ]
+   },
+   "bulletIcon": "dot",
+   "bulletList": [
+    {
+     "_key": "a77a52808344",
+     "_type": "localizedString",
+     "en": "Made a clear structure",
+     "ru": "Сделали понятную структуру",
+     "uk": "Зробили зрозумілу структуру"
+    },
+    {
+     "_key": "5f7ee96330f6",
+     "_type": "localizedString",
+     "en": "Presented the services properly",
+     "ru": "Правильно подали услуги",
+     "uk": "Правильно подали послуги"
+    },
+    {
+     "_key": "2d900ae09c57",
+     "_type": "localizedString",
+     "en": "Set the site up for Google",
+     "ru": "Подготовили сайт для Google",
+     "uk": "Підготували сайт для Google"
+    },
+    {
+     "_key": "cd6f52a5b6e1",
+     "_type": "localizedString",
+     "en": "Added an easy way to get in touch",
+     "ru": "Добавили простой путь к заявке",
+     "uk": "Додали простий шлях до заявки"
+    },
+    {
+     "_key": "9a5b674dcd44",
+     "_type": "localizedString",
+     "en": "Made the site easy to use on mobile",
+     "ru": "Сделали сайт удобным на телефоне",
+     "uk": "Зробили сайт зручним на телефоні"
+    },
+    {
+     "_key": "6f7f95745bc8",
+     "_type": "localizedString",
+     "en": "Kept SEO going after launch",
+     "ru": "Продолжили SEO-продвижение после запуска",
+     "uk": "Продовжили SEO-просування після запуску"
+    }
+   ],
+   "centeredLayout": "horizontal",
+   "eyebrow": {
+    "en": "/ 04 OUTCOME",
+    "ru": "/ OUTCOME",
+    "uk": "/ OUTCOME"
+   },
+   "heading": {
+    "en": "Result for *the client*",
+    "ru": "Результат для *клиента*",
+    "uk": "Результат для *клієнта*"
+   },
+   "image": {
+    "_type": "imageWithLocalizedAlt",
+    "alt": {
+     "_type": "localizedString",
+     "en": "NBYG website on mobile",
+     "ru": "Мобильная версия сайта NBYG",
+     "uk": "Мобільна версія сайту NBYG"
+    },
+    "image": {
+     "_type": "image",
+     "asset": {
+      "_ref": "image-10f9be8c537d9f3d0267546be3ad93f88a679a8f-720x890-png",
+      "_type": "reference"
+     }
+    }
+   },
+   "image2": {
+    "_type": "imageWithLocalizedAlt",
+    "alt": {
+     "_type": "localizedString",
+     "en": "NBYG website on desktop",
+     "ru": "Десктопная версия сайта NBYG",
+     "uk": "Десктопна версія сайту NBYG"
+    },
+    "image": {
+     "_type": "image",
+     "asset": {
+      "_ref": "image-9f6d2d19ce3c4b22d8dffc8e7ac3a563c56ebd8a-1100x1008-png",
+      "_type": "reference"
+     }
+    }
+   },
+   "variant": "centered"
+  },
+  {
+   "_key": "secp",
+   "_type": "quoteBlock",
+   "authorAvatar": {
+    "_type": "image",
+    "asset": {
+     "_ref": "image-4bf016c2d13959e53e23fd5ea116d06d9422cc2d-1159x1157-png",
+     "_type": "reference"
+    }
+   },
+   "authorName": "Анна",
+   "authorRole": {
+    "en": "Customer",
+    "ru": "Заказчик",
+    "uk": "Замовник"
+   },
+   "isReview": true,
+   "quote": {
+    "en": "Thank you for your work on the site:) the site turned out very stylish, cool, fast, just like I thought it should be) And most importantly, everything took as long as we agreed.\nWorking with you is comfortable and pleasant.",
+    "ru": "Спасибо за работу над сайтом:) сайт получился очень стильный, классный, быстрый, такой, каким я и думала он должен быть) И главное по времени всё заняло как мы договаривались. \nРаботать с вами комфортно и приятно.",
+    "uk": "Дякую за роботою на сайтом:) сайт вийшов дуже стильний, класний, швидкий, такий, як я і думала він має бути) І головне по часу все зайняло як ми домовлялись. \nПрацювати з вами комфортно і приємно."
+   },
+   "rating": 5,
+   "reviewDate": "2024-01-01"
+  }
+ ],
+ "seo": {
+  "description": {
+   "_type": "localizedString",
+   "en": "➤ Construction company website in Denmark ✔️ 300+ enquiries in year one ✔️ 302,000 Google impressions ✔️ Bilingual EN/DA with project gallery ➡ Full case study.",
+   "ru": "➤ Сайт для строительной компании в Дании ✔️ 300+ заявок за первый год ✔️ 302 000 показов в Google ✔️ Два языка EN/DA и галерея проектов ➡ Кейс Code-Site.Art.",
+   "uk": "➤ Сайт для будівельної компанії в Данії ✔️ 300+ заявок за перший рік ✔️ 302 000 показів у Google ✔️ Дві мови EN/DA і галерея проєктів ➡ Кейс Code-Site.Art."
+  },
+  "title": {
+   "_type": "localizedString",
+   "en": "Construction Website, 300+ Enquiries a Year — NBYG",
+   "ru": "Сайт строительной компании: 300+ заявок — кейс NBYG",
+   "uk": "Сайт будівельної компанії: 300+ заявок — кейс NBYG"
+  }
+ },
+ "slug": {
+  "_type": "slug",
+  "current": "nbyg-kobenhavn"
+ },
+ "stack": [
+  "Next.js",
+  "Sanity",
+  "Vercel"
+ ],
+ "status": "published",
+ "title": {
+  "en": "NBYG København",
+  "ru": "NBYG København",
+  "uk": "NBYG København"
+ },
+ "year": 2024
+}

@@ -1,0 +1,113 @@
+{
+ "_createdAt": "2026-06-04T17:36:50Z",
+ "_id": "lOTgaDd8FU4wgJ8F4KCFIY",
+ "_rev": "eJyqTisNa5YHd4FrajaEDf",
+ "_system": {
+  "base": {
+   "id": "pricingPlan.corporate",
+   "rev": "UAjCtlAuHSg7wG7TzGJZSv"
+  }
+ },
+ "_type": "pricingPlan",
+ "_updatedAt": "2026-08-29T21:18:07Z",
+ "ctaGhost": false,
+ "ctaLabel": {
+  "en": "Choose Corporate",
+  "ru": "Выбрать Корпоративный",
+  "uk": "Обрати Корпоративний"
+ },
+ "currency": "USD",
+ "excludes": [
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3qo",
+   "en": "Dedicated team (5–7 people)",
+   "ru": "Выделенная команда (5–7 человек)",
+   "uk": "Виділена команда (5–7 осіб)"
+  },
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3rM",
+   "en": "24/7 SLA",
+   "ru": "24/7 SLA",
+   "uk": "24/7 SLA"
+  },
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3ru",
+   "en": "Complex SaaS architecture",
+   "ru": "Сложная SaaS-архитектура",
+   "uk": "Складна SaaS-архітектура"
+  },
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3sS",
+   "en": "Custom integrations",
+   "ru": "Кастомные интеграции",
+   "uk": "Кастомні інтеграції"
+  }
+ ],
+ "excludesHeading": {
+  "en": "Doesn't include",
+  "ru": "Не входит",
+  "uk": "Не входить"
+ },
+ "includes": [
+  {
+   "_key": "pagecount-corporate",
+   "en": "5 pages included, then +£220/page",
+   "ru": "5 страниц включено, дальше +$220/страница",
+   "uk": "5 сторінок включено, далі +$220/сторінка"
+  },
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3o4",
+   "en": "CMS, blog",
+   "ru": "CMS, блог",
+   "uk": "CMS, блог"
+  },
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3oc",
+   "en": "5+ integrations",
+   "ru": "5+ интеграций",
+   "uk": "5+ інтеграцій"
+  },
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3pA",
+   "en": "Local SEO",
+   "ru": "Локальное SEO",
+   "uk": "Локальне SEO"
+  },
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3pi",
+   "en": "Compliance: UK GDPR / DPA 2018-ready",
+   "ru": "Compliance: МОЗ / RODO / HIPAA-aware",
+   "uk": "Compliance: МОЗ / RODO / HIPAA-aware"
+  },
+  {
+   "_key": "tYwdV2ldLdzJB4kwq0c3qG",
+   "en": "Multilingual (2+ languages)",
+   "ru": "Многоязычность",
+   "uk": "Багатомовність"
+  }
+ ],
+ "includesHeading": {
+  "en": "Everything in Landing, plus",
+  "ru": "Всё из Лендинга +",
+  "uk": "Все з Лендінгу +"
+ },
+ "isPopular": true,
+ "name": {
+  "en": "Corporate Website",
+  "ru": "Корпоративный сайт",
+  "uk": "Корпоративний сайт"
+ },
+ "order": 10,
+ "planKey": "corporate",
+ "popularLabel": {
+  "en": "★ MOST POPULAR",
+  "ru": "★ САМОЕ ПОПУЛЯРНОЕ",
+  "uk": "★ НАЙПОПУЛЯРНІШЕ"
+ },
+ "priceFrom": 2500,
+ "weeks": {
+  "en": "4–8 weeks",
+  "ru": "4-8 недель",
+  "uk": "4-8 тижнів"
+ }
+}

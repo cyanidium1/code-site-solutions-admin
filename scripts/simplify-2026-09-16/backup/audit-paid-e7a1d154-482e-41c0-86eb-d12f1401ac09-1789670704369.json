@@ -1,0 +1,2050 @@
+{
+ "_createdAt": "2026-08-16T09:59:50Z",
+ "_id": "e7a1d154-482e-41c0-86eb-d12f1401ac09",
+ "_rev": "fCAHs6BVkQK6W5F4ZTr8AV",
+ "_type": "blogPost",
+ "_updatedAt": "2026-08-30T21:49:25Z",
+ "author": {
+  "bio": "SEO-спеціалістка Code-Site.Art. Веде пошукові кампанії клієнтів студії — від локального SEO клінік до e-commerce.",
+  "name": "Кристина Бондаренко",
+  "photoUrl": "/team/kristina.jpg",
+  "role": "SEO Specialist"
+ },
+ "body": {
+  "en": [
+   {
+    "_key": "b408b",
+    "_type": "tldrBox",
+    "items": [
+     "A full SEO audit costs £300 — but **20 basic checks** you can run yourself in an hour.",
+     "4 blocks: indexing · content · technical · local & authority",
+     "The tools are free: Google, Search Console, PageSpeed Insights",
+     "Write down what you find — that's your work plan (or a ready brief for a contractor)"
+    ],
+    "title": "In 60 seconds"
+   },
+   {
+    "_key": "b408c",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b408d",
+      "_type": "span",
+      "marks": [],
+      "text": "We sell audits for £300 — and we'll say it straight: a fifth of one you can do yourself, free, in an hour. Below are 20 checks that catch the crudest problems. Grab a coffee, open your site and Google — and go down the list."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b408e",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b408f",
+      "_type": "span",
+      "marks": [],
+      "text": "Block 1: can Google see you (indexing)"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b408i",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b408g",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Type site:yourdomain into Google. "
+     },
+     {
+      "_key": "b408h",
+      "_type": "span",
+      "marks": [],
+      "text": "How many pages are indexed? Zero is a catastrophe. Half of what you actually have — worth digging."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b408l",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b408j",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Check robots.txt (yourdomain/robots.txt). "
+     },
+     {
+      "_key": "b408k",
+      "_type": "span",
+      "marks": [],
+      "text": "No accidental Disallow: / — or on key sections?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b408o",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b408m",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Open sitemap.xml. "
+     },
+     {
+      "_key": "b408n",
+      "_type": "span",
+      "marks": [],
+      "text": "Does it exist? Does it list real pages, not junk?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b408r",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b408p",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Enter the site with and without www. "
+     },
+     {
+      "_key": "b408q",
+      "_type": "span",
+      "marks": [],
+      "text": "Both must resolve to one — via redirect, not as two live sites."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b408u",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b408s",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Click 5 random menu and footer links. "
+     },
+     {
+      "_key": "b408t",
+      "_type": "span",
+      "marks": [],
+      "text": "None should land on a 404."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b408v",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b408w",
+      "_type": "span",
+      "marks": [],
+      "text": "Block 2: is there anything to rank (content)"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b408z",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b408x",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Google your main service + city. "
+     },
+     {
+      "_key": "b408y",
+      "_type": "span",
+      "marks": [],
+      "text": "Are you in the first three pages? Does a dedicated page exist for that query?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b4092",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4090",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Read your browser tab titles. "
+     },
+     {
+      "_key": "b4091",
+      "_type": "span",
+      "marks": [],
+      "text": "\"Home\" and \"Services\" — bad. \"Dentist in Shoreditch | Name\" — good."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b4095",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4093",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Check every key page has one H1. "
+     },
+     {
+      "_key": "b4094",
+      "_type": "span",
+      "marks": [],
+      "text": "And it says what people search, not a slogan."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b4098",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4096",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Count your service pages. "
+     },
+     {
+      "_key": "b4097",
+      "_type": "span",
+      "marks": [],
+      "text": "One \"Services\" list page = one entry point instead of ten."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b409b",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4099",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Find the oldest date on the site. "
+     },
+     {
+      "_key": "b409a",
+      "_type": "span",
+      "marks": [],
+      "text": "\"News 2022\" and last year's prices register with people and Google alike."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b409c",
+    "_type": "blogImage",
+    "alt": "A desk with audit reports and charts",
+    "asset": {
+     "_ref": "image-6757852b0b0ce1f3c7f1732d3070c1341a7a1cdb-1600x1060-jpg",
+     "_type": "reference"
+    },
+    "caption": "An hour, a coffee and 20 checks — the cheapest SEO audit of your life"
+   },
+   {
+    "_key": "b409d",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b409e",
+      "_type": "span",
+      "marks": [],
+      "text": "Block 3: is the tech in the way"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b409h",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b409f",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Run the site through pagespeed.web.dev. "
+     },
+     {
+      "_key": "b409g",
+      "_type": "span",
+      "marks": [],
+      "text": "A mobile score under 60 is a real source of losses."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b409k",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b409i",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Open the site on your own phone. "
+     },
+     {
+      "_key": "b409j",
+      "_type": "span",
+      "marks": [],
+      "text": "Can you read the text and hit the buttons without zooming?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b409n",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b409l",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Check the HTTPS padlock. "
+     },
+     {
+      "_key": "b409m",
+      "_type": "span",
+      "marks": [],
+      "text": "The browser's \"Not secure\" kills form conversion."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b409q",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b409o",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Paste your address into validator.schema.org. "
+     },
+     {
+      "_key": "b409p",
+      "_type": "span",
+      "marks": [],
+      "text": "Empty? You're giving Google no structured data."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b409t",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b409r",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Search for yourself in incognito. "
+     },
+     {
+      "_key": "b409s",
+      "_type": "span",
+      "marks": [],
+      "text": "What you see logged in isn't what patients see."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b409u",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b409v",
+      "_type": "span",
+      "marks": [],
+      "text": "Block 4: local and authority"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b409y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b409w",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Type your niche + area into Google Maps. "
+     },
+     {
+      "_key": "b409x",
+      "_type": "span",
+      "marks": [],
+      "text": "Are you in the three? The top-10?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40a1",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b409z",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Reconcile name, address, phone. "
+     },
+     {
+      "_key": "b40a0",
+      "_type": "span",
+      "marks": [],
+      "text": "Site, Google profile, socials — matching character for character?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40a4",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40a2",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Check the date of your latest review. "
+     },
+     {
+      "_key": "b40a3",
+      "_type": "span",
+      "marks": [],
+      "text": "Six months of silence signals both Google and people."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40a7",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40a5",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Google \"yourdomain\" in quotes. "
+     },
+     {
+      "_key": "b40a6",
+      "_type": "span",
+      "marks": [],
+      "text": "Does anyone mention you besides yourself?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40aa",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40a8",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Open 2 competitor sites from the top. "
+     },
+     {
+      "_key": "b40a9",
+      "_type": "span",
+      "marks": [],
+      "text": "What do they have that you don't? That's your work list."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b40ab",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40ac",
+      "_type": "span",
+      "marks": [],
+      "text": "What to do with the findings"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b40ah",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b40ad",
+      "_type": "span",
+      "marks": [],
+      "text": "Write down every \"no\" — you now have a prioritised list: indexing gets fixed first, content drives the most growth, tech removes the brakes. Half you'll fix yourself; for the rest, this list is a ready contractor brief. Want to go deeper? The full £300 audit covers ~80 more checks, from query cannibalisation to link-profile analysis. Details — on the "
+     },
+     {
+      "_key": "b40af",
+      "_type": "span",
+      "marks": [
+       "b40ae"
+      ],
+      "text": "SEO services page"
+     },
+     {
+      "_key": "b40ag",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "b40ae",
+      "_type": "link",
+      "href": "/en/seo",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "b40ai",
+    "_type": "ctaCallout",
+    "ctaHref": "/en/contacts",
+    "ctaLabel": "Order an audit",
+    "ctaMode": "modal",
+    "ctaSecondaryHref": "/en/blog/google-search-console-for-business-owners",
+    "ctaSecondaryLabel": "How to read Search Console",
+    "eyebrow": "SEO audit",
+    "heading": "Found more than five problems?",
+    "leadSource": "blog-seo-audyt-svoimy-rukamy",
+    "sub": "Then the full audit will pay off: a technical and content teardown with a prioritised fix list — £300, delivered in 5 working days."
+   }
+  ],
+  "ru": [
+   {
+    "_key": "b4063",
+    "_type": "tldrBox",
+    "items": [
+     "Полный SEO-аудит стоит $300 — но **20 базовых проверок** можно сделать самостоятельно за час.",
+     "4 блока: индексация · контент · техника · локальное и авторитет",
+     "Инструменты бесплатны: Google, Search Console, PageSpeed Insights",
+     "Найденное запишите — это и есть ваш план работ (или бриф для подрядчика)"
+    ],
+    "title": "За 60 секунд"
+   },
+   {
+    "_key": "b4064",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4065",
+      "_type": "span",
+      "marks": [],
+      "text": "Мы продаём аудит за $300 — и честно говорим: пятую часть его вы можете сделать сами, бесплатно, за час. Ниже 20 проверок, которые находят самые грубые проблемы. Берите кофе, открывайте свой сайт и Google — и по списку."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b4066",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4067",
+      "_type": "span",
+      "marks": [],
+      "text": "Блок 1: видит ли вас Google (индексация)"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b406a",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4068",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Наберите site:вашдомен в Google. "
+     },
+     {
+      "_key": "b4069",
+      "_type": "span",
+      "marks": [],
+      "text": "Сколько страниц в индексе? Ноль — катастрофа. Вдвое меньше, чем у вас есть, — повод копать."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b406d",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b406b",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Проверьте robots.txt (вашдомен/robots.txt). "
+     },
+     {
+      "_key": "b406c",
+      "_type": "span",
+      "marks": [],
+      "text": "Нет случайного Disallow: / — и на важные разделы?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b406g",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b406e",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Откройте sitemap.xml. "
+     },
+     {
+      "_key": "b406f",
+      "_type": "span",
+      "marks": [],
+      "text": "Существует? Содержит реальные страницы, а не мусор?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b406j",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b406h",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Введите сайт с www и без. "
+     },
+     {
+      "_key": "b406i",
+      "_type": "span",
+      "marks": [],
+      "text": "Оба варианта должны вести на один — через редирект, а не показывать два сайта."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b406m",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b406k",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Кликните 5 случайных ссылок меню и футера. "
+     },
+     {
+      "_key": "b406l",
+      "_type": "span",
+      "marks": [],
+      "text": "Ни одна не должна вести на 404."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b406n",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b406o",
+      "_type": "span",
+      "marks": [],
+      "text": "Блок 2: есть ли что ранжировать (контент)"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b406r",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b406p",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Погуглите свою главную услугу + город. "
+     },
+     {
+      "_key": "b406q",
+      "_type": "span",
+      "marks": [],
+      "text": "Вы есть на первых трёх страницах? Под этот запрос существует отдельная страница?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b406u",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b406s",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Посмотрите title вкладок браузера. "
+     },
+     {
+      "_key": "b406t",
+      "_type": "span",
+      "marks": [],
+      "text": "«Главная» и «Услуги» — плохо. «Стоматология на Оболони | Название» — хорошо."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b406x",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b406v",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Проверьте, что на каждой важной странице один H1. "
+     },
+     {
+      "_key": "b406w",
+      "_type": "span",
+      "marks": [],
+      "text": "И он содержит то, что ищут люди, а не слоган."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b4070",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b406y",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Посчитайте страницы услуг. "
+     },
+     {
+      "_key": "b406z",
+      "_type": "span",
+      "marks": [],
+      "text": "Одна страница «Услуги» списком = одна точка входа вместо десяти."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b4073",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4071",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Найдите самую старую дату на сайте. "
+     },
+     {
+      "_key": "b4072",
+      "_type": "span",
+      "marks": [],
+      "text": "«Новости 2022» и прошлогодние цены считываются и людьми, и Google."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b4074",
+    "_type": "blogImage",
+    "alt": "Рабочий стол с открытыми отчётами и графиками аудита",
+    "asset": {
+     "_ref": "image-6757852b0b0ce1f3c7f1732d3070c1341a7a1cdb-1600x1060-jpg",
+     "_type": "reference"
+    },
+    "caption": "Час, кофе и 20 проверок — самый дешёвый SEO-аудит в вашей жизни"
+   },
+   {
+    "_key": "b4075",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4076",
+      "_type": "span",
+      "marks": [],
+      "text": "Блок 3: не мешает ли техника"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b4079",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4077",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Прогоните сайт через pagespeed.web.dev. "
+     },
+     {
+      "_key": "b4078",
+      "_type": "span",
+      "marks": [],
+      "text": "Мобильная оценка ниже 60 — весомая причина потерь."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b407c",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b407a",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Откройте сайт со своего телефона. "
+     },
+     {
+      "_key": "b407b",
+      "_type": "span",
+      "marks": [],
+      "text": "Можно ли прочитать текст и нажать кнопки без зума?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b407f",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b407d",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Проверьте замочек HTTPS. "
+     },
+     {
+      "_key": "b407e",
+      "_type": "span",
+      "marks": [],
+      "text": "Браузерное «Не защищено» убивает конверсию форм."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b407i",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b407g",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Вставьте адрес в validator.schema.org. "
+     },
+     {
+      "_key": "b407h",
+      "_type": "span",
+      "marks": [],
+      "text": "Пусто? Вы не даёте Google структурированных данных."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b407l",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b407j",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Поищите себя в режиме инкогнито. "
+     },
+     {
+      "_key": "b407k",
+      "_type": "span",
+      "marks": [],
+      "text": "То, что видите вы залогиненные, — не то, что видят пациенты."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b407m",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b407n",
+      "_type": "span",
+      "marks": [],
+      "text": "Блок 4: локальное и авторитет"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b407q",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b407o",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Наберите свою нишу + район в Google Maps. "
+     },
+     {
+      "_key": "b407p",
+      "_type": "span",
+      "marks": [],
+      "text": "Вы в тройке? В топ-10?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b407t",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b407r",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Сверьте название, адрес и телефон. "
+     },
+     {
+      "_key": "b407s",
+      "_type": "span",
+      "marks": [],
+      "text": "Сайт, профиль Google, соцсети — всё совпадает символ в символ?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b407w",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b407u",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Посмотрите дату последнего отзыва. "
+     },
+     {
+      "_key": "b407v",
+      "_type": "span",
+      "marks": [],
+      "text": "Полгода тишины — сигнал и для Google, и для людей."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b407z",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b407x",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Погуглите \"вашдомен\" в кавычках. "
+     },
+     {
+      "_key": "b407y",
+      "_type": "span",
+      "marks": [],
+      "text": "Кто-то упоминает вас, кроме вас самих?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b4082",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4080",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Откройте 2 сайта конкурентов из топа. "
+     },
+     {
+      "_key": "b4081",
+      "_type": "span",
+      "marks": [],
+      "text": "Что у них есть, чего нет у вас? Это и есть ваш список работ."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b4083",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4084",
+      "_type": "span",
+      "marks": [],
+      "text": "Что делать с найденным"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b4089",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4085",
+      "_type": "span",
+      "marks": [],
+      "text": "Запишите каждое «нет» — у вас получился приоритизированный список: индексация чинится первой, контент даёт наибольший рост, техника убирает тормоза. Половину исправите сами; для остального этот список — готовый бриф подрядчику. А если хотите глубже — полный аудит за $300 покрывает ещё ~80 проверок: от каннибализации запросов до анализа ссылочного профиля. Детали — на "
+     },
+     {
+      "_key": "b4087",
+      "_type": "span",
+      "marks": [
+       "b4086"
+      ],
+      "text": "странице SEO-услуги"
+     },
+     {
+      "_key": "b4088",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "b4086",
+      "_type": "link",
+      "href": "/ru/seo",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "b408a",
+    "_type": "ctaCallout",
+    "ctaHref": "/ru/contacts",
+    "ctaLabel": "Заказать аудит",
+    "ctaMode": "modal",
+    "ctaSecondaryHref": "/ru/blog/kak-chitat-google-search-console",
+    "ctaSecondaryLabel": "Как читать Search Console",
+    "eyebrow": "SEO-аудит",
+    "heading": "Нашли больше пяти проблем?",
+    "leadSource": "blog-seo-audyt-svoimy-rukamy",
+    "sub": "Тогда полный аудит окупится: технический и контентный разбор со списком правок по приоритетам — $300, результат за 5 рабочих дней."
+   }
+  ],
+  "uk": [
+   {
+    "_key": "b403v",
+    "_type": "tldrBox",
+    "items": [
+     "Повний SEO-аудит коштує $300 — але **20 базових перевірок** можна зробити самостійно за годину.",
+     "4 блоки: індексація · контент · техніка · локальне і авторитет",
+     "Інструменти безкоштовні: Google, Search Console, PageSpeed Insights",
+     "Знайдене занотуйте — це і є ваш план робіт (або бриф для підрядника)"
+    ],
+    "title": "За 60 секунд"
+   },
+   {
+    "_key": "b403w",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b403x",
+      "_type": "span",
+      "marks": [],
+      "text": "Ми продаємо аудит за $300 — і чесно кажемо: п'яту частину його ви можете зробити самі, безкоштовно, за годину. Нижче 20 перевірок, які знаходять найгрубіші проблеми. Беріть каву, відкривайте свій сайт і Google — і по списку."
+     }
+    ],
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b403y",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b403z",
+      "_type": "span",
+      "marks": [],
+      "text": "Блок 1: чи бачить вас Google (індексація)"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b4042",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4040",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Наберіть site:вашдомен у Google. "
+     },
+     {
+      "_key": "b4041",
+      "_type": "span",
+      "marks": [],
+      "text": "Скільки сторінок в індексі? Нуль — катастрофа. Удвічі менше, ніж у вас є, — привід копати."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b4045",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4043",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Перевірте robots.txt (вашдомен/robots.txt). "
+     },
+     {
+      "_key": "b4044",
+      "_type": "span",
+      "marks": [],
+      "text": "Немає випадкового Disallow: / — і на важливі розділи?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b4048",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4046",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Відкрийте sitemap.xml. "
+     },
+     {
+      "_key": "b4047",
+      "_type": "span",
+      "marks": [],
+      "text": "Існує? Містить реальні сторінки, а не сміття?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b404b",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4049",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Введіть сайт із www і без. "
+     },
+     {
+      "_key": "b404a",
+      "_type": "span",
+      "marks": [],
+      "text": "Обидва варіанти мають вести на один — через редірект, а не показувати два сайти."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b404e",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b404c",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Клікніть 5 випадкових посилань меню і футера. "
+     },
+     {
+      "_key": "b404d",
+      "_type": "span",
+      "marks": [],
+      "text": "Жодне не має вести на 404."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b404f",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b404g",
+      "_type": "span",
+      "marks": [],
+      "text": "Блок 2: чи є що ранжувати (контент)"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b404j",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b404h",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Погугліть свою головну послугу + місто. "
+     },
+     {
+      "_key": "b404i",
+      "_type": "span",
+      "marks": [],
+      "text": "Ви є на перших трьох сторінках? Під цей запит існує окрема сторінка?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b404m",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b404k",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Подивіться title вкладок браузера. "
+     },
+     {
+      "_key": "b404l",
+      "_type": "span",
+      "marks": [],
+      "text": "«Головна» і «Послуги» — погано. «Стоматологія на Оболоні | Назва» — добре."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b404p",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b404n",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Перевірте, що на кожній важливій сторінці один H1. "
+     },
+     {
+      "_key": "b404o",
+      "_type": "span",
+      "marks": [],
+      "text": "І він містить те, що шукають люди, а не слоган."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b404s",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b404q",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Порахуйте сторінки послуг. "
+     },
+     {
+      "_key": "b404r",
+      "_type": "span",
+      "marks": [],
+      "text": "Одна сторінка «Послуги» списком = одна точка входу замість десяти."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b404v",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b404t",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Знайдіть найстарішу дату на сайті. "
+     },
+     {
+      "_key": "b404u",
+      "_type": "span",
+      "marks": [],
+      "text": "«Новини 2022» і торішні ціни зчитуються і людьми, і Google."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b404w",
+    "_type": "blogImage",
+    "alt": "Робочий стіл з відкритими звітами і графіками аудиту",
+    "asset": {
+     "_ref": "image-6757852b0b0ce1f3c7f1732d3070c1341a7a1cdb-1600x1060-jpg",
+     "_type": "reference"
+    },
+    "caption": "Година, кава і 20 перевірок — найдешевший SEO-аудит у вашому житті"
+   },
+   {
+    "_key": "b404x",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b404y",
+      "_type": "span",
+      "marks": [],
+      "text": "Блок 3: чи не заважає техніка"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b4051",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b404z",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Проженіть сайт через pagespeed.web.dev. "
+     },
+     {
+      "_key": "b4050",
+      "_type": "span",
+      "marks": [],
+      "text": "Мобільна оцінка нижче 60 — вагома причина втрат."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b4054",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4052",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Відкрийте сайт зі свого телефона. "
+     },
+     {
+      "_key": "b4053",
+      "_type": "span",
+      "marks": [],
+      "text": "Чи можна прочитати текст і натиснути кнопки без зуму?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b4057",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4055",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Перевірте замочок HTTPS. "
+     },
+     {
+      "_key": "b4056",
+      "_type": "span",
+      "marks": [],
+      "text": "Браузерне «Не захищено» вбиває конверсію форм."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b405a",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b4058",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Вставте адресу в validator.schema.org. "
+     },
+     {
+      "_key": "b4059",
+      "_type": "span",
+      "marks": [],
+      "text": "Порожньо? Ви не даєте Google структурованих даних."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b405d",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b405b",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Пошукайте себе в режимі інкогніто. "
+     },
+     {
+      "_key": "b405c",
+      "_type": "span",
+      "marks": [],
+      "text": "Те, що бачите ви залогінені, — не те, що бачать пацієнти."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b405e",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b405f",
+      "_type": "span",
+      "marks": [],
+      "text": "Блок 4: локальне і авторитет"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b405i",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b405g",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Наберіть свою нішу + район у Google Maps. "
+     },
+     {
+      "_key": "b405h",
+      "_type": "span",
+      "marks": [],
+      "text": "Ви в трійці? У топ-10?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b405l",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b405j",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Звірте назву, адресу і телефон. "
+     },
+     {
+      "_key": "b405k",
+      "_type": "span",
+      "marks": [],
+      "text": "Сайт, профіль Google, соцмережі — все збігається символ у символ?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b405o",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b405m",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Подивіться дату останнього відгуку. "
+     },
+     {
+      "_key": "b405n",
+      "_type": "span",
+      "marks": [],
+      "text": "Пів року тиші — сигнал і для Google, і для людей."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b405r",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b405p",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Погугліть \"вашдомен\" у лапках. "
+     },
+     {
+      "_key": "b405q",
+      "_type": "span",
+      "marks": [],
+      "text": "Хтось згадує вас, крім вас самих?"
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b405u",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b405s",
+      "_type": "span",
+      "marks": [
+       "strong"
+      ],
+      "text": "Відкрийте 2 сайти конкурентів із топу. "
+     },
+     {
+      "_key": "b405t",
+      "_type": "span",
+      "marks": [],
+      "text": "Що в них є, чого нема у вас? Це і є ваш список робіт."
+     }
+    ],
+    "level": 1,
+    "listItem": "number",
+    "markDefs": [],
+    "style": "normal"
+   },
+   {
+    "_key": "b405v",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b405w",
+      "_type": "span",
+      "marks": [],
+      "text": "Що робити зі знайденим"
+     }
+    ],
+    "markDefs": [],
+    "style": "h2"
+   },
+   {
+    "_key": "b4061",
+    "_type": "block",
+    "children": [
+     {
+      "_key": "b405x",
+      "_type": "span",
+      "marks": [],
+      "text": "Занотуйте кожне «ні» — у вас вийшов пріоритезований список: індексація лагодиться першою, контент дає найбільший ріст, техніка прибирає гальма. Половину виправите самі; для решти цей список — готовий бриф підряднику. А якщо хочете глибше — повний аудит за $300 покриває ще ~80 перевірок: від канібалізації запитів до аналізу посилального профілю. Деталі — на "
+     },
+     {
+      "_key": "b405z",
+      "_type": "span",
+      "marks": [
+       "b405y"
+      ],
+      "text": "сторінці SEO-послуги"
+     },
+     {
+      "_key": "b4060",
+      "_type": "span",
+      "marks": [],
+      "text": "."
+     }
+    ],
+    "markDefs": [
+     {
+      "_key": "b405y",
+      "_type": "link",
+      "href": "/seo",
+      "newTab": false
+     }
+    ],
+    "style": "normal"
+   },
+   {
+    "_key": "b4062",
+    "_type": "ctaCallout",
+    "ctaHref": "/contacts",
+    "ctaLabel": "Замовити аудит",
+    "ctaMode": "modal",
+    "ctaSecondaryHref": "/blog/yak-chytaty-google-search-console",
+    "ctaSecondaryLabel": "Як читати Search Console",
+    "eyebrow": "SEO-аудит",
+    "heading": "Знайшли більше пʼяти проблем?",
+    "leadSource": "blog-seo-audyt-svoimy-rukamy",
+    "sub": "Тоді повний аудит окупиться: технічний і контентний розбір зі списком правок за пріоритетами — $300, результат за 5 робочих днів."
+   }
+  ]
+ },
+ "category": {
+  "_ref": "65de7a1a-bfde-4e47-ab70-7e0ecf161f0a",
+  "_type": "reference"
+ },
+ "cover": {
+  "_type": "imageWithLocalizedAlt",
+  "alt": {
+   "_type": "localizedString",
+   "en": "A column of geometric check marks, some lit and some dark, a checklist in progress",
+   "ru": "Столбец геометрических отметок: часть подсвечена, часть нет — чеклист в работе",
+   "uk": "Стовпчик геометричних позначок: частина підсвічена, частина ні — чекліст у роботі"
+  },
+  "image": {
+   "_type": "image",
+   "asset": {
+    "_ref": "image-aec500aa0aa3a86d7ce056b31c4558341905cc00-1600x900-webp",
+    "_type": "reference"
+   }
+  }
+ },
+ "eyebrow": {
+  "en": "SEO · 8 min read",
+  "ru": "SEO · 8 мин чтения",
+  "uk": "SEO · 8 хв читання"
+ },
+ "faq": [
+  {
+   "_key": "b40aj",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "Free ones only: Google itself, PageSpeed Insights, validator.schema.org and your phone. Search Console is nice to have, but 15 of the 20 checks work without it.",
+    "ru": "Только бесплатные: сам Google, PageSpeed Insights, validator.schema.org и ваш телефон. Search Console желательно, но 15 из 20 проверок работают и без него.",
+    "uk": "Тільки безкоштовні: сам Google, PageSpeed Insights, validator.schema.org і ваш телефон. Search Console бажано, але 15 із 20 перевірок працюють і без нього."
+   },
+   "question": {
+    "en": "What tools do these checks need?",
+    "ru": "Какие инструменты нужны для этих проверок?",
+    "uk": "Які інструменти потрібні для цих перевірок?"
+   }
+  },
+  {
+   "_key": "b40ak",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "Quarterly is enough — plus an extra run after big changes: a redesign, a migration, new sections. A quick indexing and speed check — monthly, alongside your Search Console reports.",
+    "ru": "Раз в квартал достаточно — плюс внеочередно после больших изменений: редизайна, переезда, добавления разделов. Быстрая проверка индексации и скорости — раз в месяц вместе с отчётами Search Console.",
+    "uk": "Раз на квартал достатньо — плюс позачергово після великих змін: редизайну, переїзду, додавання розділів. Швидка перевірка індексації і швидкості — раз на місяць разом зі звітами Search Console."
+   },
+   "question": {
+    "en": "How often should I repeat this audit?",
+    "ru": "Как часто повторять такой аудит?",
+    "uk": "Як часто повторювати такий аудит?"
+   }
+  },
+  {
+   "_key": "b40al",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "Don't panic: that's the normal state of most small-business sites — and the explanation for why search brings no clients. Priority: indexing → service pages → speed. Or the full £300 audit, where we build the plan for you.",
+    "ru": "Не паниковать: это нормальное состояние большинства сайтов малого бизнеса — и одновременно объяснение, почему клиенты не приходят из поиска. Приоритет: индексация → страницы под услуги → скорость. Или полный аудит за $300, где мы составим план за вас.",
+    "uk": "Не панікувати: це нормальний стан більшості сайтів малого бізнесу — і водночас пояснення, чому клієнти не приходять із пошуку. Пріоритет: індексація → сторінки під послуги → швидкість. Або повний аудит за $300, де ми складемо план за вас."
+   },
+   "question": {
+    "en": "What if most checks fail?",
+    "ru": "Что делать, если провалено большинство проверок?",
+    "uk": "Що робити, якщо провалено більшість перевірок?"
+   }
+  },
+  {
+   "_key": "b40am",
+   "_type": "blogFaqItem",
+   "answer": {
+    "en": "Depth and data: query and cannibalisation analysis, the link profile, indexing log analysis, visibility comparison against competitors. This list finds holes; a professional audit finds growth points.",
+    "ru": "Глубиной и данными: анализ запросов и каннибализации, ссылочный профиль, лог-анализ индексации, сравнение с конкурентами по видимости. Этот список находит «дыры», профессиональный аудит — точки роста.",
+    "uk": "Глибиною і даними: аналіз запитів і канібалізації, посилальний профіль, лог-аналіз індексації, порівняння з конкурентами за видимістю. Цей список знаходить «діри», професійний аудит — точки росту."
+   },
+   "question": {
+    "en": "How does a professional audit differ from this list?",
+    "ru": "Чем профессиональный аудит отличается от этого списка?",
+    "uk": "Чим професійний аудит відрізняється від цього списку?"
+   }
+  }
+ ],
+ "lede": {
+  "en": "A fifth of a professional SEO audit you can run yourself — free, in an hour. Code-Site.Art's SEO specialist hands you 20 checks across 4 blocks: indexing, content, tech, local.",
+  "ru": "Пятую часть профессионального SEO-аудита можно сделать самостоятельно — бесплатно и за час. SEO-специалист Code-Site.Art даёт 20 проверок в 4 блоках: индексация, контент, техника, локальное.",
+  "uk": "Пʼяту частину професійного SEO-аудиту можна зробити самостійно — безкоштовно і за годину. SEO-спеціалістка Code-Site.Art дає 20 перевірок у 4 блоках: індексація, контент, техніка, локальне."
+ },
+ "metaDescription": {
+  "en": "➤ 20 free SEO checks: indexing, content, tech, local ✔️ Tools: Google, Search Console, PageSpeed ✔️ You end up with a work plan ➡ The guide.",
+  "ru": "➤ 20 бесплатных SEO-проверок: индексация, контент, техника, локальное ✔️ Инструменты: Google, Search Console, PageSpeed ✔️ На выходе — план работ ➡ Гайд.",
+  "uk": "➤ 20 безкоштовних SEO-перевірок: індексація, контент, техніка, локальне ✔️ Інструменти: Google, Search Console, PageSpeed ✔️ На виході — план робіт ➡ Гайд."
+ },
+ "metaTitle": {
+  "en": "DIY SEO Audit: 20 Checks in an Hour | Code-Site.Art",
+  "ru": "SEO-аудит своими руками: 20 проверок за час | Code-Site.Art",
+  "uk": "SEO-аудит своїми руками: 20 перевірок за годину | Code-Site.Art"
+ },
+ "publishedAt": "2026-08-16T19:00:00.000Z",
+ "readingTimeMinutes": 8,
+ "relatedPostSlugs": [
+  "yak-chytaty-google-search-console",
+  "prosuvannia-saitu-tsina-2026"
+ ],
+ "slugs": {
+  "en": {
+   "_type": "slug",
+   "current": "diy-seo-audit-20-checks"
+  },
+  "ru": {
+   "_type": "slug",
+   "current": "seo-audit-svoimi-rukami"
+  },
+  "uk": {
+   "_type": "slug",
+   "current": "seo-audyt-svoimy-rukamy"
+  }
+ },
+ "status": "published",
+ "tags": [
+  "seo",
+  "audit",
+  "diy"
+ ],
+ "title": {
+  "en": "A DIY SEO Audit: 20 Checks in an Hour",
+  "ru": "SEO-аудит своими руками: 20 проверок за час",
+  "uk": "SEO-аудит своїми руками: 20 перевірок за годину"
+ },
+ "updatedAt": "2026-08-16T19:00:00.000Z"
+}

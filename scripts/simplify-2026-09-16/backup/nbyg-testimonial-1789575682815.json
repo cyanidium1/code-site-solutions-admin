@@ -1,0 +1,70 @@
+{
+ "_createdAt": "2026-06-04T17:16:35Z",
+ "_id": "DHIwRDN3sEoI638qoYQ1Yx",
+ "_rev": "8PZUX3ShTf5214Jw1jHATl",
+ "_system": {
+  "base": {
+   "id": "testimonial.nbyg-kobenhavn",
+   "rev": "wgmfEksz86pEwt4hGKhYGZ"
+  }
+ },
+ "_type": "testimonial",
+ "_updatedAt": "2026-07-30T17:18:56Z",
+ "authorInitials": "SH",
+ "authorName": "Søren Hansen",
+ "authorRole": {
+  "en": "Owner, NBYG København Aps",
+  "ru": "Владелец, NBYG København Aps",
+  "uk": "Власник, NBYG København Aps"
+ },
+ "caseLabel": {
+  "en": "See the full case study",
+  "ru": "Посмотреть полный кейс",
+  "uk": "Подивитись повний кейс"
+ },
+ "caseRef": {
+  "_ref": "lOTgaDd8FU4wgJ8F4K9wE8",
+  "_type": "reference"
+ },
+ "featured": true,
+ "mockupLeft": {
+  "_type": "imageWithLocalizedAlt",
+  "alt": {
+   "_type": "localizedString",
+   "en": "NBYG terrace calculator on a phone with material options and area input",
+   "ru": "Калькулятор террасы NBYG на телефоне с выбором материала и площади",
+   "uk": "Калькулятор тераси NBYG на телефоні з вибором матеріалу і площі"
+  },
+  "image": {
+   "_type": "image",
+   "asset": {
+    "_ref": "image-3c73b4b8bb89f46827c0298ce16dac5d18ad9e50-648x804-png",
+    "_type": "reference"
+   }
+  }
+ },
+ "mockupRight": {
+  "_type": "imageWithLocalizedAlt",
+  "alt": {
+   "_type": "localizedString",
+   "en": "NBYG carpentry website homepage on a laptop",
+   "ru": "Главная страница сайта столярной компании NBYG на ноутбуке",
+   "uk": "Головна сторінка сайту столярної компанії NBYG на ноутбуці"
+  },
+  "image": {
+   "_type": "image",
+   "asset": {
+    "_ref": "image-2907b050a9c441384c9d24ef272f12ee079a3cf3-1144x1054-png",
+    "_type": "reference"
+   }
+  }
+ },
+ "order": 0,
+ "quote": {
+  "en": "Before the new site we had 3 enquiries a month. After launch — 24 in the first month. The team wrote the content, ran QA, and launched it. All we had to do was pick up the keys.",
+  "ru": "До нового сайта у нас было 3 заявки в месяц. После запуска — 24 за первый месяц. Команда написала контент, провела QA и запустила сайт. Нам осталось только получить ключи.",
+  "uk": "До нового сайту в нас було 3 заявки на місяць. Після запуску — 24 за перший місяць. Команда написала контент, провела QA й запустила сайт. Нам залишилося тільки отримати ключі."
+ },
+ "rating": 5,
+ "reviewDate": "2026-06-04"
+}
