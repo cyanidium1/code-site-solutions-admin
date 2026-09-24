@@ -8,6 +8,8 @@ import {localizedText} from './objects/localizedText'
 import {mediaGalleryImageItem} from './objects/mediaGalleryImageItem'
 import {metric} from './objects/metric'
 import {outcomeResultItem} from './objects/outcomeResultItem'
+import {proposalDetails} from './objects/proposalDetails'
+import {proposalImage} from './objects/proposalImage'
 import {richTextSimple} from './objects/richTextSimple'
 import {seoFields} from './objects/seoFields'
 
@@ -24,6 +26,12 @@ import {faqBlock} from './blocks/faqBlock'
 import {imageTextBlock} from './blocks/imageTextBlock'
 import {mediaGalleryBlock} from './blocks/mediaGalleryBlock'
 import {outcomeBlock} from './blocks/outcomeBlock'
+import {proposalAddonsBlock} from './blocks/proposalAddonsBlock'
+import {proposalCtaBlock} from './blocks/proposalCtaBlock'
+import {proposalListBlock} from './blocks/proposalListBlock'
+import {proposalOptionsBlock} from './blocks/proposalOptionsBlock'
+import {proposalRichBlock} from './blocks/proposalRichBlock'
+import {proposalTableBlock} from './blocks/proposalTableBlock'
 import {pricingBlock} from './blocks/pricingBlock'
 import {quoteBlock} from './blocks/quoteBlock'
 import {reasonsBlock} from './blocks/reasonsBlock'
@@ -37,6 +45,7 @@ import {tldrBox} from './blocks/tldrBox'
 import {blogPost} from './documents/blogPost'
 import {caseStudy} from './documents/caseStudy'
 import {industryPage} from './documents/industryPage'
+import {proposal} from './documents/proposal'
 import {testimonial} from './documents/testimonial'
 
 export const schemaTypes = [
@@ -50,6 +59,8 @@ export const schemaTypes = [
   richTextSimple,
   mediaGalleryImageItem,
   outcomeResultItem,
+  proposalDetails,
+  proposalImage,
   blogAuthor,
   // Blog body PT type — must register AFTER blog blocks since it references them
   // (order doesn't strictly matter at runtime, but keeps the dep graph readable).
@@ -77,9 +88,18 @@ export const schemaTypes = [
   auditBlock,
   ctaBlock,
 
+  // Proposal blocks (комерційні пропозиції — /offer/*)
+  proposalRichBlock,
+  proposalTableBlock,
+  proposalOptionsBlock,
+  proposalAddonsBlock,
+  proposalListBlock,
+  proposalCtaBlock,
+
   // Top-level documents
   blogPost,
   industryPage,
   caseStudy,
   testimonial,
+  proposal,
 ]
