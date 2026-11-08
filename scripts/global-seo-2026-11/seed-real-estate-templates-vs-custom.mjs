@@ -49,6 +49,10 @@ const h2 = (t) => p(t, "h2");
 const li = (t) => ({ ...p(t), listItem: "bullet", level: 1 });
 const num = (t) => ({ ...p(t), listItem: "number", level: 1 });
 const tldr = (title, items) => ({ _key: key(), _type: "tldrBox", title, items });
+const img = (ref, alt, caption) => ({
+  _key: key(), _type: "blogImage",
+  asset: { _type: "reference", _ref: ref }, alt, caption,
+});
 const table = (headers, rows) => ({
   _key: key(), _type: "blogTable", headers,
   rows: rows.map((cells) => ({ _key: key(), _type: "blogTableRow", cells })),
@@ -108,6 +112,9 @@ const BODY_EN = [
   ),
 
   h2("What the custom route looks like when it works"),
+  img("image-075c22701d15ee8f427e350cb2941906b51f9c94-2880x1800-png",
+    "Domlivo catalogue: listing cards with price per square metre and honest market badges next to a clustered map",
+    "The architecture layer themes can't give you: a split-map catalogue where every card carries price/m², market badges and listed/checked dates — live on our own platform."),
   p("We can show rather than argue, because we run our own property platform: [Domlivo](/en/portfolio/domlivo), a multilingual real-estate site we built and operate ourselves. It's three months old in the index and does ~5,900 unique visitors a month with **zero advertising** — every listing is its own page in 8 languages, every city-and-type combination is an indexable catalogue page, and 28% of its CRM leads arrive from ChatGPT, which cites the site's knowledge base. None of that is achievable by installing a theme — not because themes are bad, but because those results come from the architecture layer themes standardise away."),
   p("That's the test to run on your own plans: if the website's job is to **generate** demand rather than confirm your existence, the money belongs in structure — listing pages, speed, languages, data — and that's a build, not a skin. The middle path also exists: start on a template now, and move to a platform when the maths of organic leads justifies it. Just know that the move is a migration project, not a switch."),
 
@@ -120,6 +127,8 @@ const BODY_EN = [
 
   h2("FAQ"),
 ];
+
+BODY_EN.push(p("Related: the measured side of the same argument — [how our platform gets 28% of its leads from ChatGPT](/en/blog/real-estate-leads-from-chatgpt), and [the full design walkthrough with screenshots](/en/blog/real-estate-website-design)."));
 
 const FAQ = [
   {

@@ -51,6 +51,10 @@ const h2 = (t) => p(t, "h2");
 const li = (t) => ({ ...p(t), listItem: "bullet", level: 1 });
 const num = (t) => ({ ...p(t), listItem: "number", level: 1 });
 const tldr = (title, items) => ({ _key: key(), _type: "tldrBox", title, items });
+const img = (ref, alt, caption) => ({
+  _key: key(), _type: "blogImage",
+  asset: { _type: "reference", _ref: ref }, alt, caption,
+});
 const table = (headers, rows) => ({
   _key: key(), _type: "blogTable", headers,
   rows: rows.map((cells) => ({ _key: key(), _type: "blogTableRow", cells })),
@@ -90,6 +94,9 @@ const BODY_EN = [
       ["Google clicks", "554 per 28 days — ×4 in six weeks", "GSC, 07.11.2026"],
     ]
   ),
+  img("image-992dd68d1bc0ed363878ad59ad303c3770896b4a-1525x546-png",
+    "GA4 channels report showing AI Assistant as the second channel with 256 sessions and 38% of key events",
+    "The GA4 report behind the table: “AI Assistant” at #2 with the best conversion share. Source: GA4, 06.11.2026."),
   p("Context that matters: the site had its first Google impressions in early August 2026. These are month-three numbers, built from a standing start, and the AI channel outconverts every other channel the site has."),
 
   h2("Why ChatGPT cites this site and not the competitors"),
@@ -116,13 +123,15 @@ const BODY_EN = [
 
   cta(
     "Want this machine working for your listings?",
-    "Domlivo is the platform these numbers come from — catalogue, 8 languages, knowledge base, AI assistant, CRM with lead sources. Launched under your brand in a week, from €3,900. SEO and GEO as an ongoing service from €900/month.",
+    "Domlivo is the platform these numbers come from — catalogue, 8 languages, knowledge base, AI assistant, CRM with lead sources. Launched under your brand in a week: from €3,900 one-off, extended build from €6,900, full source ownership from €19,000.",
     "See the Domlivo platform",
     "/en/portfolio/domlivo"
   ),
 
   h2("FAQ"),
 ];
+
+BODY_EN.push(p("Related: why this playbook needs the right foundations — [real estate website templates vs custom, honestly compared](/en/blog/real-estate-website-template-vs-custom), and [the design walkthrough of the same platform](/en/blog/real-estate-website-design), screenshots included."));
 
 const FAQ = [
   {
